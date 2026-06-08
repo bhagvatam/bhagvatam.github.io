@@ -1,0 +1,784 @@
+[
+    {
+        "id": 107801,
+        "sloka": "10.78.1-2",
+        "verse_id": 107801,
+        "verseNumber": 1,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Śukadeva Gosvāmī said: Acting out of friendship for Śiśupāla, Śālva and Pauṇḍraka, who had all passed on to the next world, the wicked Dantavakra appeared on the battlefield in a great rage, O King. All alone, on foot and wielding a club in his hand, the mighty warrior shook the earth with his footsteps."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "शुकदेव गोस्वामी ने कहा: हे राजन, शिशुपाल, शाल्व और पौंड्रक, जो परलोक सिधार चुके थे, के प्रति मित्रता का भाव रखते हुए दुष्ट दंतवक्र बड़े क्रोध में युद्ध के मैदान में प्रकट हुए। अकेले, पैदल और हाथ में गदा लिए हुए, शक्तिशाली योद्धा ने अपने कदमों से पृथ्वी को हिला दिया।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "શુકદેવ ગોસ્વામીએ કહ્યું: શિશુપાલ, શાલ્વ અને પૌંડરક માટે મિત્રતાનું કાર્ય કરીને, જેઓ બધા આગલા જગતમાં ગયા હતા, હે રાજા, દુષ્ટ દંતવક્ર ભારે ક્રોધમાં યુદ્ધના મેદાનમાં દેખાયા હતા. એકલા, પગ પર અને હાથમાં ક્લબ ચલાવતા, શક્તિશાળી યોદ્ધાએ તેના પગલાથી પૃથ્વીને હલાવી દીધી."
+            }
+        }
+    },
+    {
+        "id": 107803,
+        "sloka": "10.78.3",
+        "verse_id": 107803,
+        "verseNumber": 3,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Seeing Dantavakra approach, Lord Kṛṣṇa quickly picked up His club, jumped down from His chariot and stopped His advancing opponent just as the shore holds back the ocean."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "दन्तवक्र को आते देख भगवान कृष्ण ने तुरंत अपनी गदा उठाई, अपने रथ से नीचे कूद पड़े और अपने आगे बढ़ते प्रतिद्वंद्वी को उसी तरह रोक दिया, जैसे किनारा समुद्र को रोक लेता है।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "દંતવક્રના અભિગમને જોઈને, ભગવાન કૃષ્ણએ ઝડપથી તેમનો ક્લબ ઉપાડ્યો, તેમના રથ પરથી નીચે કૂદી પડ્યા અને તેમના આગળ વધતા વિરોધીને જેમ જેમ કિનારો સમુદ્રને રોકે છે તેમ અટકાવ્યો."
+            }
+        }
+    },
+    {
+        "id": 107804,
+        "sloka": "10.78.4",
+        "verse_id": 107804,
+        "verseNumber": 4,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Raising his club, the reckless King of Karūṣa said to Lord Mukunda, “What luck! What luck — to have You come before me today!"
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "करुश के लापरवाह राजा ने अपनी गदा उठाते हुए भगवान मुकुंद से कहा, \"कितना भाग्य है! क्या भाग्य है कि आज आप मेरे सामने आए हैं!\""
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "પોતાના ક્લબને ઉછેરતા, કરુષના અવિચારી રાજાએ ભગવાન મુકુંદને કહ્યું, \"શું નસીબ! કેવું નસીબ - આજે તમે મારી સમક્ષ આવ્યા છો!"
+            }
+        }
+    },
+    {
+        "id": 107805,
+        "sloka": "10.78.5",
+        "verse_id": 107805,
+        "verseNumber": 5,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "“You are our maternal cousin, Kṛṣṇa, but You committed violence against my friends, and now You want to kill me also. Therefore, fool, I will kill You with my thunderbolt club."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "\"आप हमारे चचेरे भाई हैं, कृष्ण, लेकिन आपने मेरे दोस्तों के खिलाफ हिंसा की, और अब आप मुझे भी मारना चाहते हैं। इसलिए, मूर्ख, मैं तुम्हें अपने वज्र गदा से मार डालूँगा।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "\"તમે અમારા પિતરાઈ ભાઈ છો, કૃષ્ણ, પણ તમે મારા મિત્રો સામે હિંસા કરી છે, અને હવે તમે મને પણ મારવા માંગો છો. તેથી, મૂર્ખ, હું તને મારા વજ્ર વડે મારી નાખીશ."
+            }
+        }
+    },
+    {
+        "id": 107806,
+        "sloka": "10.78.6",
+        "verse_id": 107806,
+        "verseNumber": 6,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "“Then, O unintelligent one, I who am obliged to my friends will have repaid my debt to them by killing You, my enemy disguised as a relative, who are like a disease within my body.”"
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "\"तब, हे मूर्ख, मैं जो अपने मित्रों का ऋणी हूँ, मैंने तुम्हें, मेरे शत्रु जो मेरे शरीर में एक रोग के समान हैं, रिश्तेदारों के भेष में छिपाकर, मारकर अपना ऋण चुकाया होगा।\""
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "\"તો પછી, હે અબુદ્ધ, હું જે મારા મિત્રો માટે બંધાયેલો છું, હું તને મારીને મારું ઋણ ચૂકવીશ, મારા સ્વજનના વેશમાં આવેલા મારા શત્રુ, જેઓ મારા શરીરમાં રોગ જેવા છે.\""
+            }
+        }
+    },
+    {
+        "id": 107807,
+        "sloka": "10.78.7",
+        "verse_id": 107807,
+        "verseNumber": 7,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Thus trying to harass Lord Kṛṣṇa with harsh words, as one might prick an elephant with sharp goads, Dantavakra struck the Lord on the head with his club and roared like a lion."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "इस प्रकार भगवान कृष्ण को कठोर शब्दों से परेशान करने की कोशिश करते हुए, जैसे कोई हाथी को तीखे फरों से चुभा सकता है, दंतवक्र ने अपने गदा से भगवान के सिर पर प्रहार किया और शेर की तरह दहाड़ने लगा।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "આ રીતે ભગવાન કૃષ્ણને કઠોર શબ્દોથી હેરાન કરવાનો પ્રયાસ કરી રહ્યા હતા, જેમ કે કોઈ હાથીને તીક્ષ્ણ બકરાથી ચૂંટી શકે છે, દંતવક્રે ભગવાનના માથા પર તેના ક્લબથી પ્રહાર કર્યો અને સિંહની જેમ ગર્જના કરી."
+            }
+        }
+    },
+    {
+        "id": 107808,
+        "sloka": "10.78.8",
+        "verse_id": 107808,
+        "verseNumber": 8,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Although hit by Dantavakra’s club, Lord Kṛṣṇa, the deliverer of the Yadus, did not budge from His place on the battlefield. Rather, with His massive Kaumodakī club the Lord struck Dantavakra in the middle of his chest."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "दंतवक्र की गदा से घायल होने पर भी, यदुओं के उद्धारकर्ता भगवान कृष्ण युद्ध के मैदान में अपने स्थान से नहीं हिले। बल्कि, भगवान ने अपनी विशाल कौमोदकी गदा से दंतवक्र की छाती के मध्य में प्रहार किया।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "દંતવક્રના ક્લબ દ્વારા હિટ હોવા છતાં, ભગવાન કૃષ્ણ, યદુઓના ઉદ્ધારક, યુદ્ધના મેદાનમાં તેમના સ્થાનેથી હટ્યા ન હતા. તેના બદલે, ભગવાને તેમના વિશાળ કૌમોદકી ક્લબ સાથે દંતવક્રને તેમની છાતીની મધ્યમાં પ્રહાર કર્યો."
+            }
+        }
+    },
+    {
+        "id": 107809,
+        "sloka": "10.78.9",
+        "verse_id": 107809,
+        "verseNumber": 9,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "His heart shattered by the club’s blow, Dantavakra vomited blood and fell lifeless to the ground, his hair disheveled and his arms and legs sprawling."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "डंडे के वार से उनका दिल टूट गया, दंतवक्र को खून की उल्टी हुई और वह बेजान होकर जमीन पर गिर पड़े, उनके बाल बिखरे हुए थे और उनके हाथ और पैर फैले हुए थे।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "ક્લબના ફટકાથી તેનું હૃદય વિખેરાઈ ગયું, દંતવક્રને લોહીની ઉલટી થઈ અને તે જમીન પર નિર્જીવ પડી ગયો, તેના વાળ વિખરાયેલા અને તેના હાથ અને પગ ફેલાયેલા હતા."
+            }
+        }
+    },
+    {
+        "id": 107810,
+        "sloka": "10.78.10",
+        "verse_id": 107810,
+        "verseNumber": 10,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "A most subtle and wondrous spark of light then [rose from the demon’s body and] entered Lord Kṛṣṇa while everyone looked on, O King, just as when Śiśupāla was killed."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "तब प्रकाश की एक अत्यंत सूक्ष्म और अद्भुत चिंगारी [राक्षस के शरीर से उठी और] भगवान कृष्ण में प्रवेश कर गई, जबकि हर कोई देख रहा था, हे राजन, ठीक उसी तरह जब शिशुपाल मारा गया था।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "પ્રકાશનો એક અતિ સૂક્ષ્મ અને અદ્ભુત તણખો પછી [રાક્ષસના શરીરમાંથી ઉછળ્યો અને] ભગવાન કૃષ્ણમાં પ્રવેશ કર્યો જ્યારે બધાએ હે રાજા, શિશુપાલને માર્યાની જેમ જોઈ રહ્યા હતા."
+            }
+        }
+    },
+    {
+        "id": 107811,
+        "sloka": "10.78.11",
+        "verse_id": 107811,
+        "verseNumber": 11,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "But then Dantavakra’s brother Vidūratha, immersed in sorrow over his brother’s death, came forward breathing heavily, sword and shield in hand. He wanted to kill the Lord."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "लेकिन तभी दंतवक्र का भाई विदूरथ, अपने भाई की मृत्यु के दुःख में डूबा हुआ, हाथ में तलवार और ढाल लेकर, जोर से साँस लेते हुए आगे आया। वह भगवान को मारना चाहता था।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "પરંતુ પછી દંતવક્રના ભાઈ વિદુરથ, તેના ભાઈના મૃત્યુના શોકમાં ડૂબેલા, હાથમાં તલવાર અને ઢાલ લઈને ભારે શ્વાસ લેતા આગળ આવ્યા. તે પ્રભુને મારવા માંગતો હતો."
+            }
+        }
+    },
+    {
+        "id": 107812,
+        "sloka": "10.78.12",
+        "verse_id": 107812,
+        "verseNumber": 12,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "O best of kings, as Vidūratha fell upon Him, Lord Kṛṣṇa used His razor-edged Sudarśana disc to remove his head, complete with its helmet and earrings."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "हे राजाओं में श्रेष्ठ, जैसे ही विदुरथ की नजर उस पर पड़ी, भगवान कृष्ण ने अपनी तेज धार वाली सुदर्शन चक्र का उपयोग करके उसके हेलमेट और बालियों सहित उसका सिर हटा दिया।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "હે શ્રેષ્ઠ રાજાઓ, જેમ જેમ વિદુરથ તેમના પર પડ્યો, ભગવાન કૃષ્ણએ તેમના માથાને દૂર કરવા માટે તેમની રેઝરની ધારવાળી સુદર્શન ડિસ્કનો ઉપયોગ કર્યો, તેના હેલ્મેટ અને કાનની બુટ્ટીઓ સાથે."
+            }
+        }
+    },
+    {
+        "id": 107813,
+        "sloka": "10.78.13-15",
+        "verse_id": 107813,
+        "verseNumber": 13,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Having thus destroyed Śālva and his Saubha airship, along with Dantavakra and his younger brother, all of whom were invincible before any other opponent, the Lord was praised by demigods, human beings and great sages, by Siddhas, Gandharvas, Vidyādharas and Mahoragas, and also by Apsarās, Pitās, Yakṣas, Kinnaras and Cāraṇas. As they sang His glories and showered Him with flowers, the Supreme Lord entered His festively decorated capital city in the company of the most eminent Vṛṣṇis."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "इस प्रकार शाल्व और उसके सौभा हवाई जहाज को, साथ ही दंतवक्र और उसके छोटे भाई को नष्ट करने के बाद, जो किसी भी अन्य प्रतिद्वंद्वी के सामने अजेय थे, देवताओं, मनुष्यों और महान ऋषियों, सिद्धों, गंधर्वों, विद्याधरों और महोरगों द्वारा, और अप्सराओं, पिताओं, यक्षों, किन्नरों और चारणों द्वारा भी भगवान की स्तुति की गई। जैसे ही उन्होंने उनकी महिमा गाई और उन पर फूलों की वर्षा की, परम भगवान ने सबसे प्रतिष्ठित वृष्णियों की संगति में अपनी उत्सवपूर्वक सजाई गई राजधानी में प्रवेश किया।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "આ રીતે શાલ્વ અને તેના સૌભા હવાઈ જહાજનો, દંતવક્ર અને તેના નાના ભાઈ સાથે નાશ કર્યા પછી, જે બધા અન્ય કોઈપણ વિરોધીઓ સમક્ષ અજેય હતા, ભગવાનની પ્રશંસા દેવતાઓ, મનુષ્યો અને મહાન ઋષિઓ દ્વારા, સિદ્ધો, ગંધર્વો, વિદ્યાધરો અને મહોરાગાઓ દ્વારા કરવામાં આવી હતી, તેમજ અષાષા, યાપ્સા, યાપ્સાસ દ્વારા પણ કરવામાં આવી હતી. કિન્નર અને કરણ. જ્યારે તેઓએ તેમનો મહિમા ગાયો અને તેમના પર પુષ્પોની વર્ષા કરી, ત્યારે પરમ ભગવાન તેમના ઉત્સવથી સુશોભિત રાજધાની શહેરમાં સૌથી પ્રતિષ્ઠિત વૃણિઓના સંગતમાં પ્રવેશ્યા."
+            }
+        }
+    },
+    {
+        "id": 107816,
+        "sloka": "10.78.16",
+        "verse_id": 107816,
+        "verseNumber": 16,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Thus Lord Kṛṣṇa, the Supreme Personality of Godhead, the master all mystic power and Lord of the universe, is ever victorious. Only those of beastly vision think He sometimes suffers defeat."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "इस प्रकार, भगवान कृष्ण, परम भगवान, सभी रहस्यमय शक्तियों के स्वामी और ब्रह्मांड के भगवान, हमेशा विजयी होते हैं। केवल पाशविक दृष्टि वाले ही सोचते हैं कि उन्हें कभी-कभी पराजय का सामना करना पड़ता है।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "આ રીતે ભગવાન કૃષ્ણ, ભગવાનના સર્વોપરી વ્યક્તિત્વ, સર્વ રહસ્યમય શક્તિના સ્વામી અને બ્રહ્માંડના ભગવાન, સદા વિજયી છે. માત્ર પાશવી દ્રષ્ટિ ધરાવતા લોકો જ વિચારે છે કે તેને ક્યારેક હારનો સામનો કરવો પડે છે."
+            }
+        }
+    },
+    {
+        "id": 107817,
+        "sloka": "10.78.17",
+        "verse_id": 107817,
+        "verseNumber": 17,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Lord Balarāma then heard that the Kurus were preparing for war with the Pāṇḍavas. Being neutral, He departed on the pretext of going to bathe in holy places."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "तब भगवान बलराम ने सुना कि कौरव पांडवों के साथ युद्ध की तैयारी कर रहे हैं। वह तटस्थ होकर तीर्थों में स्नान करने के बहाने वहाँ से चला गया।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "ત્યારે ભગવાન બલરામે સાંભળ્યું કે કુરુઓ પાંડવો સાથે યુદ્ધની તૈયારી કરી રહ્યા છે. તટસ્થ રહીને તે પવિત્ર સ્થળોએ સ્નાન કરવા જવાના બહાને ત્યાંથી નીકળી ગયો."
+            }
+        }
+    },
+    {
+        "id": 107818,
+        "sloka": "10.78.18",
+        "verse_id": 107818,
+        "verseNumber": 18,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "After bathing at Prabhāsa and honoring the demigods, sages, forefathers and prominent human beings, He went in the company of brāhmaṇas to the portion of the Sarasvatī that flows westward into the sea."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "प्रभास में स्नान करने और देवताओं, ऋषियों, पितरों और प्रमुख मनुष्यों का सम्मान करने के बाद, वह ब्राह्मणों के साथ सरस्वती के उस हिस्से में गए जो पश्चिम की ओर समुद्र में बहती है।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "પ્રભાસમાં સ્નાન કર્યા પછી અને દેવતાઓ, ઋષિઓ, પૂર્વજો અને અગ્રણી મનુષ્યોનું સન્માન કર્યા પછી, તે બ્રાહ્મણોના સંગાથે સરસ્વતીના ભાગમાં ગયા જે સમુદ્રમાં પશ્ચિમ તરફ વહે છે."
+            }
+        }
+    },
+    {
+        "id": 107819,
+        "sloka": "10.78.19-20",
+        "verse_id": 107819,
+        "verseNumber": 19,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Lord Balarāma visited the broad Bindu-saras Lake, Tritakūpa, Sudarśana, Viśāla, Brahma-tīrtha, Cakra-tīrtha and the eastward-flowing Sarasvatī. He also went to all the holy places along the Yamunā and the Ganges, O Bhārata, and then He came to the Naimiṣa forest, where great sages were performing an elaborate sacrifice."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "भगवान बलराम ने विस्तृत बिंदु-सारस झील, त्रिताकूप, सुदर्शन, विशाला, ब्रह्म-तीर्थ, चक्र-तीर्थ और पूर्व की ओर बहने वाली सरस्वती का दौरा किया। हे भारत, वह यमुना और गंगा के किनारे के सभी पवित्र स्थानों पर भी गए, और फिर वह नैमिषा वन में आए, जहां महान ऋषि एक विस्तृत यज्ञ कर रहे थे।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "ભગવાન બલરામે વિશાળ બિંદુ-સરસ તળાવ, ત્રિતકૂપ, સુદર્શન, વિશાલ, બ્રહ્મ-તીર્થ, ચક્ર-તીર્થ અને પૂર્વ તરફ વહેતી સરસ્વતીની મુલાકાત લીધી હતી. તે યમુના અને ગંગાના કિનારે આવેલા તમામ પવિત્ર સ્થળો પર પણ ગયા, હે ભરત, અને પછી તે નૈમિષા જંગલમાં આવ્યા, જ્યાં મહાન ઋષિઓ એક વિસ્તૃત યજ્ઞ કરી રહ્યા હતા."
+            }
+        }
+    },
+    {
+        "id": 107821,
+        "sloka": "10.78.21",
+        "verse_id": 107821,
+        "verseNumber": 21,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Recognizing the Lord upon His arrival, the sages, who had been engaged in their sacrificial rituals for a long time, greeted Him properly by standing up, bowing down and worshiping Him."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "भगवान के आगमन पर उन्हें पहचानकर बहुत समय से यज्ञ अनुष्ठान में लगे ऋषियों ने खड़े होकर, झुककर तथा वंदन करके उनका यथोचित स्वागत किया।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "ભગવાનને તેમના આગમન પર ઓળખીને, ઋષિમુનિઓ, જેઓ લાંબા સમયથી તેમના યજ્ઞ વિધિમાં વ્યસ્ત હતા, તેમણે ઉભા થઈને, નમીને અને તેમની પૂજા કરીને તેમનું યોગ્ય રીતે સ્વાગત કર્યું."
+            }
+        }
+    },
+    {
+        "id": 107822,
+        "sloka": "10.78.22",
+        "verse_id": 107822,
+        "verseNumber": 22,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "After being thus worshiped along with His entourage, the Lord accepted a seat of honor. Then He noticed that Romaharṣaṇa, Vyāsadeva’s disciple, had remained seated."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "इस प्रकार अपने दल के साथ पूजा किये जाने के बाद, भगवान ने सम्मान का आसन स्वीकार किया। तब उन्होंने देखा कि व्यासदेव के शिष्य रोमहर्षण बैठे हुए थे।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "આ રીતે તેમના મંડળ સાથે પૂજા કર્યા પછી, ભગવાને સન્માનની બેઠક સ્વીકારી. પછી તેણે જોયું કે વ્યાસદેવના શિષ્ય રોમહર્ષણ બેઠા હતા."
+            }
+        }
+    },
+    {
+        "id": 107823,
+        "sloka": "10.78.23",
+        "verse_id": 107823,
+        "verseNumber": 23,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Lord Balarāma became extremely angry upon seeing how this member of the sūta caste had failed to stand up, bow down or join his palms, and also how he was sitting above all the learned brāhmaṇas."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "भगवान बलराम यह देखकर अत्यंत क्रोधित हो गए कि सूत जाति का यह सदस्य कैसे खड़ा होने, झुकने या अपनी हथेलियाँ जोड़ने में विफल रहा, और यह भी कि वह सभी विद्वान ब्राह्मणों से ऊपर कैसे बैठा था।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "ભગવાન બલરામ એ જોઈને અત્યંત ગુસ્સે થયા કે કેવી રીતે સુત જાતિના આ સભ્ય ઊભા થવામાં, નમવામાં કે તેની હથેળીઓ જોડવામાં નિષ્ફળ ગયા, અને તે પણ કેવી રીતે તે બધા વિદ્વાન બ્રાહ્મણોથી ઉપર બેઠા હતા."
+            }
+        }
+    },
+    {
+        "id": 107824,
+        "sloka": "10.78.24",
+        "verse_id": 107824,
+        "verseNumber": 24,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "[Lord Balarāma said:] Because this fool born from an improperly mixed marriage sits above all these brāhmaṇas and even above Me, the protector of religion, he deserves to die."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "[भगवान बलराम ने कहा:] क्योंकि अनुचित रूप से मिश्रित विवाह से पैदा हुआ यह मूर्ख इन सभी ब्राह्मणों से ऊपर बैठता है और यहां तक ​​कि मेरे, धर्म के रक्षक से भी ऊपर बैठता है, वह मरने के योग्य है।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "[ભગવાન બલરામે કહ્યું:] કારણ કે અયોગ્ય રીતે મિશ્રિત લગ્નથી જન્મેલો આ મૂર્ખ આ બધા બ્રાહ્મણોથી ઉપર અને મારાથી પણ ઉપર, ધર્મના રક્ષક છે, તે મૃત્યુને પાત્ર છે."
+            }
+        }
+    },
+    {
+        "id": 107825,
+        "sloka": "10.78.25-26",
+        "verse_id": 107825,
+        "verseNumber": 25,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Although he is a disciple of the divine sage Vyāsa and has thoroughly learned many scriptures from him, including the lawbooks of religious duties and the epic histories and Purāṇas, all this study has not produced good qualities in him. Rather, his study of the scriptures is like an actor’s studying his part, for he is not self-controlled or humble and vainly presumes himself a scholarly authority, though he has failed to conquer his own mind."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "हालाँकि वह दिव्य ऋषि व्यास के शिष्य हैं और उन्होंने उनसे कई धर्मग्रंथों को अच्छी तरह से सीखा है, जिसमें धार्मिक कर्तव्यों की कानूनी किताबें और महाकाव्य इतिहास और पुराण शामिल हैं, लेकिन इस सभी अध्ययन ने उनमें अच्छे गुणों का उत्पादन नहीं किया है। बल्कि, धर्मग्रंथों का उसका अध्ययन एक अभिनेता द्वारा अपने हिस्से का अध्ययन करने जैसा है, क्योंकि वह आत्म-नियंत्रित या विनम्र नहीं है और व्यर्थ ही खुद को एक विद्वान व्यक्ति मानता है, हालांकि वह अपने मन पर विजय पाने में विफल रहा है।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "જો કે તે દૈવી ઋષિ વ્યાસના શિષ્ય છે અને તેમની પાસેથી ધાર્મિક કર્તવ્યોના કાયદાપુસ્તકો અને મહાકાવ્ય ઇતિહાસ અને પુરાણ સહિત ઘણા શાસ્ત્રો સારી રીતે શીખ્યા છે, આ બધા અભ્યાસે તેમનામાં સારા ગુણો ઉત્પન્ન કર્યા નથી. તેના બદલે, શાસ્ત્રોનો તેનો અભ્યાસ એ અભિનેતાના તેના ભાગનો અભ્યાસ કરવા જેવો છે, કારણ કે તે સ્વ-નિયંત્રિત અથવા નમ્ર નથી અને નિરર્થક રીતે પોતાને એક વિદ્વાન સત્તા માને છે, તેમ છતાં તે પોતાના મનને જીતવામાં નિષ્ફળ ગયો છે."
+            }
+        }
+    },
+    {
+        "id": 107827,
+        "sloka": "10.78.27",
+        "verse_id": 107827,
+        "verseNumber": 27,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "The very purpose of My descent into this world is to kill such hypocrites who pretend to be religious. Indeed, they are the most sinful rascals."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "इस संसार में मेरे अवतरण का उद्देश्य ही ऐसे पाखंडियों को मारना है जो धार्मिक होने का दिखावा करते हैं। सचमुच, वे सबसे पापी दुष्ट हैं।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "મારા આ જગતમાં આવવાનો હેતુ ધાર્મિક હોવાનો ઢોંગ કરનારા આવા દંભીઓને મારી નાખવાનો છે. ખરેખર, તેઓ સૌથી પાપી ધૂર્તો છે."
+            }
+        }
+    },
+    {
+        "id": 107828,
+        "sloka": "10.78.28",
+        "verse_id": 107828,
+        "verseNumber": 28,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "[Śukadeva Gosvāmī continued:] Although Lord Balarāma had stopped killing the impious, Romaharṣaṇa’s death was inevitable. Thus, having spoken, the Lord killed him by picking up a blade of kuśa grass and touching him with its tip."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "[शुकदेव गोस्वामी ने आगे कहा:] यद्यपि भगवान बलराम ने पापियों को मारना बंद कर दिया था, रोमहर्षण की मृत्यु अवश्यंभावी थी। इस प्रकार कहकर, भगवान ने कुश घास का एक तिनका उठाकर और उसकी नोक से उसे छूकर उसे मार डाला।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "[શુકદેવ ગોસ્વામીએ ચાલુ રાખ્યું:] તેમ છતાં ભગવાન બલરામે દુષ્ટોને મારવાનું બંધ કરી દીધું હતું, રોમહર્ષણનું મૃત્યુ અનિવાર્ય હતું. આ રીતે, બોલ્યા પછી, ભગવાને કુશ ઘાસની છરી ઉપાડીને અને તેની ટોચ વડે સ્પર્શ કરીને તેને મારી નાખ્યો."
+            }
+        }
+    },
+    {
+        "id": 107829,
+        "sloka": "10.78.29",
+        "verse_id": 107829,
+        "verseNumber": 29,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "All the sages cried out, “Alas, alas!” in great distress. They told Lord Saṅkarṣaṇa, “O master, You have committed an irreligious act!"
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "सभी ऋषि चिल्ला उठे, \"हाय, हाय!\" बड़े संकट में. उन्होंने भगवान संकर्षण से कहा, “हे गुरु, आपने एक अधार्मिक कार्य किया है!"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "બધા ઋષિઓએ બૂમ પાડી, \"કાશ, અફસોસ!\" ભારે તકલીફમાં. તેઓએ ભગવાન શંકરશનને કહ્યું, \"હે સ્વામી, તમે અધાર્મિક કૃત્ય કર્યું છે!"
+            }
+        }
+    },
+    {
+        "id": 107830,
+        "sloka": "10.78.30",
+        "verse_id": 107830,
+        "verseNumber": 30,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "“O favorite of the Yadus, we gave him the seat of the spiritual master and promised him long life and freedom from physical pain for as long as this sacrifice continues."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "“हे यदुओं के प्रिय, हमने उन्हें आध्यात्मिक गुरु की गद्दी दी और जब तक यह बलिदान जारी रहेगा तब तक उन्हें लंबी उम्र और शारीरिक पीड़ा से मुक्ति का वादा किया।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "\"ઓ યદુઓના પ્રિય, અમે તેમને આધ્યાત્મિક ગુરુનું સ્થાન આપ્યું અને જ્યાં સુધી આ બલિદાન ચાલુ રહેશે ત્યાં સુધી તેમને લાંબા આયુષ્ય અને શારીરિક પીડાથી મુક્તિનું વચન આપ્યું."
+            }
+        }
+    },
+    {
+        "id": 107831,
+        "sloka": "10.78.31-32",
+        "verse_id": 107831,
+        "verseNumber": 31,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "“You have unknowingly killed a brāhmaṇa. Of course, even the injunctions of revealed scripture cannot dictate to You, the Lord of all mystic power. But if by Your own free will You nonetheless carry out the prescribed purification for this slaying of a brāhmaṇa, O purifier of the whole world, people in general will greatly benefit by Your example.”"
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "\"आपने अनजाने में एक ब्राह्मण की हत्या कर दी है। बेशक, प्रकट धर्मग्रंथ के आदेश भी आपको, सभी रहस्यमय शक्ति के भगवान, निर्देशित नहीं कर सकते। लेकिन यदि आप फिर भी अपनी स्वतंत्र इच्छा से एक ब्राह्मण की हत्या के लिए निर्धारित शुद्धिकरण करते हैं, तो हे पूरे विश्व के पवित्रकर्ता, सामान्य रूप से लोगों को आपके उदाहरण से बहुत लाभ होगा।\""
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "\"તમે અજાણતા બ્રાહ્મણની હત્યા કરી છે. અલબત્ત, પ્રગટ શાસ્ત્રના આદેશો પણ તમને, સર્વ રહસ્યમય શક્તિના ભગવાન, તમને આદેશ આપી શકતા નથી. પરંતુ જો તમારી સ્વતંત્ર ઇચ્છાથી તમે તેમ છતાં, બ્રાહ્મણના આ સંહાર માટે નિર્ધારિત શુદ્ધિકરણ કરો છો, હે સમગ્ર વિશ્વના સર્વસામાન્ય રીતે તમારા ઉત્તમ ઉદાહરણ દ્વારા શુદ્ધિકરણ.\""
+            }
+        }
+    },
+    {
+        "id": 107833,
+        "sloka": "10.78.33",
+        "verse_id": 107833,
+        "verseNumber": 33,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "The Personality of Godhead said: I will certainly perform the atonement for this killing, since I wish to show compassion to the people in general. Please, therefore, prescribe for Me whatever ritual is to be done first."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "भगवान ने कहा: मैं निश्चित रूप से इस हत्या का प्रायश्चित करूंगा, क्योंकि मैं सामान्य रूप से लोगों पर दया करना चाहता हूं। अत: कृपया मेरे लिये वह अनुष्ठान बताइये जो पहले किया जाना है।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "ભગવાનના વ્યક્તિત્વે કહ્યું: હું ચોક્કસપણે આ હત્યાનું પ્રાયશ્ચિત કરીશ, કારણ કે હું સામાન્ય રીતે લોકો પ્રત્યે કરુણા દર્શાવવા માંગુ છું. તેથી, કૃપા કરીને મારા માટે જે પણ ધાર્મિક વિધિ પહેલા કરવી હોય તે સૂચવો."
+            }
+        }
+    },
+    {
+        "id": 107834,
+        "sloka": "10.78.34",
+        "verse_id": 107834,
+        "verseNumber": 34,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "O sages, just say the word, and by My mystic power I shall restore everything you promised him — long life, strength and sensory power."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "हे संतों, बस शब्द कहो, और अपनी रहस्यमय शक्ति से मैं वह सब कुछ बहाल कर दूंगा जो तुमने उनसे वादा किया था - लंबी उम्र, शक्ति और संवेदी शक्ति।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "હે ઋષિમુનિઓ, ફક્ત શબ્દ કહો, અને મારી રહસ્યમય શક્તિ દ્વારા તમે તેમને વચન આપ્યું હતું તે બધું હું પુનઃસ્થાપિત કરીશ - લાંબુ આયુષ્ય, શક્તિ અને સંવેદનાત્મક શક્તિ."
+            }
+        }
+    },
+    {
+        "id": 107835,
+        "sloka": "10.78.35",
+        "verse_id": 107835,
+        "verseNumber": 35,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "The sages said: Please see to it, O Rāma, that Your power and that of Your kuśa weapon, as well as our promise and Romaharṣaṇa’s death, all remain intact."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "ऋषियों ने कहा: हे राम, कृपया ध्यान रखें कि आपकी शक्ति और आपके कुश हथियार, साथ ही हमारा वादा और रोमहर्षण की मृत्यु, सभी बरकरार रहें।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "ઋષિઓએ કહ્યું: હે રામ, કૃપા કરીને તે જુઓ કે તમારી શક્તિ અને તમારા કુશ શસ્ત્ર તેમજ અમારું વચન અને રોમહર્ષણનું મૃત્યુ, બધું જ અખંડ રહે."
+            }
+        }
+    },
+    {
+        "id": 107836,
+        "sloka": "10.78.36",
+        "verse_id": 107836,
+        "verseNumber": 36,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "The Supreme Lord said: The Vedas instruct us that one’s own self takes birth again as one’s son. Thus let Romaharṣaṇa’s son become the speaker of the Purāṇas, and let him be endowed with long life, strong senses and stamina."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "भगवान ने कहा: वेद हमें निर्देश देते हैं कि व्यक्ति स्वयं उसके पुत्र के रूप में फिर से जन्म लेता है। इस प्रकार रोमहर्षण का पुत्र पुराणों का वक्ता बने, और उसे दीर्घायु, मजबूत इंद्रियाँ और सहनशक्ति से संपन्न किया जाए।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "સર્વોપરી ભગવાને કહ્યું: વેદ આપણને શીખવે છે કે વ્યક્તિનો પોતાનો સ્વ પુત્ર તરીકે ફરીથી જન્મ લે છે. આમ રોમહર્ષણના પુત્રને પુરાણના વક્તા બનવા દો, અને તેને લાંબુ આયુષ્ય, પ્રબળ ઇન્દ્રિયો અને સહનશક્તિથી સંપન્ન થવા દો."
+            }
+        }
+    },
+    {
+        "id": 107837,
+        "sloka": "10.78.37",
+        "verse_id": 107837,
+        "verseNumber": 37,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Please tell Me your desire, O best of sages, and I shall certainly fulfill it. And, O wise souls, please carefully determine My proper atonement, since I do not know what it might be."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "हे मुनिश्रेष्ठ, कृपया मुझे अपनी इच्छा बताएं और मैं उसे अवश्य पूरा करूंगा। और, हे बुद्धिमान आत्माओं, कृपया सावधानीपूर्वक मेरे उचित प्रायश्चित का निर्धारण करें, क्योंकि मैं नहीं जानता कि यह क्या हो सकता है।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "હે શ્રેષ્ઠ ઋષિમુનિઓ, કૃપા કરીને મને તમારી ઇચ્છા જણાવો, અને હું ચોક્કસપણે તે પૂર્ણ કરીશ. અને, હે જ્ઞાની આત્માઓ, કૃપા કરીને કાળજીપૂર્વક મારું યોગ્ય પ્રાયશ્ચિત નક્કી કરો, કારણ કે મને ખબર નથી કે તે શું હોઈ શકે."
+            }
+        }
+    },
+    {
+        "id": 107838,
+        "sloka": "10.78.38",
+        "verse_id": 107838,
+        "verseNumber": 38,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "The sages said: A fearsome demon named Balvala, the son of Ilvala, comes here every new-moon day and contaminates our sacrifice."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "ऋषियों ने कहा- इल्वल का पुत्र बल्वल नाम का एक भयानक राक्षस हर अमावस्या को यहां आता है और हमारे यज्ञ को दूषित कर देता है।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "ઋષિઓએ કહ્યું: ઇલવાલાના પુત્ર બલવાલ નામનો ભયંકર રાક્ષસ દર અમાવાસ્યાના દિવસે અહીં આવે છે અને આપણા યજ્ઞને દૂષિત કરે છે."
+            }
+        }
+    },
+    {
+        "id": 107839,
+        "sloka": "10.78.39",
+        "verse_id": 107839,
+        "verseNumber": 39,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "O descendant of Daśārha, please kill that sinful demon, who pours down pus, blood, feces, urine, wine and meat upon us. This is the best service You can do for us."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "हे दशार्ह के वंशज, कृपया उस पापी राक्षस को मार डालो, जो हम पर मवाद, रक्त, मल, मूत्र, शराब और मांस डालता है। यह सबसे अच्छी सेवा है जो आप हमारे लिए कर सकते हैं।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "હે દશરહના વંશજ, કૃપા કરીને તે પાપી રાક્ષસને મારી નાખો, જે આપણા પર પરુ, લોહી, મળ, મૂત્ર, શરાબ અને માંસ રેડે છે. આ શ્રેષ્ઠ સેવા છે જે તમે અમારા માટે કરી શકો છો."
+            }
+        }
+    },
+    {
+        "id": 107840,
+        "sloka": "10.78.40",
+        "verse_id": 107840,
+        "verseNumber": 40,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Thereafter, for twelve months, You should circumambulate the land of Bhārata in a mood of serious meditation, executing austerities and bathing at various holy pilgrimage sites. In this way You will become purified."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "इसके बाद, बारह महीनों तक, आपको गंभीर ध्यान की मुद्रा में, तपस्या करते हुए और विभिन्न पवित्र तीर्थ स्थलों पर स्नान करते हुए, भारत भूमि की परिक्रमा करनी चाहिए। इस प्रकार तुम शुद्ध हो जाओगे।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "ત્યાર બાદ, બાર મહિના સુધી, તમારે ગંભીર ધ્યાન, તપસ્યા અને વિવિધ પવિત્ર તીર્થસ્થળો પર સ્નાન કરવાના મૂડમાં ભારતની ભૂમિની પરિક્રમા કરવી જોઈએ. આ રીતે તમે શુદ્ધ થઈ જશો."
+            }
+        }
+    }
+]

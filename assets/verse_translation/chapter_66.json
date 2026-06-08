@@ -1,0 +1,876 @@
+[
+    {
+        "id": 106601,
+        "sloka": "10.66.1",
+        "verse_id": 106601,
+        "verseNumber": 1,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Śukadeva Gosvāmī said: O King, while Lord Balarāma was away visiting Nanda’s village of Vraja, the ruler of Karūṣa, foolishly thinking “I am the Supreme Lord, Vāsudeva,” sent a messenger to Lord Kṛṣṇa."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "शुकदेव गोस्वामी ने कहा: हे राजन, जब भगवान बलराम नन्द के गाँव व्रज के दौरे पर थे, तब करुष के शासक ने मूर्खतापूर्वक यह सोचकर कि \"मैं परम भगवान, वासुदेव हूँ,\" भगवान कृष्ण के पास एक दूत भेजा।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "શુકદેવ ગોસ્વામીએ કહ્યું: હે રાજા, જ્યારે ભગવાન બલરામ કરુષના શાસક વ્રજ નામના નંદના ગામની મુલાકાત લઈ રહ્યા હતા, ત્યારે મૂર્ખતાપૂર્વક વિચારી રહ્યા હતા કે \"હું સર્વોપરી ભગવાન, વાસુદેવ છું,\" ભગવાન કૃષ્ણને એક સંદેશવાહક મોકલ્યો."
+            }
+        }
+    },
+    {
+        "id": 106602,
+        "sloka": "10.66.2",
+        "verse_id": 106602,
+        "verseNumber": 2,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Pauṇḍraka was emboldened by the flattery of childish men, who told him, “You are Vāsudeva, the Supreme Lord and master of the universe, who have now descended to the earth.” Thus he imagined himself to be the infallible Personality of Godhead."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "पौंड्रक को उन बचकाने लोगों की चापलूसी से साहस मिला, जिन्होंने उससे कहा, \"आप वासुदेव, सर्वोच्च भगवान और ब्रह्मांड के स्वामी हैं, जो अब पृथ्वी पर अवतरित हुए हैं।\" इस प्रकार उन्होंने स्वयं को ईश्वर के अचूक व्यक्तित्व के रूप में कल्पना की।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "પૌંડરક બાલિશ પુરુષોની ખુશામતથી ઉત્સાહિત થયા, જેમણે તેમને કહ્યું, \"તમે વાસુદેવ છો, પરમ ભગવાન અને બ્રહ્માંડના માસ્ટર, જે હવે પૃથ્વી પર ઉતરી આવ્યા છે.\" આમ તેણે પોતાની જાતને ભગવાનના અચૂક વ્યક્તિત્વની કલ્પના કરી."
+            }
+        }
+    },
+    {
+        "id": 106603,
+        "sloka": "10.66.3",
+        "verse_id": 106603,
+        "verseNumber": 3,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Thus slow-witted King Pauṇḍraka sent a messenger to the inscrutable Lord Kṛṣṇa at Dvārakā. Pauṇḍraka was acting just like an unintelligent child whom other children are pretending is a king."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "इस प्रकार मंदबुद्धि राजा पौंड्रक ने द्वारका में गूढ़ भगवान कृष्ण के पास एक दूत भेजा। पौंड्रक बिल्कुल एक नासमझ बच्चे की तरह व्यवहार कर रहा था जिसे अन्य बच्चे राजा होने का नाटक कर रहे हैं।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "આ રીતે ધીમી બુદ્ધિવાળા રાજા પૌંડરકે દ્વારકામાં અસ્પષ્ટ ભગવાન કૃષ્ણ પાસે એક દૂત મોકલ્યો. પૌંડરક એક અબુધ બાળકની જેમ વર્તી રહ્યો હતો જેને અન્ય બાળકો રાજા હોવાનો ઢોંગ કરે છે."
+            }
+        }
+    },
+    {
+        "id": 106604,
+        "sloka": "10.66.4",
+        "verse_id": 106604,
+        "verseNumber": 4,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Arriving in Dvārakā, the messenger found lotus-eyed Kṛṣṇa in His royal assembly and relayed the King’s message to that almighty Lord."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "द्वारका पहुँचकर, दूत ने अपनी राजसभा में कमल-नेत्र कृष्ण को पाया और उस सर्वशक्तिमान भगवान को राजा का संदेश सुनाया।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "દ્વારકામાં આવીને, સંદેશવાહકને તેમની રાજસભામાં કમળની આંખોવાળા કૃષ્ણ મળ્યા અને તે સર્વશક્તિમાન ભગવાનને રાજાનો સંદેશ સંભળાવ્યો."
+            }
+        }
+    },
+    {
+        "id": 106605,
+        "sloka": "10.66.5",
+        "verse_id": 106605,
+        "verseNumber": 5,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "[On Pauṇḍraka’s behalf, the messenger said:] I am the one and only Lord Vāsudeva, and there is no other. It is I who have descended to this world to show mercy to the living beings. Therefore give up Your false name."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "[पौंड्रक की ओर से, दूत ने कहा:] मैं एकमात्र भगवान वासुदेव हूं, और कोई नहीं है। मैं ही प्राणियों पर दया करने के लिये इस संसार में अवतरित हुआ हूँ। इसलिए अपना झूठा नाम त्याग दो।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "[પૌંડરક વતી, દૂતે કહ્યું:] હું એક માત્ર ભગવાન વાસુદેવ છું, અને બીજું કોઈ નથી. હું જ જીવો પર દયા કરવા આ જગતમાં ઉતર્યો છું. માટે તમારું ખોટું નામ છોડી દે."
+            }
+        }
+    },
+    {
+        "id": 106606,
+        "sloka": "10.66.6",
+        "verse_id": 106606,
+        "verseNumber": 6,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "O Sātvata, give up my personal symbols, which out of foolishness You now carry, and come to me for shelter. If You do not, then You must give me battle."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "हे सात्वत, मेरे व्यक्तिगत प्रतीकों को त्याग दो, जिन्हें अब तुम मूर्खता के कारण धारण करते हो, और मेरी शरण में आओ। यदि आप ऐसा नहीं करते तो आपको मुझसे युद्ध करना होगा।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "હે સત્ત્વ, મારા અંગત ચિહ્નો છોડી દો, જે તમે હવે મૂર્ખતાથી લઈ ગયા છો, અને મારી પાસે આશ્રય માટે આવો. જો તમે નહીં કરો, તો તમારે મને યુદ્ધ આપવું પડશે."
+            }
+        }
+    },
+    {
+        "id": 106607,
+        "sloka": "10.66.7",
+        "verse_id": 106607,
+        "verseNumber": 7,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Śukadeva Gosvāmī said: King Ugrasena and the other members of the assembly laughed loudly when they heard this vain boasting of unintelligent Pauṇḍraka."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "शुकदेव गोस्वामी ने कहा: राजा उग्रसेन और सभा के अन्य सदस्यों ने जब मूर्ख पौंड्रक की यह व्यर्थ शेखी सुनी तो वे जोर से हंसे।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "શુકદેવ ગોસ્વામીએ કહ્યું: રાજા ઉગ્રસેન અને સભાના અન્ય સભ્યો જોરથી હસ્યા જ્યારે તેઓએ અજાણ્યા પૌંડરકની આ વ્યર્થ બડાઈ સાંભળી."
+            }
+        }
+    },
+    {
+        "id": 106608,
+        "sloka": "10.66.8",
+        "verse_id": 106608,
+        "verseNumber": 8,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "The Personality of Godhead, after enjoying the jokes of the assembly, told the messenger [to relay a message to his master:] “You fool, I will indeed let loose the weapons you boast of in this way."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "भगवान ने सभा के मज़ाक का आनंद लेने के बाद, दूत से कहा [अपने स्वामी को एक संदेश देने के लिए:] \"हे मूर्ख, मैं वास्तव में उन हथियारों को छोड़ दूंगा जिन पर तुम इस तरह से गर्व करते हो।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "ભગવાનના વ્યક્તિત્વે, સભાના જોક્સનો આનંદ માણ્યા પછી, સંદેશવાહકને કહ્યું [તેના માસ્ટરને સંદેશો જણાવવા માટે:] “તમે મૂર્ખ, આ રીતે તમે જે શસ્ત્રોનો ગર્વ કરો છો તે હું ખરેખર છૂટી કરીશ."
+            }
+        }
+    },
+    {
+        "id": 106609,
+        "sloka": "10.66.9",
+        "verse_id": 106609,
+        "verseNumber": 9,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "“When you lie dead, O fool, your face covered by vultures, herons and vaṭa birds, you will become the shelter of dogs.”"
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "\"हे मूर्ख, जब तू मरा हुआ पड़ा होगा, और तेरा मुख गिद्धों, बगुलों और वात पक्षियों से ढँका हुआ होगा, तब तू कुत्तों का आश्रय बन जाएगा।\""
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "\"હે મૂર્ખ, ગીધ, બગલા અને વાટ પક્ષીઓથી ઢંકાયેલું તારું મોઢું જ્યારે તું મરી જાય છે, ત્યારે તું કૂતરાઓનો આશ્રય બનીશ.\""
+            }
+        }
+    },
+    {
+        "id": 106610,
+        "sloka": "10.66.10",
+        "verse_id": 106610,
+        "verseNumber": 10,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "When the Lord had thus spoken, the messenger conveyed His insulting reply to his master in its entirety. Lord Kṛṣṇa then mounted His chariot and went to the vicinity of Kāśī."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "जब भगवान ने इस प्रकार कहा, तो दूत ने अपने स्वामी को अपना अपमानजनक उत्तर पूरी तरह से बता दिया। तब भगवान कृष्ण अपने रथ पर सवार हुए और काशी के आसपास चले गए।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "જ્યારે ભગવાન આ રીતે બોલ્યા, ત્યારે દૂતે તેના માસ્ટરને સંપૂર્ણ રીતે તેમનો અપમાનજનક જવાબ આપ્યો. ભગવાન કૃષ્ણ પછી તેમના રથ પર સવાર થયા અને કાશીની નજીક ગયા."
+            }
+        }
+    },
+    {
+        "id": 106611,
+        "sloka": "10.66.11",
+        "verse_id": 106611,
+        "verseNumber": 11,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Upon observing Lord Kṛṣṇa’s preparations for battle, the mighty warrior Pauṇḍraka quickly went out of the city with two full military divisions."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "युद्ध के लिए भगवान कृष्ण की तैयारियों को देखकर, शक्तिशाली योद्धा पौंड्रक तुरंत दो पूर्ण सैन्य डिवीजनों के साथ शहर से बाहर चला गया।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "યુદ્ધ માટે ભગવાન કૃષ્ણની તૈયારીઓ જોઈને, પરાક્રમી યોદ્ધા પૌંડરક ઝડપથી બે સંપૂર્ણ લશ્કરી ટુકડીઓ સાથે શહેરની બહાર નીકળી ગયા."
+            }
+        }
+    },
+    {
+        "id": 106612,
+        "sloka": "10.66.12-14",
+        "verse_id": 106612,
+        "verseNumber": 12,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Pauṇḍraka’s friend, the King of Kāśī, followed behind, O King, leading the rear guard with three akṣauhiṇī divisions. Lord Kṛṣṇa saw that Pauṇḍraka was carrying the Lord’s own insignia, such as the conchshell, disc, sword and club, and also an imitation Śārṅga bow and Śrīvatsa mark. He wore a mock Kaustubha gem, was decorated with a garland of forest flowers and was dressed in upper and lower garments of fine yellow silk. His banner bore the image of Garuḍa, and he wore a valuable crown and gleaming, shark-shaped earrings."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "पौंड्रक के मित्र, काशी के राजा, तीन अक्षौहिणी टुकड़ियों के साथ पीछे के गार्ड का नेतृत्व करते हुए, हे राजा, पीछे चल रहे थे। भगवान कृष्ण ने देखा कि पौंड्रक भगवान का अपना प्रतीक चिन्ह, जैसे शंख, चक्र, तलवार और गदा, और एक नकली शारंग धनुष और श्रीवत्स चिह्न भी ले जा रहा था। उन्होंने एक नकली कौस्तुभ मणि पहनी थी, जंगल के फूलों की माला से सजाया गया था और बढ़िया पीले रेशम के ऊपरी और निचले वस्त्र पहने हुए थे। उनके बैनर पर गरुड़ की छवि थी, और उन्होंने एक मूल्यवान मुकुट और चमकदार, शार्क के आकार की बालियां पहनी थीं।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "પૌંડરકના મિત્ર, કાશીના રાજા, હે રાજા, ત્રણ અક્ષૌહિણી વિભાગો સાથે પાછળના રક્ષકની આગેવાની કરતા પાછળ પાછળ ગયા. Lord Kṛṣṇa saw that Pauṇḍraka was carrying the Lord’s own insignia, such as the conchshell, disc, sword and club, and also an imitation Śārṅga bow and Śrīvatsa mark. તેણે કૌસ્તુભ રત્ન ધારણ કર્યું હતું, તેને જંગલના ફૂલોની માળાથી શણગારવામાં આવ્યો હતો અને પીળા રેશમના ઉપરના અને નીચેના વસ્ત્રો પહેર્યા હતા. તેના બેનર પર ગરુડની છબી હતી, અને તેણે મૂલ્યવાન તાજ અને ચમકતી, શાર્ક આકારની બુટ્ટી પહેરી હતી."
+            }
+        }
+    },
+    {
+        "id": 106615,
+        "sloka": "10.66.15",
+        "verse_id": 106615,
+        "verseNumber": 15,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Lord Hari laughed heartily when He saw how the King had dressed up in exact imitation of His own appearance, just like an actor onstage."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "जब भगवान हरि ने देखा कि कैसे राजा ने मंच पर एक अभिनेता की तरह अपने ही रूप की नकल करते हुए कपड़े पहने थे, तो वे खूब हंसे।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "ભગવાન હરિ હૃદયપૂર્વક હસ્યા જ્યારે તેમણે જોયું કે કેવી રીતે રાજાએ સ્ટેજ પર એક અભિનેતાની જેમ તેમના પોતાના દેખાવની ચોક્કસ નકલમાં પોશાક પહેર્યો હતો."
+            }
+        }
+    },
+    {
+        "id": 106616,
+        "sloka": "10.66.16",
+        "verse_id": 106616,
+        "verseNumber": 16,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "The enemies of Lord Hari attacked Him with tridents, clubs, bludgeons, pikes, ṛṣtis, barbed darts, lances, swords, axes and arrows."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "भगवान हरि के शत्रुओं ने उन पर त्रिशूलों, लाठियों, डंडों, पाइकों, ऋषियों, कंटीले भालों, भालों, तलवारों, कुल्हाड़ियों और बाणों से हमला किया।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "ભગવાન હરિના શત્રુઓએ તેમના પર ત્રિશૂળ, કલગી, કલગી, પાઈક, ષ્ટિસ, કાંટાળો ડાર્ટ, ભાલા, તલવાર, કુહાડી અને તીર વડે હુમલો કર્યો."
+            }
+        }
+    },
+    {
+        "id": 106617,
+        "sloka": "10.66.17",
+        "verse_id": 106617,
+        "verseNumber": 17,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "But Lord Kṛṣṇa fiercely struck back at the army of Pauṇḍraka and Kāśirāja, which consisted of elephants, chariots, cavalry and infantry. The Lord tormented His enemies with His club, sword, Sudarśana disc and arrows, just as the fire of annihilation torments the various kinds of creatures at the end of a cosmic age."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "लेकिन भगवान कृष्ण ने पौंड्रक और काशीराज की सेना पर भयंकर प्रहार किया, जिसमें हाथी, रथ, घुड़सवार सेना और पैदल सेना शामिल थी। भगवान ने अपने शत्रुओं को अपनी गदा, तलवार, सुदर्शन चक्र और बाणों से वैसे ही पीड़ा दी, जैसे ब्रह्मांडीय युग के अंत में विनाश की आग विभिन्न प्रकार के प्राणियों को पीड़ा देती है।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "પરંતુ ભગવાન કૃષ્ણે પૌંડરક અને કાશીરાજની સેના પર જોરદાર પ્રહાર કર્યો, જેમાં હાથી, રથ, ઘોડેસવાર અને પાયદળનો સમાવેશ થતો હતો. બ્રહ્માંડના યુગના અંતમાં વિનાશની અગ્નિ વિવિધ પ્રકારના જીવોને પીડા આપે છે તેવી જ રીતે ભગવાને તેમના ક્લબ, તલવાર, સુદર્શન ડિસ્ક અને તીરોથી તેમના દુશ્મનોને ત્રાસ આપ્યો."
+            }
+        }
+    },
+    {
+        "id": 106618,
+        "sloka": "10.66.18",
+        "verse_id": 106618,
+        "verseNumber": 18,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "The battlefield, strewn with the dismembered chariots, horses, elephants, humans, mules and camels that had been cut to pieces by the Lord’s disc weapon, shone like the gruesome playground of Lord Bhūtapati, giving pleasure to the wise."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "भगवान के चक्र अस्त्र से टुकड़े-टुकड़े किये गये रथों, घोड़ों, हाथियों, मनुष्यों, खच्चरों और ऊँटों से बिखरा हुआ युद्धक्षेत्र भगवान भूतपति की भीषण क्रीड़ास्थली के समान चमक रहा था, जिससे बुद्धिमानों को प्रसन्नता हो रही थी।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "ભગવાનના ડિસ્ક શસ્ત્રથી ટૂકડા થઈ ગયેલા રથ, ઘોડા, હાથી, મનુષ્યો, ખચ્ચર અને ઊંટોથી વિખરાયેલું યુદ્ધભૂમિ, ભગવાન ભૂતપતિના વિકરાળ રમતના મેદાનની જેમ ચમકતું હતું, જ્ઞાનીઓને આનંદ આપતો હતો."
+            }
+        }
+    },
+    {
+        "id": 106619,
+        "sloka": "10.66.19",
+        "verse_id": 106619,
+        "verseNumber": 19,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Lord Kṛṣṇa then addressed Pauṇḍraka: My dear Pauṇḍraka, the very weapons you spoke of through your messenger, I now release unto you."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "तब भगवान कृष्ण ने पौंड्रक को संबोधित किया: मेरे प्रिय पौंड्रक, जिन हथियारों के बारे में आपने अपने दूत के माध्यम से बात की थी, मैं अब उन्हें आपके लिए जारी करता हूं।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "ભગવાન કૃષ્ણએ પછી પૌંડરકને સંબોધન કર્યું: મારા પ્રિય પૌંડરક, તમે તમારા દૂત દ્વારા જે શસ્ત્રો વિશે વાત કરી હતી, હવે હું તમને મુક્ત કરું છું."
+            }
+        }
+    },
+    {
+        "id": 106620,
+        "sloka": "10.66.20",
+        "verse_id": 106620,
+        "verseNumber": 20,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "O fool, now I shall make you renounce My name, which you have falsely assumed. And I will certainly take shelter of you if I do not wish to fight you."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "हे मूर्ख, अब मैं तुझ से अपना नाम त्यागवाऊंगा, जो तू ने मिथ्या रूप से ग्रहण किया है। और यदि मैं तुमसे युद्ध नहीं करना चाहता तो अवश्य ही तुम्हारी शरण लूँगा।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "હે મૂર્ખ, હવે હું તને મારા નામનો ત્યાગ કરીશ, જે તેં ખોટી રીતે ધાર્યું છે. અને જો હું તમારી સાથે લડવા માંગતો નથી તો હું ચોક્કસપણે તમારો આશ્રય લઈશ."
+            }
+        }
+    },
+    {
+        "id": 106621,
+        "sloka": "10.66.21",
+        "verse_id": 106621,
+        "verseNumber": 21,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Having thus derided Pauṇḍraka, Lord Kṛṣṇa destroyed his chariot with His sharp arrows. The Lord then cut off his head with the Sudarśana disc, just as Lord Indra lops off a mountain peak with his thunderbolt weapon."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "इस प्रकार पौंड्रक का उपहास करके भगवान कृष्ण ने अपने तीखे बाणों से उसके रथ को नष्ट कर दिया। तब भगवान ने सुदर्शन चक्र से उसका सिर काट दिया, जैसे भगवान इंद्र अपने वज्र हथियार से पर्वत शिखर को काट देते हैं।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "આ રીતે પૌંડરકની મજાક ઉડાવીને, ભગવાન કૃષ્ણએ તેમના તીક્ષ્ણ બાણોથી તેમના રથનો નાશ કર્યો. પછી ભગવાને સુદર્શન ડિસ્ક વડે તેમનું માથું કાપી નાખ્યું, જેમ ભગવાન ઇન્દ્ર તેમના વજ્રના શસ્ત્ર વડે પર્વત શિખર પરથી ખસી જાય છે."
+            }
+        }
+    },
+    {
+        "id": 106622,
+        "sloka": "10.66.22",
+        "verse_id": 106622,
+        "verseNumber": 22,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "With His arrows, Lord Kṛṣṇa similarly severed Kāśirāja’s head from his body, sending it flying into Kāśī city like a lotus flower thrown by the wind."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "इसी प्रकार भगवान कृष्ण ने अपने बाणों से काशीराज का सिर धड़ से अलग कर दिया, जिससे वह हवा द्वारा फेंके गए कमल के फूल की भाँति काशी नगरी में उड़ गया।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "પોતાના તીરો વડે, ભગવાન કૃષ્ણએ એવી જ રીતે કાશીરાજનું માથું તેના શરીર પરથી તોડી નાખ્યું, અને તેને પવન દ્વારા ફેંકાયેલા કમળના ફૂલની જેમ કાશી નગરમાં ઉડતું મોકલ્યું."
+            }
+        }
+    },
+    {
+        "id": 106623,
+        "sloka": "10.66.23",
+        "verse_id": 106623,
+        "verseNumber": 23,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Having thus killed envious Pauṇḍraka and his ally, Lord Kṛṣṇa returned to Dvārakā. As He entered the city, the Siddhas of heaven chanted His immortal, nectarean glories."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "इस प्रकार ईर्ष्यालु पौंड्रक और उसके सहयोगी को मारकर, भगवान कृष्ण द्वारका लौट आए। जैसे ही उन्होंने शहर में प्रवेश किया, स्वर्ग के सिद्धों ने उनकी अमर, अमृतमय महिमा का गान किया।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "આ રીતે ઈર્ષાળુ પૌંડરક અને તેના સાથીનો વધ કર્યા પછી, ભગવાન કૃષ્ણ દ્વારકા પાછા ફર્યા. તેઓ શહેરમાં પ્રવેશ્યા ત્યારે, સ્વર્ગના સિદ્ધોએ તેમના અમર, અમૃત મહિમાનો મંત્રોચ્ચાર કર્યો."
+            }
+        }
+    },
+    {
+        "id": 106624,
+        "sloka": "10.66.24",
+        "verse_id": 106624,
+        "verseNumber": 24,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "By constantly meditating upon the Supreme Lord, Pauṇḍraka shattered all his material bonds. Indeed, by imitating Lord Kṛṣṇa’s appearance, O King, he ultimately became Kṛṣṇa conscious."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "परम भगवान का लगातार ध्यान करके, पौंड्रक ने अपने सभी भौतिक बंधन तोड़ दिए। वास्तव में, हे राजन, भगवान कृष्ण के स्वरूप का अनुकरण करके, वह अंततः कृष्णभावनाभावित बन गया।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "પરમ ભગવાનનું સતત ધ્યાન કરીને, પૌંડરકે તેના તમામ ભૌતિક બંધનોને તોડી નાખ્યા. ખરેખર, ભગવાન કૃષ્ણના રૂપનું અનુકરણ કરીને, હે રાજા, તે આખરે કૃષ્ણ ભાવનાભાવિત બન્યો."
+            }
+        }
+    },
+    {
+        "id": 106625,
+        "sloka": "10.66.25",
+        "verse_id": 106625,
+        "verseNumber": 25,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Seeing a head decorated with earrings lying at the gate of the royal palace, the people present were puzzled. Some of them asked, “What is this?” and others said, “It is a head, but whose is it?”"
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "राजमहल के द्वार पर कुण्डलों से सुसज्जित एक मस्तक पड़ा देखकर उपस्थित लोग आश्चर्य में पड़ गये। उनमें से कुछ ने पूछा, \"यह क्या है?\" और अन्य लोगों ने कहा, \"यह तो सिर है, परन्तु यह किसका है?\""
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "રાજમહેલના ગેટ પર પડેલા કાનની બુટ્ટીઓથી સુશોભિત માથું જોઈને ત્યાં હાજર લોકો હેરાન થઈ ગયા. તેમાંથી કેટલાકે પૂછ્યું, \"આ શું છે?\" અને બીજાઓએ કહ્યું, \"તે માથું છે, પણ તે કોનું છે?\""
+            }
+        }
+    },
+    {
+        "id": 106626,
+        "sloka": "10.66.26",
+        "verse_id": 106626,
+        "verseNumber": 26,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "My dear King, when they recognized it as the head of their King — the lord of Kāśi — his queens, sons and other relatives, along with all the citizens of the city, began to cry pitifully: “Alas, we are killed! O my lord, my lord!”"
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "मेरे प्रिय राजा, जब उन्होंने इसे अपने राजा - काशी के स्वामी - के सिर के रूप में पहचाना, तो उनकी रानियाँ, पुत्र और अन्य रिश्तेदार, शहर के सभी नागरिकों के साथ, दयनीय रूप से रोने लगे: \"अफसोस, हम मारे गए! हे मेरे स्वामी, मेरे स्वामी!\""
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "મારા વ્હાલા રાજા, જ્યારે તેઓએ તેને તેમના રાજા - કાશીના સ્વામી -ના વડા તરીકે ઓળખી કાઢ્યું - તેની રાણીઓ, પુત્રો અને અન્ય સગાંવહાલાં, શહેરના તમામ નાગરિકો સાથે, દયાથી રડવા લાગ્યા: \"અરે, અમે માર્યા ગયા! હે મારા સ્વામી, મારા સ્વામી!\""
+            }
+        }
+    },
+    {
+        "id": 106627,
+        "sloka": "10.66.27-28",
+        "verse_id": 106627,
+        "verseNumber": 27,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "After the King’s son Sudakṣiṇa had performed the obligatory funeral rituals for his father, he resolved within his mind: “Only by killing my father’s murderer can I avenge his death.” Thus the charitable Sudakṣiṇa, together with his priests, began worshiping Lord Maheśvara with great attention."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "राजा के पुत्र सुदक्षिण ने अपने पिता के लिए अनिवार्य अंतिम संस्कार अनुष्ठान करने के बाद, अपने मन में संकल्प किया: \"केवल अपने पिता के हत्यारे को मारकर ही मैं उनकी मृत्यु का बदला ले सकता हूँ।\" इस प्रकार दानशील सुदक्षिण, अपने पुजारियों के साथ, बड़े ध्यान से भगवान महेश्वर की पूजा करने लगे।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "રાજાના પુત્ર સુદક્ષિણએ તેના પિતાના અંતિમ સંસ્કારની ફરજિયાત વિધિ કર્યા પછી, તેણે પોતાના મનમાં સંકલ્પ કર્યો: \"મારા પિતાના હત્યારાને મારીને જ હું તેના મૃત્યુનો બદલો લઈ શકું છું.\" આ રીતે સેવાભાવી સુદક્ષિણ, તેમના પુરોહિતો સાથે મળીને, ભગવાન મહેશ્વરની ખૂબ જ ધ્યાનથી પૂજા કરવા લાગ્યા."
+            }
+        }
+    },
+    {
+        "id": 106629,
+        "sloka": "10.66.29",
+        "verse_id": 106629,
+        "verseNumber": 29,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Satisfied by the worship, the powerful Lord Śiva appeared in the sacred precinct of Avimukta and offered Sudakṣiṇa his choice of benedictions. The prince chose as his benediction a means to slay his father’s killer."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "पूजा से संतुष्ट होकर, शक्तिशाली भगवान शिव अविमुक्त के पवित्र परिसर में प्रकट हुए और सुदक्षिण को अपनी पसंद का आशीर्वाद दिया। राजकुमार ने अपने आशीर्वाद के रूप में अपने पिता के हत्यारे को मारने का एक साधन चुना।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "પૂજાથી સંતુષ્ટ થઈને, શક્તિશાળી ભગવાન શિવ અવિમુક્તના પવિત્ર પ્રદેશમાં પ્રગટ થયા અને સુદક્ષિણને તેમની પસંદગીની આશીર્વાદ ઓફર કરી. રાજકુમારે તેના આશીર્વાદ તરીકે તેના પિતાના હત્યારાને મારવાનું એક સાધન પસંદ કર્યું."
+            }
+        }
+    },
+    {
+        "id": 106630,
+        "sloka": "10.66.30-31",
+        "verse_id": 106630,
+        "verseNumber": 30,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Lord Śiva told him, “Accompanied by brāhmaṇas, serve the Dakṣiṇāgni fire — the original priest — following the injunctions of the abhicāra ritual. Then the Dakṣiṇāgni fire, together with many Pramathas, will fulfill your desire if you direct it against someone inimical to the brāhmaṇas.” So instructed, Sudakṣiṇa strictly observed the ritualistic vows and invoked the abhicāra against Lord Kṛṣṇa."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "भगवान शिव ने उनसे कहा, \"ब्राह्मणों के साथ, अभिचार अनुष्ठान के आदेशों का पालन करते हुए, दक्षिणाग्नि अग्नि - मूल पुजारी - की सेवा करें। तब दक्षिणाग्नि अग्नि, कई प्रमथों के साथ, आपकी इच्छा पूरी करेगी यदि आप इसे ब्राह्मणों के प्रति शत्रु किसी के विरुद्ध निर्देशित करते हैं।\" इस प्रकार निर्देश दिए जाने पर, सुदक्षिण ने अनुष्ठानिक व्रतों का सख्ती से पालन किया और भगवान कृष्ण के खिलाफ अभिचार का आह्वान किया।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "ભગવાન શિવે તેને કહ્યું, \"બ્રાહ્મણોની સાથે, દક્ષિણાગ્નિ અગ્નિની સેવા કરો - મૂળ પૂજારી - અભિચાર વિધિની આજ્ઞાઓનું પાલન કરો. પછી દક્ષિણાગ્નિ અગ્નિ, ઘણા પ્રમથ સાથે, જો તમે કોઈને બ્રહ્માસની વિરુદ્ધ દિશામાન કરશો તો તે તમારી ઇચ્છા પૂર્ણ કરશે.\" તેથી સૂચના આપવામાં આવી, સુદક્ષિણએ ધાર્મિક વ્રતનું કડક પાલન કર્યું અને ભગવાન કૃષ્ણ સામે અભિચારનું આહ્વાન કર્યું."
+            }
+        }
+    },
+    {
+        "id": 106632,
+        "sloka": "10.66.32-33",
+        "verse_id": 106632,
+        "verseNumber": 32,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Thereupon the fire rose up out of the altar pit, assuming the form of an extremely fearsome, naked person. The fiery creature’s beard and tuft of hair were like molten copper, and his eyes emitted blazing hot cinders. His face looked most frightful with its fangs and terrible arched and furrowed brows. As he licked the corners of his mouth with his tongue, the demon shook his flaming trident."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "इसके बाद अग्नि वेदी के गड्ढे से बाहर उठी और अत्यंत भयानक, नग्न व्यक्ति का रूप धारण कर लिया। उग्र प्राणी की दाढ़ी और बालों का गुच्छा पिघले हुए तांबे की तरह थे, और उसकी आँखों से धधकती गर्म अंगारियाँ निकल रही थीं। उसका चेहरा नुकीले नुकीले दांतों और भयानक धनुषाकार तथा सिकुड़ी हुई भौंहों के कारण अत्यंत भयावह लग रहा था। जैसे ही उसने अपनी जीभ से उसके मुँह के कोनों को चाटा, राक्षस ने अपना जलता हुआ त्रिशूल हिलाया।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "ત્યારપછી વેદીના ખાડામાંથી અગ્નિ એક અત્યંત ભયાનક, નગ્ન વ્યક્તિનું રૂપ ધારણ કરીને બહાર નીકળ્યો. જ્વલંત પ્રાણીની દાઢી અને વાળ પીગળેલા તાંબા જેવા હતા, અને તેની આંખોમાંથી સળગતા ગરમ સિંડર્સ બહાર નીકળ્યા. તેનો ચહેરો તેની ફેણ અને ભયંકર કમાનવાળા અને રુંવાટીવાળું ભમર સાથે સૌથી ભયાનક દેખાતો હતો. જેમ જેમ તેણે તેની જીભ વડે તેના મોંના ખૂણાઓને ચાટ્યો, ત્યારે રાક્ષસે તેના સળગતા ત્રિશૂળને હલાવી નાખ્યું."
+            }
+        }
+    },
+    {
+        "id": 106634,
+        "sloka": "10.66.34",
+        "verse_id": 106634,
+        "verseNumber": 34,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "On legs as tall as palm trees, the monster raced toward Dvārakā in the company of ghostly spirits, shaking the ground and burning the world in all directions."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "ताड़ के पेड़ जितने ऊंचे पैरों पर, राक्षस भूतिया आत्माओं के साथ द्वारका की ओर दौड़ा, जमीन को हिलाया और सभी दिशाओं में दुनिया को जला दिया।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "તાડના વૃક્ષો જેટલા ઊંચા પગ પર, રાક્ષસ ભૂતપ્રેતની સાથે દ્વારકા તરફ દોડ્યો, જમીનને હલાવીને અને વિશ્વને બધી દિશાઓમાં બાળી નાખ્યો."
+            }
+        }
+    },
+    {
+        "id": 106635,
+        "sloka": "10.66.35",
+        "verse_id": 106635,
+        "verseNumber": 35,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Seeing the approacḥ of the fiery demon created by the abhicāra ritual, the residents of Dvārakā were all struck with fear, like animals terrified by a forest fire."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "अभिचार अनुष्ठान द्वारा उत्पन्न उग्र राक्षस के दृष्टिकोण को देखकर, द्वारका के सभी निवासी भयभीत हो गए, जैसे जंगल की आग से भयभीत जानवर।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "અભિચાર વિધિ દ્વારા ઉત્પાદિત અગ્નિ રાક્ષસનો અભિગમ જોઈને, દ્વારકાના રહેવાસીઓ જંગલની આગથી ભયભીત પ્રાણીઓની જેમ ભયભીત થઈ ગયા."
+            }
+        }
+    },
+    {
+        "id": 106636,
+        "sloka": "10.66.36",
+        "verse_id": 106636,
+        "verseNumber": 36,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Distraught with fear, the people cried out to the Supreme Personality of Godhead, who was then playing at dice in the royal court: “Save us! Save us, O Lord of the three worlds, from this fire burning up the city!”"
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "भय से व्याकुल होकर, लोगों ने भगवान के सर्वोच्च व्यक्तित्व को पुकारा, जो उस समय शाही दरबार में पासा खेल रहे थे: \"हमें बचाएं! हे तीनों लोकों के भगवान, हमें इस शहर को जलाने वाली आग से बचाएं!\""
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "ભયથી પરેશાન થઈને, લોકોએ પરમપુરુષ ભગવાનને બૂમ પાડી, જેઓ તે સમયે શાહી દરબારમાં પાસાઓ પર રમતા હતા: \"અમને બચાવો! ત્રણ જગતના ભગવાન, શહેરને બાળી નાખતી આ આગથી અમને બચાવો!\""
+            }
+        }
+    },
+    {
+        "id": 106637,
+        "sloka": "10.66.37",
+        "verse_id": 106637,
+        "verseNumber": 37,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "When Lord Kṛṣṇa heard the people’s agitation and saw that even His own men were disturbed, that most worthy giver of shelter simply laughed and told them, “Do not fear; I shall protect you.”"
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "जब भगवान कृष्ण ने लोगों की हलचल सुनी और देखा कि उनके अपने लोग भी परेशान हैं, तो आश्रय के सबसे योग्य दाता ने हंसते हुए उनसे कहा, \"डरो मत; मैं तुम्हारी रक्षा करूंगा।\""
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "જ્યારે ભગવાન કૃષ્ણએ લોકોના આંદોલનને સાંભળ્યું અને જોયું કે તેમના પોતાના માણસો પણ પરેશાન છે, ત્યારે આશ્રય આપનાર સૌથી લાયક હસી પડ્યા અને તેમને કહ્યું, \"ડરશો નહીં, હું તમારું રક્ષણ કરીશ.\""
+            }
+        }
+    },
+    {
+        "id": 106638,
+        "sloka": "10.66.38",
+        "verse_id": 106638,
+        "verseNumber": 38,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "The almighty Lord, the internal and external witness of all, understood that the monster had been produced by Lord Śiva from the sacrificial fire. To defeat the demon, Kṛṣṇa dispatched His disc weapon, who was waiting at His side."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "सर्वशक्तिमान भगवान, सबके आंतरिक और बाह्य साक्षी, समझ गए कि राक्षस को भगवान शिव ने यज्ञ की अग्नि से उत्पन्न किया था। राक्षस को हराने के लिए, कृष्ण ने अपना चक्र हथियार भेजा, जो उनकी तरफ इंतजार कर रहा था।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "સર્વશક્તિમાન ભગવાન, બધાના આંતરિક અને બાહ્ય સાક્ષી, સમજી ગયા કે રાક્ષસ ભગવાન શિવ દ્વારા યજ્ઞની અગ્નિમાંથી ઉત્પન્ન થયો છે. રાક્ષસને હરાવવા માટે, કૃષ્ણએ તેમનું ડિસ્ક હથિયાર મોકલ્યું, જે તેમની બાજુમાં રાહ જોઈ રહ્યા હતા."
+            }
+        }
+    },
+    {
+        "id": 106639,
+        "sloka": "10.66.39",
+        "verse_id": 106639,
+        "verseNumber": 39,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "That Sudarśana, the disc weapon of Lord Mukunda, blazed forth like millions of suns. His effulgence blazed like the fire of universal annihilation, and with his heat he pained the sky, all the directions, heaven and earth, and also the fiery demon."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "भगवान मुकुन्द का वह चक्र सुदर्शन लाखों सूर्यों के समान चमक रहा था। उनका तेज सार्वभौमिक विनाश की आग की तरह चमक रहा था, और उन्होंने अपनी गर्मी से आकाश, सभी दिशाओं, स्वर्ग और पृथ्वी और उग्र दानव को भी पीड़ा दी।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "તે સુદર્શન, ભગવાન મુકુંદનું ડિસ્ક શસ્ત્ર, લાખો સૂર્યની જેમ પ્રજ્વલિત થયું. તેનો તેજો સર્વસ્વ વિનાશની અગ્નિની જેમ પ્રજ્વલિત થયો, અને તેની ગરમીથી તેણે આકાશ, તમામ દિશાઓ, સ્વર્ગ અને પૃથ્વી અને અગ્નિ રાક્ષસને પણ પીડા આપી."
+            }
+        }
+    },
+    {
+        "id": 106640,
+        "sloka": "10.66.40",
+        "verse_id": 106640,
+        "verseNumber": 40,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Frustrated by the power of Lord Kṛṣṇa’s weapon, O King, the fiery creature produced by black magic turned his face away and retreated. Created for violence, the demon then returned to Vārāṇasī, where he surrounded the city and then burned Sudakṣiṇa and his priests to death, even though Sudakṣiṇa was his creator."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "हे राजन, भगवान कृष्ण के हथियार की शक्ति से निराश होकर, काले जादू से उत्पन्न उग्र प्राणी ने अपना चेहरा घुमा लिया और पीछे हट गया। हिंसा के लिए बनाया गया राक्षस फिर वाराणसी लौट आया, जहां उसने शहर को घेर लिया और फिर सुदक्षिण और उसके पुजारियों को जलाकर मार डाला, भले ही सुदक्षिण उसका निर्माता था।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "હે રાજા, ભગવાન કૃષ્ણના શસ્ત્રની શક્તિથી નિરાશ થઈને, કાળા જાદુથી ઉત્પન્ન થયેલ અગ્નિ પ્રાણીએ પોતાનું મોં ફેરવી લીધું અને પીછેહઠ કરી. હિંસા માટે બનાવવામાં આવેલો, રાક્ષસ પછી વારાણસી પાછો ફર્યો, જ્યાં તેણે શહેરને ઘેરી લીધું અને પછી સુદક્ષિણ અને તેના પુરોહિતોને બાળીને મારી નાખ્યા, ભલે સુદક્ષિણ તેના સર્જક હતા."
+            }
+        }
+    },
+    {
+        "id": 106641,
+        "sloka": "10.66.41",
+        "verse_id": 106641,
+        "verseNumber": 41,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Lord Viṣṇu’s disc also entered Vārāṇasī, in pursuit of the fiery demon, and proceeded to burn the city to the ground, including all its assembly halls and residential palaces with raised porches, its numerous marketplaces, gateways, watchtowers, warehouses and treasuries, and all the buildings housing elephants, horses, chariots and grains."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "भगवान विष्णु का चक्र भी उग्र राक्षस का पीछा करते हुए वाराणसी में प्रवेश कर गया और शहर को जलाने के लिए आगे बढ़ा, जिसमें इसके सभी विधानसभा हॉल और ऊंचे बरामदे वाले आवासीय महल, इसके कई बाजार, प्रवेश द्वार, वॉचटावर, गोदाम और खजाने, और हाथी, घोड़े, रथ और अनाज वाले सभी भवन शामिल थे।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "ભગવાન વિષ્ણુની ડિસ્ક પણ અગ્નિ રાક્ષસનો પીછો કરતા વારાણસીમાં પ્રવેશી, અને શહેરને જમીન પર બાળી નાખવા માટે આગળ વધ્યું, જેમાં તેના તમામ એસેમ્બલી હોલ અને ઊંચા મંડપવાળા રહેણાંક મહેલો, તેના અસંખ્ય બજારો, પ્રવેશદ્વાર, ચોકીબુરજ, વેરહાઉસીસ અને તમામ મકાનો અને મકાનો. ઘોડા, રથ અને અનાજ."
+            }
+        }
+    },
+    {
+        "id": 106642,
+        "sloka": "10.66.42",
+        "verse_id": 106642,
+        "verseNumber": 42,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "After burning down the entire city of Vārāṇasī, Lord Viṣṇu’s Sudarśana cakra returned to the side of Śrī Kṛṣṇa, whose actions are effortless."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "पूरे वाराणसी शहर को जलाने के बाद, भगवान विष्णु का सुदर्शन चक्र श्रीकृष्ण के पक्ष में लौट आया, जिनके कार्य सहज हैं।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "આખા વારાણસી શહેરને બાળી નાખ્યા પછી, ભગવાન વિષ્ણુનું સુદર્શન ચક્ર શ્રી કૃષ્ણની બાજુમાં પાછું આવ્યું, જેમની ક્રિયાઓ સહજ છે."
+            }
+        }
+    },
+    {
+        "id": 106643,
+        "sloka": "10.66.43",
+        "verse_id": 106643,
+        "verseNumber": 43,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Any mortal who recounts this heroic pastime of Lord Uttamaḥ-śloka’s, or who simply hears it attentively, will become freed from all sins."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "कोई भी प्राणी जो भगवान उत्तमः-श्लोक की इस वीरतापूर्ण लीला का वर्णन करता है, या जो इसे ध्यान से सुनता है, वह सभी पापों से मुक्त हो जाएगा।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "કોઈપણ મનુષ્ય જે ભગવાન ઉત્તમ-શ્લોકના આ પરાક્રમી મનોરંજનનું વર્ણન કરે છે, અથવા જે તેને ધ્યાનથી સાંભળે છે, તે બધા પાપોમાંથી મુક્ત થઈ જશે."
+            }
+        }
+    }
+]

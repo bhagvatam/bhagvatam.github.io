@@ -1,0 +1,393 @@
+[
+    {
+        "id": 102801,
+        "sloka": "10.28.1",
+        "verse_id": 102801,
+        "verseNumber": 1,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Śrī Bādarāyaṇi said: Having worshiped Lord Janārdana and fasted on the Ekādaśī day, Nanda Mahārāja entered the water of the Kālindī on the Dvādaśī to take his bath."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "श्री बदरायनी ने कहा: भगवान जनार्दन की पूजा करने और एकादशी के दिन उपवास करने के बाद, नंद महाराज ने द्वादशी को स्नान करने के लिए कालिन्दी के जल में प्रवेश किया।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "શ્રી બાદરાયણીએ કહ્યું: ભગવાન જનાર્દનની પૂજા કરીને અને એકાદશીના દિવસે ઉપવાસ કર્યા પછી, નંદ મહારાજ સ્નાન કરવા માટે દ્વાદશીના દિવસે કાલિંદીના જળમાં પ્રવેશ્યા."
+            }
+        }
+    },
+    {
+        "id": 102802,
+        "sloka": "10.28.2",
+        "verse_id": 102802,
+        "verseNumber": 2,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Because Nanda Mahārāja entered the water in the dark of night, disregarding that the time was inauspicious, a demoniac servant of Varuṇa seized him and brought him to his master."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "चूँकि नन्द महाराज रात के अँधेरे में अशुभ समय की परवाह किए बिना पानी में चले गए, इसलिए वरुण के एक राक्षसी सेवक ने उन्हें पकड़ लिया और अपने स्वामी के पास ले आया।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "કારણ કે નંદ મહારાજ રાતના અંધકારમાં પાણીમાં પ્રવેશ્યા હતા, સમય અશુભ છે તેની અવગણના કરીને, વરુણના એક રાક્ષસી સેવકે તેને પકડી લીધો અને તેના માલિક પાસે લઈ આવ્યો."
+            }
+        }
+    },
+    {
+        "id": 102803,
+        "sloka": "10.28.3",
+        "verse_id": 102803,
+        "verseNumber": 3,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "O King, not seeing Nanda Mahārāja, the cowherd men loudly cried out, “O Kṛṣṇa! O Rāma!” Lord Kṛṣṇa heard their cries and understood that His father had been captured by Varuṇa. Therefore the almighty Lord, who makes His devotees fearless, went to the court of Varuṇadeva."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "हे राजा, नंद महाराज को न देखकर ग्वाले जोर से चिल्लाने लगे, \"हे कृष्ण! हे राम!\" भगवान कृष्ण ने उनकी पुकार सुनी और समझ गए कि उनके पिता को वरुण ने पकड़ लिया है। इसलिए सर्वशक्तिमान भगवान, जो अपने भक्तों को निर्भय बनाते हैं, वरुणदेव के दरबार में गए।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "હે રાજા, નંદ મહારાજને ન જોતાં, ગોવાળિયાઓએ મોટેથી પોકાર કર્યો, \"હે કૃષ્ણ! હે રામ!\" ભગવાન કૃષ્ણએ તેઓની બૂમો સાંભળી અને સમજ્યા કે તેમના પિતાને વરુણ દ્વારા પકડવામાં આવ્યા છે. તેથી સર્વશક્તિમાન ભગવાન, જે તેમના ભક્તોને નિર્ભય બનાવે છે, વરુણદેવના દરબારમાં ગયા."
+            }
+        }
+    },
+    {
+        "id": 102804,
+        "sloka": "10.28.4",
+        "verse_id": 102804,
+        "verseNumber": 4,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Seeing that the Lord, Hṛṣīkeśa, had arrived, the demigod Varuṇa worshiped Him with elaborate offerings. Varuṇa was in a state of great jubilation upon seeing the Lord, and he spoke as follows."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "यह देखकर कि भगवान हृषीकेश आये हैं, देवता वरुण ने विस्तृत भेंटों से उनकी पूजा की। भगवान को देखकर वरुण अत्यंत प्रसन्न हुए और उन्होंने इस प्रकार कहा।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "ભગવાન, ઋષિકેશ, પધાર્યા છે તે જોઈને, દેવતા વરુણએ વિસ્તૃત પ્રસાદ સાથે તેમની પૂજા કરી. ભગવાનને જોઈને વરુણ ખૂબ જ આનંદની સ્થિતિમાં હતો, અને તેણે નીચે પ્રમાણે વાત કરી."
+            }
+        }
+    },
+    {
+        "id": 102805,
+        "sloka": "10.28.5",
+        "verse_id": 102805,
+        "verseNumber": 5,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Śrī Varuṇa said: Now my body has fulfilled its function. Indeed, now the goal of my life is achieved, O Lord. Those who accept Your lotus feet, O Personality of Godhead, can transcend the path of material existence."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "श्री वरुण ने कहा: अब मेरे शरीर ने अपना कार्य पूरा कर लिया है। वास्तव में, अब मेरे जीवन का लक्ष्य प्राप्त हो गया है, हे भगवान। हे भगवान, जो आपके कमल चरणों को स्वीकार करते हैं, वे भौतिक अस्तित्व के मार्ग को पार कर सकते हैं।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "શ્રી વરુણ બોલ્યા: હવે મારા શરીરે તેનું કાર્ય પૂર્ણ કર્યું છે. ખરેખર, હવે મારા જીવનનું લક્ષ્ય પ્રાપ્ત થયું છે, હે પ્રભુ. જેઓ તમારા કમળ ચરણોને સ્વીકારે છે, હે પરમાત્મા, તેઓ ભૌતિક અસ્તિત્વના માર્ગને પાર કરી શકે છે."
+            }
+        }
+    },
+    {
+        "id": 102806,
+        "sloka": "10.28.6",
+        "verse_id": 102806,
+        "verseNumber": 6,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "My obeisances unto You, the Supreme Personality of Godhead, the Absolute Truth, the Supreme Soul, within whom there is no trace of the illusory energy, which orchestrates the creation of this world."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "परम भगवान, पूर्ण सत्य, सर्वोच्च आत्मा, आपके प्रति मेरा प्रणाम, जिनके भीतर मायावी ऊर्जा का कोई निशान नहीं है, जो इस दुनिया के निर्माण का संचालन करती है।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "પરમાત્મા, પરમ સત્ય, પરમ આત્મા, જેમની અંદર આ જગતના સર્જનનું આયોજન કરતી ભ્રામક શક્તિનો કોઈ પત્તો નથી, તમને મારા પ્રણામ."
+            }
+        }
+    },
+    {
+        "id": 102807,
+        "sloka": "10.28.7",
+        "verse_id": 102807,
+        "verseNumber": 7,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Your father, who is sitting here, was brought to me by a foolish, ignorant servant of mine who did not understand his proper duty. Therefore, please forgive us."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "तुम्हारे पिता, जो यहाँ बैठे हैं, को मेरा एक मूर्ख, अज्ञानी नौकर मेरे पास लाया था जो अपना उचित कर्तव्य नहीं समझता था। अत: कृपया हमें क्षमा करें।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "અહીં બેઠેલા તમારા પિતાને મારા એક મૂર્ખ, અજ્ઞાની સેવક મારી પાસે લાવ્યો હતો જેણે તેની યોગ્ય ફરજ ન સમજાઈ. તેથી, કૃપા કરીને અમને માફ કરો."
+            }
+        }
+    },
+    {
+        "id": 102808,
+        "sloka": "10.28.8",
+        "verse_id": 102808,
+        "verseNumber": 8,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "O Kṛṣṇa, O seer of everything, please give Your mercy even to me. O Govinda, You are most affectionate to Your father. Please take him home."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "हे कृष्ण, हे सब कुछ के द्रष्टा, कृपया मुझ पर भी अपनी दया करो। हे गोविंदा, आप अपने पिता के सबसे अधिक स्नेही हैं। कृपया उसे घर ले जाएं."
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "હે કૃષ્ણ, હે દરેક વસ્તુના દ્રષ્ટા, કૃપા કરીને મારા પર પણ તમારી કૃપા કરો. હે ગોવિંદા, તું તારા પિતાને સૌથી વધુ પ્રેમાળ છે. કૃપા કરીને તેને ઘરે લઈ જાઓ."
+            }
+        }
+    },
+    {
+        "id": 102809,
+        "sloka": "10.28.9",
+        "verse_id": 102809,
+        "verseNumber": 9,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Śukadeva Gosvāmī said: Thus satisfied by Lord Varuṇa, Śrī Kṛṣṇa, the Supreme Personality of Godhead, Lord of lords, took His father and returned home, where their relatives were overjoyed to see them."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "शुकदेव गोस्वामी ने कहा: इस प्रकार भगवान वरुण से संतुष्ट होकर, देवों के देव, भगवान श्रीकृष्ण, अपने पिता को ले गए और घर लौट आए, जहां उनके रिश्तेदार उन्हें देखकर बहुत खुश हुए।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "શુકદેવ ગોસ્વામીએ કહ્યું: આ રીતે ભગવાન વરુણથી સંતુષ્ટ થઈને, શ્રી કૃષ્ણ, પરમ પુરૂષ ભગવાન, ભગવાનોના ભગવાન, તેમના પિતાને લઈને ઘરે પાછા ફર્યા, જ્યાં તેમના સંબંધીઓ તેમને જોઈને આનંદિત થયા."
+            }
+        }
+    },
+    {
+        "id": 102810,
+        "sloka": "10.28.10",
+        "verse_id": 102810,
+        "verseNumber": 10,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Nanda Mahārāja had been astonished to see for the first time the great opulence of Varuṇa, the ruler of the ocean planet, and also to see how Varuṇa and his servants had offered such humble respect to Kṛṣṇa. Nanda described all this to his fellow cowherd men."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "नंद महाराज पहली बार समुद्र ग्रह के शासक वरुण की महान समृद्धि को देखकर चकित रह गए थे, और यह भी देखकर कि कैसे वरुण और उनके सेवकों ने कृष्ण को इतना विनम्र सम्मान दिया था। नंद ने यह सब अपने साथी ग्वालों को बताया।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "નંદ મહારાજ પ્રથમ વખત સમુદ્ર ગ્રહના શાસક વરુણની મહાન ઐશ્વર્ય જોઈને અને વરુણ અને તેના સેવકોએ કૃષ્ણને આટલું નમ્ર આદર કેવી રીતે આપ્યો તે જોઈને આશ્ચર્યચકિત થઈ ગયા હતા. નંદાએ આ બધું તેના સાથી ગોવાળિયાઓને વર્ણવ્યું."
+            }
+        }
+    },
+    {
+        "id": 102811,
+        "sloka": "10.28.11",
+        "verse_id": 102811,
+        "verseNumber": 11,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "[Hearing about Kṛṣṇa’s pastimes with Varuṇa,] the cowherd men considered that Kṛṣṇa must be the Supreme Lord, and their minds, O King, were filled with eagerness. They thought, “Will the Supreme Lord bestow upon us His transcendental abode?”"
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "[वरुण के साथ कृष्ण की लीलाओं के बारे में सुनकर,] चरवाहों ने सोचा कि कृष्ण ही परम भगवान होंगे, और हे राजा, उनके मन उत्सुकता से भर गए। उन्होंने सोचा, \"क्या परमेश्वर हमें अपना दिव्य निवास प्रदान करेंगे?\""
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "[વરુણ સાથે કૃષ્ણના વિનોદ વિશે સાંભળીને,] ગોવાળો માનતા હતા કે કૃષ્ણ જ સર્વોપરી ભગવાન હોવા જોઈએ, અને તેમના મન, હે રાજા, આતુરતાથી ભરાઈ ગયા. તેઓએ વિચાર્યું, \"શું પરમ ભગવાન આપણને તેમનું દિવ્ય નિવાસ આપશે?\""
+            }
+        }
+    },
+    {
+        "id": 102812,
+        "sloka": "10.28.12",
+        "verse_id": 102812,
+        "verseNumber": 12,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Because He sees everything, Lord Kṛṣṇa, the Supreme Personality of Godhead, automatically understood what the cowherd men were conjecturing. Wanting to show His compassion to them by fulfilling their desires, the Lord thought as follows."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "क्योंकि वे सब कुछ देखते हैं, भगवान कृष्ण, परम भगवान, स्वचालित रूप से समझ गए कि चरवाहे क्या अनुमान लगा रहे थे। उनकी इच्छाओं को पूरा करके उन पर अपनी दया दिखाने की इच्छा से, भगवान ने इस प्रकार सोचा।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "કારણ કે તે બધું જુએ છે, ભગવાન કૃષ્ણ, પરમ પુરૂષ ભગવાન, આપોઆપ સમજી ગયા કે ગોવાળો શું અનુમાન કરી રહ્યા છે. તેમની ઈચ્છાઓ પૂરી કરીને તેમના પ્રત્યે કરુણા દર્શાવવા ઈચ્છતા પ્રભુએ નીચે મુજબ વિચાર્યું."
+            }
+        }
+    },
+    {
+        "id": 102813,
+        "sloka": "10.28.13",
+        "verse_id": 102813,
+        "verseNumber": 13,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "[Lord Kṛṣṇa thought:] Certainly people in this world are wandering among higher and lower destinations, which they achieve through activities performed according to their desires and without full knowledge. Thus people do not know their real destination."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "[भगवान कृष्ण ने सोचा:] निश्चित रूप से इस दुनिया में लोग उच्च और निम्न मंजिलों में भटक रहे हैं, जिसे वे अपनी इच्छाओं के अनुसार और पूर्ण ज्ञान के बिना किए गए कार्यों के माध्यम से प्राप्त करते हैं। इस प्रकार लोगों को अपने वास्तविक गंतव्य का पता नहीं चलता।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "[ભગવાન કૃષ્ણએ વિચાર્યું:] ચોક્કસપણે આ જગતમાં લોકો ઉચ્ચ અને નીચા ગંતવ્યોની વચ્ચે ભટકતા હોય છે, જે તેઓ તેમની ઇચ્છાઓ અનુસાર અને સંપૂર્ણ જ્ઞાન વિના કરવામાં આવતી પ્રવૃત્તિઓ દ્વારા પ્રાપ્ત કરે છે. આમ લોકો તેમના વાસ્તવિક મુકામને જાણતા નથી."
+            }
+        }
+    },
+    {
+        "id": 102814,
+        "sloka": "10.28.14",
+        "verse_id": 102814,
+        "verseNumber": 14,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Thus deeply considering the situation, the all-merciful Supreme Personality of Godhead Hari revealed to the cowherd men His abode, which is beyond material darkness."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "इस प्रकार स्थिति पर गहराई से विचार करते हुए, परम दयालु भगवान हरि ने ग्वालों को अपना निवास स्थान बताया, जो भौतिक अंधकार से परे है।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "આ રીતે પરિસ્થિતિનો ઊંડો વિચાર કરીને, સર્વ-દયાળુ પરમ પરમ પરમાત્મા ભગવાન હરિએ ગોવાળોને તેમનું નિવાસસ્થાન પ્રગટ કર્યું, જે ભૌતિક અંધકારની બહાર છે."
+            }
+        }
+    },
+    {
+        "id": 102815,
+        "sloka": "10.28.15",
+        "verse_id": 102815,
+        "verseNumber": 15,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Lord Kṛṣṇa revealed the indestructible spiritual effulgence, which is unlimited, conscious and eternal. Sages see that spiritual existence in trance, when their consciousness is free of the modes of material nature."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "भगवान कृष्ण ने अविनाशी आध्यात्मिक तेज प्रकट किया, जो असीमित, चेतन और शाश्वत है। संत उस आध्यात्मिक अस्तित्व को समाधि में देखते हैं, जब उनकी चेतना भौतिक प्रकृति के गुणों से मुक्त होती है।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "ભગવાન કૃષ્ણએ અવિનાશી આધ્યાત્મિક પ્રકાશ પ્રગટ કર્યો, જે અમર્યાદિત, ચેતન અને શાશ્વત છે. ઋષિઓ તે આધ્યાત્મિક અસ્તિત્વને સમાધિમાં જુએ છે, જ્યારે તેમની ચેતના ભૌતિક પ્રકૃતિની સ્થિતિઓથી મુક્ત હોય છે."
+            }
+        }
+    },
+    {
+        "id": 102816,
+        "sloka": "10.28.16",
+        "verse_id": 102816,
+        "verseNumber": 16,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "The cowherd men were brought by Lord Kṛṣṇa to the Brahma-hrada, made to submerge in the water, and then lifted up. From the same vantage point that Akrūra saw the spiritual world, the cowherd men saw the planet of the Absolute Truth."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "ग्वालों को भगवान कृष्ण ब्रह्म-ह्रद में लाए, पानी में डुबाया और फिर ऊपर उठा लिया। उसी सुविधाजनक दृष्टि से जिस दृष्टि से अक्रूर ने आध्यात्मिक संसार को देखा, चरवाहों ने परम सत्य के ग्रह को देखा।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "ગોવાળો માણસોને ભગવાન કૃષ્ણ દ્વારા બ્રહ્મહૃદ પાસે લાવવામાં આવ્યા હતા, તેમને પાણીમાં ડૂબવા માટે બનાવવામાં આવ્યા હતા, અને પછી ઉપર ઉઠાવવામાં આવ્યા હતા. અક્રુરે આધ્યાત્મિક જગતને જોયું તે જ અનુકૂળ બિંદુથી, ગોવાળો માણસોએ સંપૂર્ણ સત્યનો ગ્રહ જોયો."
+            }
+        }
+    },
+    {
+        "id": 102817,
+        "sloka": "10.28.17",
+        "verse_id": 102817,
+        "verseNumber": 17,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Nanda Mahārāja and the other cowherd men felt the greatest happiness when they saw that transcendental abode. They were especially amazed to see Kṛṣṇa Himself there, surrounded by the personified Vedas, who were offering Him prayers."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "नंद महाराज और अन्य चरवाहों को सबसे बड़ी खुशी महसूस हुई जब उन्होंने उस दिव्य निवास को देखा। वे विशेष रूप से वहाँ स्वयं कृष्ण को देखकर आश्चर्यचकित हुए, जो वेदों से घिरे हुए थे, जो उनकी प्रार्थना कर रहे थे।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "નંદ મહારાજ અને અન્ય ગોવાળિયાઓએ જ્યારે તે દિવ્ય નિવાસસ્થાન જોયો ત્યારે તેઓએ સૌથી વધુ આનંદ અનુભવ્યો. તેઓ ખાસ કરીને કૃષ્ણને પોતાને ત્યાં જોઈને આશ્ચર્યચકિત થઈ ગયા, જેઓ તેમની પ્રાર્થના કરી રહ્યા હતા."
+            }
+        }
+    }
+]

@@ -1,0 +1,1451 @@
+[
+    {
+        "id": 100101,
+        "sloka": "10.1.1",
+        "verse_id": 100101,
+        "verseNumber": 1,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "King Parīkṣit said: My dear lord, you have elaborately described the dynasties of both the moon-god and the sun-god, with the exalted and wonderful character of their kings."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "राजा परीक्षित ने कहा: हे पूज्य मुनि, आपने सोमवंश और सूर्यवंश के विस्तार का वर्णन किया है, साथ ही उन दोनों वंशों के राजाओं के परम अद्भुत चरित्र भी सुनाए हैं।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "રાજા પરીક્ષિતે કહ્યું: હે પૂજ્ય મુનિ, આપે ચંદ્રવંશ અને સૂર્યવંશના વિસ્તારનું વર્ણન કર્યું છે, તેમજ બંને વંશના રાજાઓના પરમ અદ્ભુત ચરિત્રો પણ સંભળાવ્યા છે."
+            }
+        }
+    },
+    {
+        "id": 100102,
+        "sloka": "10.1.2",
+        "verse_id": 100102,
+        "verseNumber": 2,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "O most fortunate Śukadeva Gosvāmī, you have described the character of those kings who were devoted to dharma and who were always obedient to the infallible Supreme Personality of Godhead, Acyuta."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "हे परम भाग्यशाली शुकदेव जी, आपने उन धर्मात्मा राजाओं के पवित्र चरित्र का वर्णन किया है जो कुरुवंश की कीर्ति बढ़ाने वाले थे और अच्युत (भगवान) के प्रति समर्पित थे।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "હે પરમ ભાગ્યશાળી શુકદેવજી, આપે તે ધર્માત્મા રાજાઓના પવિત્ર ચરિત્રનું વર્ણન કર્યું છે જેઓ કુરુવંશની કીર્તિ વધારનારા હતા અને અચ્યુત (ભગવાન) પ્રત્યે સમર્પિત હતા."
+            }
+        }
+    },
+    {
+        "id": 100103,
+        "sloka": "10.1.3",
+        "verse_id": 100103,
+        "verseNumber": 3,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "O learned teacher, you have also described the glorious activities of Lord Viṣṇu. In those accounts, the Supreme Lord of the universe descended in His partial expansion [as Balarāma] and in His original personal form [as Kṛṣṇa]."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "हे देव, आपने भगवान विष्णु के महान चरित्रों का वर्णन किया है, जिसमें ब्रह्मांड के स्वामी भगवान ने अपने अंश (बलराम) और अपने मूल रूप (कृष्ण) में अवतार लिया।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "હે દેવ, આપે ભગવાન વિષ્ણુના મહાન ચરિત્રોનું વર્ણન કર્યું છે, જેમાં બ્રહ્માંડના સ્વામી ભગવાને પોતાના અંશ (બલરામ) અને પોતાના મૂળ રૂપ (કૃષ્ણ) માં અવતાર લીધો."
+            }
+        }
+    },
+    {
+        "id": 100104,
+        "sloka": "10.1.4",
+        "verse_id": 100104,
+        "verseNumber": 4,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Glorification of the Supreme Lord is sung by those who are completely free from material desires. It is the medicine for the disease of birth and death, and it is pleasing to both the ear and the mind. Therefore, who but a killer of animals (or a killer of his own soul) would avoid hearing such glorification?"
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "भगवान उत्तमश्लोक के गुणों का गान उन लोगों द्वारा किया जाता है जो भौतिक तृष्णा से मुक्त हो चुके हैं। यह संसार-रोग की दिव्य औषधि है और कानों तथा मन को परम शांति प्रदान करने वाला है। अतः पशुघाती (या आत्मघाती) व्यक्ति के अतिरिक्त कौन ऐसा होगा जो इस गुणगान से विमुख हो?"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "ભગવાન ઉત્તમશ્લોકના ગુણોનું ગાન તે લોકો દ્વારા કરવામાં આવે છે જેઓ ભૌતિક તૃષ્ણાથી મુક્ત થઈ ચૂક્યા છે. આ સંસાર-રોગની દિવ્ય ઔષધિ છે અને કાન તેમજ મનને પરમ શાંતિ આપનારું છે. આથી પશુઘાતી (અથવા આત્મઘાતી) વ્યક્તિ સિવાય બીજું કોણ એવું હશે જે આ ગુણગાનથી વિમુખ થાય?"
+            }
+        }
+    },
+    {
+        "id": 100105,
+        "sloka": "10.1.5-7",
+        "verse_id": 100105,
+        "verseNumber": 5,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "My grandfathers [the Pāṇḍavas] were able to cross the insurmountable ocean of the Kaurava army, which was filled with great chariot fighters like Bhīṣma who were like timiṅgila ocean monsters, because they took shelter of the boat of Kṛṣṇa's lotus feet, easily crossing as if it were a calf's hoofprint."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "मेरे दादाजी (पांडव) भीष्म जैसे बड़े-बड़े महारथी रूपी तिमिंगिल (विशाल जलजीवों) से भरी कौरव-सेना के अत्यंत दुर्गम महासागर को आसानी से पार कर गए, जैसे बछड़े के खुर के गड्ढे को पार किया जाता है, क्योंकि उनके पास श्रीकृष्ण रूपी नौका थी।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "મારા દાદાજીઓ (પાંડવો) ભીષ્મ જેવા મોટા-મોટા મહારથીરૂપી તિમિંગિલ (વિશાળ જળજીવો) થી ભરેલા કૌરવ-સેનાના અત્યંત દુર્ગમ મહાસાગરને સરળતાથી પાર કરી ગયા, જેમ વાછરડાના ખરીના ખાડાને પાર કરાય છે, કારણ કે તેમની પાસે શ્રીકૃષ્ણરૂપી નૌકા હતી."
+            }
+        }
+    },
+    {
+        "id": 100108,
+        "sloka": "10.1.8",
+        "verse_id": 100108,
+        "verseNumber": 8,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "My dear Śukadeva Gosvāmī, you have already explained that Saṅkarṣaṇa, who belongs to the second quadruple, appeared as the son of Rohiṇī named Balarāma. If Balarāma was not transferred from one body to another, how is it possible that He was first in the womb of Devakī and then in the womb of Rohiṇī? Kindly explain this to me."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "मेरे प्रिय शुकदेव गोस्वामी, आप पहले ही बता चुके हैं कि संकर्षण, जो दूसरे चतुर्भुज से संबंधित हैं, बलराम नामक रोहिणी के पुत्र के रूप में प्रकट हुए। यदि बलराम को एक शरीर से दूसरे शरीर में स्थानांतरित नहीं किया गया, तो यह कैसे संभव है कि वह पहले देवकी के गर्भ में थे और फिर रोहिणी के गर्भ में थे? कृपया मुझे यह बात समझाइये।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "મારા પ્રિય શુકદેવ ગોસ્વામી, તમે પહેલેથી જ સમજાવ્યું છે કે સંકર્ષ, જે બીજા ચતુર્થાંશનો છે, બલરામ નામના રોહિણીના પુત્ર તરીકે પ્રગટ થયા હતા. જો બલરામ એક શરીરમાંથી બીજા શરીરમાં સ્થાનાંતરિત ન થયા હોય, તો તે કેવી રીતે શક્ય છે કે તેઓ પહેલા દેવકીના ગર્ભમાં અને પછી રોહિણીના ગર્ભમાં હતા? કૃપા કરીને મને આ સમજાવો."
+            }
+        }
+    },
+    {
+        "id": 100109,
+        "sloka": "10.1.9",
+        "verse_id": 100109,
+        "verseNumber": 9,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Why did Kṛṣṇa, the Supreme Personality of Godhead, leave the house of His father, Vasudeva, and transfer Himself to the house of Nanda in Vṛndāvana? Where did the Lord, the master of the Yadu dynasty, live with His relatives in Vṛndāvana?"
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "भगवान कृष्ण ने अपने पिता वासुदेव का घर क्यों छोड़ा और खुद को वृन्दावन में नंद के घर में स्थानांतरित कर लिया? यदुवंश के स्वामी भगवान अपने रिश्तेदारों के साथ वृन्दावन में कहाँ रहते थे?"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "શા માટે કૃષ્ણ, પરમ પુરૂષ ભગવાન, તેમના પિતા, વાસુદેવનું ઘર છોડીને વૃંદાવનમાં પોતાને નંદના ઘરમાં સ્થાનાંતરિત કર્યા? યદુ વંશના સ્વામી, ભગવાન તેમના સંબંધીઓ સાથે વૃંદાવનમાં ક્યાં રહેતા હતા?"
+            }
+        }
+    },
+    {
+        "id": 100110,
+        "sloka": "10.1.10",
+        "verse_id": 100110,
+        "verseNumber": 10,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Lord Kṛṣṇa lived both in Vṛndāvana and in Mathurā. What did He do there? Why did He kill Kaṁsa, His mother’s brother? Such killing is not at all sanctioned in the śāstras."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "भगवान कृष्ण वृन्दावन और मथुरा दोनों में रहते थे। उसने वहाँ क्या किया? उन्होंने अपनी माँ के भाई कंस को क्यों मारा? शास्त्रों में ऐसी हत्या की बिल्कुल भी अनुमति नहीं है।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "ભગવાન કૃષ્ણ વૃંદાવન અને મથુરામાં બંને રહેતા હતા. તેણે ત્યાં શું કર્યું? તેણે તેની માતાના ભાઈ કંસને કેમ માર્યો? આવી હત્યા શાસ્ત્રોમાં બિલકુલ મંજૂર નથી."
+            }
+        }
+    },
+    {
+        "id": 100111,
+        "sloka": "10.1.11",
+        "verse_id": 100111,
+        "verseNumber": 11,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Kṛṣṇa, the Supreme Personality of Godhead, has no material body, yet He appears as a human being. For how many years did He live with the descendants of Vṛṣṇi? How many wives did He marry, and for how many years did He live in Dvārakā?"
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "भगवान कृष्ण का कोई भौतिक शरीर नहीं है, फिर भी वे एक मनुष्य के रूप में प्रकट होते हैं। वे वृष्णि के वंशजों के साथ कितने वर्षों तक रहे? उन्होंने कितनी पत्नियों से विवाह किया और कितने वर्षों तक वे द्वारका में रहे?"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "કૃષ્ણ, ભગવાનના સર્વોપરી વ્યક્તિત્વ, પાસે કોઈ ભૌતિક શરીર નથી, તેમ છતાં તે મનુષ્ય તરીકે દેખાય છે. તે કેટલા વર્ષ સુધી વૃષ્ણિના વંશજો સાથે રહ્યા? તેમણે કેટલી પત્નીઓ સાથે લગ્ન કર્યા હતા અને તેઓ દ્વારકામાં કેટલા વર્ષ રહ્યા હતા?"
+            }
+        }
+    },
+    {
+        "id": 100112,
+        "sloka": "10.1.12",
+        "verse_id": 100112,
+        "verseNumber": 12,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "O great sage, who know everything about Kṛṣṇa, please describe in detail all the activities of which I have inquired and also those of which I have not, for I have full faith and am very eager to hear of them."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "हे महान ऋषि, जो कृष्ण के बारे में सब कुछ जानते हैं, कृपया उन सभी गतिविधियों का विस्तार से वर्णन करें जिनके बारे में मैंने पूछताछ की है और जिनके बारे में मैंने नहीं पूछा है, क्योंकि मुझे पूरा विश्वास है और मैं उन्हें सुनने के लिए बहुत उत्सुक हूं।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "હે મહાન ઋષિ, જેઓ કૃષ્ણ વિશે બધું જ જાણે છે, કૃપા કરીને મેં જે પ્રવૃત્તિઓની પૂછપરછ કરી છે અને જેની મારી પાસે નથી તે તમામ પ્રવૃત્તિઓનું વિગતવાર વર્ણન કરો, કારણ કે મને સંપૂર્ણ વિશ્વાસ છે અને હું તેમના વિશે સાંભળવા માટે ખૂબ ઉત્સુક છું."
+            }
+        }
+    },
+    {
+        "id": 100113,
+        "sloka": "10.1.13",
+        "verse_id": 100113,
+        "verseNumber": 13,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Because of my vow on the verge of death, I have given up even drinking water, yet because I am drinking the nectar of topics about Kṛṣṇa, which is flowing from the lotus mouth of your Lordship, my hunger and thirst, which are extremely difficult to bear, cannot hinder me."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "मृत्यु के कगार पर अपनी प्रतिज्ञा के कारण, मैंने पानी पीना भी छोड़ दिया है, फिर भी क्योंकि मैं कृष्ण के बारे में विषयों का अमृत पी रहा हूं, जो आपके भगवान के कमल के मुख से बह रहा है, मेरी भूख और प्यास, जिन्हें सहन करना अत्यंत कठिन है, मुझे रोक नहीं सकती।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "મૃત્યુના આરે મારી પ્રતિજ્ઞાને લીધે, મેં પાણી પીવાનું પણ છોડી દીધું છે, તેમ છતાં હું કૃષ્ણ વિશેના વિષયોનું અમૃત પી રહ્યો છું, જે તમારા પ્રભુત્વના કમળના મુખમાંથી વહે છે, મારી ભૂખ અને તરસ, જે સહન કરવી અત્યંત મુશ્કેલ છે, તે મને રોકી શકતી નથી."
+            }
+        }
+    },
+    {
+        "id": 100114,
+        "sloka": "10.1.14",
+        "verse_id": 100114,
+        "verseNumber": 14,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Sūta Gosvāmī said: O son of Bhṛgu, after Śukadeva Gosvāmī, the most respectable devotee, the son of Vyāsadeva, heard the pious questions of Mahārāja Parīkṣit, he thanked the King with great respect. Then he began to discourse on topics concerning Kṛṣṇa, which are the remedy for all sufferings in this Age of Kali."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "सूत गोस्वामी ने कहा: हे भृगु पुत्र, जब व्यासदेव के पुत्र, परम आदरणीय भक्त शुकदेव गोस्वामी ने महाराज परीक्षित के पवित्र प्रश्न सुने, तो उन्होंने बड़े आदर के साथ राजा को धन्यवाद दिया। फिर उन्होंने कृष्ण से संबंधित विषयों पर प्रवचन देना शुरू किया, जो इस कलियुग में सभी कष्टों का इलाज हैं।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "સૂત ગોસ્વામીએ કહ્યું: હે ભૃગુના પુત્ર, શુકદેવ ગોસ્વામી પછી, પરમ આદરણીય ભક્ત, વ્યાસદેવના પુત્ર, મહારાજ પરિક્ષિતના પવિત્ર પ્રશ્નો સાંભળ્યા, તેમણે રાજાનો ખૂબ આદર સાથે આભાર માન્યો. પછી તેણે કૃષ્ણને લગતા વિષયો પર પ્રવચન કરવાનું શરૂ કર્યું, જે આ કલિયુગમાં તમામ દુઃખોનો ઉપાય છે."
+            }
+        }
+    },
+    {
+        "id": 100115,
+        "sloka": "10.1.15",
+        "verse_id": 100115,
+        "verseNumber": 15,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Śrīla Śukadeva Gosvāmī said: O Your Majesty, best of all saintly kings, because you are greatly attracted to topics of Vāsudeva, it is certain that your intelligence is firmly fixed in spiritual understanding, which is the only true goal for humanity. Because that attraction is unceasing, it is certainly sublime."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "श्रील शुकदेव गोस्वामी ने कहा: हे महामहिम, सभी संत राजाओं में सर्वश्रेष्ठ, क्योंकि आप वासुदेव के विषयों से बहुत आकर्षित हैं, यह निश्चित है कि आपकी बुद्धि दृढ़ता से आध्यात्मिक समझ में स्थिर है, जो मानवता के लिए एकमात्र सच्चा लक्ष्य है। चूँकि वह आकर्षण अनवरत है, वह निश्चित ही उत्कृष्ट है।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "શ્રીલ શુકદેવ ગોસ્વામીએ કહ્યું: હે મહારાજ, સર્વ સંત રાજાઓમાંથી શ્રેષ્ઠ, કારણ કે તમે વાસુદેવના વિષયો પ્રત્યે ખૂબ જ આકર્ષિત છો, તે ચોક્કસ છે કે તમારી બુદ્ધિ આધ્યાત્મિક સમજમાં નિશ્ચિતપણે સ્થિર છે, જે માનવતા માટેનું એકમાત્ર સાચું લક્ષ્ય છે. કારણ કે તે આકર્ષણ અવિરત છે, તે ચોક્કસપણે ઉત્કૃષ્ટ છે."
+            }
+        }
+    },
+    {
+        "id": 100116,
+        "sloka": "10.1.16",
+        "verse_id": 100116,
+        "verseNumber": 16,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "The Ganges, emanating from the toe of Lord Viṣṇu, purifies the three worlds, the upper, middle and lower planetary systems. Similarly, when one asks questions about the pastimes and characteristics of Lord Vāsudeva, Kṛṣṇa, three varieties of men are purified: the speaker or preacher, he who inquires, and the people in general who listen."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "भगवान विष्णु के पैर के अंगूठे से निकलने वाली गंगा तीनों लोकों, ऊपरी, मध्य और निचले ग्रह प्रणालियों को शुद्ध करती है। इसी प्रकार, जब कोई भगवान वासुदेव, कृष्ण की लीलाओं और विशेषताओं के बारे में प्रश्न पूछता है, तो तीन प्रकार के लोग शुद्ध हो जाते हैं: वक्ता या उपदेशक, वह जो पूछताछ करता है, और सामान्य रूप से सुनने वाले लोग।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "ભગવાન વિષ્ણુના અંગૂઠામાંથી નીકળતી ગંગા, ત્રણેય જગત, ઉચ્ચ, મધ્ય અને નીચલા ગ્રહોની વ્યવસ્થાને શુદ્ધ કરે છે. તેવી જ રીતે, જ્યારે કોઈ ભગવાન વાસુદેવ, કૃષ્ણના મનોરંજન અને લક્ષણો વિશે પ્રશ્નો પૂછે છે, ત્યારે ત્રણ પ્રકારના માણસો શુદ્ધ થાય છે: વક્તા અથવા ઉપદેશક, જે પૂછે છે, અને સામાન્ય રીતે સાંભળનારા લોકો."
+            }
+        }
+    },
+    {
+        "id": 100117,
+        "sloka": "10.1.17",
+        "verse_id": 100117,
+        "verseNumber": 17,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Once when mother earth was overburdened by hundreds of thousands of military phalanxes of various conceited demons dressed like kings, she approached Lord Brahmā for relief."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "एक बार जब धरती माता राजाओं जैसे भेषभूषा वाले विभिन्न अहंकारी राक्षसों के सैकड़ों-हजारों सैन्य दलों के बोझ से दबी हुई थी, तो वह राहत के लिए भगवान ब्रह्मा के पास पहुंची।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "એકવાર જ્યારે પૃથ્વી માતા રાજાઓ જેવા પોશાક પહેરેલા વિવિધ ઘમંડી રાક્ષસોના હજારો લશ્કરી ફલાન્ક્સથી દબાયેલી હતી, ત્યારે તેણીએ રાહત માટે ભગવાન બ્રહ્માનો સંપર્ક કર્યો."
+            }
+        }
+    },
+    {
+        "id": 100118,
+        "sloka": "10.1.18",
+        "verse_id": 100118,
+        "verseNumber": 18,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Mother earth assumed the form of a cow. Very much distressed, with tears in her eyes, she appeared before Lord Brahmā and told him about her misfortune."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "धरती माता ने गाय का रूप धारण कर लिया। बहुत व्यथित होकर, आँखों में आँसू लेकर, वह भगवान ब्रह्मा के सामने प्रकट हुई और उन्हें अपने दुर्भाग्य के बारे में बताया।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "પૃથ્વી માતાએ ગાયનું રૂપ ધારણ કર્યું. ખૂબ જ વ્યથિત, તેની આંખોમાં આંસુ સાથે, તે ભગવાન બ્રહ્મા સમક્ષ હાજર થઈ અને તેને તેના દુર્ભાગ્ય વિશે જણાવ્યું."
+            }
+        }
+    },
+    {
+        "id": 100119,
+        "sloka": "10.1.19",
+        "verse_id": 100119,
+        "verseNumber": 19,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Thereafter, having heard of the distress of mother earth, Lord Brahmā, with mother earth, Lord Śiva and all the other demigods, approached the shore of the Ocean of Milk."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "इसके बाद, धरती माता की व्यथा सुनकर भगवान ब्रह्मा, धरती माता, भगवान शिव और अन्य सभी देवताओं के साथ क्षीर सागर के तट पर पहुंचे।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "ત્યારપછી, પૃથ્વી માતાની તકલીફ સાંભળીને, ભગવાન બ્રહ્મા, પૃથ્વી માતા, ભગવાન શિવ અને અન્ય તમામ દેવતાઓ સાથે, દૂધના મહાસાગરના કિનારે પહોંચ્યા."
+            }
+        }
+    },
+    {
+        "id": 100120,
+        "sloka": "10.1.20",
+        "verse_id": 100120,
+        "verseNumber": 20,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "After reaching the shore of the Ocean of Milk, the demigods worshiped the Supreme Personality of Godhead, Lord Viṣṇu, the master of the whole universe, the supreme God of all gods, who provides for everyone and diminishes everyone’s suffering. With great attention, they worshiped Lord Viṣṇu, who lies on the Ocean of Milk, by reciting the Vedic mantras known as the Puruṣa-sūkta."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "क्षीर सागर के तट पर पहुंचने के बाद, देवताओं ने संपूर्ण ब्रह्मांड के स्वामी, सभी देवताओं के सर्वोच्च भगवान, भगवान विष्णु की पूजा की, जो सभी का भरण-पोषण करते हैं और सभी के कष्टों को कम करते हैं। बड़े ध्यान से, उन्होंने पुरुष-सूक्त के नाम से जाने जाने वाले वैदिक मंत्रों का पाठ करके दूध के सागर पर स्थित भगवान विष्णु की पूजा की।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "દૂધના મહાસાગરના કિનારે પહોંચ્યા પછી, દેવતાઓએ સર્વોપરી પરમાત્મા, ભગવાન વિષ્ણુ, સમગ્ર બ્રહ્માંડના સ્વામી, બધા દેવતાઓના સર્વોપરી ભગવાન, જે દરેકને પ્રદાન કરે છે અને દરેકના દુઃખને ઓછું કરે છે તેમની પૂજા કરી. પુરૂષસૂક્ત તરીકે ઓળખાતા વૈદિક મંત્રોનું ઉચ્ચારણ કરીને તેઓએ ખૂબ જ ધ્યાન આપીને ભગવાન વિષ્ણુની પૂજા કરી, જે દૂધના સાગર પર બિરાજમાન છે."
+            }
+        }
+    },
+    {
+        "id": 100121,
+        "sloka": "10.1.21",
+        "verse_id": 100121,
+        "verseNumber": 21,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "While in trance, Lord Brahmā heard the words of Lord Viṣṇu vibrating in the sky. Thus he told the demigods: O demigods, hear from me the order of Kṣīrodakaśāyī Viṣṇu, the Supreme Person, and execute it attentively without delay."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "समाधि में रहते हुए, भगवान ब्रह्मा ने आकाश में कंपन करते हुए भगवान विष्णु के शब्द सुने। इस प्रकार उन्होंने देवताओं से कहा: हे देवताओं, परम पुरुष क्षीरोदकशायी विष्णु का आदेश मुझसे सुनो और बिना देर किए ध्यानपूर्वक उसका पालन करो।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "જ્યારે સમાધિમાં, ભગવાન બ્રહ્માએ આકાશમાં કંપતા ભગવાન વિષ્ણુના શબ્દો સાંભળ્યા. આ રીતે તેણે દેવતાઓને કહ્યું: હે દેવતાઓ, મારી પાસેથી ક્ષીરોદકશાય વિષ્ણુ, પરમ પુરૂષનો આદેશ સાંભળો અને વિલંબ કર્યા વિના ધ્યાનપૂર્વક તેનો અમલ કરો."
+            }
+        }
+    },
+    {
+        "id": 100122,
+        "sloka": "10.1.22",
+        "verse_id": 100122,
+        "verseNumber": 22,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Lord Brahmā informed the demigods: Before we submitted our petition to the Lord, He was already aware of the distress on earth. Consequently, for as long as the Lord moves on earth to diminish its burden by His own potency in the form of time, all of you demigods should appear through plenary portions as sons and grandsons in the family of the Yadus."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "भगवान ब्रह्मा ने देवताओं को सूचित किया: इससे पहले कि हम भगवान को अपनी याचिका प्रस्तुत करें, उन्हें पहले से ही पृथ्वी पर संकट के बारे में पता था। नतीजतन, जब तक भगवान समय के रूप में अपनी शक्ति से इसके बोझ को कम करने के लिए पृथ्वी पर रहते हैं, आप सभी देवताओं को यदुओं के परिवार में पुत्र और पोते के रूप में पूर्ण भागों के माध्यम से प्रकट होना चाहिए।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "ભગવાન બ્રહ્માએ દેવતાઓને જાણ કરી: અમે ભગવાનને અમારી અરજી સબમિટ કરીએ તે પહેલાં, તેઓ પૃથ્વી પરના સંકટથી વાકેફ હતા. પરિણામે, જ્યાં સુધી ભગવાન સમયના સ્વરૂપમાં પોતાની શક્તિ દ્વારા તેનો ભાર ઓછો કરવા પૃથ્વી પર ફરે છે, ત્યાં સુધી તમે બધા દેવતાઓએ યદુઓના પરિવારમાં પુત્રો અને પૌત્રોના રૂપમાં પૂર્ણ ભાગોમાં દેખાવા જોઈએ."
+            }
+        }
+    },
+    {
+        "id": 100123,
+        "sloka": "10.1.23",
+        "verse_id": 100123,
+        "verseNumber": 23,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "The Supreme Personality of Godhead, Śrī Kṛṣṇa, who has full potency, will personally appear as the son of Vasudeva. Therefore all the wives of the demigods should also appear in order to satisfy Him."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "भगवान श्रीकृष्ण, जिनके पास पूर्ण शक्ति है, व्यक्तिगत रूप से वासुदेव के पुत्र के रूप में प्रकट होंगे। इसलिए देवताओं की सभी पत्नियों को भी उन्हें संतुष्ट करने के लिए प्रकट होना चाहिए।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "ભગવાનના પરમ પુરૂષ, શ્રી કૃષ્ણ, જેમની પાસે સંપૂર્ણ શક્તિ છે, તે વ્યક્તિગત રીતે વાસુદેવના પુત્ર તરીકે દેખાશે. તેથી દેવતાઓની બધી પત્નીઓએ પણ તેને સંતુષ્ટ કરવા માટે હાજર થવું જોઈએ."
+            }
+        }
+    },
+    {
+        "id": 100124,
+        "sloka": "10.1.24",
+        "verse_id": 100124,
+        "verseNumber": 24,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "The foremost manifestation of Kṛṣṇa is Saṅkarṣaṇa, who is known as Ananta. He is the origin of all incarnations within this material world. Previous to the appearance of Lord Kṛṣṇa, this original Saṅkarṣaṇa will appear as Baladeva, just to please the Supreme Lord Kṛṣṇa in His transcendental pastimes."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "कृष्ण की सबसे प्रमुख अभिव्यक्ति संकर्षण हैं, जिन्हें अनंत के नाम से जाना जाता है। वह इस भौतिक संसार के सभी अवतारों का मूल है। भगवान कृष्ण के प्रकट होने से पहले, यह मूल संकर्षण बलदेव के रूप में प्रकट होगा, केवल परम भगवान कृष्ण को उनकी दिव्य लीलाओं में प्रसन्न करने के लिए।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "કૃષ્ણનું સૌથી આગવું સ્વરૂપ સંકર્ષ છે, જે અનંત તરીકે ઓળખાય છે. તે આ ભૌતિક જગતમાંના તમામ અવતારોના મૂળ છે. ભગવાન કૃષ્ણના દેખાવ પહેલા, આ મૂળ સંકર્ણ બલદેવના રૂપમાં દેખાશે, માત્ર પરમ ભગવાન કૃષ્ણને તેમના દિવ્ય વિનોદમાં પ્રસન્ન કરવા માટે."
+            }
+        }
+    },
+    {
+        "id": 100125,
+        "sloka": "10.1.25",
+        "verse_id": 100125,
+        "verseNumber": 25,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "The potency of the Lord, known as viṣṇu-māyā, who is as good as the Supreme Personality of Godhead, will also appear with Lord Kṛṣṇa. This potency, acting in different capacities, captivates all the worlds, both material and spiritual. At the request of her master, she will appear with her different potencies in order to execute the work of the Lord."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "भगवान की शक्ति, जिसे विष्णु-माया के नाम से जाना जाता है, जो भगवान के परम व्यक्तित्व के समान ही अच्छी है, भगवान कृष्ण के साथ भी प्रकट होगी। यह शक्ति, विभिन्न क्षमताओं में कार्य करते हुए, भौतिक और आध्यात्मिक दोनों तरह के सभी संसारों को मोहित कर लेती है। अपने स्वामी के अनुरोध पर, वह भगवान के कार्य को निष्पादित करने के लिए अपनी विभिन्न शक्तियों के साथ प्रकट होंगी।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "ભગવાનની શક્તિ, જે વિષ્ણુ-માયા તરીકે ઓળખાય છે, જે પરમપુરુષ ભગવાનની જેમ ઉત્તમ છે, તે પણ ભગવાન કૃષ્ણ સાથે દેખાશે. આ શક્તિ, વિવિધ ક્ષમતાઓમાં કાર્ય કરે છે, ભૌતિક અને આધ્યાત્મિક બંને વિશ્વને મોહિત કરે છે. તેના માસ્ટરની વિનંતી પર, તે ભગવાનના કાર્યને ચલાવવા માટે તેની વિવિધ શક્તિઓ સાથે દેખાશે."
+            }
+        }
+    },
+    {
+        "id": 100126,
+        "sloka": "10.1.26",
+        "verse_id": 100126,
+        "verseNumber": 26,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Śukadeva Gosvāmī continued: After thus advising the demigods and pacifying mother earth, the very powerful Lord Brahmā, who is the master of all other Prajāpatis and is therefore known as Prajāpati-pati, returned to his own abode, Brahmaloka."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "शुकदेव गोस्वामी ने आगे कहा: इस प्रकार देवताओं को सलाह देने और धरती माता को शांत करने के बाद, अत्यंत शक्तिशाली भगवान ब्रह्मा, जो अन्य सभी प्रजापतियों के स्वामी हैं और इसलिए उन्हें प्रजापति-पति के रूप में जाना जाता है, अपने निवास स्थान, ब्रह्मलोक में लौट आए।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "શુકદેવ ગોસ્વામીએ ચાલુ રાખ્યું: આ રીતે દેવતાઓને સલાહ આપ્યા પછી અને પૃથ્વી માતાને શાંત કર્યા પછી, ખૂબ જ શક્તિશાળી ભગવાન બ્રહ્મા, જે અન્ય તમામ પ્રજાપતિઓના માસ્ટર છે અને તેથી પ્રજાપતિ-પતિ તરીકે ઓળખાય છે, તેમના પોતાના નિવાસસ્થાન, બ્રહ્મલોકમાં પાછા ફર્યા."
+            }
+        }
+    },
+    {
+        "id": 100127,
+        "sloka": "10.1.27",
+        "verse_id": 100127,
+        "verseNumber": 27,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Formerly, Śūrasena, the chief of the Yadu dynasty, had gone to live in the city of Mathurā. There he enjoyed the places known as Māthura and Śūrasena."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "पूर्व में, यदु वंश के प्रमुख शूरसेन, मथुरा शहर में रहने के लिए गए थे। वहां उन्होंने मथुरा और शूरसेन नामक स्थानों का आनंद लिया।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "અગાઉ, શૂરસેન, યદુ વંશના વડા, મથુરા શહેરમાં રહેવા ગયા હતા. ત્યાં તેણે મથુરા અને શૂરસેન તરીકે ઓળખાતા સ્થળોનો આનંદ માણ્યો."
+            }
+        }
+    },
+    {
+        "id": 100128,
+        "sloka": "10.1.28",
+        "verse_id": 100128,
+        "verseNumber": 28,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Since that time, the city of Mathurā had been the capital of all the kings of the Yadu dynasty. The city and district of Mathurā are very intimately connected with Kṛṣṇa, for Lord Kṛṣṇa lives there eternally."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "उस समय से मथुरा नगर यदुवंश के सभी राजाओं की राजधानी रहा है। मथुरा शहर और जिला कृष्ण के साथ बहुत गहराई से जुड़े हुए हैं, क्योंकि भगवान कृष्ण वहां शाश्वत रूप से निवास करते हैं।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "તે સમયથી, મથુરા શહેર યદુ વંશના તમામ રાજાઓની રાજધાની રહી હતી. મથુરા શહેર અને જિલ્લો કૃષ્ણ સાથે ખૂબ જ ગાઢ રીતે જોડાયેલા છે, કારણ કે ભગવાન કૃષ્ણ ત્યાં સદાકાળ રહે છે."
+            }
+        }
+    },
+    {
+        "id": 100129,
+        "sloka": "10.1.29",
+        "verse_id": 100129,
+        "verseNumber": 29,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Some time ago, Vasudeva, who belonged to the demigod family [or to the Śūra dynasty], married Devakī. After the marriage, he mounted his chariot to return home with his newly married wife."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "कुछ समय पहले, वासुदेव, जो देवता परिवार [या शूर वंश] से थे, ने देवकी से विवाह किया। विवाह के बाद वह अपनी नवविवाहिता पत्नी के साथ घर लौटने के लिए रथ पर सवार हुए।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "થોડા સમય પહેલા, વાસુદેવ, જેઓ ડેમિગોડ પરિવારના [અથવા શૂર વંશના] હતા, તેમણે દેવકી સાથે લગ્ન કર્યા. લગ્ન પછી, તેણે તેની નવી પરિણીત પત્ની સાથે ઘરે પરત ફરવા માટે તેના રથ પર બેસાડ્યો."
+            }
+        }
+    },
+    {
+        "id": 100130,
+        "sloka": "10.1.30",
+        "verse_id": 100130,
+        "verseNumber": 30,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Kaṁsa, the son of King Ugrasena, in order to please his sister Devakī on the occasion of her marriage, took charge of the reins of the horses and became the chariot driver. He was surrounded by hundreds of golden chariots."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "राजा उग्रसेन के पुत्र कंस ने अपनी बहन देवकी के विवाह के अवसर पर उसे प्रसन्न करने के लिए घोड़ों की बागडोर संभाली और रथ का चालक बन गया। वह सैकड़ों स्वर्ण रथों से घिरा हुआ था।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "રાજા ઉગ્રસેનનો પુત્ર કંસ, તેની બહેન દેવકીને તેના લગ્ન પ્રસંગે પ્રસન્ન કરવા માટે, ઘોડાઓની લગામ સંભાળીને રથનો ચાલક બન્યો. તે સેંકડો સુવર્ણ રથોથી ઘેરાયેલો હતો."
+            }
+        }
+    },
+    {
+        "id": 100131,
+        "sloka": "10.1.31-32",
+        "verse_id": 100131,
+        "verseNumber": 31,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Devakī’s father, King Devaka, was very much affectionate to his daughter. Therefore, while she and her husband were leaving home, he gave her a dowry of four hundred elephants nicely decorated with golden garlands. He also gave ten thousand horses, eighteen hundred chariots, and two hundred very beautiful young maidservants, fully decorated with ornaments."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "देवकी के पिता राजा देवक अपनी पुत्री से बहुत स्नेह करते थे। इसलिए, जब वह और उसका पति घर छोड़ रहे थे, तो उन्होंने उसे सोने की मालाओं से सजाए गए चार सौ हाथियों का दहेज दिया। उसने दस हजार घोड़े, अठारह सौ रथ और आभूषणों से सुसज्जित दो सौ अत्यंत सुंदर युवा दासियाँ भी दीं।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "દેવકીના પિતા, રાજા દેવક, તેમની પુત્રી માટે ખૂબ જ પ્રેમાળ હતા. તેથી, જ્યારે તેણી અને તેના પતિ ઘર છોડી રહ્યા હતા, ત્યારે તેણે તેણીને સુંદર રીતે સુવર્ણ માળાથી શણગારેલા ચારસો હાથીઓનું દહેજ આપ્યું. તેણે દસ હજાર ઘોડા, અઢારસો રથ અને બેસો ખૂબ જ સુંદર યુવાન દાસીઓ પણ આપી, જે સંપૂર્ણ રીતે શણગારેલી હતી."
+            }
+        }
+    },
+    {
+        "id": 100133,
+        "sloka": "10.1.33",
+        "verse_id": 100133,
+        "verseNumber": 33,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "O beloved son, Mahārāja Parīkṣit, when the bride and bridegroom were ready to start, conchshells, bugles, drums and kettledrums all vibrated in concert for their auspicious departure."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "हे प्रिय पुत्र, महाराज परीक्षित, जब दूल्हा और दुल्हन प्रस्थान करने के लिए तैयार थे, तो उनके शुभ प्रस्थान के लिए शंख, बिगुल, ढोल और नगाड़े सभी एक साथ बज रहे थे।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "હે વહાલા પુત્ર, મહારાજા પરિક્ષિત, જ્યારે વરરાજા અને વરરાજા શરૂ કરવા માટે તૈયાર હતા, ત્યારે શંખ, બ્યુગલ્સ, ડ્રમ્સ અને કેટલડ્રમ બધા તેમના શુભ પ્રસ્થાન માટે જલસામાં વાઇબ્રેટ થયા હતા."
+            }
+        }
+    },
+    {
+        "id": 100134,
+        "sloka": "10.1.34",
+        "verse_id": 100134,
+        "verseNumber": 34,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "While Kaṁsa, controlling the reins of the horses, was driving the chariot along the way, an unembodied voice addressed him, “You foolish rascal, the eighth child of the woman you are carrying will kill you!”"
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "जब कंस रास्ते में घोड़ों की लगाम नियंत्रित करके रथ चला रहा था, तभी एक अस्वाभाविक आवाज ने उसे संबोधित किया, \"हे मूर्ख दुष्ट, जिस स्त्री को तू ले जा रहा है उसकी आठवीं संतान तुझे मार डालेगी!\""
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "જ્યારે કંસ, ઘોડાઓની લગામને કાબૂમાં રાખીને, રથને રથમાં ચલાવી રહ્યો હતો, ત્યારે એક અવ્યવસ્થિત અવાજે તેને સંબોધન કર્યું, \"હે મૂર્ખ લુચ્ચા, તું જે સ્ત્રીને લઈ જઈ રહ્યો છે તેનું આઠમું બાળક તને મારી નાખશે!\""
+            }
+        }
+    },
+    {
+        "id": 100135,
+        "sloka": "10.1.35",
+        "verse_id": 100135,
+        "verseNumber": 35,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Kaṁsa was a condemned personality in the Bhoja dynasty because he was envious and sinful. Therefore, upon hearing this omen from the sky, he caught hold of his sister’s hair with his left hand and took up his sword with his right hand to sever her head from her body."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "कंस भोज वंश में निंदित व्यक्तित्व था क्योंकि वह ईर्ष्यालु और पापी था। इसलिए, आकाश से यह शगुन सुनकर, उसने अपने बाएं हाथ से अपनी बहन के बाल पकड़ लिए और अपने दाहिने हाथ से उसका सिर उसके शरीर से अलग करने के लिए अपनी तलवार उठा ली।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "ભોજ વંશમાં કંસ એક નિંદિત વ્યક્તિત્વ હતું કારણ કે તે ઈર્ષ્યા અને પાપી હતા. તેથી, આકાશમાંથી આ શુકન સાંભળીને, તેણે તેની બહેનના વાળ તેના ડાબા હાથથી પકડ્યા અને તેના શરીરથી તેનું માથું અલગ કરવા માટે તેના જમણા હાથથી તેની તલવાર ઉપાડી."
+            }
+        }
+    },
+    {
+        "id": 100136,
+        "sloka": "10.1.36",
+        "verse_id": 100136,
+        "verseNumber": 36,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Wanting to pacify Kaṁsa, who was so cruel and envious that he was shamelessly ready to kill his sister, the great soul Vasudeva, who was to be the father of Kṛṣṇa, spoke to him in the following words."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "कंस को शांत करने के लिए, जो इतना क्रूर और ईर्ष्यालु था कि वह बेशर्मी से अपनी बहन को मारने के लिए तैयार था, महान आत्मा वासुदेव, जो कृष्ण के पिता बनने वाले थे, ने उससे निम्नलिखित शब्दों में बात की।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "કંસને શાંત કરવા માંગતા હતા, જે એટલા ક્રૂર અને ઈર્ષ્યા હતા કે તે પોતાની બહેનને મારવા માટે નિર્લજ્જતાથી તૈયાર હતો, મહાન આત્મા વાસુદેવ, જે કૃષ્ણના પિતા બનવાના હતા, તેમણે નીચેના શબ્દોમાં તેમની સાથે વાત કરી."
+            }
+        }
+    },
+    {
+        "id": 100137,
+        "sloka": "10.1.37",
+        "verse_id": 100137,
+        "verseNumber": 37,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Vasudeva said: My dear brother-in-law Kaṁsa, you are the pride of your family, the Bhoja dynasty, and great heroes praise your qualities. How could such a qualified person as you kill a woman, your own sister, especially on the occasion of her marriage?"
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "वासुदेव ने कहा: मेरे प्रिय बहनोई कंस, आप अपने परिवार, भोज वंश का गौरव हैं, और महान वीर आपके गुणों की प्रशंसा करते हैं। आप जैसा योग्य व्यक्ति किसी महिला, अपनी ही बहन की हत्या कैसे कर सकता है, विशेषकर उसकी शादी के अवसर पर?"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "વાસુદેવે કહ્યું: મારા વહાલા ભાભી કંસ, તમે તમારા પરિવારનું, ભોજ વંશનું ગૌરવ છો અને મહાન નાયકો તમારા ગુણોની પ્રશંસા કરે છે. તમારા જેવી લાયક વ્યક્તિ એક સ્ત્રીને, તમારી પોતાની બહેનને, ખાસ કરીને તેના લગ્ન પ્રસંગે કેવી રીતે મારી શકે?"
+            }
+        }
+    },
+    {
+        "id": 100138,
+        "sloka": "10.1.38",
+        "verse_id": 100138,
+        "verseNumber": 38,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "O great hero, one who takes birth is sure to die, for death is born with the body. One may die today or after hundreds of years, but death is sure for every living entity."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "हे महानायक, जो जन्म लेता है उसकी मृत्यु निश्चित है, क्योंकि मृत्यु शरीर के साथ ही जन्म लेती है। किसी की मृत्यु आज हो या सैकड़ों वर्षों के बाद, परंतु मृत्यु प्रत्येक जीव की निश्चित है।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "હે મહાન વીર, જે જન્મ લે છે તેનું મૃત્યુ નિશ્ચિત છે, કારણ કે મૃત્યુ શરીર સાથે જન્મે છે. આજે અથવા સેંકડો વર્ષો પછી મૃત્યુ પામે છે, પરંતુ મૃત્યુ દરેક જીવ માટે નિશ્ચિત છે."
+            }
+        }
+    },
+    {
+        "id": 100139,
+        "sloka": "10.1.39",
+        "verse_id": 100139,
+        "verseNumber": 39,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "When the present body turns to dust and is again reduced to five elements — earth, water, fire, air and ether — the proprietor of the body, the living being, automatically receives another body of material elements according to his fruitive activities. When the next body is obtained, he gives up the present body."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "जब वर्तमान शरीर धूल में बदल जाता है और फिर से पांच तत्वों - पृथ्वी, जल, अग्नि, वायु और आकाश - में बदल जाता है, तो शरीर का मालिक, जीवित प्राणी, स्वचालित रूप से अपनी सकाम गतिविधियों के अनुसार भौतिक तत्वों का एक और शरीर प्राप्त करता है। जब अगला शरीर प्राप्त होता है, तो वह वर्तमान शरीर को त्याग देता है।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "જ્યારે વર્તમાન શરીર ધૂળમાં ફેરવાય છે અને ફરીથી પાંચ તત્વો - પૃથ્વી, પાણી, અગ્નિ, વાયુ અને આકાશમાં ઘટી જાય છે - ત્યારે શરીરનો માલિક, જીવ, તેની ફળદાયી પ્રવૃત્તિઓ અનુસાર આપમેળે ભૌતિક તત્વોનું બીજું શરીર પ્રાપ્ત કરે છે. જ્યારે આગળનું શરીર પ્રાપ્ત થાય છે, ત્યારે તે વર્તમાન શરીરને છોડી દે છે."
+            }
+        }
+    },
+    {
+        "id": 100140,
+        "sloka": "10.1.40",
+        "verse_id": 100140,
+        "verseNumber": 40,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Just as a person traveling on the road rests one foot on the ground and then lifts the other, or as a worm on a vegetable transfers itself to one leaf and then gives up the previous one, the conditioned soul takes shelter of another body and then gives up the one he had before."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "जिस तरह सड़क पर यात्रा करने वाला व्यक्ति एक पैर जमीन पर रखता है और फिर दूसरा उठाता है, या जैसे सब्जी में कीड़ा खुद को एक पत्ते में स्थानांतरित करता है और फिर पिछले पत्ते को छोड़ देता है, बद्ध आत्मा दूसरे शरीर का आश्रय लेती है और फिर उस शरीर को छोड़ देती है जो उसके पास पहले था।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "જેમ રસ્તા પર મુસાફરી કરનાર વ્યક્તિ એક પગ જમીન પર રાખે છે અને પછી બીજો ઉપાડે છે, અથવા જેમ શાકભાજી પરનો કીડો પોતાને એક પાન પર સ્થાનાંતરિત કરે છે અને પછી પહેલાનો ત્યાગ કરે છે, તેમ કન્ડિશન્ડ આત્મા બીજા શરીરનો આશ્રય લે છે અને પછી તેની પાસે જે હતું તે છોડી દે છે."
+            }
+        }
+    },
+    {
+        "id": 100141,
+        "sloka": "10.1.41",
+        "verse_id": 100141,
+        "verseNumber": 41,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Having experienced a situation by seeing or hearing about it, one contemplates and speculates about that situation, and thus one surrenders to it, not considering his present body. Similarly, by mental adjustments one dreams at night of living under different circumstances, in different bodies, and forgets his actual position. Under this same process, one gives up his present body and accepts another [tathā dehāntara-prāptiḥ]."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "किसी स्थिति को देखकर या उसके बारे में सुनकर उसका अनुभव करने के बाद, वह उस स्थिति के बारे में चिंतन और अनुमान लगाता है, और इस प्रकार वह अपने वर्तमान शरीर पर विचार न करते हुए, उसके प्रति समर्पण कर देता है। इसी प्रकार, मानसिक समायोजन के कारण व्यक्ति रात में विभिन्न परिस्थितियों में, विभिन्न शरीरों में रहने का सपना देखता है और अपनी वास्तविक स्थिति को भूल जाता है। इसी प्रक्रिया के तहत, व्यक्ति अपने वर्तमान शरीर को त्याग देता है और दूसरे को स्वीकार कर लेता है [तथा देहांतर-प्राप्तिः]।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "પરિસ્થિતિને જોઈને કે સાંભળીને તેનો અનુભવ કર્યા પછી, વ્યક્તિ તે પરિસ્થિતિ વિશે ચિંતન કરે છે અને અનુમાન કરે છે, અને આ રીતે વ્યક્તિ તેના વર્તમાન શરીરને ધ્યાનમાં લીધા વિના તેને શરણે જાય છે. તેવી જ રીતે, માનસિક ગોઠવણો દ્વારા વ્યક્તિ રાત્રે જુદા જુદા સંજોગોમાં, જુદા જુદા શરીરમાં જીવવાનું સ્વપ્ન જુએ છે અને તેની વાસ્તવિક સ્થિતિ ભૂલી જાય છે. આ જ પ્રક્રિયા હેઠળ, વ્યક્તિ પોતાનું વર્તમાન શરીર છોડી દે છે અને બીજા [તથા દેહાંતર-પ્રાપ્તિઃ]ને સ્વીકારે છે."
+            }
+        }
+    },
+    {
+        "id": 100142,
+        "sloka": "10.1.42",
+        "verse_id": 100142,
+        "verseNumber": 42,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "At the time of death, according to the thinking, feeling and willing of the mind, which is involved in fruitive activities, one receives a particular body. In other words, the body develops according to the activities of the mind. Changes of body are due to the flickering of the mind, for otherwise the soul could remain in its original, spiritual body."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "मृत्यु के समय सकाम कर्मों में संलग्न मन की सोच, भावना और इच्छा के अनुसार व्यक्ति को एक विशेष शरीर प्राप्त होता है। दूसरे शब्दों में, शरीर का विकास मन की गतिविधियों के अनुसार होता है। शरीर में परिवर्तन मन की चंचलता के कारण होते हैं, अन्यथा आत्मा अपने मूल, आध्यात्मिक शरीर में ही रह सकती है।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "મૃત્યુ સમયે, મનની વિચાર, લાગણી અને ઇચ્છા અનુસાર, જે ફળદાયી પ્રવૃત્તિઓમાં સામેલ હોય છે, વ્યક્તિને ચોક્કસ શરીર પ્રાપ્ત થાય છે. બીજા શબ્દોમાં કહીએ તો, મનની પ્રવૃત્તિઓ અનુસાર શરીરનો વિકાસ થાય છે. શરીરના ફેરફારો મનના ચળકાટને કારણે છે, કારણ કે અન્યથા આત્મા તેના મૂળ, આધ્યાત્મિક શરીરમાં રહી શકે છે."
+            }
+        }
+    },
+    {
+        "id": 100143,
+        "sloka": "10.1.43",
+        "verse_id": 100143,
+        "verseNumber": 43,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "When the luminaries in the sky, such as the moon, the sun and the stars, are reflected in liquids like oil or water, they appear to be of different shapes — sometimes round, sometimes long, and so on — because of the movements of the wind. Similarly, when the living entity, the soul, is absorbed in materialistic thoughts, he accepts various manifestations as his own identity because of ignorance. In other words, one is bewildered by mental concoctions because of agitation from the material modes of nature."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "जब आकाश में चंद्रमा, सूर्य और तारे जैसे प्रकाशमान पदार्थ तेल या पानी जैसे तरल पदार्थों में प्रतिबिंबित होते हैं, तो हवा की गति के कारण वे अलग-अलग आकार के दिखाई देते हैं - कभी गोल, कभी लंबे, और इसी तरह। इसी प्रकार, जब जीवात्मा भौतिकवादी विचारों में लीन हो जाता है, तो वह अज्ञानता के कारण विभिन्न अभिव्यक्तियों को अपनी पहचान के रूप में स्वीकार कर लेता है। दूसरे शब्दों में, व्यक्ति प्रकृति के भौतिक गुणों की उत्तेजना के कारण मानसिक उलझनों से भ्रमित हो जाता है।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "જ્યારે આકાશમાં ચંદ્ર, સૂર્ય અને તારાઓ જેવાં પ્રકાશો, તેલ અથવા પાણી જેવા પ્રવાહીમાં પ્રતિબિંબિત થાય છે, ત્યારે તે પવનની ગતિને કારણે - ક્યારેક ગોળ, ક્યારેક લાંબા અને તેથી વધુ - વિવિધ આકારના દેખાય છે. તેવી જ રીતે, જ્યારે જીવ, આત્મા, ભૌતિકવાદી વિચારોમાં લીન થાય છે, ત્યારે તે અજ્ઞાનને કારણે વિવિધ અભિવ્યક્તિઓને પોતાની ઓળખ તરીકે સ્વીકારે છે. બીજા શબ્દોમાં કહીએ તો, કુદરતની ભૌતિક સ્થિતિઓથી થતા આંદોલનને કારણે વ્યક્તિ માનસિક ઉપજાવી કાઢે છે."
+            }
+        }
+    },
+    {
+        "id": 100144,
+        "sloka": "10.1.44",
+        "verse_id": 100144,
+        "verseNumber": 44,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Therefore, since envious, impious activities cause a body in which one suffers in the next life, why should one act impiously? Considering one’s welfare, one should not envy anyone, for an envious person must always fear harm from his enemies, either in this life or in the next."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "इसलिए, चूँकि ईर्ष्यालु, अपवित्र कर्मों के कारण अगले जन्म में कष्ट भोगना पड़ता है, तो फिर किसी को अपवित्र कर्म क्यों करना चाहिए? किसी के कल्याण को ध्यान में रखते हुए, किसी को भी ईर्ष्या नहीं करनी चाहिए, क्योंकि ईर्ष्यालु व्यक्ति को हमेशा अपने दुश्मनों से नुकसान का डर होना चाहिए, चाहे इस जीवन में या अगले जीवन में।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "તેથી, કારણ કે ઈર્ષ્યા, અશુદ્ધ પ્રવૃત્તિઓ શરીરનું કારણ બને છે જેમાં વ્યક્તિ આગામી જન્મમાં પીડાય છે, શા માટે વ્યક્તિએ દુષ્ટતાથી વર્તવું જોઈએ? કોઈના કલ્યાણને ધ્યાનમાં રાખીને, વ્યક્તિએ કોઈની ઈર્ષ્યા ન કરવી જોઈએ, કારણ કે ઈર્ષ્યા કરનાર વ્યક્તિએ હંમેશા તેના દુશ્મનોથી નુકસાનનો ડર રાખવો જોઈએ, આ જીવનમાં અથવા પછીના જીવનમાં."
+            }
+        }
+    },
+    {
+        "id": 100145,
+        "sloka": "10.1.45",
+        "verse_id": 100145,
+        "verseNumber": 45,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "As your younger sister, this poor girl Devakī is like your own daughter and deserves to be affectionately maintained. You are merciful, and therefore you should not kill her. Indeed, she deserves your affection."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "आपकी छोटी बहन होने के नाते, यह बेचारी देवकी आपकी अपनी बेटी के समान है और स्नेहपूर्वक पालने योग्य है। आप दयालु हैं, अत: आपको उसे नहीं मारना चाहिए। सचमुच, वह आपके स्नेह की पात्र है।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "તમારી નાની બહેન તરીકે, આ ગરીબ છોકરી દેવકી તમારી પોતાની દીકરી જેવી છે અને તેને પ્રેમથી જાળવવાને પાત્ર છે. તમે દયાળુ છો, અને તેથી તમારે તેને મારવો જોઈએ નહીં. ખરેખર, તે તમારા સ્નેહને પાત્ર છે."
+            }
+        }
+    },
+    {
+        "id": 100146,
+        "sloka": "10.1.46",
+        "verse_id": 100146,
+        "verseNumber": 46,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Śukadeva Gosvāmī continued: O best of the Kuru dynasty, Kaṁsa was fiercely cruel and was actually a follower of the Rākṣasas. Therefore he could be neither pacified nor terrified by the good instructions given by Vasudeva. He did not care about the results of sinful activities, either in this life or in the next."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "शुकदेव गोस्वामी ने आगे कहा: हे कुरु वंश के सर्वश्रेष्ठ, कंस अत्यंत क्रूर था और वास्तव में राक्षसों का अनुयायी था। इसलिए वासुदेव द्वारा दिए गए अच्छे निर्देशों से उसे न तो शांत किया जा सकता था और न ही भयभीत किया जा सकता था। उसे न तो इस जीवन में और न ही अगले जीवन में पाप कर्मों के परिणामों की परवाह थी।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "શુકદેવ ગોસ્વામીએ ચાલુ રાખ્યું: હે કુરુ વંશના શ્રેષ્ઠ, કંસ ઉગ્ર ક્રૂર હતો અને વાસ્તવમાં રાક્ષસનો અનુયાયી હતો. તેથી તે વાસુદેવ દ્વારા આપવામાં આવેલી સારી સૂચનાઓથી ન તો શાંત થઈ શકે કે ન તો ગભરાઈ શકે. તેણે પાપી પ્રવૃત્તિઓના પરિણામોની પરવા કરી ન હતી, આ જીવનમાં કે પછીના જીવનમાં."
+            }
+        }
+    },
+    {
+        "id": 100147,
+        "sloka": "10.1.47",
+        "verse_id": 100147,
+        "verseNumber": 47,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "When Vasudeva saw that Kaṁsa was determined to kill his sister Devakī, he thought to himself very deeply. Considering the imminent danger of death, he thought of another plan to stop Kaṁsa."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "जब वसुदेव ने देखा कि कंस उनकी बहन देवकी को मारने पर आमादा है, तो उन्होंने मन ही मन बहुत सोचा। मृत्यु के आसन्न खतरे को देखते हुए, उन्होंने कंस को रोकने के लिए एक और योजना के बारे में सोचा।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "જ્યારે વસુદેવે જોયું કે કંસ તેની બહેન દેવકીને મારવા માટે મક્કમ છે, ત્યારે તેણે ખૂબ જ ઊંડો વિચાર કર્યો. મૃત્યુના નિકટવર્તી ભયને ધ્યાનમાં રાખીને, તેણે કંસને રોકવા માટે બીજી યોજના વિચારી."
+            }
+        }
+    },
+    {
+        "id": 100148,
+        "sloka": "10.1.48",
+        "verse_id": 100148,
+        "verseNumber": 48,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "As long as he has intelligence and bodily strength, an intelligent person must try to avoid death. This is the duty of every embodied person. But if death cannot be avoided in spite of one’s endeavors, a person facing death commits no offense."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "एक बुद्धिमान व्यक्ति को जब तक बुद्धि और शारीरिक शक्ति है, उसे मृत्यु से बचने का प्रयास करना चाहिए। यह प्रत्येक देहधारी व्यक्ति का कर्तव्य है। लेकिन यदि किसी के प्रयासों के बावजूद मृत्यु को टाला नहीं जा सकता है, तो मृत्यु का सामना करने वाला व्यक्ति कोई अपराध नहीं करता है।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "જ્યાં સુધી તેની પાસે બુદ્ધિ અને શારીરિક શક્તિ છે ત્યાં સુધી બુદ્ધિશાળી વ્યક્તિએ મૃત્યુને ટાળવાનો પ્રયત્ન કરવો જોઈએ. આ દરેક મૂર્તિમંત વ્યક્તિની ફરજ છે. પરંતુ જો કોઈના પ્રયત્નો છતાં મૃત્યુ ટાળી શકાતું નથી, તો મૃત્યુનો સામનો કરનાર વ્યક્તિ કોઈ ગુનો નથી કરતી."
+            }
+        }
+    },
+    {
+        "id": 100149,
+        "sloka": "10.1.49-50",
+        "verse_id": 100149,
+        "verseNumber": 49,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Vasudeva considered: By delivering all my sons to Kaṁsa, who is death personified, I shall save the life of Devakī. Perhaps Kaṁsa will die before my sons take birth, or, since he is already destined to die at the hands of my son, one of my sons may kill him. For the time being, let me promise to hand over my sons so that Kaṁsa will give up this immediate threat, and if in due course of time Kaṁsa dies, I shall have nothing to fear."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "वसुदेव ने विचार किया: अपने सभी पुत्रों को कंस, जो मृत्यु का प्रतीक है, को सौंपकर मैं देवकी की जान बचाऊंगा। शायद कंस मेरे पुत्रों के जन्म लेने से पहले ही मर जाएगा, या, चूँकि उसका पहले से ही मेरे पुत्र के हाथों मरना तय है, इसलिए मेरा कोई पुत्र उसे मार सकता है। फिलहाल, मैं अपने बेटों को सौंपने का वादा करता हूं ताकि कंस इस तत्काल खतरे को छोड़ दे, और यदि समय के साथ कंस मर जाता है, तो मुझे डरने की कोई बात नहीं होगी।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "વસુદેવે વિચાર્યું: મારા બધા પુત્રોને કંસને સોંપીને, જે મૃત્યુરૂપ છે, હું દેવકીનો જીવ બચાવીશ. કદાચ મારા પુત્રોના જન્મ પહેલાં કંસ મૃત્યુ પામે છે, અથવા, કારણ કે તે પહેલેથી જ મારા પુત્રના હાથે મૃત્યુ પામે છે, મારો એક પુત્ર તેને મારી શકે છે. હમણાં માટે, હું મારા પુત્રોને સોંપવાનું વચન આપું જેથી કંસ આ તાત્કાલિક ધમકી છોડી દે, અને જો સમયસર કંસ મૃત્યુ પામે, તો મને ડરવાનું કંઈ નથી."
+            }
+        }
+    },
+    {
+        "id": 100151,
+        "sloka": "10.1.51",
+        "verse_id": 100151,
+        "verseNumber": 51,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "When a fire, for some unseen reason, leaps over one piece of wood and sets fire to the next, the reason is destiny. Similarly, when a living being accepts one kind of body and leaves aside another, there is no other reason than unseen destiny."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "जब किसी अदृश्य कारण से आग लकड़ी के एक टुकड़े पर चढ़कर दूसरे टुकड़े में आग लगा देती है, तो इसका कारण भाग्य होता है। इसी प्रकार जब कोई प्राणी एक प्रकार का शरीर धारण करता है और दूसरे का त्याग करता है तो अदृश्य नियति के अतिरिक्त और कोई कारण नहीं होता।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "જ્યારે અગ્નિ, કોઈ અગમ્ય કારણોસર, લાકડાના એક ટુકડા પર કૂદી પડે છે અને બીજા ભાગમાં આગ લગાડે છે, તેનું કારણ નિયતિ છે. તેવી જ રીતે, જ્યારે કોઈ જીવ એક પ્રકારનું શરીર સ્વીકારે છે અને બીજાને છોડી દે છે, ત્યારે અદ્રશ્ય નિયતિ સિવાય બીજું કોઈ કારણ નથી."
+            }
+        }
+    },
+    {
+        "id": 100152,
+        "sloka": "10.1.52",
+        "verse_id": 100152,
+        "verseNumber": 52,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "After thus considering the matter as far as his knowledge would allow, Vasudeva submitted his proposal to the sinful Kaṁsa with great respect."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "इस प्रकार जहां तक ​​उनकी जानकारी संभव थी इस मामले पर विचार करने के बाद, वासुदेव ने बड़े सम्मान के साथ पापी कंस के सामने अपना प्रस्ताव रखा।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "આ રીતે જ્યાં સુધી તેમની જાણકારી પરવાનગી આપે છે ત્યાં સુધી આ બાબત પર વિચાર કર્યા પછી, વાસુદેવે ખૂબ જ આદર સાથે પાપી કંસને પોતાનો પ્રસ્તાવ રજૂ કર્યો."
+            }
+        }
+    },
+    {
+        "id": 100153,
+        "sloka": "10.1.53",
+        "verse_id": 100153,
+        "verseNumber": 53,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Vasudeva’s mind was full of anxiety because his wife was facing danger, but in order to please the cruel, shameless and sinful Kaṁsa, he externally smiled and spoke to him as follows."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "वसुदेव का मन चिंता से भर गया क्योंकि उनकी पत्नी खतरे में थी, लेकिन क्रूर, बेशर्म और पापी कंस को खुश करने के लिए, वे बाहरी रूप से मुस्कुराए और उससे इस प्रकार बोले।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "વસુદેવનું મન ચિંતાથી ભરેલું હતું કારણ કે તેની પત્ની સંકટનો સામનો કરી રહી હતી, પરંતુ ક્રૂર, નિર્લજ્જ અને પાપી કંસને ખુશ કરવા માટે, તેણે બહારથી સ્મિત કર્યું અને તેની સાથે નીચે પ્રમાણે વાત કરી."
+            }
+        }
+    },
+    {
+        "id": 100154,
+        "sloka": "10.1.54",
+        "verse_id": 100154,
+        "verseNumber": 54,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Vasudeva said: O best of the sober, you have nothing to fear from your sister Devakī because of what you have heard from the unseen omen. The cause of death will be her sons. Therefore I promise that when she gives birth to the sons from whom your fear has arisen, I shall deliver them all unto your hands."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "वासुदेव ने कहा: हे मुनिश्रेष्ठ, तुमने अदृश्य शकुन से जो सुना है, उसके कारण तुम्हें अपनी बहन देवकी से डरने की कोई आवश्यकता नहीं है। उसकी मृत्यु का कारण उसके पुत्र होंगे। इसलिये मैं प्रतिज्ञा करता हूं कि जब वह उन पुत्रों को जन्म देगी जिनसे तेरा भय उत्पन्न हुआ है, तो मैं उन सब को तेरे हाथ सौंप दूंगा।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "વાસુદેવે કહ્યું: હે સર્વશ્રેષ્ઠ, અદૃશ્ય શુકનથી તમે જે સાંભળ્યું છે તેનાથી તમારે તમારી બહેન દેવકીથી ડરવાનું કંઈ નથી. મૃત્યુનું કારણ તેના પુત્રો હશે. તેથી હું વચન આપું છું કે જ્યારે તે એવા પુત્રોને જન્મ આપશે કે જેનાથી તમારો ડર ઊભો થયો છે, ત્યારે હું તે બધાને તમારા હાથમાં સોંપીશ."
+            }
+        }
+    },
+    {
+        "id": 100155,
+        "sloka": "10.1.55",
+        "verse_id": 100155,
+        "verseNumber": 55,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Śrīla Śukadeva Gosvāmī continued: Kaṁsa agreed to the logical arguments of Vasudeva, and, having full faith in Vasudeva’s words, he refrained from killing his sister. Vasudeva, being pleased with Kaṁsa, pacified him further and entered his own house."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "श्रील शुकदेव गोस्वामी ने आगे कहा: कंस वासुदेव के तार्किक तर्कों से सहमत हो गया, और, वासुदेव के शब्दों पर पूरा विश्वास करते हुए, वह अपनी बहन को मारने से बच गया। वासुदेव ने कंस से प्रसन्न होकर उसे शांत किया और अपने घर में प्रवेश किया।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "શ્રીલ શુકદેવ ગોસ્વામીએ ચાલુ રાખ્યું: કંસ વાસુદેવની તાર્કિક દલીલો સાથે સંમત થયા, અને, વાસુદેવના શબ્દોમાં સંપૂર્ણ વિશ્વાસ રાખીને, તેણે તેની બહેનની હત્યા કરવાનું ટાળ્યું. વાસુદેવ, કંસ પર પ્રસન્ન થઈને, તેને વધુ શાંત કરી અને પોતાના ઘરમાં પ્રવેશ્યા."
+            }
+        }
+    },
+    {
+        "id": 100156,
+        "sloka": "10.1.56",
+        "verse_id": 100156,
+        "verseNumber": 56,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Each year thereafter, in due course of time, Devakī, the mother of God and all the demigods, gave birth to a child. Thus she bore eight sons, one after another, and a daughter named Subhadrā."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "उसके बाद प्रत्येक वर्ष, उचित समय पर, भगवान और सभी देवताओं की माता देवकी ने एक बच्चे को जन्म दिया। इस प्रकार उसके एक के बाद एक आठ पुत्र और सुभद्रा नामक एक पुत्री उत्पन्न हुई।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "ત્યાર પછી દર વર્ષે, સમયાંતરે, દેવકી, ભગવાનની માતા અને તમામ દેવતાઓએ એક બાળકને જન્મ આપ્યો. આમ તેણીએ એક પછી એક આઠ પુત્રો અને સુભદ્રા નામની પુત્રીને જન્મ આપ્યો."
+            }
+        }
+    },
+    {
+        "id": 100157,
+        "sloka": "10.1.57",
+        "verse_id": 100157,
+        "verseNumber": 57,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Vasudeva was very much disturbed by fear of becoming a liar by breaking his promise. Thus with great pain he delivered his first-born son, named Kīrtimān, into the hands of Kaṁsa."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "वासुदेव अपने वचन को तोड़कर झूठे बनने के डर से बहुत परेशान थे। इस प्रकार बड़े कष्ट के साथ उन्होंने कीर्तिमान नामक अपने पहले जन्मे पुत्र को कंस के हाथों में सौंप दिया।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "વચનનો ભંગ કરીને જૂઠો બની જવાના ભયથી વાસુદેવ ખૂબ જ વ્યથિત હતા. આ રીતે ભારે પીડા સાથે તેણે પોતાના પ્રથમ જન્મેલા પુત્ર કીર્તિમાનને કંસના હાથમાં સોંપી દીધો."
+            }
+        }
+    },
+    {
+        "id": 100158,
+        "sloka": "10.1.58",
+        "verse_id": 100158,
+        "verseNumber": 58,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "What is painful for saintly persons who strictly adhere to the truth? How could there not be independence for pure devotees who know the Supreme Lord as the substance? What deeds are forbidden for persons of the lowest character? And what cannot be given up for the sake of Lord Kṛṣṇa by those who have fully surrendered at His lotus feet?"
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "सत्य का कठोरता से पालन करने वाले साधु पुरुषों को दुःख क्या होता है? उन शुद्ध भक्तों के लिए स्वतंत्रता कैसे नहीं हो सकती जो परमेश्वर को तत्व के रूप में जानते हैं? निम्नतम चरित्र वाले व्यक्तियों के लिए कौन से कार्य वर्जित हैं? और जो लोग पूरी तरह से उनके चरणकमलों में समर्पित हो गए हैं, वे भगवान कृष्ण के लिए क्या नहीं त्याग सकते?"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "સત્યને ચુસ્તપણે વળગી રહેલા સંતપુરુષો માટે શું દુઃખદાયક છે? પરમ ભગવાનને દ્રવ્ય તરીકે જાણનારા શુદ્ધ ભક્તો માટે સ્વતંત્રતા કેવી રીતે ન હોઈ શકે? સૌથી નીચા પાત્રની વ્યક્તિઓ માટે કયા કાર્યો પ્રતિબંધિત છે? અને જેઓ તેમના કમળના ચરણોમાં સંપૂર્ણ સમર્પણ થયા છે તેઓ દ્વારા ભગવાન કૃષ્ણની ખાતર શું છોડી શકાય નહીં?"
+            }
+        }
+    },
+    {
+        "id": 100159,
+        "sloka": "10.1.59",
+        "verse_id": 100159,
+        "verseNumber": 59,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "My dear King Parīkṣit, when Kaṁsa saw that Vasudeva, being situated in truthfulness, was completely equipoised in giving him the child, he was very happy. Therefore, with a smiling face, he spoke as follows."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "मेरे प्रिय राजा परीक्षित, जब कंस ने देखा कि वासुदेव, सत्य में स्थित होकर, उसे बच्चा देने में पूरी तरह से तैयार हैं, तो वह बहुत खुश हुआ। अत: वे हँसते हुए मुख से इस प्रकार बोले।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "મારા પ્રિય રાજા પરીક્ષિત, જ્યારે કંસ એ જોયું કે વાસુદેવ, સત્યતામાં સ્થિત છે, તેમને બાળક આપવા માટે સંપૂર્ણ રીતે સજ્જ છે, ત્યારે તેઓ ખૂબ જ ખુશ થયા. તેથી, હસતા ચહેરા સાથે, તેણે નીચે મુજબ વાત કરી."
+            }
+        }
+    },
+    {
+        "id": 100160,
+        "sloka": "10.1.60",
+        "verse_id": 100160,
+        "verseNumber": 60,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "O Vasudeva, you may take back your child and go home. I have no fear of your first child. It is the eighth child of you and Devakī I am concerned with because that is the child by whom I am destined to be killed."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "हे वासुदेव, आप अपने बच्चे को वापस ले सकते हैं और घर जा सकते हैं। मुझे आपके पहले बच्चे से कोई डर नहीं है. यह तुम्हारी और देवकी की आठवीं संतान है जिसकी मुझे चिंता है क्योंकि यही वह संतान है जिसके द्वारा मेरी मृत्यु निश्चित है।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "હે વાસુદેવ, તમે તમારા બાળકને પાછા લઈ જાઓ અને ઘરે જાઓ. મને તમારા પહેલા બાળકનો ડર નથી. તે તમારું અને દેવકીનું આઠમું સંતાન છે જેનાથી હું ચિંતિત છું કારણ કે તે બાળક છે જેના દ્વારા મારી હત્યા થવાનું નક્કી છે."
+            }
+        }
+    },
+    {
+        "id": 100161,
+        "sloka": "10.1.61",
+        "verse_id": 100161,
+        "verseNumber": 61,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Vasudeva agreed and took his child back home, but because Kaṁsa had no character and no self-control, Vasudeva knew that he could not rely on Kaṁsa’s word."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "वासुदेव सहमत हो गए और अपने बच्चे को वापस घर ले गए, लेकिन क्योंकि कंस के पास कोई चरित्र नहीं था और कोई आत्म-नियंत्रण नहीं था, वासुदेव जानते थे कि वह कंस के शब्दों पर भरोसा नहीं कर सकते।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "વાસુદેવ સંમત થયા અને તેમના બાળકને ઘરે પાછા લઈ ગયા, પરંતુ કંસ પાસે કોઈ પાત્ર અને કોઈ આત્મ-નિયંત્રણ ન હોવાને કારણે, વાસુદેવ જાણતા હતા કે તે કંસના વચન પર વિશ્વાસ કરી શકતા નથી."
+            }
+        }
+    },
+    {
+        "id": 100162,
+        "sloka": "10.1.62-63",
+        "verse_id": 100162,
+        "verseNumber": 62,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "The inhabitants of Vṛndāvana, headed by Nanda Mahārāja and including his associate cowherd men and their wives, were none but denizens of the heavenly planets, O Mahārāja Parīkṣit, best of the descendants of Bharata, and so too were the descendants of the Vṛṣṇi dynasty, headed by Vasudeva and Devakī and the other women of the dynasty of Yadu. The friends, relatives and well-wishers of both Nanda Mahārāja and Vasudeva and even those who externally appeared to be followers of Kaṁsa were all demigods."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "वृन्दावन के निवासी, जिनमें नन्द महाराज और उनके सहयोगी ग्वाले और उनकी पत्नियाँ शामिल थे, स्वर्गीय ग्रहों के निवासी थे, हे महाराज परीक्षित, भरत के सर्वोत्तम वंशज थे, और इसी तरह वृष्णि वंश के वंशज भी थे, जिनके मुखिया वासुदेव और देवकी और यदु वंश की अन्य महिलाएँ थीं। नंद महाराज और वासुदेव दोनों के मित्र, रिश्तेदार और शुभचिंतक और यहां तक ​​कि जो लोग बाह्य रूप से कंस के अनुयायी प्रतीत होते थे, वे सभी देवता थे।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "વૃંદાવનના રહેવાસીઓ, નંદ મહારાજના નેતૃત્વમાં અને તેમના સહયોગી ગોવાળો પુરુષો અને તેમની પત્નીઓ સહિત, સ્વર્ગીય ગ્રહોના રહેવાસીઓ સિવાય બીજું કોઈ નહોતા, હે મહારાજ પરિક્ષિત, ભરતના વંશજોમાં શ્રેષ્ઠ, અને તે જ રીતે વૈષ્ણનના વંશજો પણ હતા. વાસુદેવ અને દેવકી અને યદુના વંશની અન્ય સ્ત્રીઓ. નંદ મહારાજ અને વાસુદેવ બંનેના મિત્રો, સંબંધીઓ અને શુભેચ્છકો અને જેઓ બહારથી કંસના અનુયાયીઓ તરીકે દેખાતા હતા તે બધા દેવતાઓ હતા."
+            }
+        }
+    },
+    {
+        "id": 100164,
+        "sloka": "10.1.64",
+        "verse_id": 100164,
+        "verseNumber": 64,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Once the great saint Nārada approached Kaṁsa and informed him of how the demoniac persons who were a great burden on the earth were going to be killed. Thus Kaṁsa was placed into great fear and doubt."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "एक बार महान संत नारद कंस के पास पहुंचे और उसे बताया कि कैसे राक्षसी व्यक्तियों को मारा जाएगा जो पृथ्वी पर एक बड़ा बोझ थे। इस प्रकार कंस बड़े भय और संदेह में पड़ गया।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "એકવાર મહાન સંત નારદ કંસ પાસે આવ્યા અને તેમને જાણ કરી કે કેવી રીતે આસુરી વ્યક્તિઓ કે જેઓ પૃથ્વી પરનો મોટો બોજ છે તેઓને મારી નાખવામાં આવશે. આ રીતે કંસને ભારે ભય અને શંકામાં મૂકવામાં આવ્યો."
+            }
+        }
+    },
+    {
+        "id": 100165,
+        "sloka": "10.1.65-66",
+        "verse_id": 100165,
+        "verseNumber": 65,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "After the departure of the great saint Nārada, Kaṁsa thought that all the members of the Yadu dynasty were demigods and that any of the children born from the womb of Devakī might be Viṣṇu. Fearing his death, Kaṁsa arrested Vasudeva and Devakī and chained them with iron shackles. Suspecting each of the children to be Viṣṇu, Kaṁsa killed them one after another because of the prophecy that Viṣṇu would kill him."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "महान संत नारद के जाने के बाद, कंस ने सोचा कि यदु वंश के सभी सदस्य देवता थे और देवकी के गर्भ से पैदा हुए बच्चों में से कोई भी विष्णु हो सकता है। अपनी मृत्यु के डर से, कंस ने वासुदेव और देवकी को गिरफ्तार कर लिया और उन्हें लोहे की बेड़ियों से जकड़ दिया। प्रत्येक बच्चे के विष्णु होने का संदेह करते हुए, कंस ने उन्हें एक के बाद एक मार डाला क्योंकि भविष्यवाणी थी कि विष्णु उसे मार देंगे।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "મહાન સંત નારદના વિદાય પછી, કંસ વિચાર્યું કે યદુ વંશના તમામ સભ્યો દેવતાઓ હતા અને દેવકીના ગર્ભમાંથી જન્મેલા કોઈપણ બાળકો વિષ્ણુ હોઈ શકે છે. તેમના મૃત્યુના ડરથી, કંસએ વાસુદેવ અને દેવકીની ધરપકડ કરી અને તેમને લોખંડની બેડીઓથી બાંધી દીધા. દરેક બાળકો વિષ્ણુ હોવાની શંકા કરીને, વિષ્ણુ તેને મારી નાખશે તેવી ભવિષ્યવાણીને કારણે કંસે તેમને એક પછી એક મારી નાખ્યા."
+            }
+        }
+    },
+    {
+        "id": 100167,
+        "sloka": "10.1.67",
+        "verse_id": 100167,
+        "verseNumber": 67,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Kings greedy for sense gratification on this earth almost always kill their enemies indiscriminately. To satisfy their own whims, they may kill anyone, even their mothers, fathers, brothers or friends."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "इस पृथ्वी पर इंद्रियतृप्ति के लालची राजा प्रायः अपने शत्रुओं को अंधाधुंध मार डालते हैं। अपनी सनक पूरी करने के लिए, वे किसी को भी मार सकते हैं, यहाँ तक कि अपनी माँ, पिता, भाई या दोस्तों को भी।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "આ પૃથ્વી પર ઇન્દ્રિય તૃપ્તિ માટે લોભી રાજાઓ લગભગ હંમેશા તેમના દુશ્મનોને આડેધડ મારી નાખે છે. પોતાની ધૂન સંતોષવા માટે, તેઓ કોઈની પણ હત્યા કરી શકે છે, તેમની માતા, પિતા, ભાઈ કે મિત્રોને પણ."
+            }
+        }
+    },
+    {
+        "id": 100168,
+        "sloka": "10.1.68",
+        "verse_id": 100168,
+        "verseNumber": 68,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "In his previous birth, Kaṁsa had been a great demon named Kālanemi and been killed by Viṣṇu. Upon learning this information from Nārada, Kaṁsa became envious of everyone connected with the Yadu dynasty."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "अपने पिछले जन्म में, कंस कालनेमि नामक एक महान राक्षस था और विष्णु द्वारा मारा गया था। नारद से यह जानकारी जानने के बाद, कंस को यदु वंश से जुड़े सभी लोगों से ईर्ष्या होने लगी।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "તેના પાછલા જન્મમાં, કંસ કાલનેમી નામનો એક મહાન રાક્ષસ હતો અને તેને વિષ્ણુએ મારી નાખ્યો હતો. નારદ પાસેથી આ માહિતી જાણ્યા પછી, કંસ યદુ વંશ સાથે જોડાયેલા દરેકની ઈર્ષ્યા કરવા લાગ્યા."
+            }
+        }
+    },
+    {
+        "id": 100169,
+        "sloka": "10.1.69",
+        "verse_id": 100169,
+        "verseNumber": 69,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Kaṁsa, the most powerful son of Ugrasena, even imprisoned his own father, the King of the Yadu, Bhoja and Andhaka dynasties, and personally ruled the states known as Śūrasena."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "उग्रसेन के सबसे शक्तिशाली पुत्र कंस ने अपने पिता, यदु, भोज और अंधक राजवंशों के राजा को भी कैद कर लिया और शूरसेन नामक राज्यों पर व्यक्तिगत रूप से शासन किया।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "કંસ, ઉગ્રસેનનો સૌથી શક્તિશાળી પુત્ર, તેણે પોતાના પિતા, યદુ, ભોજ અને અંધક વંશના રાજાને પણ કેદ કર્યા અને શૂરસેન તરીકે ઓળખાતા રાજ્યો પર વ્યક્તિગત રીતે શાસન કર્યું."
+            }
+        }
+    }
+]

@@ -1,0 +1,876 @@
+[
+    {
+        "id": 105501,
+        "sloka": "10.55.1",
+        "verse_id": 105501,
+        "verseNumber": 1,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Śukadeva Gosvāmī said: Kāmadeva [Cupid], an expansion of Vāsudeva, had previously been burned to ashes by Rudra’s anger. Now, to obtain a new body, he merged back into the body of Lord Vāsudeva."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "शुकदेव गोस्वामी ने कहा: कामदेव [कामदेव], वासुदेव का एक विस्तार, पहले रुद्र के क्रोध से जलकर राख हो गया था। अब, एक नया शरीर प्राप्त करने के लिए, वह वापस भगवान वासुदेव के शरीर में विलीन हो गये।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "શુકદેવ ગોસ્વામીએ કહ્યું: કામદેવ [કામદેવ], વાસુદેવનો વિસ્તરણ, અગાઉ રુદ્રના ક્રોધથી બળીને રાખ થઈ ગયો હતો. હવે, એક નવું શરીર મેળવવા માટે, તે પાછો ભગવાન વાસુદેવના શરીરમાં ભળી ગયો."
+            }
+        }
+    },
+    {
+        "id": 105502,
+        "sloka": "10.55.2",
+        "verse_id": 105502,
+        "verseNumber": 2,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "He took birth in the womb of Vaidarbhī from the seed of Lord Kṛṣṇa and received the name Pradyumna. In no respect was He inferior to His father."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "उन्होंने भगवान कृष्ण के बीज से वैदर्भी के गर्भ से जन्म लिया और प्रद्युम्न नाम प्राप्त किया। वह किसी भी मामले में अपने पिता से कमतर नहीं था।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "તેમણે ભગવાન કૃષ્ણના બીજમાંથી વૈદર્ભીના ગર્ભમાં જન્મ લીધો અને પ્રદ્યુમ્ન નામ મેળવ્યું. કોઈ પણ રીતે તે તેના પિતાથી નીચા ન હતા."
+            }
+        }
+    },
+    {
+        "id": 105503,
+        "sloka": "10.55.3",
+        "verse_id": 105503,
+        "verseNumber": 3,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "The demon Śambara, who could assume any form he desired, kidnapped the infant before He was even ten days old. Understanding Pradyumna to be his enemy, Śambara threw Him into the sea and then returned home."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "राक्षस सांभर, जो अपनी इच्छानुसार कोई भी रूप धारण कर सकता था, ने शिशु को दस दिन का होने से पहले ही अपहरण कर लिया। शम्बर ने प्रद्युम्न को अपना शत्रु समझकर उसे समुद्र में फेंक दिया और अपने घर लौट आया।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "રાક્ષસ શાંબરા, જે ઇચ્છે તે કોઈપણ સ્વરૂપ ધારણ કરી શકે છે, તેણે બાળકનું દસ દિવસનું થાય તે પહેલાં જ તેનું અપહરણ કર્યું. પ્રદ્યુમ્નને તેનો દુશ્મન સમજીને, શાંબરે તેને સમુદ્રમાં ફેંકી દીધો અને પછી ઘરે પાછો ફર્યો."
+            }
+        }
+    },
+    {
+        "id": 105504,
+        "sloka": "10.55.4",
+        "verse_id": 105504,
+        "verseNumber": 4,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "A powerful fish swallowed Pradyumna, and this fish, along with others, was caught in a huge net and seized by fishermen."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "एक शक्तिशाली मछली ने प्रद्युम्न को निगल लिया, और यह मछली, अन्य मछलियों के साथ, एक विशाल जाल में फंस गई और मछुआरों द्वारा पकड़ ली गई।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "એક શક્તિશાળી માછલી પ્રદ્યુમ્નને ગળી ગઈ, અને આ માછલી, અન્ય લોકો સાથે, એક વિશાળ જાળમાં ફસાઈ ગઈ અને માછીમારો દ્વારા પકડી લેવામાં આવી."
+            }
+        }
+    },
+    {
+        "id": 105505,
+        "sloka": "10.55.5",
+        "verse_id": 105505,
+        "verseNumber": 5,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "The fishermen presented that extraordinary fish to Śambara, who had his cooks bring it to the kitchen, where they began cutting it up with a butcher knife."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "मछुआरों ने उस असाधारण मछली को सांबारा को प्रस्तुत किया, जिन्होंने अपने रसोइयों को इसे रसोई में लाने के लिए कहा, जहां उन्होंने इसे कसाई चाकू से काटना शुरू कर दिया।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "માછીમારોએ તે અસાધારણ માછલી શંબરાને રજૂ કરી, જેમણે તેના રસોઈયા તેને રસોડામાં લઈ આવ્યા, જ્યાં તેઓએ તેને કસાઈની છરી વડે કાપવાનું શરૂ કર્યું."
+            }
+        }
+    },
+    {
+        "id": 105506,
+        "sloka": "10.55.6",
+        "verse_id": 105506,
+        "verseNumber": 6,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Seeing a male child in the belly of the fish, the cooks gave the infant to Māyāvatī, who was astonished. Nārada Muni then appeared and explained to her everything about the child’s birth and His entering the fish’s abdomen."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "मछली के पेट में एक नर बच्चे को देखकर, रसोइयों ने उस शिशु को मायावती को दे दिया, जो आश्चर्यचकित रह गई। तब नारद मुनि प्रकट हुए और उन्हें बच्चे के जन्म और मछली के पेट में प्रवेश करने के बारे में सब कुछ समझाया।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "માછલીના પેટમાં નર બાળકને જોઈને રસોઈયાએ માયાવતીને બાળક આપ્યું, જે આશ્ચર્યચકિત થઈ ગઈ. પછી નારદ મુનિ પ્રગટ થયા અને તેમને બાળકના જન્મ અને માછલીના પેટમાં તેમના પ્રવેશ વિશે બધું સમજાવ્યું."
+            }
+        }
+    },
+    {
+        "id": 105507,
+        "sloka": "10.55.7-8",
+        "verse_id": 105507,
+        "verseNumber": 7,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Māyāvatī was in fact Cupid’s renowned wife, Rati. While waiting for her husband to obtain a new body — his previous one having been burnt up — she had been assigned by Śambara to prepare vegetables and rice. Māyāvatī understood that this infant was actually Kāmadeva, and thus she began to feel love for Him."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "मायावती वास्तव में कामदेव की प्रसिद्ध पत्नी रति थीं। अपने पति के नए शरीर के प्राप्त होने की प्रतीक्षा करते समय - उसका पिछला शरीर जल गया था - उसे शाम्बरा ने सब्जियाँ और चावल तैयार करने का काम सौंपा था। मायावती समझ गईं कि यह शिशु वास्तव में कामदेव था, और इस तरह वह उनके प्रति प्रेम महसूस करने लगीं।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "માયાવતી હકીકતમાં કામદેવની જાણીતી પત્ની રતિ હતી. તેણીના પતિને નવું શરીર મેળવવાની રાહ જોતી વખતે - તેનું અગાઉનું શરીર બળી ગયું હતું - તેણીને શામ્બારા દ્વારા શાકભાજી અને ચોખા તૈયાર કરવા માટે સોંપવામાં આવી હતી. માયાવતી સમજી ગઈ કે આ શિશુ વાસ્તવમાં કામદેવ છે, અને આ રીતે તેણી તેના માટે પ્રેમ અનુભવવા લાગી."
+            }
+        }
+    },
+    {
+        "id": 105509,
+        "sloka": "10.55.9",
+        "verse_id": 105509,
+        "verseNumber": 9,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "After a short time, this son of Kṛṣṇa — Pradyumna — attained His full youth. He enchanted all women who gazed upon Him."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "थोड़े समय के बाद, कृष्ण के इस पुत्र - प्रद्युम्न - ने अपनी पूर्ण युवावस्था प्राप्त कर ली। उसने उन सभी महिलाओं को मंत्रमुग्ध कर दिया जो उसे देखती थीं।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "થોડા સમય પછી, કૃષ્ણના આ પુત્ર - પ્રદ્યુમ્ન - તેની પૂર્ણ યુવાની પ્રાપ્ત કરી. તેણે તે બધી સ્ત્રીઓને મંત્રમુગ્ધ કરી દીધી જેણે તેની તરફ જોયું."
+            }
+        }
+    },
+    {
+        "id": 105510,
+        "sloka": "10.55.10",
+        "verse_id": 105510,
+        "verseNumber": 10,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "My dear King, with a bashful smile and raised eyebrows, Māyāvatī exhibited various gestures of conjugal attraction as she lovingly approached her husband, whose eyes were broad like the petals of a lotus, whose arms were very long and who was the most beautiful of men."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "मेरे प्रिय राजा, शर्मीली मुस्कान और भौंहें चढ़ाए हुए, जब मायावती प्रेमपूर्वक अपने पति के पास पहुंचीं, जिनकी आँखें कमल की पंखुड़ियों की तरह चौड़ी थीं, जिनकी भुजाएँ बहुत लंबी थीं और जो पुरुषों में सबसे सुंदर थे, तो उन्होंने वैवाहिक आकर्षण के विभिन्न भाव प्रदर्शित किए।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "મારા વહાલા રાજા, શરમજનક સ્મિત અને ઉંચી ભમર સાથે, માયાવતીએ પ્રેમપૂર્વક તેના પતિની નજીક જતાં વૈવાહિક આકર્ષણના વિવિધ હાવભાવ દર્શાવ્યા, જેની આંખો કમળની પાંખડીઓ જેવી પહોળી હતી, જેના હાથ ખૂબ લાંબા હતા અને જે પુરુષોમાં સૌથી સુંદર હતા."
+            }
+        }
+    },
+    {
+        "id": 105511,
+        "sloka": "10.55.11",
+        "verse_id": 105511,
+        "verseNumber": 11,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Lord Pradyumna told her, “O mother, your attitude has changed. You are overstepping the proper feelings of a mother and behaving like a lover.”"
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "भगवान प्रद्युम्न ने उनसे कहा, \"हे माँ, आपका दृष्टिकोण बदल गया है। आप एक माँ की उचित भावनाओं को लांघ रही हैं और एक प्रेमी की तरह व्यवहार कर रही हैं।\""
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "ભગવાન પ્રદ્યુમ્ને તેણીને કહ્યું, \"હે માતા, તારો અભિગમ બદલાઈ ગયો છે. તમે માતાની યોગ્ય લાગણીઓને ઓળંગી રહ્યા છો અને પ્રેમી જેવું વર્તન કરો છો.\""
+            }
+        }
+    },
+    {
+        "id": 105512,
+        "sloka": "10.55.12",
+        "verse_id": 105512,
+        "verseNumber": 12,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Rati said: You are the son of Lord Nārāyaṇa and were kidnapped from Your parents’ home by Śambara. I, Rati, am Your legitimate wife, O master, because You are Cupid."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "रति ने कहा: आप भगवान नारायण के पुत्र हैं और शंबर ने आपके माता-पिता के घर से आपका अपहरण कर लिया था। मैं, रति, आपकी वैध पत्नी हूं, हे स्वामी, क्योंकि आप कामदेव हैं।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "રતિએ કહ્યું: તમે ભગવાન નારાયણના પુત્ર છો અને શંભરા દ્વારા તમારા માતાપિતાના ઘરેથી અપહરણ કરવામાં આવ્યું હતું. હું, રતિ, તમારી કાયદેસરની પત્ની છું, હે સ્વામી, કારણ કે તમે કામદેવ છો."
+            }
+        }
+    },
+    {
+        "id": 105513,
+        "sloka": "10.55.13",
+        "verse_id": 105513,
+        "verseNumber": 13,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "That demon, Śambara, threw You into the sea when You were not even ten days old, and a fish swallowed You. Then in this very place we recovered You from the fish’s abdomen, O master."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "जब आप दस दिन के भी नहीं थे, तब उस राक्षस शंबर ने आपको समुद्र में फेंक दिया और एक मछली ने आपको निगल लिया। तब हे स्वामी, इसी स्थान पर हमने तुम्हें मछली के पेट से निकाला था।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "તે રાક્ષસ, શાંબરા, જ્યારે તમે દસ દિવસના પણ ન હતા ત્યારે તમને સમુદ્રમાં ફેંકી દીધા, અને એક માછલી તમને ગળી ગઈ. પછી આ જ જગ્યાએ અમે તમને માછલીના પેટમાંથી બહાર કાઢ્યા, હે સ્વામી."
+            }
+        }
+    },
+    {
+        "id": 105514,
+        "sloka": "10.55.14",
+        "verse_id": 105514,
+        "verseNumber": 14,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Now kill this dreadful Śambara, Your formidable enemy. Although he knows hundreds of magic spells, You can defeat him with bewildering magic and other techniques."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "अब अपने दुर्जेय शत्रु शम्बर को मार डालो। हालाँकि वह सैकड़ों जादुई मंत्र जानता है, आप उसे आश्चर्यजनक जादू और अन्य तकनीकों से हरा सकते हैं।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "હવે આ ભયંકર શંબરાને મારી નાખો, તમારા પ્રચંડ શત્રુ. તેમ છતાં તે સેંકડો જાદુઈ મંત્રો જાણે છે, તમે તેને આશ્ચર્યજનક જાદુ અને અન્ય તકનીકોથી હરાવી શકો છો."
+            }
+        }
+    },
+    {
+        "id": 105515,
+        "sloka": "10.55.15",
+        "verse_id": 105515,
+        "verseNumber": 15,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Your poor mother, having lost her son, cries for You like a kurarī bird. She is overwhelmed with love for her child, just like a cow that has lost its calf."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "तुम्हारी बेचारी माता अपने पुत्र को खोकर कुररी पक्षी की भाँति तुम्हारे लिये रोती है। वह अपने बच्चे के प्रति प्रेम से अभिभूत है, ठीक उस गाय की तरह जिसने अपना बछड़ा खो दिया हो।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "તમારી ગરીબ માતા, પોતાનો પુત્ર ગુમાવીને, તમારા માટે કુરારી પક્ષીની જેમ રડે છે. તે તેના બાળક પ્રત્યેના પ્રેમથી અભિભૂત છે, જેમ કે એક ગાય જેણે તેનું વાછરડું ગુમાવ્યું છે."
+            }
+        }
+    },
+    {
+        "id": 105516,
+        "sloka": "10.55.16",
+        "verse_id": 105516,
+        "verseNumber": 16,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "[Śukadeva Gosvāmī continued:] Speaking thus, Māyāvatī gave to the great soul Pradyumna the mystic knowledge called Mahā-māyā, which vanquishes all other deluding spells."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "[शुकदेव गोस्वामी ने आगे कहा:] इस प्रकार बोलते हुए, मायावती ने महान आत्मा प्रद्युम्न को महा-माया नामक रहस्यमय ज्ञान दिया, जो अन्य सभी भ्रामक मंत्रों को खत्म कर देता है।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "[શુકદેવ ગોસ્વામીએ ચાલુ રાખ્યું:] આમ બોલતા, માયાવતીએ મહાન આત્મા પ્રદ્યુમ્નને મહા-માયા નામનું રહસ્યમય જ્ઞાન આપ્યું, જે અન્ય તમામ ભ્રામક મંત્રોને પરાજિત કરે છે."
+            }
+        }
+    },
+    {
+        "id": 105517,
+        "sloka": "10.55.17",
+        "verse_id": 105517,
+        "verseNumber": 17,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Pradyumna approached Śambara and called him to battle, hurling intolerable insults at him to foment a conflict."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "प्रद्युम्न शंबर के पास गया और उसे युद्ध के लिए बुलाया, और संघर्ष भड़काने के लिए उस पर असहनीय अपमान किया।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "પ્રદ્યુમ્ન શંભરા પાસે ગયો અને તેને યુદ્ધ માટે બોલાવ્યો, સંઘર્ષને વેગ આપવા માટે તેના પર અસહ્ય અપમાન કર્યા."
+            }
+        }
+    },
+    {
+        "id": 105518,
+        "sloka": "10.55.18",
+        "verse_id": 105518,
+        "verseNumber": 18,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Offended by these harsh words, Śambara became as agitated as a kicked snake. He came out, club in hand, his eyes red with rage."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "इन कठोर शब्दों से आहत शंबर लात मारने वाले सांप की तरह उत्तेजित हो गया। वह हाथ में गदा लिए बाहर आया, उसकी आँखें क्रोध से लाल थीं।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "આ કઠોર શબ્દોથી નારાજ, શાંબરા લાત મારતા સાપની જેમ ઉશ્કેરાઈ ગયા. તે બહાર આવ્યો, હાથમાં ક્લબ, તેની આંખો ગુસ્સાથી લાલ થઈ ગઈ."
+            }
+        }
+    },
+    {
+        "id": 105519,
+        "sloka": "10.55.19",
+        "verse_id": 105519,
+        "verseNumber": 19,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Śambara whirled his club swiftly about and then hurled it at the wise Pradyumna, producing a sound as sharp as a thunder crack."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "शंबर ने अपनी गदा को तेजी से घुमाया और फिर उसे बुद्धिमान प्रद्युम्न पर फेंका, जिससे गड़गड़ाहट के समान तीव्र ध्वनि उत्पन्न हुई।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "શાંબરાએ તેના ક્લબને ઝડપથી ચક્કર માર્યા અને પછી તેને બુદ્ધિમાન પ્રદ્યુમ્ન પર ફેંકી દીધો, જે ગર્જનાની તિરાડ જેવો તીક્ષ્ણ અવાજ ઉત્પન્ન કરે છે."
+            }
+        }
+    },
+    {
+        "id": 105520,
+        "sloka": "10.55.20",
+        "verse_id": 105520,
+        "verseNumber": 20,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "As Śambara’s club came flying toward Him, Lord Pradyumna knocked it away with His own. Then, O King, Pradyumna angrily threw His club at the enemy."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "जैसे ही शंबर की गदा उनकी ओर उड़ी, भगवान प्रद्युम्न ने अपनी गदा से उसे गिरा दिया। तब, हे राजन, प्रद्युम्न ने क्रोधपूर्वक शत्रु पर अपनी गदा फेंकी।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "જેમ જેમ શંબરાનો ક્લબ તેની તરફ ઉડતો આવ્યો, ભગવાન પ્રદ્યુમ્ને તેને પોતાની સાથે પછાડી દીધો. પછી, હે રાજા, પ્રદ્યુમ્ને ગુસ્સાથી પોતાનો ક્લબ દુશ્મન પર ફેંકી દીધો."
+            }
+        }
+    },
+    {
+        "id": 105521,
+        "sloka": "10.55.21",
+        "verse_id": 105521,
+        "verseNumber": 21,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Resorting to the black magic of the Daityas taught to him by Maya Dānava, Śambara suddenly appeared in the sky and released a downpour of weapons upon Kṛṣṇa’s son."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "माया दानव द्वारा सिखाए गए दैत्यों के काले जादू का सहारा लेते हुए, शंबर अचानक आकाश में प्रकट हुए और कृष्ण के पुत्र पर हथियारों की बारिश शुरू कर दी।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "માયા દાનવ દ્વારા તેમને શીખવવામાં આવેલા દૈત્યોના કાળા જાદુનો આશરો લેતા, શાંબરા અચાનક આકાશમાં પ્રગટ થયા અને કૃષ્ણના પુત્ર પર શસ્ત્રોનો વરસાદ વરસાવ્યો."
+            }
+        }
+    },
+    {
+        "id": 105522,
+        "sloka": "10.55.22",
+        "verse_id": 105522,
+        "verseNumber": 22,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Harassed by this rain of weapons, Lord Raukmiṇeya, the greatly powerful warrior, made use of the mystic science called Mahā-māyā, which was created from the mode of goodness and which could defeat all other mystic power."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "हथियारों की इस बारिश से परेशान होकर, अत्यधिक शक्तिशाली योद्धा, भगवान रौक्मिनेय ने महा-माया नामक रहस्यमय विज्ञान का उपयोग किया, जो अच्छाई के गुण से बनाया गया था और जो अन्य सभी रहस्यमय शक्तियों को हरा सकता था।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "શસ્ત્રોના આ વરસાદથી પરેશાન, ભગવાન રૌક્મિણ્ય, મહાન શક્તિશાળી યોદ્ધા, મહા-માયા નામના રહસ્યમય વિજ્ઞાનનો ઉપયોગ કર્યો, જે સારાની પદ્ધતિથી બનાવવામાં આવી હતી અને જે અન્ય તમામ રહસ્યવાદી શક્તિઓને હરાવી શકે છે."
+            }
+        }
+    },
+    {
+        "id": 105523,
+        "sloka": "10.55.23",
+        "verse_id": 105523,
+        "verseNumber": 23,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "The demon then unleashed hundreds of mystic weapons belonging to the Guhyakas, Gandharvas, Piśācas, Uragas and Rākṣasas, but Lord Kārṣṇi, Pradyumna, struck them all down."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "इसके बाद राक्षस ने गुह्यकों, गंधर्वों, पिशाचों, उरगों और राक्षसों के सैकड़ों रहस्यमय हथियार छोड़े, लेकिन भगवान कार्ष्णि, प्रद्युम्न ने उन सभी को मार गिराया।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "રાક્ષસે પછી ગુહ્યક, ગંધર્વ, પિશાચ, ઉરાગ અને રાક્ષસના સેંકડો રહસ્યમય શસ્ત્રો છોડ્યા, પરંતુ ભગવાન કાર્ષ્ણિ, પ્રદ્યુમ્ને તે બધાને મારી નાખ્યા."
+            }
+        }
+    },
+    {
+        "id": 105524,
+        "sloka": "10.55.24",
+        "verse_id": 105524,
+        "verseNumber": 24,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Drawing His sharp-edged sword, Pradyumna forcefully cut off Śambara’s head, complete with red mustache, helmet and earrings."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "प्रद्युम्न ने अपनी तेज धार वाली तलवार खींचकर बलपूर्वक लाल मूंछों, हेलमेट और कानों की बालियों से युक्त शंबर का सिर काट डाला।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "પોતાની તીક્ષ્ણ ધારવાળી તલવાર ખેંચીને, પ્રદ્યુમ્ને લાલ મૂછો, હેલ્મેટ અને કાનની બુટ્ટીઓ સાથે પૂર્ણપણે શંબરાનું માથું બળપૂર્વક કાપી નાખ્યું."
+            }
+        }
+    },
+    {
+        "id": 105525,
+        "sloka": "10.55.25",
+        "verse_id": 105525,
+        "verseNumber": 25,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "As the residents of the higher planets showered Pradyumna with flowers and chanted His praises, His wife appeared in the sky and transported Him through the heavens, back to the city of Dvārakā."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "जैसे ही उच्च ग्रहों के निवासियों ने प्रद्युम्न पर फूलों की वर्षा की और उसकी स्तुति की, उसकी पत्नी आकाश में प्रकट हुई और उसे स्वर्ग के माध्यम से वापस द्वारका शहर ले गई।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "જ્યારે ઉચ્ચ ગ્રહોના રહેવાસીઓએ પ્રદ્યુમ્ન પર ફૂલોની વર્ષા કરી અને તેમની સ્તુતિ કરી, ત્યારે તેમની પત્ની આકાશમાં પ્રગટ થઈ અને તેમને સ્વર્ગમાંથી દ્વારકા શહેરમાં લઈ ગઈ."
+            }
+        }
+    },
+    {
+        "id": 105526,
+        "sloka": "10.55.26",
+        "verse_id": 105526,
+        "verseNumber": 26,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "O King, Lord Pradyumna and His wife resembled a cloud accompanied by lightning as they descended from the sky into the inner quarters of Kṛṣṇa’s most excellent palace, which were crowded with lovely women."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "हे राजन, भगवान प्रद्युम्न और उनकी पत्नी बिजली के साथ एक बादल की तरह लग रहे थे जब वे आकाश से कृष्ण के सबसे उत्कृष्ट महल के आंतरिक क्वार्टर में उतरे, जो सुंदर महिलाओं से भरे हुए थे।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "હે રાજા, ભગવાન પ્રદ્યુમ્ન અને તેમની પત્ની કૃષ્ણના સૌથી ઉત્કૃષ્ટ મહેલના અંદરના ક્વાર્ટરમાં જ્યારે આકાશમાંથી નીચે ઉતર્યા ત્યારે વીજળી સાથે વાદળ જેવા દેખાયા, જે સુંદર સ્ત્રીઓથી ભરેલા હતા."
+            }
+        }
+    },
+    {
+        "id": 105527,
+        "sloka": "10.55.27-28",
+        "verse_id": 105527,
+        "verseNumber": 27,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "The women of the palace thought He was Lord Kṛṣṇa when they saw His dark-blue complexion the color of a rain cloud, His yellow silk garments, His long arms and red-tinged eyes, His charming lotus face adorned with a pleasing smile, His fine ornaments and His thick, curly blue hair. Thus the women became bashful and hid themselves here and there."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "महल की महिलाओं ने सोचा कि वह भगवान कृष्ण हैं, जब उन्होंने बारिश के बादल के समान उनका गहरा नीला रंग, उनके पीले रेशमी वस्त्र, उनकी लंबी भुजाएं और लाल आंखें, मनभावन मुस्कान से सजा उनका आकर्षक कमल चेहरा, उनके सुंदर आभूषण और उनके घने, घुंघराले नीले बाल देखे। इस प्रकार स्त्रियाँ लज्जित होकर इधर-उधर छिप गईं।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "મહેલની સ્ત્રીઓએ વિચાર્યું કે તેઓ ભગવાન કૃષ્ણ છે જ્યારે તેઓએ તેમનો ઘેરો વાદળી રંગ, વરસાદના વાદળ જેવો રંગ, તેમના પીળા રેશમી વસ્ત્રો, તેમના લાંબા હાથ અને લાલ રંગની આંખો, આનંદદાયક સ્મિતથી શણગારેલો તેમનો કમળનો મોહક ચહેરો, તેમના સુંદર આભૂષણો અને તેમના જાડા, વાંકડિયા વાદળી વાળ જોયા. આથી સ્ત્રીઓ શરમાઈ ગઈ અને અહીં-ત્યાં સંતાઈ ગઈ."
+            }
+        }
+    },
+    {
+        "id": 105529,
+        "sloka": "10.55.29",
+        "verse_id": 105529,
+        "verseNumber": 29,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Gradually, from the slight differences between His appearance and Kṛṣṇa’s, the ladies realized He was not the Lord. Delighted and astonished, they approached Pradyumna and His consort, who was a jewel among women."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "धीरे-धीरे, उनके और कृष्ण के स्वरूप के बीच थोड़े से अंतर से, महिलाओं को एहसास हुआ कि वह भगवान नहीं थे। प्रसन्न और आश्चर्यचकित होकर, वे प्रद्युम्न और उसकी पत्नी के पास पहुंचे, जो महिलाओं में एक रत्न था।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "ધીમે ધીમે, તેમના રૂપ અને કૃષ્ણ વચ્ચેના સહેજ તફાવતથી, સ્ત્રીઓને સમજાયું કે તે ભગવાન નથી. આનંદિત અને આશ્ચર્યચકિત થઈને, તેઓ પ્રદ્યુમ્ન અને તેમની પત્ની પાસે ગયા, જેઓ સ્ત્રીઓમાં એક રત્ન હતા."
+            }
+        }
+    },
+    {
+        "id": 105530,
+        "sloka": "10.55.30",
+        "verse_id": 105530,
+        "verseNumber": 30,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Seeing Pradyumna, sweet-voiced, dark-eyed Rukmiṇī remembered her lost son, and her breasts became moist out of affection."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "प्रद्युम्न को देखकर मधुर वाणी वाली, काली आंखों वाली रुक्मिणी को अपने खोए हुए पुत्र की याद आ गई और स्नेह के कारण उनकी छाती गीली हो गई।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "પ્રદ્યુમ્નને જોઈને, મધુર અવાજવાળી, કાળી આંખોવાળી રુક્મિણીને તેના ખોવાયેલા પુત્રની યાદ આવી, અને તેના સ્તન સ્નેહથી ભીના થઈ ગયા."
+            }
+        }
+    },
+    {
+        "id": 105531,
+        "sloka": "10.55.31",
+        "verse_id": 105531,
+        "verseNumber": 31,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "[Śrīmatī Rukmiṇī-devī said:] Who is this lotus-eyed jewel among men? What man’s son is He, and what woman carried Him in her womb? And who is this woman He has taken as His wife?"
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "[श्रीमती रुक्मिणी देवी ने कहा:] मनुष्यों में यह कमल-नयन रत्न कौन है? वह किस मनुष्य का पुत्र है, और किस स्त्री ने उसे अपने गर्भ में रखा? और यह स्त्री कौन है जिसे उसने अपनी पत्नी बना लिया है?"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "[શ્રીમતી રુક્મિણી-દેવીએ કહ્યું:] પુરુષોમાં આ કમળ-આંખવાળું રત્ન કોણ છે? તે કયા પુરુષનો દીકરો છે અને કઈ સ્ત્રીએ તેને ગર્ભમાં વહન કર્યો? અને તેણે પોતાની પત્ની તરીકે આ સ્ત્રી કોને લીધી છે?"
+            }
+        }
+    },
+    {
+        "id": 105532,
+        "sloka": "10.55.32",
+        "verse_id": 105532,
+        "verseNumber": 32,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "If my lost son, who was kidnapped from the maternity room, were still alive somewhere, He would be of the same age and appearance as this young man."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "यदि मेरा खोया हुआ बेटा, जिसे प्रसूति कक्ष से अपहरण कर लिया गया था, अभी भी कहीं जीवित होता, तो वह इस युवक के समान उम्र और शक्ल वाला होता।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "જો મારો ખોવાયેલો પુત્ર, જેનું પ્રસૂતિ ખંડમાંથી અપહરણ કરવામાં આવ્યું હતું, હજુ પણ ક્યાંક જીવિત હોત, તો તે આ યુવાનની જેમ જ ઉમર અને દેખાવનો હોત."
+            }
+        }
+    },
+    {
+        "id": 105533,
+        "sloka": "10.55.33",
+        "verse_id": 105533,
+        "verseNumber": 33,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "But how is it that this young man so much resembles my own Lord, Kṛṣṇa, the wielder of Śārṅga, in His bodily form and His limbs, in His gait and the tone of His voice, and in His smiling glance?"
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "लेकिन ऐसा कैसे है कि यह युवक अपने शारीरिक स्वरूप और अंगों में, अपनी चाल में और अपनी आवाज के स्वर में, और अपनी मुस्कुराती हुई दृष्टि में, मेरे अपने भगवान, कृष्ण, जो शार्गांग के धारक हैं, से इतना मिलता जुलता है?"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "પરંતુ તે કેવી રીતે છે કે આ યુવાન મારા પોતાના ભગવાન, કૃષ્ણ, શ્રાંગના રક્ષક, તેના શારીરિક સ્વરૂપ અને તેના અંગો, તેની ચાલ અને તેના અવાજના સ્વરમાં, અને તેની હસતી નજરમાં આટલો બધો સામ્ય છે?"
+            }
+        }
+    },
+    {
+        "id": 105534,
+        "sloka": "10.55.34",
+        "verse_id": 105534,
+        "verseNumber": 34,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Yes, He must be the same child I bore in my womb, since I feel great affection for Him and my left arm is quivering."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "हां, वह वही बच्चा होगा जिसे मैंने अपने गर्भ में जन्मा था, क्योंकि मुझे उसके प्रति बहुत स्नेह है और मेरा बायां हाथ कांप रहा है।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "હા, તે એ જ બાળક હોવું જોઈએ જે મેં મારા ગર્ભાશયમાં જન્મ્યું હતું, કારણ કે હું તેના માટે ખૂબ જ પ્રેમ અનુભવું છું અને મારો ડાબો હાથ કંપી રહ્યો છે."
+            }
+        }
+    },
+    {
+        "id": 105535,
+        "sloka": "10.55.35",
+        "verse_id": 105535,
+        "verseNumber": 35,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "As Queen Rukmiṇī conjectured in this way, Lord Kṛṣṇa, the son of Devakī, arrived on the scene with Vasudeva and Devakī."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "जैसे ही रानी रुक्मिणी ने इस प्रकार अनुमान लगाया, देवकी के पुत्र भगवान कृष्ण, वसुदेव और देवकी के साथ घटनास्थल पर आये।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "જેમ રાણી રુક્મિણીએ આ રીતે અનુમાન કર્યું, ભગવાન કૃષ્ણ, દેવકીના પુત્ર, વાસુદેવ અને દેવકી સાથે ઘટનાસ્થળે પહોંચ્યા."
+            }
+        }
+    },
+    {
+        "id": 105536,
+        "sloka": "10.55.36",
+        "verse_id": 105536,
+        "verseNumber": 36,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Although Lord Janārdana knew perfectly well what had transpired, He remained silent. The sage Nārada, however, explained everything, beginning with Śambara’s kidnapping of the child."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "यद्यपि भगवान जनार्दन अच्छी तरह जानते थे कि क्या हुआ था, फिर भी वे चुप रहे। हालाँकि, ऋषि नारद ने शंबर द्वारा बच्चे के अपहरण से लेकर सब कुछ समझाया।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "ભગવાન જનાર્દન શું થયું તે સારી રીતે જાણતા હોવા છતાં, તેઓ મૌન રહ્યા. નારદ ઋષિએ, જોકે, શાંબરના બાળકના અપહરણથી શરૂ કરીને, બધું સમજાવ્યું."
+            }
+        }
+    },
+    {
+        "id": 105537,
+        "sloka": "10.55.37",
+        "verse_id": 105537,
+        "verseNumber": 37,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "When the women of Lord Kṛṣṇa’s palace heard this most amazing account, they joyfully greeted Pradyumna, who had been lost for many years but who had now returned as if from the dead."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "जब भगवान कृष्ण के महल की महिलाओं ने यह सबसे आश्चर्यजनक वृत्तांत सुना, तो उन्होंने खुशी से प्रद्युम्न का स्वागत किया, जो कई वर्षों से खोया हुआ था लेकिन अब मृतकों में से वापस आ गया था।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "જ્યારે ભગવાન કૃષ્ણના મહેલની સ્ત્રીઓએ આ સૌથી અદ્ભુત વર્ણન સાંભળ્યું, ત્યારે તેઓએ પ્રદ્યુમ્નને આનંદથી નમસ્કાર કર્યા, જે ઘણા વર્ષોથી ખોવાયેલો હતો પરંતુ જે હવે મૃત્યુમાંથી પાછો આવ્યો હતો."
+            }
+        }
+    },
+    {
+        "id": 105538,
+        "sloka": "10.55.38",
+        "verse_id": 105538,
+        "verseNumber": 38,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Devakī, Vasudeva, Kṛṣṇa, Balarāma and all the women of the palace, especially Queen Rukmiṇī, embraced the young couple and rejoiced."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "देवकी, वासुदेव, कृष्ण, बलराम और महल की सभी महिलाओं, विशेषकर रानी रुक्मिणी ने युवा जोड़े को गले लगाया और खुशी मनाई।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "દેવકી, વાસુદેવ, કૃષ્ણ, બલરામ અને મહેલની બધી સ્ત્રીઓ, ખાસ કરીને રાણી રુક્મિણી, યુવાન દંપતિને ભેટી પડ્યા અને આનંદ કર્યો."
+            }
+        }
+    },
+    {
+        "id": 105539,
+        "sloka": "10.55.39",
+        "verse_id": 105539,
+        "verseNumber": 39,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Hearing that lost Pradyumna had come home, the residents of Dvārakā declared, “Ah, providence has allowed this child to return as if from death!”"
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "यह सुनकर कि खोया हुआ प्रद्युम्न घर आ गया है, द्वारका के निवासियों ने कहा, \"आह, भगवान ने इस बच्चे को मानो मृत्यु से वापस आने की अनुमति दी है!\""
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "ખોવાયેલો પ્રદ્યુમ્ન ઘરે આવ્યો છે તે સાંભળીને દ્વારકાના રહેવાસીઓએ જાહેર કર્યું, \"આહ, પ્રોવિડન્સે આ બાળકને મૃત્યુમાંથી પાછા ફરવાની મંજૂરી આપી છે!\""
+            }
+        }
+    },
+    {
+        "id": 105540,
+        "sloka": "10.55.40",
+        "verse_id": 105540,
+        "verseNumber": 40,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "It is not astonishing that the palace women, who should have felt maternal affection for Pradyumna, privately felt ecstatic attraction for Him as if He were their own Lord. After all, the son exactly resembled His father. Indeed, Pradyumna was a perfect reflection of the beauty of Lord Kṛṣṇa, the shelter of the goddess of fortune, and appeared before their eyes as Cupid Himself. Since even those on the level of His mother felt conjugal attraction for Him, then what to speak of how other women felt when they saw Him?"
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "यह आश्चर्य की बात नहीं है कि महल की महिलाएँ, जिन्हें प्रद्युम्न के प्रति मातृ स्नेह महसूस करना चाहिए था, निजी तौर पर उसके लिए परम आकर्षण महसूस करती थीं जैसे कि वह उनका अपना भगवान हो। आख़िरकार, बेटा बिल्कुल अपने पिता जैसा दिखता था। वास्तव में, प्रद्युम्न भगवान कृष्ण की सुंदरता का एक आदर्श प्रतिबिंब था, जो भाग्य की देवी का आश्रय था, और उनकी आंखों के सामने स्वयं कामदेव के रूप में प्रकट हुआ था। चूँकि उनकी माँ के स्तर के लोग भी उनके प्रति दाम्पत्य आकर्षण महसूस करते थे, तो इस बारे में क्या कहा जाए कि जब अन्य महिलाओं ने उन्हें देखा तो उन्हें कैसा महसूस हुआ?"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "તે આશ્ચર્યજનક નથી કે મહેલની સ્ત્રીઓ, જેમને પ્રદ્યુમ્ન માટે માતૃત્વનો સ્નેહ હોવો જોઈએ, તેઓ તેમના પોતાના ભગવાન હોય તેમ તેમના પ્રત્યે એકાંતમાં આનંદી આકર્ષણ અનુભવે છે. છેવટે, પુત્ર બરાબર તેના પિતા જેવો હતો. ખરેખર, પ્રદ્યુમ્ન એ ભગવાન કૃષ્ણની સુંદરતાનું સંપૂર્ણ પ્રતિબિંબ હતું, જે ભાગ્યની દેવીનું આશ્રયસ્થાન હતું, અને તેઓની આંખો સમક્ષ કામદેવ તરીકે પ્રગટ થયા હતા. તેમની માતાના સ્તર પરના લોકો પણ તેમના માટે વૈવાહિક આકર્ષણ અનુભવે છે, તો પછી જ્યારે અન્ય સ્ત્રીઓએ તેમને જોયા ત્યારે કેવું લાગ્યું તેના વિશે શું કહેવું?"
+            }
+        }
+    }
+]

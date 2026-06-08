@@ -1,0 +1,173 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <title>Shrimad Bhagavatam - Canto 10</title>
+    <link rel="manifest" href="manifest.json">
+    <link rel="stylesheet" href="css/styles.css">
+    <meta name="theme-color" content="#0f0203">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap" rel="stylesheet">
+</head>
+
+<body>
+    <header id="header">
+        <button id="back-btn" style="display:none;"><i class="fas fa-arrow-left"></i></button>
+        <h1 id="header-title">श्रीमद्भागवत पुराण</h1>
+    </header>
+
+    <main id="main-content">
+        <!-- Canto Selection Screen (Home) -->
+        <div id="canto-screen" class="screen active">
+            <div class="canto-header-banner image-banner">
+                <img src="images/bhagvatam.jpg" alt="Shrimad Bhagavatam" class="hero-image">
+            </div>
+            <div id="canto-list">
+                <!-- Canto 10 Card -->
+                <div class="canto-card active" id="canto-10-card">
+                    <div class="canto-card-badge">दशम स्कन्धम्</div>
+                    <div class="canto-card-body">
+                        <h3>Canto 10</h3>
+                        <p class="canto-title-hindi">दशम स्कन्ध: कृष्णलीला</p>
+                        <p class="canto-summary">The Summit of Devotion. Containing the birth, childhood, and ultimate pastimes of Bhagavan Śrī Kṛṣṇa in Vraja and Dvārakā.</p>
+                        <div class="canto-stats-row">
+                            <span class="canto-stat-pill"><i class="fas fa-book-open"></i> 90 Chapters</span>
+                            <span class="canto-stat-pill"><i class="fas fa-feather-alt"></i> 3,577 Verses</span>
+                        </div>
+                    </div>
+                </div>
+                
+                <!-- Placeholder Cantos (Locked) -->
+                <div class="canto-card locked">
+                    <div class="canto-card-badge locked-badge">स्कन्ध १ - ९</div>
+                    <div class="canto-card-body">
+                        <h3>Cantos 1 – 9</h3>
+                        <p class="canto-summary">Cosmic creation, universal order, and histories of the Sun & Moon dynasties.</p>
+                        <span class="lock-indicator"><i class="fas fa-lock"></i> Coming Soon</span>
+                    </div>
+                </div>
+                
+                <div class="canto-card locked">
+                    <div class="canto-card-badge locked-badge">स्कन्ध ११ - १२</div>
+                    <div class="canto-card-body">
+                        <h3>Cantos 11 – 12</h3>
+                        <p class="canto-summary">The Uddhava Gita (teachings of Lord Kṛṣṇa) and descriptions of the Age of Kali.</p>
+                        <span class="lock-indicator"><i class="fas fa-lock"></i> Coming Soon</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Chapters List View -->
+        <div id="chapters-screen" class="screen">
+            <div id="chapters-list"></div>
+        </div>
+
+        <!-- Verses List View -->
+        <div id="verses-screen" class="screen">
+            <h2 id="chapter-title"></h2>
+            <div id="verses-list"></div>
+        </div>
+
+        <!-- Verse Detail View -->
+        <div id="verse-detail-screen" class="screen">
+            <div id="verse-sanskrit-card" class="glass-card">
+                <div class="verse-sanskrit-header">
+                    <button id="bookmark-btn" class="bookmark-btn" title="Bookmark">
+                        <i class="far fa-heart"></i>
+                    </button>
+                    <div id="verse-pill" class="sloka-number-pill"></div>
+                    <button id="share-btn" class="share-btn" title="Share Verse">
+                        <i class="fas fa-share-alt"></i>
+                    </button>
+                </div>
+                <div id="verse-text"></div>
+                <div id="verse-transliteration"></div>
+            </div>
+
+            <div id="verse-translation-card" class="glass-card">
+                <div class="translation-header">
+                    <span class="translation-title"><i class="fas fa-language"></i> अनुवाद / Translation</span>
+                    <select id="language-dropdown" class="language-dropdown">
+                        <option value="english">English</option>
+                        <option value="hindi" selected>हिंदी</option>
+                        <option value="gujarati">ગુજરાતી</option>
+                    </select>
+                </div>
+                <div id="verse-translation"></div>
+            </div>
+        </div>
+
+        <!-- Settings View -->
+        <div id="settings-screen" class="screen">
+            <div class="glass-card settings-card">
+                <div class="settings-header">
+                    <h2>Settings</h2>
+                    <p>Manage your app preferences</p>
+                </div>
+                <div class="settings-content">
+                    <div class="setting-item">
+                        <h3>App Version</h3>
+                        <p>This is a completely client-side application running offline with cached resources.</p>
+                    </div>
+                </div>
+                <div class="settings-footer">
+                    <span id="cache-version">App Version: loading...</span>
+                    <div><a href="https://simkeyur.github.io" target="_blank">Submit Feedback</a></div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Bookmarks View -->
+        <div id="bookmarks-screen" class="screen">
+            <div class="bookmarks-header">
+                <h2>Bookmarked Verses</h2>
+                <p>Your favorite verses from the 10th Canto</p>
+            </div>
+            <div id="bookmarks-list" class="bookmarks-list"></div>
+        </div>
+    </main>
+
+    <!-- Floating Navigation Menu -->
+    <div id="floating-settings-btn" class="floating-settings-btn">
+        <button id="main-floating-btn" class="main-floating-btn">
+            <i class="fas fa-cog"></i>
+        </button>
+        <div id="floating-menu" class="floating-menu">
+            <button id="settings-btn" class="floating-option-btn" title="Settings">
+                <i class="fas fa-cog"></i>
+            </button>
+            <button id="bookmarks-btn" class="floating-option-btn" title="Bookmarks">
+                <i class="fas fa-heart"></i>
+            </button>
+        </div>
+    </div>
+
+    <!-- Verse Slider Navigation -->
+    <div id="verse-navigation" style="display: none;">
+        <button id="prev-verse-btn">
+            <i class="fas fa-chevron-left"></i>
+        </button>
+        <div id="verse-slider-container">
+            <input type="range" id="verse-slider" min="1" max="10" value="1">
+            <div id="verse-counter">1/10</div>
+        </div>
+        <button id="next-verse-btn">
+            <i class="fas fa-chevron-right"></i>
+        </button>
+    </div>
+
+    <footer id="footer">
+        <p class="footer-sloka">कृष्णाय वासुदेवाय देवकीनन्दनाय च।<br>नन्दगोपकुमाराय गोविन्दाय नमो नमः॥</p>
+    </footer>
+
+    <script src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.4.0/js/all.min.js"></script>
+    <script src="js/app.js"></script>
+</body>
+
+</html>

@@ -1,0 +1,669 @@
+[
+    {
+        "id": 107301,
+        "sloka": "10.73.1-6",
+        "verse_id": 107301,
+        "verseNumber": 1,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Śukadeva Gosvāmī said: Jarāsandha had defeated 20,800 kings in combat and thrown them into prison. As these kings emerged from the Giridroṇī fortress, they appeared dirty and shabbily dressed. They were emaciated by hunger, their faces were dried up, and they were greatly weakened by their long imprisonment."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "शुकदेव गोस्वामी ने कहा: जरासंध ने युद्ध में 20,800 राजाओं को हराया था और उन्हें जेल में डाल दिया था। जैसे ही ये राजा गिरिद्रोणि किले से बाहर निकले, वे गंदे और मैले-कुचैले कपड़े पहने हुए दिखाई दिए। वे भूख से क्षीण हो गये थे, उनके चेहरे सूख गये थे, और लम्बी कैद के कारण वे बहुत कमजोर हो गये थे।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "શુકદેવ ગોસ્વામીએ કહ્યું: જરાસંધે 20,800 રાજાઓને યુદ્ધમાં હરાવ્યા હતા અને તેમને જેલમાં ધકેલી દીધા હતા. જેમ જેમ આ રાજાઓ ગિરિદ્રોણી કિલ્લામાંથી બહાર આવ્યા, તેઓ ગંદા અને જર્જરિત પોશાક પહેરેલા દેખાયા. તેઓ ભૂખથી ક્ષીણ થઈ ગયા હતા, તેમના ચહેરા સુકાઈ ગયા હતા, અને તેઓની લાંબી કેદને કારણે તેઓ ખૂબ જ નબળા પડી ગયા હતા."
+            }
+        }
+    },
+    {
+        "id": 107307,
+        "sloka": "10.73.7",
+        "verse_id": 107307,
+        "verseNumber": 7,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "The ecstasy of beholding Lord Kṛṣṇa having dispelled the weariness of their imprisonment, the kings stood with joined palms and offered words of praise to that supreme master of the senses."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "भगवान कृष्ण को उनके कारावास की थकान दूर करने के आनंद से, राजा हाथ जोड़कर खड़े हो गए और इंद्रियों के उस सर्वोच्च स्वामी की स्तुति करने लगे।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "ભગવાન કૃષ્ણને જોવાનો આનંદ તેમના કારાવાસના થાકને દૂર કર્યા પછી, રાજાઓ હથેળીઓ સાથે ઉભા થયા અને ઇન્દ્રિયોના તે પરમ ગુરુને સ્તુતિના શબ્દો અર્પણ કર્યા."
+            }
+        }
+    },
+    {
+        "id": 107308,
+        "sloka": "10.73.8",
+        "verse_id": 107308,
+        "verseNumber": 8,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "The kings said: Obeisances to You, O Lord of the ruling demigods, O destroyer of Your surrendered devotees’ distress. Since we have surrendered to You, O inexhaustible Kṛṣṇa, please save us from this terrible material life, which has made us so despondent."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "राजाओं ने कहा: हे देवताओं के स्वामी, हे अपने शरणागत भक्तों के संकटों को नष्ट करने वाले, आपको नमस्कार है। चूंकि हमने आपके प्रति समर्पण कर दिया है, हे अटूट कृष्ण, कृपया हमें इस भयानक भौतिक जीवन से बचाएं, जिसने हमें इतना निराश कर दिया है।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "રાજાઓએ કહ્યું: હે શાસક દેવતાઓના ભગવાન, હે તમારા શરણે આવેલા ભક્તોના સંકટનો નાશ કરનાર, તમને પ્રણામ. કારણ કે અમે તમને શરણે આવ્યા છીએ, હે અખૂટ કૃષ્ણ, કૃપા કરીને અમને આ ભયંકર ભૌતિક જીવનથી બચાવો, જેણે અમને ખૂબ નિરાશ કર્યા છે."
+            }
+        }
+    },
+    {
+        "id": 107309,
+        "sloka": "10.73.9",
+        "verse_id": 107309,
+        "verseNumber": 9,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "O master, Madhusūdana, we do not blame this King of Magadha, since it is actually by Your mercy that kings fall from their royal position, O almighty Lord."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "हे स्वामी, मधुसूदन, हम मगध के राजा को दोष नहीं देते, क्योंकि हे सर्वशक्तिमान भगवान, यह वास्तव में आपकी दया है कि राजा अपनी शाही स्थिति से गिर जाते हैं।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "હે સ્વામી, મધુસૂદન, અમે આ મગધના રાજાને દોષ આપતા નથી, કારણ કે ખરેખર તમારી દયાથી જ રાજાઓ તેમના રાજપદ પરથી પડી જાય છે, હે સર્વશક્તિમાન ભગવાન."
+            }
+        }
+    },
+    {
+        "id": 107310,
+        "sloka": "10.73.10",
+        "verse_id": 107310,
+        "verseNumber": 10,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Infatuated with his opulence and ruling power, a king loses all self-restraint and cannot obtain his true welfare. Thus bewildered by Your illusory energy, he imagines his temporary assets to be permanent."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "अपने ऐश्वर्य और शासन शक्ति से मुग्ध होकर राजा सारा आत्म-संयम खो देता है और अपना सच्चा कल्याण प्राप्त नहीं कर पाता। इस प्रकार आपकी माया से मोहित होकर वह अपनी अस्थायी संपत्ति को स्थायी मानने लगता है।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "પોતાની ઐશ્વર્ય અને શાસક શક્તિથી મોહિત થઈને રાજા તમામ આત્મસંયમ ગુમાવી દે છે અને પોતાનું સાચું કલ્યાણ મેળવી શકતો નથી. આ રીતે તમારી ભ્રામક ઉર્જાથી ચકિત થઈને, તે પોતાની અસ્થાયી સંપત્તિને કાયમી હોવાની કલ્પના કરે છે."
+            }
+        }
+    },
+    {
+        "id": 107311,
+        "sloka": "10.73.11",
+        "verse_id": 107311,
+        "verseNumber": 11,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Just as men of childish intelligence consider a mirage in the desert to be a pond of water, so those who are irrational look upon the illusory transformations of Māyā as substantial."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "जिस प्रकार बचकानी बुद्धि वाले लोग रेगिस्तान में मृगतृष्णा को पानी का तालाब मानते हैं, उसी प्रकार जो लोग तर्कहीन होते हैं वे माया के भ्रामक परिवर्तनों को महत्वपूर्ण मानते हैं।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "જેમ બાલિશ બુદ્ધિના માણસો રણમાં મૃગજળને પાણીનું તળાવ માને છે, તેવી જ રીતે જેઓ અતાર્કિક છે તેઓ માયાના ભ્રામક પરિવર્તનોને નોંધપાત્ર માને છે."
+            }
+        }
+    },
+    {
+        "id": 107312,
+        "sloka": "10.73.12-13",
+        "verse_id": 107312,
+        "verseNumber": 12,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Previously, blinded by the intoxication of riches, we wanted to conquer this earth, and thus we fought one another to achieve victory, mercilessly harassing our own subjects. We arrogantly disregarded You, O Lord, who stood before us as death. But now, O Kṛṣṇa, that powerful form of Yours called time, moving mysteriously and irresistibly, has deprived us of our opulences. Now that You have mercifully destroyed our pride, we beg simply to remember Your lotus feet."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "पहले, धन के नशे में अंधे होकर, हम इस पृथ्वी को जीतना चाहते थे, और इस प्रकार हमने जीत हासिल करने के लिए एक-दूसरे से लड़ाई की, और अपनी ही प्रजा को बेरहमी से परेशान किया। हे प्रभु, जो हमारे सामने मृत्यु के रूप में खड़ा था, हमने अहंकारपूर्वक आपकी उपेक्षा की। लेकिन अब, हे कृष्ण, आपका वह शक्तिशाली रूप जिसे समय कहा जाता है, रहस्यमय और अप्रतिरोध्य रूप से आगे बढ़ते हुए, हमें हमारे ऐश्वर्य से वंचित कर दिया है। अब जब आपने दयापूर्वक हमारे गर्व को नष्ट कर दिया है, तो हम आपसे केवल आपके चरण कमलों का स्मरण करने की प्रार्थना करते हैं।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "પહેલાં, ધનના નશામાં આંધળા થઈને, અમે આ પૃથ્વી પર વિજય મેળવવા માંગતા હતા, અને આ રીતે અમે અમારી પોતાની પ્રજાને નિર્દયતાથી હેરાન કરીને વિજય મેળવવા માટે એકબીજા સાથે લડ્યા. હે ભગવાન, જે અમારી સામે મૃત્યુની જેમ ઊભેલા છે, અમે અહંકારપૂર્વક તમારી અવગણના કરી. પરંતુ હવે, હે કૃષ્ણ, તમારું તે શક્તિશાળી સ્વરૂપ, જેને સમય કહેવાય છે, રહસ્યમય રીતે અને અનિવાર્યપણે આગળ વધી રહ્યું છે, તેણે અમને અમારી ઐશ્વર્યથી વંચિત કરી દીધા છે. હવે જ્યારે તમે દયાપૂર્વક અમારું ગૌરવ નષ્ટ કર્યું છે, ત્યારે અમે તમારા કમળના ચરણોને યાદ કરવા માટે ફક્ત વિનંતી કરીએ છીએ."
+            }
+        }
+    },
+    {
+        "id": 107314,
+        "sloka": "10.73.14",
+        "verse_id": 107314,
+        "verseNumber": 14,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Never again will we hanker for a miragelike kingdom — a kingdom that must be slavishly served by this mortal body, which is simply a source of disease and suffering and which is declining at every moment. Nor, O almighty Lord, will we hanker to enjoy the heavenly fruits of pious work in the next life, since the promise of such rewards is simply an empty enticement for the ears."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "हम फिर कभी मृगतृष्णा जैसे राज्य की लालसा नहीं करेंगे - एक ऐसा राज्य जिसकी सेवा इस नश्वर शरीर द्वारा दासतापूर्वक की जानी चाहिए, जो केवल बीमारी और पीड़ा का स्रोत है और जो हर पल घट रहा है। न ही, हे सर्वशक्तिमान भगवान, क्या हम अगले जीवन में पवित्र कार्यों के स्वर्गीय फलों का आनंद लेने के लिए लालायित होंगे, क्योंकि ऐसे पुरस्कारों का वादा केवल कानों के लिए एक खोखला प्रलोभन है।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "અમે ફરી ક્યારેય મૃગજળ જેવા સામ્રાજ્ય માટે ઝંખના કરીશું નહીં - એક સામ્રાજ્ય કે જે આ નશ્વર શરીર દ્વારા ગુલામીપૂર્વક સેવા આપવી જોઈએ, જે ફક્ત રોગ અને દુઃખનો સ્ત્રોત છે અને જે દરેક ક્ષણે ઘટી રહ્યું છે. તેમ જ, હે સર્વશક્તિમાન ભગવાન, શું આપણે પછીના જીવનમાં પુણ્ય કાર્યના સ્વર્ગીય ફળનો આનંદ માણવાની લાલસા કરીશું, કારણ કે આવા પુરસ્કારોનું વચન ફક્ત કાન માટે ખાલી લાલચ છે."
+            }
+        }
+    },
+    {
+        "id": 107315,
+        "sloka": "10.73.15",
+        "verse_id": 107315,
+        "verseNumber": 15,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Please tell us how we may constantly remember Your lotus feet, though we continue in the cycle of birth and death in this world."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "कृपया हमें बताएं कि हम इस संसार में जन्म और मृत्यु के चक्र में रहते हुए भी आपके चरण कमलों को लगातार कैसे याद रख सकते हैं।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "કૃપા કરીને અમને કહો કે અમે તમારા કમળના ચરણોને કેવી રીતે સતત યાદ રાખી શકીએ, તેમ છતાં અમે આ જગતમાં જન્મ અને મૃત્યુના ચક્રમાં ચાલુ રહીએ છીએ."
+            }
+        }
+    },
+    {
+        "id": 107316,
+        "sloka": "10.73.16",
+        "verse_id": 107316,
+        "verseNumber": 16,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Again and again we offer our obeisances unto Lord Kṛṣṇa, Hari, the son of Vasudeva. That Supreme Soul, Govinda, vanquishes the suffering of all who surrender to Him."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "हम वासुदेव के पुत्र, भगवान कृष्ण, हरि को बार-बार नमस्कार करते हैं। वह परमात्मा, गोविंदा, उन सभी के कष्टों को हर लेते हैं जो उनके प्रति समर्पण करते हैं।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "અમે વારંવાર ભગવાન કૃષ્ણ, હરિ, વાસુદેવના પુત્રને અમારી પ્રણામ કરીએ છીએ. તે પરમ આત્મા, ગોવિંદા, જેઓ તેને શરણાગતિ આપે છે તે બધાના દુઃખને હરાવી દે છે."
+            }
+        }
+    },
+    {
+        "id": 107317,
+        "sloka": "10.73.17",
+        "verse_id": 107317,
+        "verseNumber": 17,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Śukadeva Gosvāmī said: Thus the kings, now freed from bondage, glorified the Supreme Lord. Then, my dear Parīkṣit, that merciful bestower of shelter spoke to them in a gentle voice."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "शुकदेव गोस्वामी ने कहा: इस प्रकार राजाओं ने, अब बंधन से मुक्त होकर, परम भगवान की महिमा की। तब, मेरे प्रिय परीक्षित, दयालु आश्रयदाता ने उनसे नम्र वाणी में बात की।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "શુકદેવ ગોસ્વામીએ કહ્યું: આ રીતે હવે બંધનમાંથી મુક્ત થયેલા રાજાઓએ પરમ ભગવાનનો મહિમા કર્યો. પછી, મારા પ્રિય પરિક્ષિત, તે દયાળુ આશ્રયદાતાએ તેમની સાથે નમ્ર અવાજમાં વાત કરી."
+            }
+        }
+    },
+    {
+        "id": 107318,
+        "sloka": "10.73.18",
+        "verse_id": 107318,
+        "verseNumber": 18,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "The Supreme Personality of Godhead said: From now on, my dear kings, you will have firm devotion to Me, the Supreme Self and the Lord of all that be. I assure you this will come to pass, just as you desire."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "भगवान के परम व्यक्तित्व ने कहा: अब से, मेरे प्रिय राजाओं, तुम मुझमें, सर्वोच्च आत्मा और सभी के भगवान के प्रति दृढ़ भक्ति रखोगे। मैं आपको विश्वास दिलाता हूं कि यह वैसा ही होगा जैसा आप चाहते हैं।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "પરમપુરુષ ભગવાને કહ્યું: મારા વ્હાલા રાજાઓ, હવેથી તમે મારા પર, સર્વના પરમ અને સર્વના ભગવાનની દ્રઢ ભક્તિ કરશો. હું તમને ખાતરી આપું છું કે તમારી ઈચ્છા પ્રમાણે જ આ થશે."
+            }
+        }
+    },
+    {
+        "id": 107319,
+        "sloka": "10.73.19",
+        "verse_id": 107319,
+        "verseNumber": 19,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Fortunately you have come to the proper conclusion, my dear kings, and what you have spoken is true. I can see that human beings’ lack of self-restraint, which arises from their intoxication with opulence and power, simply leads to madness."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "सौभाग्य से आप उचित निष्कर्ष पर पहुँचे हैं, मेरे प्रिय राजाओं, और आपने जो कहा है वह सत्य है। मैं देख सकता हूं कि मनुष्य में आत्म-संयम की कमी, जो उनके ऐश्वर्य और शक्ति के नशे से उत्पन्न होती है, बस पागलपन की ओर ले जाती है।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "સદનસીબે તમે યોગ્ય નિષ્કર્ષ પર આવ્યા છો, મારા પ્રિય રાજાઓ, અને તમે જે બોલ્યા તે સાચું છે. હું જોઈ શકું છું કે મનુષ્યનો આત્મસંયમનો અભાવ, જે ઐશ્વર્ય અને શક્તિના નશામાંથી ઉત્પન્ન થાય છે, તે ફક્ત ગાંડપણ તરફ દોરી જાય છે."
+            }
+        }
+    },
+    {
+        "id": 107320,
+        "sloka": "10.73.20",
+        "verse_id": 107320,
+        "verseNumber": 20,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Haihaya, Nahuṣa, Veṇa, Rāvaṇa, Naraka and many other rulers of demigods, men and demons fell from their elevated positions because of infatuation with material opulence."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "हैहय, नहुष, वेण, रावण, नरक और कई अन्य देवताओं, मनुष्यों और राक्षसों के शासक भौतिक ऐश्वर्य से मोह के कारण अपने ऊंचे पदों से गिर गए।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "હૈહય, નહુષ, વેણ, રાવણ, નરક અને દેવતાઓ, પુરૂષો અને રાક્ષસોના અન્ય ઘણા શાસકો ભૌતિક ઐશ્વર્યના મોહને કારણે તેમના ઉચ્ચ પદ પરથી પડી ગયા."
+            }
+        }
+    },
+    {
+        "id": 107321,
+        "sloka": "10.73.21",
+        "verse_id": 107321,
+        "verseNumber": 21,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Understanding that this material body and everything connected with it have a beginning and an end, worship Me by Vedic sacrifices, and with clear intelligence protect your subjects in accordance with the principles of religion."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "यह समझकर कि इस भौतिक शरीर और इससे जुड़ी हर चीज का आरंभ और अंत है, वैदिक यज्ञों द्वारा मेरी पूजा करो और स्पष्ट बुद्धि से धर्म के सिद्धांतों के अनुसार अपनी प्रजा की रक्षा करो।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "આ ભૌતિક શરીર અને તેની સાથે જોડાયેલી દરેક વસ્તુનો આરંભ અને અંત છે તે સમજીને, વૈદિક યજ્ઞો દ્વારા મારી પૂજા કરો અને સ્પષ્ટ બુદ્ધિથી ધર્મના સિદ્ધાંતો અનુસાર તમારા વિષયોનું રક્ષણ કરો."
+            }
+        }
+    },
+    {
+        "id": 107322,
+        "sloka": "10.73.22",
+        "verse_id": 107322,
+        "verseNumber": 22,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "As you live your lives, begetting generations of progeny and encountering happiness and distress, birth and death, always keep your minds fixed on Me."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "जब आप अपना जीवन जीते हैं, पीढ़ियों की संतानें उत्पन्न करते हैं और सुख और संकट, जन्म और मृत्यु का सामना करते हैं, तो हमेशा अपना मन मुझ पर केंद्रित रखें।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "જ્યારે તમે તમારું જીવન જીવો છો, વંશજોનો જન્મ કરો છો અને સુખ-દુઃખ, જન્મ અને મૃત્યુનો સામનો કરો છો, ત્યારે તમારા મનને હંમેશા મારા પર સ્થિર રાખો."
+            }
+        }
+    },
+    {
+        "id": 107323,
+        "sloka": "10.73.23",
+        "verse_id": 107323,
+        "verseNumber": 23,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Be detached from the body and everything connected to it. Remaining self-satisfied, steadfastly keep your vows while concentrating your minds fully on Me. In this way you will ultimately attain Me, the Supreme Absolute Truth."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "शरीर और उससे जुड़ी हर चीज़ से अलग हो जाओ। तुम आत्मसंतुष्ट रहकर अपने मन को मुझमें एकाग्र करके दृढ़तापूर्वक अपने व्रत का पालन करो। इस प्रकार तुम अंततः मुझ परम सत्य को प्राप्त करोगे।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "શરીર અને તેની સાથે જોડાયેલી દરેક વસ્તુથી અલગ રહો. આત્મસંતુષ્ટ રહીને, તમારા મનને સંપૂર્ણ રીતે મારા પર કેન્દ્રિત કરીને તમારા વ્રતને અડગ રાખો. આ રીતે તમે આખરે મને, પરમ સંપૂર્ણ સત્યને પ્રાપ્ત કરશો."
+            }
+        }
+    },
+    {
+        "id": 107324,
+        "sloka": "10.73.24",
+        "verse_id": 107324,
+        "verseNumber": 24,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Śukadeva Gosvāmī said: Having thus instructed the kings, Lord Kṛṣṇa, the supreme master of all the worlds, engaged male and female servants in bathing and grooming them."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "शुकदेव गोस्वामी ने कहा: राजाओं को इस प्रकार निर्देश देकर, सभी लोकों के परम स्वामी, भगवान कृष्ण ने उन्हें स्नान कराने और उन्हें संवारने के लिए दास-दासियों को नियुक्त किया।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "શુકદેવ ગોસ્વામીએ કહ્યું: આ રીતે રાજાઓને સૂચના આપીને, ભગવાન કૃષ્ણ, સર્વ જગતના સર્વોપરી સ્વામી, નર અને સ્ત્રી સેવકોને સ્નાન અને માવજતમાં રોક્યા."
+            }
+        }
+    },
+    {
+        "id": 107325,
+        "sloka": "10.73.25",
+        "verse_id": 107325,
+        "verseNumber": 25,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "O descendant of Bharata, the Lord then had King Sahadeva honor them with offerings of clothing, jewelry, garlands and sandalwood paste, all suitable for royalty."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "हे भरत के वंशज, भगवान ने तब राजा सहदेव को वस्त्र, आभूषण, माला और चंदन के लेप से सम्मानित किया, जो राजपरिवार के लिए उपयुक्त थे।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "હે ભરતના વંશજો, ત્યારે ભગવાને રાજા સહદેવને વસ્ત્રો, આભૂષણો, માળા અને ચંદનની પેસ્ટની પ્રસાદીથી સન્માનિત કર્યા હતા, જે તમામ રાજવીઓ માટે યોગ્ય છે."
+            }
+        }
+    },
+    {
+        "id": 107326,
+        "sloka": "10.73.26",
+        "verse_id": 107326,
+        "verseNumber": 26,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "After they had been properly bathed and adorned, Lord Kṛṣṇa saw to it that they dined on excellent food. He also presented them with various items befitting the pleasure of kings, such as betel nut."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "जब उन्हें ठीक से स्नान कराया गया और सजाया गया, तो भगवान कृष्ण ने यह सुनिश्चित किया कि वे उत्कृष्ट भोजन करें। उसने उन्हें राजाओं की प्रसन्नता के अनुरूप सुपारी जैसी विभिन्न वस्तुएँ भी भेंट कीं।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "તેઓ યોગ્ય રીતે સ્નાન કર્યા પછી અને શણગાર્યા પછી, ભગવાન કૃષ્ણએ જોયું કે તેઓ ઉત્તમ ભોજન પર જમ્યા. તેમણે તેમને રાજાઓના આનંદને અનુરૂપ વિવિધ વસ્તુઓ પણ આપી, જેમ કે સોપારી."
+            }
+        }
+    },
+    {
+        "id": 107327,
+        "sloka": "10.73.27",
+        "verse_id": 107327,
+        "verseNumber": 27,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Honored by Lord Mukunda and freed from tribulation, the kings shone splendidly, their earrings gleaming, just as the moon and other celestial bodies shine brilliantly in the sky at the end of the rainy season."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "भगवान मुकुंद द्वारा सम्मानित और क्लेश से मुक्त हुए, राजा शानदार ढंग से चमक रहे थे, उनकी बालियां चमक रही थीं, जैसे बारिश के मौसम के अंत में चंद्रमा और अन्य दिव्य पिंड आकाश में चमकते हैं।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "ભગવાન મુકુન્દ દ્વારા સન્માનિત અને વિપત્તિમાંથી મુક્ત થયેલા, રાજાઓ શાનદાર રીતે ચમકતા હતા, તેમના કાનની બુટ્ટીઓ ચમકતી હતી, જેમ કે વરસાદની ઋતુના અંતે આકાશમાં ચંદ્ર અને અન્ય અવકાશી પદાર્થો તેજસ્વી રીતે ચમકતા હોય છે."
+            }
+        }
+    },
+    {
+        "id": 107328,
+        "sloka": "10.73.28",
+        "verse_id": 107328,
+        "verseNumber": 28,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Then the Lord arranged for the kings to be seated on chariots drawn by fine horses and adorned with jewels and gold, and pleasing them with gracious words, He sent them off to their own kingdoms."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "तब भगवान ने राजाओं के लिए उत्तम घोड़ों से जुते हुए, रत्नों और सोने से सुसज्जित रथों पर बैठने की व्यवस्था की, और उन्हें दयालु शब्दों से प्रसन्न करके, उन्होंने उन्हें अपने राज्यों में भेज दिया।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "પછી ભગવાને રાજાઓને સુંદર ઘોડાઓથી દોરેલા અને ઝવેરાત અને સોનાથી સુશોભિત રથ પર બેસાડવાની વ્યવસ્થા કરી, અને તેઓને દયાળુ શબ્દોથી ખુશ કરીને, તેમણે તેમને તેમના પોતાના રાજ્યમાં મોકલી દીધા."
+            }
+        }
+    },
+    {
+        "id": 107329,
+        "sloka": "10.73.29",
+        "verse_id": 107329,
+        "verseNumber": 29,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Thus liberated from all difficulty by Kṛṣṇa, the greatest of personalities, the kings departed, and as they went they thought only of Him, the Lord of the universe, and of His wonderful deeds."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "इस प्रकार सबसे महान व्यक्तित्व, कृष्ण द्वारा सभी कठिनाइयों से मुक्त होकर, राजा चले गए, और जब वे गए तो उन्होंने केवल उनके, ब्रह्मांड के भगवान और उनके अद्भुत कार्यों के बारे में सोचा।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "આ રીતે સર્વશ્રેષ્ઠ વ્યક્તિત્વ ધરાવતા કૃષ્ણ દ્વારા તમામ મુશ્કેલીમાંથી મુક્ત થઈને, રાજાઓ વિદાય થયા, અને જતાં જતાં તેઓએ ફક્ત તેમના વિશે જ વિચાર્યું, બ્રહ્માંડના ભગવાન અને તેમના અદ્ભુત કાર્યો વિશે."
+            }
+        }
+    },
+    {
+        "id": 107330,
+        "sloka": "10.73.30",
+        "verse_id": 107330,
+        "verseNumber": 30,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "The kings told their ministers and other associates what the Personality of Godhead had done, and then they diligently carried out the orders He had imparted to them."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "राजाओं ने अपने मंत्रियों और अन्य सहयोगियों को बताया कि भगवान ने क्या किया है, और फिर उन्होंने उनके द्वारा दिए गए आदेशों का परिश्रमपूर्वक पालन किया।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "રાજાઓએ તેમના મંત્રીઓ અને અન્ય સહયોગીઓને કહ્યું કે ભગવાનના વ્યક્તિત્વે શું કર્યું છે, અને પછી તેઓએ તેમને જે આદેશો આપ્યા હતા તે ખંતપૂર્વક અમલમાં મૂક્યા."
+            }
+        }
+    },
+    {
+        "id": 107331,
+        "sloka": "10.73.31",
+        "verse_id": 107331,
+        "verseNumber": 31,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Having arranged for Bhīmasena to kill Jarāsandha, Lord Keśava accepted worship from King Sahadeva and then departed with the two sons of Pṛthā."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "जरासंध को मारने के लिए भीमसेन की व्यवस्था करने के बाद, भगवान केशव ने राजा सहदेव की पूजा स्वीकार की और फिर पृथा के दोनों पुत्रों के साथ चले गए।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "જરાસંધને મારવા માટે ભીમસેન માટે ગોઠવણ કર્યા પછી, ભગવાન કેશવે રાજા સહદેવની પૂજા સ્વીકારી અને પછી પૃથ્વીના બે પુત્રો સાથે પ્રયાણ કર્યું."
+            }
+        }
+    },
+    {
+        "id": 107332,
+        "sloka": "10.73.32",
+        "verse_id": 107332,
+        "verseNumber": 32,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "When they arrived at Indraprastha, the victorious heroes blew their conchshells, bringing joy to their well-wishing friends and sorrow to their enemies."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "जब वे इंद्रप्रस्थ पहुंचे, तो विजयी नायकों ने शंख बजाये, जिससे उनके शुभचिंतक मित्रों को खुशी हुई और उनके शत्रुओं को दुःख हुआ।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "જ્યારે તેઓ ઈન્દ્રપ્રસ્થ પહોંચ્યા, ત્યારે વિજયી નાયકોએ તેમના શંખ વગાડ્યા, જેનાથી તેમના શુભેચ્છક મિત્રોને આનંદ થયો અને તેમના દુશ્મનોને દુ:ખ થયું."
+            }
+        }
+    },
+    {
+        "id": 107333,
+        "sloka": "10.73.33",
+        "verse_id": 107333,
+        "verseNumber": 33,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "The residents of Indraprastha were very pleased to hear that sound, for they understood that now the King of Magadha had been put to rest. King Yudhiṣṭhira felt that his desires were now fulfilled."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "वह ध्वनि सुनकर इन्द्रप्रस्थ के निवासी बहुत प्रसन्न हुए, क्योंकि उन्होंने समझ लिया कि अब मगध के राजा को विश्राम मिल गया है। राजा युधिष्ठिर को लगा कि अब उनकी इच्छाएँ पूरी हो गयीं।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "તે અવાજ સાંભળીને ઈન્દ્રપ્રસ્થના રહેવાસીઓ ખૂબ જ ખુશ થયા, કારણ કે તેઓ સમજી ગયા કે હવે મગધના રાજાનો વિશ્રામ થઈ ગયો છે. રાજા યુધિષ્ઠિરને લાગ્યું કે તેમની ઈચ્છાઓ હવે પૂરી થઈ ગઈ છે."
+            }
+        }
+    },
+    {
+        "id": 107334,
+        "sloka": "10.73.34",
+        "verse_id": 107334,
+        "verseNumber": 34,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Bhīma, Arjuna and Janārdana offered their respects to the King and informed him fully about what they had done."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "भीम, अर्जुन और जनार्दन ने राजा को सम्मान दिया और उन्हें पूरी जानकारी दी कि उन्होंने क्या किया है।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "ભીમ, અર્જુન અને જનાર્દનએ રાજાને આદર આપ્યો અને તેમને જે કર્યું તે વિશે સંપૂર્ણ માહિતી આપી."
+            }
+        }
+    },
+    {
+        "id": 107335,
+        "sloka": "10.73.35",
+        "verse_id": 107335,
+        "verseNumber": 35,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Upon hearing their account of the great favor Lord Keśava had mercifully shown him, King Dharmarāja shed tears of ecstasy. He felt such love that he could not say anything."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "भगवान केशव द्वारा उन पर की गई महान कृपा का वृत्तांत सुनकर, राजा धर्मराज ने परमानंद के आँसू बहाए। उसे ऐसा प्यार महसूस हुआ कि वह कुछ कह नहीं सका."
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "ભગવાન કેશવએ તેમના પર જે મહાન ઉપકાર કર્યો હતો તે વિશેનો તેમનો અહેવાલ સાંભળીને, રાજા ધર્મરાજાએ આનંદના આંસુ વહાવ્યા. તેણે એવો પ્રેમ અનુભવ્યો કે તે કશું બોલી શક્યો નહીં."
+            }
+        }
+    }
+]

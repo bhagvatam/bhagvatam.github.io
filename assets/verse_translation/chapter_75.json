@@ -1,0 +1,784 @@
+[
+    {
+        "id": 107501,
+        "sloka": "10.75.1-2",
+        "verse_id": 107501,
+        "verseNumber": 1,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Mahārāja Parīkṣit said: O brāhmaṇa, according to what I have heard from you, all the assembled kings, sages and demigods were delighted to see the wonderful festivities of King Ajātaśatru’s Rājasūya sacrifice, with the sole exception of Duryodhana. Please tell me why this was so, my lord."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "महाराज परीक्षित ने कहा: हे ब्राह्मण, मैंने तुमसे जो सुना है उसके अनुसार, दुर्योधन को छोड़कर, राजा अजातशत्रु के राजसूय यज्ञ के अद्भुत उत्सव को देखकर सभी एकत्रित राजा, ऋषि और देवता प्रसन्न हुए। कृपया मुझे बताएं कि ऐसा क्यों था, महाराज।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "મહારાજા પરિક્ષિતે કહ્યું: હે બ્રાહ્મણ, મેં તમારી પાસેથી જે સાંભળ્યું છે તે મુજબ, દુર્યોધન સિવાય, રાજા અજાતશત્રુના રાજસૂય બલિદાનના અદ્ભુત ઉત્સવોને જોઈને બધા ભેગા થયેલા રાજાઓ, ઋષિઓ અને દેવતાઓ આનંદિત થયા. મહેરબાની કરીને મને કહો કે આવું કેમ હતું, મહારાજ."
+            }
+        }
+    },
+    {
+        "id": 107503,
+        "sloka": "10.75.3",
+        "verse_id": 107503,
+        "verseNumber": 3,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Śrī Bādarāyaṇi said: At the Rājasūya sacrifice of your saintly grandfather, his family members, bound by their love for him, engaged themselves in humble services on his behalf."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "श्री बदरायनी ने कहा: आपके संत दादा के राजसूय यज्ञ में, उनके परिवार के सदस्य, उनके प्रति अपने प्रेम से बंधे हुए, उनकी ओर से विनम्र सेवाओं में लगे हुए थे।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "શ્રી બાદરાયણીએ કહ્યું: તમારા સંત દાદાના રાજસૂય યજ્ઞમાં, તેમના પરિવારના સભ્યો, તેમના પ્રત્યેના તેમના પ્રેમથી બંધાયેલા, તેમના વતી નમ્ર સેવામાં રોકાયેલા હતા."
+            }
+        }
+    },
+    {
+        "id": 107504,
+        "sloka": "10.75.4-7",
+        "verse_id": 107504,
+        "verseNumber": 4,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Bhīma supervised the kitchen, Duryodhana looked after the treasury, while Sahadeva respectfully greeted the arriving guests. Nakula procured needed items, Arjuna attended the respectable elders, and Kṛṣṇa washed everyone’s feet, while Draupadī served food, and generous Karṇa gave out the gifts. Many others, such as Yuyudhāna; Vikarṇa, Hārdikya; Vidura; Bhūriśravā and other sons of Bāhlīka; and Santardana, similarly volunteered for various duties during the elaborate sacrifice. They did so because of their eagerness to please Mahārāja Yudhiṣṭhira, O best of kings."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "भीम ने रसोई की देखरेख की, दुर्योधन ने राजकोष की देखभाल की, जबकि सहदेव ने आने वाले मेहमानों का सम्मानपूर्वक स्वागत किया। नकुल ने आवश्यक वस्तुएं खरीदीं, अर्जुन ने सम्मानित बुजुर्गों की सेवा की, और कृष्ण ने सभी के पैर धोए, जबकि द्रौपदी ने भोजन परोसा, और उदार कर्ण ने उपहार दिए। कई अन्य, जैसे युयुधान; विकर्ण, हार्दिक्य; विदुर; भूरिश्रवा और बाह्लीक के अन्य पुत्र; और संतर्दना ने भी विस्तृत बलिदान के दौरान विभिन्न कर्तव्यों के लिए स्वेच्छा से काम किया। हे राजाओं में श्रेष्ठ, उन्होंने महाराज युधिष्ठिर को प्रसन्न करने की उत्सुकता के कारण ऐसा किया।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "ભીમે રસોડાની દેખરેખ રાખી, દુર્યોધને તિજોરીની દેખરેખ રાખી, જ્યારે સહદેવે આદરપૂર્વક આવનાર મહેમાનોનું સ્વાગત કર્યું. નકુલે જરૂરી વસ્તુઓની ખરીદી કરી, અર્જુને આદરણીય વડીલોની હાજરી આપી, અને કૃષ્ણે દરેકના પગ ધોયા, જ્યારે દ્રૌપદીએ ભોજન પીરસ્યું, અને ઉદાર કર્ણએ ભેટ આપી. બીજા ઘણા, જેમ કે યુયુધન; વિકર્ણ, હાર્દિક્ય; વિદુરા; ભૂરિશ્રવ અને બાહલીકાના અન્ય પુત્રો; અને સંતર્દાન, એ જ રીતે વિસ્તૃત બલિદાન દરમિયાન વિવિધ ફરજો માટે સ્વૈચ્છિક. મહારાજ યુધિષ્ઠિરને પ્રસન્ન કરવાની તેમની આતુરતાથી તેઓએ આમ કર્યું, હે શ્રેષ્ઠ રાજાઓ."
+            }
+        }
+    },
+    {
+        "id": 107508,
+        "sloka": "10.75.8",
+        "verse_id": 107508,
+        "verseNumber": 8,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "After the priests, the prominent delegates, the greatly learned saints and the King’s most intimate well-wishers had all been properly honored with pleasing words, auspicious offerings and various gifts as remuneration, and after the King of Cedi had entered the lotus feet of the Lord of the Sātvatas, the avabhṛtha bath was performed in the divine river Yamunā."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "पुजारियों, प्रमुख प्रतिनिधियों, महान विद्वान संतों और राजा के सबसे करीबी शुभचिंतकों को अच्छे शब्दों, शुभ प्रसाद और पारिश्रमिक के रूप में विभिन्न उपहारों से उचित रूप से सम्मानित किया गया था, और सेडी के राजा के सात्वत भगवान के कमल चरणों में प्रवेश करने के बाद, दिव्य नदी यमुना में अवभृत स्नान किया गया था।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "પાદરીઓ પછી, અગ્રણી પ્રતિનિધિઓ, મહાન વિદ્વાન સંતો અને રાજાના સૌથી નજીકના શુભચિંતકો બધાને આનંદદાયક શબ્દો, શુભ અર્પણો અને મહેનતાણું તરીકે વિવિધ ભેટોથી યોગ્ય રીતે સન્માનિત કરવામાં આવ્યા હતા, અને સેડીના રાજાએ સત્ત્વોના ભગવાનના કમળના ચરણોમાં પ્રવેશ કર્યા પછી, યૌબથ નદીમાં અવબાધ નદીમાં કરવામાં આવી હતી."
+            }
+        }
+    },
+    {
+        "id": 107509,
+        "sloka": "10.75.9",
+        "verse_id": 107509,
+        "verseNumber": 9,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "During the avabhṛtha celebration, the music of many kinds of instruments resounded, including mṛdaṅgas, conchshells, panavas, dhundhuris, kettledrums and gomukha horns."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "अवभृत उत्सव के दौरान, कई प्रकार के वाद्ययंत्रों का संगीत गूंजता था, जिनमें मृदंग, शंख, पणव, धुंधुरी, केतली और गोमुख सींग शामिल थे।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "અવભ્રથની ઉજવણી દરમિયાન, મૃદંગ, શંખ, પનવાસ, ધુંધુરી, કેટલડ્રમ અને ગોમુખા શિંગડા સહિત અનેક પ્રકારનાં વાદ્યોનું સંગીત ગુંજી ઉઠ્યું હતું."
+            }
+        }
+    },
+    {
+        "id": 107510,
+        "sloka": "10.75.10",
+        "verse_id": 107510,
+        "verseNumber": 10,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Female dancers danced with great joy, and choruses sang, while the loud vibrations of vīnās, flutes and hand cymbals reached all the way to the heavenly regions."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "महिला नर्तकियाँ बहुत खुशी के साथ नृत्य करती थीं, और समवेत स्वर में गाती थीं, जबकि वीणा, बांसुरी और हाथ की झांझ की तेज़ कंपन स्वर्गीय क्षेत्रों तक पहुँचती थी।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "સ્ત્રી નર્તકો ખૂબ આનંદથી નાચતા હતા, અને સમૂહગીત ગાયા હતા, જ્યારે વીણા, વાંસળી અને હાથની ઝાંઝના જોરથી કંપન સ્વર્ગીય પ્રદેશો સુધી પહોંચતા હતા."
+            }
+        }
+    },
+    {
+        "id": 107511,
+        "sloka": "10.75.11",
+        "verse_id": 107511,
+        "verseNumber": 11,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "All the kings, wearing gold necklaces, then set off for the Yamunā. They had flags and banners of various colors and were accompanied by infantrymen and well-adorned soldiers riding lordly elephants, chariots and horses."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "सभी राजा सोने के हार पहनकर यमुना की ओर चल पड़े। उनके पास विभिन्न रंगों के झंडे और बैनर थे और उनके साथ हाथी, रथ और घोड़ों पर सवार पैदल सैनिक और सुसज्जित सैनिक भी थे।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "બધા રાજાઓ, સોનાનો હાર પહેરીને, પછી યમુના જવા નીકળ્યા. તેમની પાસે વિવિધ રંગોના ધ્વજ અને બેનરો હતા અને તેમની સાથે પાયદળના સૈનિકો અને સુશોભિત સૈનિકો ભગવાનના હાથી, રથ અને ઘોડાઓ પર સવાર હતા."
+            }
+        }
+    },
+    {
+        "id": 107512,
+        "sloka": "10.75.12",
+        "verse_id": 107512,
+        "verseNumber": 12,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "The massed armies of the Yadus, Sṛñjayas, Kāmbojas, Kurus, Kekayas and Kośalas made the earth tremble as they followed Yudhiṣṭhira Mahārāja, the performer of the sacrifice, in procession."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "यदु, श्रृंजय, कंबोज, कौरव, केकय और कोशल की विशाल सेनाओं ने यज्ञकर्ता युधिष्ठिर महाराज का जुलूस निकालते हुए पृथ्वी को कंपा दिया।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "યદુઓ, શ્રુંજય, કંબોજ, કુરુ, કેકાય અને કોશલના સમૂહ સૈન્યએ બલિદાન આપનાર યુધિષ્ઠિર મહારાજને શોભાયાત્રામાં અનુસરીને પૃથ્વીને ધ્રૂજાવી દીધી હતી."
+            }
+        }
+    },
+    {
+        "id": 107513,
+        "sloka": "10.75.13",
+        "verse_id": 107513,
+        "verseNumber": 13,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "The assembly officials, the priests and other excellent brāhmaṇas resoundingly vibrated Vedic mantras, while the demigods, divine sages, Pitās and Gandharvas sang praises and rained down flowers."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "सभा के अधिकारियों, पुजारियों और अन्य उत्कृष्ट ब्राह्मणों ने वैदिक मंत्रों का जोरदार उच्चारण किया, जबकि देवताओं, दिव्य ऋषियों, पिताओं और गंधर्वों ने स्तुति गाई और फूलों की वर्षा की।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "એસેમ્બલીના અધિકારીઓ, પૂજારીઓ અને અન્ય ઉત્તમ બ્રાહ્મણોએ વૈદિક મંત્રો ગૂંજી ઊઠ્યા, જ્યારે દેવતાઓ, દૈવી ઋષિઓ, પિતા અને ગંધર્વોએ સ્તુતિ ગાયા અને ફૂલોનો વરસાદ કર્યો."
+            }
+        }
+    },
+    {
+        "id": 107514,
+        "sloka": "10.75.14",
+        "verse_id": 107514,
+        "verseNumber": 14,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Men and women, all adorned with sandalwood paste, flower garlands, jewelry and fine clothing, sported by smearing and sprinkling one another with various liquids."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "पुरुष और महिलाएं, सभी चंदन के लेप, फूलों की मालाओं, गहनों और बढ़िया कपड़ों से सजे हुए थे, एक दूसरे को विभिन्न तरल पदार्थ लगाकर और छिड़ककर खेल रहे थे।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "સ્ત્રી અને પુરૂષો, બધા ચંદનની પેસ્ટ, ફૂલોની માળા, ઘરેણાં અને સુંદર વસ્ત્રોથી શણગારેલા, વિવિધ પ્રવાહીઓથી એકબીજાને ગંધવા અને છાંટીને રમતા."
+            }
+        }
+    },
+    {
+        "id": 107515,
+        "sloka": "10.75.15",
+        "verse_id": 107515,
+        "verseNumber": 15,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "The men smeared the courtesans with plentiful oil, yogurt, perfumed water, turmeric and kuṅkuma powder, and the courtesans playfully smeared the men with the same substances."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "पुरुषों ने वेश्याओं को प्रचुर मात्रा में तेल, दही, सुगंधित पानी, हल्दी और कुंकुमा पाउडर से लेपित किया, और वेश्याओं ने खेल-खेल में पुरुषों को उन्हीं पदार्थों से लेपित किया।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "પુરુષોએ ગણિકાઓને પુષ્કળ તેલ, દહીં, અત્તરયુક્ત પાણી, હળદર અને કુંકુમા પાવડરથી ગંધ્યું, અને ગણિકાઓ રમતિયાળ રીતે પુરુષોને સમાન પદાર્થોથી ગંધતી."
+            }
+        }
+    },
+    {
+        "id": 107516,
+        "sloka": "10.75.16",
+        "verse_id": 107516,
+        "verseNumber": 16,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Surrounded by guards, King Yudhiṣṭhira’s queens came out on their chariots to see the fun, just as the demigods’ wives appeared in the sky in celestial airplanes. As maternal cousins and intimate friends sprinkled the queens with liquids, the ladies’ faces bloomed with shy smiles, enhancing the queens’ splendid beauty."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "रक्षकों से घिरी हुई, राजा युधिष्ठिर की रानियाँ अपने रथों पर सवार होकर उस आनन्द को देखने के लिए निकलीं, जैसे देवताओं की पत्नियाँ दिव्य विमानों में आकाश में प्रकट हुईं। जैसे ही मामा और घनिष्ठ मित्रों ने रानियों पर तरल पदार्थ छिड़के, महिलाओं के चेहरे शर्मीली मुस्कान से खिल उठे, जिससे रानियों की शानदार सुंदरता बढ़ गई।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "રક્ષકોથી ઘેરાયેલા, રાજા યુધિષ્ઠિરની રાણીઓ તેમના રથ પર આનંદ જોવા માટે બહાર આવી, જેમ કે દેવતાઓની પત્નીઓ આકાશી વિમાનોમાં આકાશમાં દેખાય છે. માતાના પિતરાઈ ભાઈઓ અને ઘનિષ્ઠ મિત્રોએ રાણીઓને પ્રવાહીથી છંટકાવ કર્યો તેમ, સ્ત્રીઓના ચહેરા શરમાળ સ્મિતથી ખીલ્યા, રાણીઓની ભવ્ય સુંદરતામાં વધારો થયો."
+            }
+        }
+    },
+    {
+        "id": 107517,
+        "sloka": "10.75.17",
+        "verse_id": 107517,
+        "verseNumber": 17,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "As the queens squirted water from syringes at their brothers-in-law and other male companions, their own garments became drenched, revealing their arms, breasts, thighs and waists. In their excitement, the flowers fell from their loosened braids. By these charming pastimes they agitated those with contaminated consciousness."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "जैसे ही रानियों ने अपने देवरों और अन्य पुरुष साथियों पर सीरिंज से पानी फेंका, उनके अपने वस्त्र भीग गए, जिससे उनकी बाहें, स्तन, जांघें और कमर दिखाई देने लगीं। उत्साह में उनकी ढीली चोटियों से फूल झड़ गये। इन मनमोहक लीलाओं से उन्होंने दूषित चेतना वाले लोगों को उत्तेजित कर दिया।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "જેમ જેમ રાણીઓએ તેમના ભાઈ-ભાભી અને અન્ય પુરૂષ સાથીદારો પર સિરીંજમાંથી પાણી ખેંચ્યું, તેમના પોતાના વસ્ત્રો ભીના થઈ ગયા, તેમના હાથ, સ્તન, જાંઘ અને કમર છતી થઈ. તેમના ઉત્સાહમાં, ફૂલો તેમની છૂટી ગયેલી વેણીમાંથી ખરી પડ્યા. આ મોહક મનોરંજન દ્વારા તેઓ દૂષિત ચેતના ધરાવતા લોકોને ઉશ્કેરતા હતા."
+            }
+        }
+    },
+    {
+        "id": 107518,
+        "sloka": "10.75.18",
+        "verse_id": 107518,
+        "verseNumber": 18,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "The emperor, mounted upon his chariot drawn by excellent horses wearing golden collars, appeared splendid in the company of his wives, just like the brilliant Rājasūya sacrifice surrounded by its various rituals."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "स्वर्ण कॉलर पहने हुए उत्कृष्ट घोड़ों द्वारा खींचे जाने वाले रथ पर सवार सम्राट, अपनी पत्नियों की संगति में, शानदार राजसूय यज्ञ की तरह, अपने विभिन्न अनुष्ठानों से घिरे हुए दिखाई दे रहे थे।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "સમ્રાટ, સોનેરી કોલર પહેરેલા ઉત્તમ ઘોડાઓ દ્વારા દોરેલા તેના રથ પર બેઠેલા, તેની પત્નીઓના સંગતમાં ભવ્ય દેખાયા, જેમ કે તેની વિવિધ ધાર્મિક વિધિઓથી ઘેરાયેલા તેજસ્વી રાજસૂય બલિદાન."
+            }
+        }
+    },
+    {
+        "id": 107519,
+        "sloka": "10.75.19",
+        "verse_id": 107519,
+        "verseNumber": 19,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "The priests led the King through the execution of the final rituals of patnī-saṁyāja and avabhṛthya. Then they had him and Queen Draupadī sip water for purification and bathe in the Ganges."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "पुजारियों ने राजा को पत्नी-संयज और अवभृत्य के अंतिम अनुष्ठानों के निष्पादन के माध्यम से नेतृत्व किया। तब उन्होंने उन्हें और रानी द्रौपदी को शुद्धिकरण के लिए पानी पिलाया और गंगा में स्नान कराया।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "પાદરીઓએ પટની-સંયાજ અને અવભ્રથ્યની અંતિમ વિધિઓના અમલ દ્વારા રાજાનું નેતૃત્વ કર્યું. પછી તેઓએ તેને અને રાણી દ્રૌપદીને શુદ્ધિકરણ માટે પાણી પીવડાવ્યું અને ગંગામાં સ્નાન કરાવ્યું."
+            }
+        }
+    },
+    {
+        "id": 107520,
+        "sloka": "10.75.20",
+        "verse_id": 107520,
+        "verseNumber": 20,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "The kettledrums of the gods resounded, along with those of human beings. Demigods, sages, forefathers and humans all poured down showers of flowers."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "मनुष्यों के साथ-साथ देवताओं के नगाड़े भी गूँज उठे। देवता, ऋषि, पितर और मनुष्य सभी फूलों की वर्षा करने लगे।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "મનુષ્યોની સાથે દેવતાઓના કેટલડ્રમ ગૂંજતા હતા. દેવતાઓ, ઋષિઓ, પૂર્વજો અને મનુષ્યો બધાએ ફૂલોની વર્ષા કરી."
+            }
+        }
+    },
+    {
+        "id": 107521,
+        "sloka": "10.75.21",
+        "verse_id": 107521,
+        "verseNumber": 21,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "All the citizens belonging to the various orders of varṇa and āśrama then bathed in that place, where even the most grievous sinner can immediately be freed from all sinful reactions."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "वर्ण और आश्रम के विभिन्न वर्गों से संबंधित सभी नागरिकों ने उस स्थान पर स्नान किया, जहां सबसे गंभीर पापी भी तुरंत सभी पापों से मुक्त हो सकता है।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "વર્ણ અને આશ્રમના વિવિધ આદેશોથી સંબંધિત તમામ નાગરિકો પછી તે સ્થાને સ્નાન કરે છે, જ્યાં સૌથી વધુ દુઃખી પાપી પણ તરત જ તમામ પાપી પ્રતિક્રિયાઓમાંથી મુક્ત થઈ શકે છે."
+            }
+        }
+    },
+    {
+        "id": 107522,
+        "sloka": "10.75.22",
+        "verse_id": 107522,
+        "verseNumber": 22,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Next the King put on new silken garments and adorned himself with fine jewelry. He then honored the priests, assembly officials, learned brāhmaṇas and other guests by presenting them with ornaments and clothing."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "इसके बाद राजा ने नए रेशमी वस्त्र पहने और खुद को अच्छे गहनों से सजाया। फिर उन्होंने पुजारियों, सभा अधिकारियों, विद्वान ब्राह्मणों और अन्य अतिथियों को आभूषण और वस्त्र देकर सम्मानित किया।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "પછી રાજાએ નવા રેશમી વસ્ત્રો પહેર્યા અને પોતાને સુંદર આભૂષણોથી શણગાર્યા. ત્યારબાદ તેમણે પૂજારીઓ, સભાના અધિકારીઓ, વિદ્વાન બ્રાહ્મણો અને અન્ય મહેમાનોને આભૂષણો અને વસ્ત્રો આપીને તેમનું સન્માન કર્યું."
+            }
+        }
+    },
+    {
+        "id": 107523,
+        "sloka": "10.75.23",
+        "verse_id": 107523,
+        "verseNumber": 23,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "In various ways King Yudhiṣṭhira, who had totally dedicated his life to Lord Nārāyaṇa, continuously honored his relatives, his immediate family, the other kings, his friends and well-wishers, and all others present as well."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "विभिन्न तरीकों से राजा युधिष्ठिर, जिन्होंने अपना जीवन पूरी तरह से भगवान नारायण को समर्पित कर दिया था, लगातार अपने रिश्तेदारों, अपने निकटतम परिवार, अन्य राजाओं, अपने दोस्तों और शुभचिंतकों और अन्य सभी उपस्थित लोगों का भी सम्मान करते थे।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "વિવિધ રીતે રાજા યુધિષ્ઠિર, જેમણે પોતાનું જીવન સંપૂર્ણ રીતે ભગવાન નારાયણને સમર્પિત કર્યું હતું, તેમના સંબંધીઓ, તેમના નજીકના પરિવારજનો, અન્ય રાજાઓ, તેમના મિત્રો અને શુભેચ્છકો અને હાજર રહેલા અન્ય તમામ લોકોનું સતત સન્માન કર્યું."
+            }
+        }
+    },
+    {
+        "id": 107524,
+        "sloka": "10.75.24",
+        "verse_id": 107524,
+        "verseNumber": 24,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "All the men there shone like demigods. They were adorned with jeweled earrings, flower garlands, turbans, waistcoats, silk dhotīs and valuable pearl necklaces. The lovely faces of the women were beautified by their matched earrings and locks of hair, and they all wore golden belts."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "वहाँ के सभी मनुष्य देवताओं के समान चमक रहे थे। वे रत्नजड़ित बालियों, फूलों की मालाओं, पगड़ियों, वास्कट, रेशम की धोतियों और मूल्यवान मोतियों के हार से सुशोभित थे। महिलाओं के सुंदर चेहरे उनके मिलान वाले झुमके और बालों के ताले से सुशोभित थे, और वे सभी सुनहरे बेल्ट पहने हुए थीं।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "ત્યાંના બધા માણસો દેવતાઓની જેમ ચમકતા હતા. તેઓ રત્નજડિત કાનની બુટ્ટીઓ, ફૂલોની માળા, પાઘડી, કમરકોટ, રેશમી ધોતી અને કિંમતી મોતીના હારથી શણગારેલા હતા. સ્ત્રીઓના સુંદર ચહેરાઓ તેમની મેળ ખાતી કાનની બુટ્ટીઓ અને વાળના તાળાઓ દ્વારા સુશોભિત કરવામાં આવ્યા હતા, અને તેઓ બધાએ સોનેરી બેલ્ટ પહેર્યા હતા."
+            }
+        }
+    },
+    {
+        "id": 107525,
+        "sloka": "10.75.25-26",
+        "verse_id": 107525,
+        "verseNumber": 25,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Then the highly cultured priests, the great Vedic authorities who had served as sacrificial witnesses, the specially invited kings, the brāhmaṇas, kṣatriyas, vaiśyas, śūdras, demigods, sages, forefathers and mystic spirits, and the chief planetary rulers and their followers — all of them, having been worshiped by King Yudhiṣṭhira, took his permission and departed, O King, each for his own abode."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "तब उच्च सुसंस्कृत पुजारी, महान वैदिक अधिकारी जिन्होंने यज्ञ के गवाह के रूप में सेवा की थी, विशेष रूप से आमंत्रित राजा, ब्राह्मण, क्षत्रिय, वैश्य, शूद्र, देवता, ऋषि, पूर्वज और रहस्यवादी आत्माएं, और मुख्य ग्रह शासक और उनके अनुयायी - उन सभी ने, राजा युधिष्ठिर द्वारा पूजा की गई, उनकी अनुमति ली और चले गए, हे राजा, प्रत्येक अपने-अपने निवास के लिये।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "પછી ઉચ્ચ સંસ્કારી પુરોહિતો, મહાન વૈદિક સત્તાવાળાઓ જેમણે બલિદાનના સાક્ષીઓ તરીકે સેવા આપી હતી, ખાસ આમંત્રિત રાજાઓ, બ્રાહ્મણો, ક્ષત્રિય, વૈશ્ય, શુદ્રો, દેવતાઓ, ઋષિઓ, પૂર્વજો અને રહસ્યવાદીઓ, અને તેમના બધા રાજાઓ અને મુખ્ય ગ્રહોના શાસકો દ્વારા તેમની પૂજા કરવામાં આવી હતી. યુધિષ્ઠિર, તેમની પરવાનગી લીધી અને હે રાજા, દરેક પોતપોતાના નિવાસસ્થાન માટે પ્રયાણ કર્યું."
+            }
+        }
+    },
+    {
+        "id": 107527,
+        "sloka": "10.75.27",
+        "verse_id": 107527,
+        "verseNumber": 27,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "As they all glorified the wonderful Rājasūya-yajña performed by that great saintly King and servant of Lord Hari, they were not satiated, just as an ordinary man is never satiated when drinking nectar."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "चूंकि वे सभी उस महान संत राजा और भगवान हरि के सेवक द्वारा किए गए अद्भुत राजसूय-यज्ञ की महिमा करते थे, इसलिए वे तृप्त नहीं होते थे, जैसे एक सामान्य व्यक्ति अमृत पीने पर कभी तृप्त नहीं होता है।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "જેમ જેમ તેઓ બધા એ મહાન સંત રાજા અને ભગવાન હરિના સેવક દ્વારા કરવામાં આવેલ અદ્ભુત રાજસૂય-યજ્ઞનો મહિમા કરતા હતા, તેઓ તૃપ્ત થયા ન હતા, જેમ એક સામાન્ય માણસ અમૃત પીતા ક્યારેય તૃપ્ત થતો નથી."
+            }
+        }
+    },
+    {
+        "id": 107528,
+        "sloka": "10.75.28",
+        "verse_id": 107528,
+        "verseNumber": 28,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "At that time Rājā Yudhiṣṭhira stopped a number of his friends, immediate family members and other relatives from departing, among them Lord Kṛṣṇa. Out of love Yudhiṣṭhira could not let them go, for he felt the pain of imminent separation."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "उस समय राजा युधिष्ठिर ने अपने कई मित्रों, निकटतम परिवार के सदस्यों और अन्य रिश्तेदारों को जाने से रोक दिया, जिनमें भगवान कृष्ण भी शामिल थे। प्रेम के कारण युधिष्ठिर उन्हें जाने नहीं दे सकते थे, क्योंकि उन्हें आसन्न अलगाव का दर्द महसूस हो रहा था।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "તે સમયે રાજા યુધિષ્ઠિરે તેમના અસંખ્ય મિત્રો, નજીકના પરિવારના સભ્યો અને અન્ય સંબંધીઓને વિદાય કરતા અટકાવ્યા, જેમાં ભગવાન કૃષ્ણ હતા. પ્રેમથી યુધિષ્ઠિર તેમને જવા દેતા નહોતા, કારણ કે તેમને નિકટવર્તી અલગ થવાની પીડા અનુભવાઈ હતી."
+            }
+        }
+    },
+    {
+        "id": 107529,
+        "sloka": "10.75.29",
+        "verse_id": 107529,
+        "verseNumber": 29,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "My dear Parīkṣit, the Supreme Lord remained there for some time to please the King, after first sending Sāmba and the other Yadu heroes back to Dvārakā."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "मेरे प्रिय परीक्षित, साम्ब और अन्य यदु वीरों को पहले द्वारका वापस भेजने के बाद, राजा को प्रसन्न करने के लिए परम भगवान कुछ समय तक वहाँ रहे।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "મારા પ્રિય પરીક્ષિત, પરમ ભગવાન રાજાને પ્રસન્ન કરવા માટે થોડા સમય માટે ત્યાં રહ્યા, પહેલા સામ્બ અને અન્ય યદુ નાયકોને દ્વારકા પાછા મોકલ્યા પછી."
+            }
+        }
+    },
+    {
+        "id": 107530,
+        "sloka": "10.75.30",
+        "verse_id": 107530,
+        "verseNumber": 30,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Thus King Yudhiṣṭhira, the son of Dharma, was at last relieved of his burning ambition, having by the grace of Lord Kṛṣṇa successfully crossed the vast and formidable ocean of his desires."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "इस प्रकार, धर्म के पुत्र, राजा युधिष्ठिर को अंततः भगवान कृष्ण की कृपा से अपनी इच्छाओं के विशाल और दुर्जेय महासागर को सफलतापूर्वक पार करने के बाद अपनी ज्वलंत महत्वाकांक्षा से राहत मिली।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "આ રીતે, ધર્મના પુત્ર રાજા યુધિષ્ઠિર, ભગવાન કૃષ્ણની કૃપાથી તેમની ઇચ્છાઓના વિશાળ અને ભયંકર સમુદ્રને સફળતાપૂર્વક પાર કરીને, તેમની સળગતી મહત્વાકાંક્ષામાંથી આખરે મુક્ત થયા."
+            }
+        }
+    },
+    {
+        "id": 107531,
+        "sloka": "10.75.31",
+        "verse_id": 107531,
+        "verseNumber": 31,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "One day Duryodhana, while observing the riches of King Yudhiṣṭhira’s palace, felt greatly disturbed by the magnificence of both the Rājasūya sacrifice and its performer, the King, whose life and soul was Lord Acyuta."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "एक दिन, दुर्योधन, राजा युधिष्ठिर के महल के धन को देखते हुए, राजसूय यज्ञ और उसके कर्ता, राजा, जिनके जीवन और आत्मा भगवान अच्युत थे, दोनों की महिमा से बहुत परेशान हो गया।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "એક દિવસ દુર્યોધન, રાજા યુધિષ્ઠિરના મહેલની સંપત્તિનું નિરીક્ષણ કરતી વખતે, રાજસૂય બલિદાન અને તેના કલાકાર, રાજા, જેમના જીવન અને આત્મા ભગવાન અચ્યુત હતા, બંનેની ભવ્યતાથી ખૂબ જ વ્યથિત થયા."
+            }
+        }
+    },
+    {
+        "id": 107532,
+        "sloka": "10.75.32",
+        "verse_id": 107532,
+        "verseNumber": 32,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "In that palace all the collected opulences of the kings of men, demons and gods were brilliantly manifest, having been brought there by the cosmic inventor, Maya Dānava. With those riches Draupadī served her husbands, and Duryodhana, the prince of the Kurus, lamented because he was very much attracted to her."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "उस महल में मनुष्यों, राक्षसों और देवताओं के राजाओं की सभी एकत्रित समृद्धि शानदार ढंग से प्रकट हुई थी, जिसे ब्रह्मांडीय आविष्कारक, माया दानव द्वारा वहां लाया गया था। उस धन से द्रौपदी ने अपने पतियों की सेवा की, और कौरवों के राजकुमार दुर्योधन ने विलाप किया क्योंकि वह उसके प्रति बहुत आकर्षित था।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "તે મહેલમાં માણસો, દાનવો અને દેવતાઓના રાજાઓની બધી એકઠી કરેલી ઐશ્વર્ય તેજસ્વી રીતે પ્રગટ થઈ હતી, જે બ્રહ્માંડના શોધક, માયા દાનવ દ્વારા ત્યાં લાવવામાં આવી હતી. તે સંપત્તિથી દ્રૌપદીએ તેના પતિની સેવા કરી, અને કુરુઓના રાજકુમાર દુર્યોધનએ શોક વ્યક્ત કર્યો કારણ કે તે તેના પ્રત્યે ખૂબ જ આકર્ષિત હતો."
+            }
+        }
+    },
+    {
+        "id": 107533,
+        "sloka": "10.75.33",
+        "verse_id": 107533,
+        "verseNumber": 33,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Lord Madhupati’s thousands of queens were also staying in the palace. Their feet moved slowly, weighed down by their hips, and the bells on their feet tinkled charmingly. Their waists were very slender, the kuṅkuma from their breasts reddened their pearl necklaces, and their swaying earrings and flowing locks of hair enhanced the exquisite beauty of their faces."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "भगवान मधुपति की हजारों रानियाँ भी महल में रह रही थीं। उनके पैर धीरे-धीरे चल रहे थे, उनके कूल्हों पर भार था, और उनके पैरों की घंटियाँ आकर्षक ढंग से बज रही थीं। उनकी कमर बहुत पतली थी, उनके स्तनों के कुंकुमा ने उनके मोतियों के हार को लाल कर दिया था, और उनके लहराते झुमके और बालों की लहराती लटें उनके चेहरे की उत्कृष्ट सुंदरता को बढ़ा रही थीं।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "ભગવાન મધુપતિની હજારો રાણીઓ પણ મહેલમાં રહેતી હતી. તેમના પગ ધીમે ધીમે આગળ વધતા હતા, તેમના હિપ્સથી વજન નીચે હતા, અને તેમના પગ પરની ઘંટડીઓ મોહક રીતે કલરવ કરતી હતી. તેમની કમર ખૂબ જ પાતળી હતી, તેમના સ્તનોમાંથી કુંકુમાએ તેમના મોતીના હાર લાલ કરી દીધા હતા, અને તેમની લહેરાતા કાનની બુટ્ટીઓ અને વાળના લહેરાતા તાળાઓ તેમના ચહેરાની ઉત્કૃષ્ટ સુંદરતામાં વધારો કરતા હતા."
+            }
+        }
+    },
+    {
+        "id": 107534,
+        "sloka": "10.75.34-35",
+        "verse_id": 107534,
+        "verseNumber": 34,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "It so happened that Emperor Yudhiṣṭhira, the son of Dharma, was sitting just like Indra on a golden throne in the assembly hall built by Maya Dānava. Present with him were his attendants and family members, and also Lord Kṛṣṇa, his special eye. Displaying the opulences of Brahma himself, King Yudhiṣṭhira was being praised by the court poets."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "ऐसा हुआ कि धर्मपुत्र सम्राट युधिष्ठिर मय दानव द्वारा निर्मित सभा भवन में स्वर्ण सिंहासन पर इंद्र के समान बैठे थे। उनके साथ उनके परिचारक और परिवार के सदस्य और उनके विशेष चक्षु भगवान कृष्ण भी मौजूद थे। स्वयं ब्रह्मा के ऐश्वर्य को प्रदर्शित करते हुए दरबारी कवियों द्वारा राजा युधिष्ठिर की प्रशंसा की जा रही थी।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "એવું બન્યું કે સમ્રાટ યુધિષ્ઠિર, ધર્મના પુત્ર, માયા દાનવ દ્વારા બાંધવામાં આવેલા સભામંડપમાં સુવર્ણ સિંહાસન પર ઇન્દ્રની જેમ બેઠા હતા. તેમની સાથે તેમના પરિચારકો અને પરિવારના સભ્યો હાજર હતા, અને ભગવાન કૃષ્ણ, તેમની વિશેષ આંખ પણ. સ્વયં બ્રહ્માની ઐશ્વર્ય દર્શાવતા, રાજા યુધિષ્ઠિરની દરબારી કવિઓ દ્વારા પ્રશંસા કરવામાં આવી રહી હતી."
+            }
+        }
+    },
+    {
+        "id": 107536,
+        "sloka": "10.75.36",
+        "verse_id": 107536,
+        "verseNumber": 36,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Proud Duryodhana, holding a sword in his hand and wearing a crown and necklace, angrily went into the palace in the company of his brothers, O King, insulting the doorkeepers as he entered."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "अभिमानी दुर्योधन, हाथ में तलवार लेकर, मुकुट और हार पहने हुए, क्रोधपूर्वक अपने भाइयों के साथ महल में चला गया, हे राजन, उसने प्रवेश करते ही द्वारपालों का अपमान किया।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "અભિમાની દુર્યોધન, હાથમાં તલવાર લઈને અને મુગટ અને ગળામાં હાર પહેરીને, હે રાજા, પ્રવેશતા જ દરવાજોનું અપમાન કરીને ગુસ્સાથી મહેલમાં ગયો."
+            }
+        }
+    },
+    {
+        "id": 107537,
+        "sloka": "10.75.37",
+        "verse_id": 107537,
+        "verseNumber": 37,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Bewildered by the illusions created through Maya Dānava’s magic, Duryodhana mistook the solid floor for water and lifted the end of his garment. And elsewhere he fell into the water, mistaking it for the solid floor."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "माया दानव के जादू से पैदा हुए भ्रम से भ्रमित होकर, दुर्योधन ने ठोस फर्श को पानी समझ लिया और अपने वस्त्र का अंत उठा लिया। और अन्यत्र वह ठोस फर्श समझकर पानी में गिर गया।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "માયા દાનવના જાદુ દ્વારા બનાવેલ ભ્રમણાથી આશ્ચર્યચકિત થઈને, દુર્યોધને પાણી માટે નક્કર માળખું ભૂલ્યું અને તેના કપડાનો છેડો ઉપાડ્યો. અને અન્ય જગ્યાએ તે નક્કર ફ્લોર માટે ભૂલથી પાણીમાં પડી ગયો."
+            }
+        }
+    },
+    {
+        "id": 107538,
+        "sloka": "10.75.38",
+        "verse_id": 107538,
+        "verseNumber": 38,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "My dear Parīkṣit, Bhīma laughed to see this, and so did the women, kings and others. King Yudhiṣṭhira tried to stop them, but Lord Kṛṣṇa showed His approval."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "मेरे प्रिय परीक्षित, भीम यह देखकर हँसे, और स्त्रियाँ, राजा तथा अन्य लोग भी हँसे। राजा युधिष्ठिर ने उन्हें रोकने की कोशिश की, लेकिन भगवान कृष्ण ने अपनी सहमति दिखाई।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "મારા વહાલા પરીક્ષિત, ભીમ આ જોઈને હસ્યા, અને સ્ત્રીઓ, રાજાઓ અને અન્ય લોકો પણ. રાજા યુધિષ્ઠિરે તેમને રોકવાનો પ્રયાસ કર્યો, પરંતુ ભગવાન કૃષ્ણએ તેમની મંજૂરી દર્શાવી."
+            }
+        }
+    },
+    {
+        "id": 107539,
+        "sloka": "10.75.39",
+        "verse_id": 107539,
+        "verseNumber": 39,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Humiliated and burning with anger, Duryodhana turned his face down, left without uttering a word and went back to Hastināpura. The saintly persons present loudly cried out, “Alas, alas!” and King Yudhiṣṭhira was somewhat saddened. But the Supreme Lord, whose mere glance had bewildered Duryodhana, remained silent, for His intention was to remove the burden of the earth."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "अपमानित और क्रोध से जलते हुए, दुर्योधन ने अपना चेहरा नीचे कर लिया, बिना एक शब्द बोले वहां से चला गया और हस्तिनापुर वापस चला गया। उपस्थित साधुजन जोर-जोर से चिल्लाने लगे, \"हाय, अफसोस!\" और राजा युधिष्ठिर कुछ दुःखी हुए। परंतु भगवान, जिनकी दृष्टि मात्र से दुर्योधन व्याकुल हो गया था, चुप रहे, क्योंकि उनका इरादा पृथ्वी का बोझ उतारना था।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "અપમાનિત અને ક્રોધથી સળગીને, દુર્યોધને પોતાનું મોં નીચું કરી દીધું, એક પણ શબ્દ બોલ્યા વિના ત્યાંથી નીકળી ગયો અને પાછો હસ્તિનાપુરા ગયો. ઉપસ્થિત સંતપુરુષોએ મોટેથી બૂમ પાડી, “અરે, અરે!” અને રાજા યુધિષ્ઠિર કંઈક અંશે દુઃખી થયા. પરંતુ પરમ ભગવાન, જેમની માત્ર નજરે દુર્યોધનને વિચલિત કરી દીધો હતો, તે મૌન રહ્યા, કારણ કે તેમનો હેતુ પૃથ્વીનો ભાર દૂર કરવાનો હતો."
+            }
+        }
+    },
+    {
+        "id": 107540,
+        "sloka": "10.75.40",
+        "verse_id": 107540,
+        "verseNumber": 40,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "I have now replied to your question, O King, concerning why Duryodhana was dissatisfied on the occasion of the great Rājasūya sacrifice."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "हे राजन, अब मैंने आपके प्रश्न का उत्तर दे दिया है कि दुर्योधन महान राजसूय यज्ञ के अवसर पर क्यों असंतुष्ट था।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "રાજા, રાજા, મહાન રાજસૂય બલિદાન પ્રસંગે દુર્યોધન શા માટે અસંતુષ્ટ હતો તે અંગે મેં હવે તમારા પ્રશ્નનો જવાબ આપ્યો છે."
+            }
+        }
+    }
+]

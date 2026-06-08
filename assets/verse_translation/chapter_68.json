@@ -1,0 +1,1129 @@
+[
+    {
+        "id": 106801,
+        "sloka": "10.68.1",
+        "verse_id": 106801,
+        "verseNumber": 1,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Śukadeva Gosvāmī said: O King, Jāmbavatī’s son Sāmba, ever victorious in battle, kidnapped Duryodhana’s daughter Lakṣmaṇā from her svayaṁvara ceremony."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "शुकदेव गोस्वामी ने कहा: हे राजन, जाम्बवती के पुत्र साम्ब ने, जो हमेशा युद्ध में विजयी रहता था, दुर्योधन की बेटी लक्ष्मणा का उसके स्वयंवर समारोह से अपहरण कर लिया।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "શુકદેવ ગોસ્વામીએ કહ્યું: હે રાજા, જાંબવતીના પુત્ર સામ્બ, યુદ્ધમાં હંમેશા વિજયી, દુર્યોધનની પુત્રી લક્ષ્મણાને તેના સ્વયંવર સમારોહમાંથી અપહરણ કરી ગયા."
+            }
+        }
+    },
+    {
+        "id": 106802,
+        "sloka": "10.68.2",
+        "verse_id": 106802,
+        "verseNumber": 2,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "The angry Kurus said: This ill-behaved boy has offended us, forcibly kidnapping our unmarried daughter against her will."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "क्रोधित कौरवों ने कहा: इस बुरे आचरण वाले लड़के ने हमारी अविवाहित बेटी को उसकी इच्छा के विरुद्ध बलपूर्वक अपहरण करके हमें अपमानित किया है।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "ગુસ્સે થયેલા કુરુઓએ કહ્યું: આ ખરાબ વર્તનવાળા છોકરાએ અમને નારાજ કર્યા છે, અમારી અપરિણીત પુત્રીને તેની ઇચ્છા વિરુદ્ધ બળજબરીથી અપહરણ કર્યું છે."
+            }
+        }
+    },
+    {
+        "id": 106803,
+        "sloka": "10.68.3",
+        "verse_id": 106803,
+        "verseNumber": 3,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Arrest this ill-behaved Sāmba! What will the Vṛṣṇis do? By our grace they are ruling land that we have granted them."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "इस बुरे व्यवहार वाले सांबा को गिरफ्तार करो! वृष्णि क्या करेंगे? हमारी कृपा से वे उस भूमि पर शासन कर रहे हैं जो हमने उन्हें दी है।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "આ ખરાબ વર્તન કરનાર સામ્બાની ધરપકડ કરો! વૃષ્ણો શું કરશે? અમારી કૃપાથી તેઓ જમીન પર રાજ કરી રહ્યા છે જે અમે તેમને આપી છે."
+            }
+        }
+    },
+    {
+        "id": 106804,
+        "sloka": "10.68.4",
+        "verse_id": 106804,
+        "verseNumber": 4,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "If the Vṛṣṇis come here when they learn that their son has been captured, we will break their pride. Thus they’ll become subdued, like bodily senses brought under strict control."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "यदि वृष्णि यह जानकर यहां आएं कि उनका पुत्र पकड़ लिया गया है, तो हम उनका घमंड तोड़ देंगे। इस प्रकार वे वश में हो जायेंगे, जैसे शारीरिक इन्द्रियाँ सख्त नियंत्रण में आ जाती हैं।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "જો વૃષ્ણો અહીં આવે છે જ્યારે તેઓ જાણશે કે તેમના પુત્રને પકડવામાં આવ્યો છે, તો અમે તેમનું અભિમાન તોડી નાખીશું. આમ તેઓ વશ થઈ જશે, જેમ કે શારીરિક ઈન્દ્રિયો કડક નિયંત્રણ હેઠળ લાવવામાં આવે છે."
+            }
+        }
+    },
+    {
+        "id": 106805,
+        "sloka": "10.68.5",
+        "verse_id": 106805,
+        "verseNumber": 5,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "After saying this and having their plan sanctioned by the senior member of the Kuru dynasty, Karṇa, Śala, Bhūri, Yajñaketu and Suyodhana set out to attack Sāmba."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "यह कहने के बाद और कुरु वंश के वरिष्ठ सदस्य द्वारा अपनी योजना को मंजूरी मिलने के बाद, कर्ण, शाल, भूरि, यज्ञकेतु और सुयोधन सांबा पर हमला करने के लिए निकल पड़े।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "આ કહ્યા પછી અને કુરુ વંશના વરિષ્ઠ સભ્ય દ્વારા તેમની યોજનાને મંજૂરી આપ્યા પછી, કર્ણ, શલ, ભૂરી, યજ્ઞકેતુ અને સુયોધન સામ્બ પર હુમલો કરવા નીકળ્યા."
+            }
+        }
+    },
+    {
+        "id": 106806,
+        "sloka": "10.68.6",
+        "verse_id": 106806,
+        "verseNumber": 6,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Seeing Duryodhana and his companions rushing toward him, Sāmba, the great chariot-fighter, took up his splendid bow and stood alone like a lion."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "दुर्योधन और उसके साथियों को अपनी ओर आते देख महारथी साम्ब ने अपना शानदार धनुष उठाया और सिंह की भाँति अकेले खड़े हो गये।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "દુર્યોધન અને તેના સાથીદારોને તેની તરફ ધસી આવતા જોઈને, મહાન રથ-સેનાની, સામ્બે તેનું ભવ્ય ધનુષ્ય હાથમાં લીધું અને સિંહની જેમ એકલા ઊભા રહ્યા."
+            }
+        }
+    },
+    {
+        "id": 106807,
+        "sloka": "10.68.7",
+        "verse_id": 106807,
+        "verseNumber": 7,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Determined to capture him, the angry bowmen led by Karṇa shouted at Sāmba, ‘Stand and fight! Stand and fight!’ They came straight for him and showered him with arrows."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "उसे पकड़ने के लिए कृतसंकल्प कर्ण के नेतृत्व में क्रोधित धनुर्धर सांबा पर चिल्लाए, 'खड़े रहो और लड़ो! खड़े रहो और लड़ो!' वे सीधे उसके पास आये और उस पर तीरों की बौछार कर दी।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "તેને પકડવાનો નિશ્ચય કરીને, કર્ણની આગેવાની હેઠળના ગુસ્સે થયેલા ધનુષીઓએ સામ્બ પર બૂમ પાડી, 'ઊભા રહો અને લડો! ઊભા રહો અને લડો!’ તેઓ સીધા તેની પાસે આવ્યા અને તેના પર તીર વરસાવ્યા."
+            }
+        }
+    },
+    {
+        "id": 106808,
+        "sloka": "10.68.8",
+        "verse_id": 106808,
+        "verseNumber": 8,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "O best of the Kurus, as Kṛṣṇa’s son Sāmba was being unjustly harassed by the Kurus, that darling of the Yadu dynasty did not tolerate their attack, any more than a lion would tolerate an attack by puny animals."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "हे कौरवश्रेष्ठ, चूँकि कृष्ण के पुत्र साम्ब को कौरवों द्वारा अन्यायपूर्ण रूप से परेशान किया जा रहा था, इसलिए यदुवंश के प्रिय ने उनके आक्रमण को उसी प्रकार सहन नहीं किया, जिस प्रकार एक शेर छोटे जानवरों के आक्रमण को सहन कर सकता है।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "હે કુરુઓમાંથી શ્રેષ્ઠ, જેમ કે કૃષ્ણના પુત્ર સામ્બને કુરુઓ દ્વારા અન્યાયી રીતે હેરાન કરવામાં આવી રહ્યો હતો, તે યદુ વંશના પ્રિયે તેમના હુમલાને સહન ન કર્યું, સિંહ કરતાં વધુ કોઈ પણ નાના પ્રાણીઓના હુમલાને સહન કરશે."
+            }
+        }
+    },
+    {
+        "id": 106809,
+        "sloka": "10.68.9-10",
+        "verse_id": 106809,
+        "verseNumber": 9,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Twanging his wonderful bow, heroic Sāmba struck with arrows the six warriors headed by Karṇa. He pierced the six chariots with as many arrows, each team of four horses with four arrows, and each chariot driver with a single arrow, and he similarly struck the great bowmen who commanded the chariots. The enemy warriors congratulated Sāmba for this display of prowess."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "वीर सांब ने अपने अद्भुत धनुष को घुमाकर कर्ण के नेतृत्व वाले छह योद्धाओं को बाणों से घायल कर दिया। उसने इतने ही बाणों से छः रथों को, चार-चार घोड़ों के प्रत्येक दल को चार-चार बाणों से और प्रत्येक रथ के चालक को एक ही बाण से घायल कर दिया, और इसी प्रकार उसने रथों के संचालन करने वाले महान धनुर्धरों को भी घायल कर दिया। शत्रु योद्धाओं ने इस पराक्रम प्रदर्शन के लिए सांबा को बधाई दी।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "તેના અદ્ભુત ધનુષ્યને ટાંકતા, પરાક્રમી સામ્બાએ કર્ણની આગેવાની હેઠળના છ યોદ્ધાઓ પર તીરો વડે પ્રહાર કર્યા. તેણે છ રથોને જેટલાં તીરોથી, ચાર ઘોડાઓની દરેક ટુકડીને ચાર તીરથી અને દરેક રથ ચાલકને એક જ તીરથી વીંધી નાખ્યા અને તે જ રીતે તેણે રથોને આજ્ઞા કરનાર મહાન ધનુષીઓને પણ પ્રહાર કર્યા. દુશ્મન યોદ્ધાઓએ પરાક્રમના આ પ્રદર્શન માટે સામ્બાને અભિનંદન આપ્યા."
+            }
+        }
+    },
+    {
+        "id": 106811,
+        "sloka": "10.68.11",
+        "verse_id": 106811,
+        "verseNumber": 11,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "But they forced him down from his chariot, and thereupon four of them struck his four horses, one of them struck down his chariot driver, and another broke his bow."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "परन्तु उन्होंने उसे उसके रथ से नीचे उतार दिया, और उसके बाद उनमें से चार ने उसके चार घोड़ों को मार डाला, उनमें से एक ने उसके रथ चालक को मार डाला, और दूसरे ने उसका धनुष तोड़ दिया।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "પરંતુ તેઓએ તેને તેના રથમાંથી નીચે ઉતાર્યો, અને તે પછી તેમાંથી ચાર તેના ચાર ઘોડા પર પ્રહારો, તેમાંથી એક તેના રથના ચાલકને મારી નાખ્યો અને બીજાએ તેનું ધનુષ તોડી નાખ્યું."
+            }
+        }
+    },
+    {
+        "id": 106812,
+        "sloka": "10.68.12",
+        "verse_id": 106812,
+        "verseNumber": 12,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Having deprived Sāmba of his chariot during the fight, the Kuru warriors tied him up with great difficulty and then returned victorious to their city, taking the young boy and their princess."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "लड़ाई के दौरान सांबा को उसके रथ से वंचित करने के बाद, कुरु योद्धाओं ने उसे बड़ी मुश्किल से बांध दिया और फिर युवा लड़के और उनकी राजकुमारी को लेकर विजयी होकर अपने शहर लौट आए।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "લડાઈ દરમિયાન સામ્બાને તેના રથથી વંચિત રાખ્યા પછી, કુરુ યોદ્ધાઓએ તેને ખૂબ જ મુશ્કેલીથી બાંધ્યો અને પછી યુવાન છોકરા અને તેમની રાજકુમારીને લઈને વિજયી થઈને તેમના શહેરમાં પાછા ફર્યા."
+            }
+        }
+    },
+    {
+        "id": 106813,
+        "sloka": "10.68.13",
+        "verse_id": 106813,
+        "verseNumber": 13,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "O King, when the Yādavas heard news of this from Śrī Nārada, they became angry. Urged on by King Ugrasena, they prepared for war against the Kurus."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "हे राजन, जब यादवों ने श्री नारद से यह समाचार सुना तो वे क्रोधित हो गये। राजा उग्रसेन के आग्रह पर वे कौरवों के विरुद्ध युद्ध के लिए तैयार हो गये।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "હે રાજા, જ્યારે યાદવોએ શ્રી નારદ પાસેથી આ સમાચાર સાંભળ્યા ત્યારે તેઓ ગુસ્સે થયા. રાજા ઉગ્રસેન દ્વારા વિનંતી કરવામાં આવી, તેઓએ કુરુઓ સામે યુદ્ધની તૈયારી કરી."
+            }
+        }
+    },
+    {
+        "id": 106814,
+        "sloka": "10.68.14-15",
+        "verse_id": 106814,
+        "verseNumber": 14,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Lord Balarāma, however, cooled the tempers of the Vṛṣṇi heroes, who had already put on their armor. He who purifies the age of quarrel did not want a quarrel between the Kurus and Vṛṣṇis. Thus, accompanied by brāhmaṇas and family elders, He went to Hastināpura on His chariot, which was as effulgent as the sun. As He went, He appeared like the moon surrounded by the ruling planets."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "हालाँकि, भगवान बलराम ने वृष्णि वीरों के गुस्से को शांत किया, जिन्होंने पहले ही अपना कवच पहन लिया था। वह जो झगड़े के युग को शुद्ध करता है, कौरवों और वृष्णियों के बीच झगड़ा नहीं चाहता था। इस प्रकार, ब्राह्मणों और परिवार के बुजुर्गों के साथ, वह अपने रथ पर हस्तिनापुर गए, जो सूर्य के समान दीप्तिमान था। जैसे ही वह गया, वह शासक ग्रहों से घिरे चंद्रमा की तरह दिखाई दिया।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "ભગવાન બલરામે, જો કે, વૃષ્ણી નાયકોના ગુસ્સાને ઠંડો કર્યો, જેમણે પહેલેથી જ તેમના બખ્તર પહેર્યા હતા. જે ઝઘડાના યુગને શુદ્ધ કરે છે તે કુરુઓ અને વૃષ્ણો વચ્ચે ઝઘડો ઇચ્છતો ન હતો. આમ, બ્રાહ્મણો અને પરિવારના વડીલો સાથે, તેઓ તેમના રથ પર હસ્તિનાપુરા ગયા, જે સૂર્યની જેમ પ્રબળ હતો. તે જતાં જતાં, તે શાસક ગ્રહોથી ઘેરાયેલા ચંદ્રની જેમ દેખાયો."
+            }
+        }
+    },
+    {
+        "id": 106816,
+        "sloka": "10.68.16",
+        "verse_id": 106816,
+        "verseNumber": 16,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Upon arriving at Hastināpura, Lord Balarāma remained in a garden outside the city and sent Uddhava ahead to probe King Dhṛtarāṣṭra’s intentions."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "हस्तिनापुर पहुंचने पर, भगवान बलराम शहर के बाहर एक बगीचे में रहे और राजा धृतराष्ट्र के इरादों की जांच करने के लिए उद्धव को आगे भेजा।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "હસ્તિનાપુરા પહોંચ્યા પછી, ભગવાન બલરામ શહેરની બહાર એક બગીચામાં રહ્યા અને ઉદ્ધવને રાજા ધૃતરાષ્ટ્રના ઇરાદાની તપાસ કરવા આગળ મોકલ્યા."
+            }
+        }
+    },
+    {
+        "id": 106817,
+        "sloka": "10.68.17",
+        "verse_id": 106817,
+        "verseNumber": 17,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "After he had offered proper respects to the son of Ambikā [Dhṛtarāṣṭra] and to Bhīṣma, Droṇa, Bāhlika and Duryodhana, Uddhava informed them that Lord Balarāma had arrived."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "अंबिका के पुत्र (धृतराष्ट्र) और भीष्म, द्रोण, बाह्लीक और दुर्योधन को उचित सम्मान देने के बाद, उद्धव ने उन्हें सूचित किया कि भगवान बलराम आए हैं।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "તેમણે અંબિકા [ધૃતરષ્ટ્ર]ના પુત્ર અને ભીષ્મ, દ્રોણ, બાલિકા અને દુર્યોધનને યોગ્ય આદર આપ્યા પછી, ઉદ્ધવે તેમને જાણ કરી કે ભગવાન બલરામ પધાર્યા છે."
+            }
+        }
+    },
+    {
+        "id": 106818,
+        "sloka": "10.68.18",
+        "verse_id": 106818,
+        "verseNumber": 18,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Overjoyed to hear that Balarāma, their dearmost friend, had come, they first honored Uddhava and then went forth to meet the Lord, carrying auspicious offerings in their hands."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "यह सुनकर बहुत खुशी हुई कि उनके सबसे प्रिय मित्र बलराम आए हैं, उन्होंने पहले उद्धव का सम्मान किया और फिर हाथों में मंगल प्रसाद लेकर भगवान से मिलने के लिए आगे बढ़े।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "બલરામ, તેમના પરમ મિત્ર, આવ્યા છે તે સાંભળીને આનંદ થયો, તેઓએ પહેલા ઉદ્ધવનું સન્માન કર્યું અને પછી તેમના હાથમાં શુભ પ્રસાદ લઈને ભગવાનને મળવા નીકળ્યા."
+            }
+        }
+    },
+    {
+        "id": 106819,
+        "sloka": "10.68.19",
+        "verse_id": 106819,
+        "verseNumber": 19,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "They approached Lord Balarāma and worshiped Him with gifts of cows and arghya, as was fitting. Those among the Kurus who understood His true power bowed down to Him, touching their heads to the ground."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "वे भगवान बलराम के पास पहुंचे और यथायोग्य गाय और अर्घ्य देकर उनकी पूजा की। कौरवों में से जिन लोगों ने उनकी वास्तविक शक्ति को समझा, उन्होंने अपना सिर ज़मीन पर लगाकर उन्हें प्रणाम किया।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "તેઓ ભગવાન બલરામ પાસે પહોંચ્યા અને યોગ્ય હતી તેમ ગાય અને અર્ઘ્યની ભેટ સાથે તેમની પૂજા કરી. કુરુઓમાંથી જેઓ તેમની સાચી શક્તિને સમજતા હતા તેઓ તેમના માથાને જમીન પર સ્પર્શ કરીને તેમને પ્રણામ કરે છે."
+            }
+        }
+    },
+    {
+        "id": 106820,
+        "sloka": "10.68.20",
+        "verse_id": 106820,
+        "verseNumber": 20,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "After both parties had heard that their relatives were doing well and both had inquired into each other’s welfare and health, Lord Balarāma forthrightly spoke to the Kurus as follows."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "जब दोनों पक्षों ने सुना कि उनके रिश्तेदार अच्छा कर रहे हैं और दोनों ने एक-दूसरे के कल्याण और स्वास्थ्य के बारे में पूछताछ की है, तो भगवान बलराम ने कौरवों से स्पष्ट रूप से इस प्रकार बात की।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "બંને પક્ષોએ સાંભળ્યું કે તેમના સંબંધીઓ સારી રીતે ચાલી રહ્યા છે અને બંનેએ એકબીજાના કલ્યાણ અને સ્વાસ્થ્ય વિશે પૂછપરછ કરી હતી, ભગવાન બલરામે સ્પષ્ટપણે કુરુઓ સાથે નીચે મુજબ વાત કરી."
+            }
+        }
+    },
+    {
+        "id": 106821,
+        "sloka": "10.68.21",
+        "verse_id": 106821,
+        "verseNumber": 21,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "[Lord Balarāma said:] King Ugrasena is our master and the ruler of kings. With undivided attention you should hear what he has ordered you to do, and then you should do it at once."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "[भगवान बलराम ने कहा:] राजा उग्रसेन हमारे स्वामी और राजाओं के शासक हैं। With undivided attention you should hear what he has ordered you to do, and then you should do it at once."
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "[ભગવાન બલરામે કહ્યું:] રાજા ઉગ્રસેન આપણા ગુરુ અને રાજાઓના શાસક છે. અવિભાજ્ય ધ્યાન સાથે તમારે સાંભળવું જોઈએ કે તેણે તમને શું કરવાનો આદેશ આપ્યો છે, અને પછી તમારે તે તરત જ કરવું જોઈએ."
+            }
+        }
+    },
+    {
+        "id": 106822,
+        "sloka": "10.68.22",
+        "verse_id": 106822,
+        "verseNumber": 22,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "[King Ugrasena has said:] Even though by irreligious means several of you defeated a single opponent who follows the religious codes, still I am tolerating this for the sake of unity among family members."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "[राजा उग्रसेन ने कहा है:] यद्यपि आपमें से कई लोगों ने अधर्मी तरीकों से धार्मिक नियमों का पालन करने वाले एक ही प्रतिद्वंद्वी को हराया है, फिर भी मैं परिवार के सदस्यों के बीच एकता के लिए इसे सहन कर रहा हूं।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "[રાજા ઉગ્રસેને કહ્યું છે:] ભલે તમારામાંથી ઘણાએ ધાર્મિક નિયમોનું પાલન કરનારા એક જ વિરોધીને અધાર્મિક રીતે હરાવ્યો હોય, તેમ છતાં હું પરિવારના સભ્યોમાં એકતા ખાતર આ સહન કરું છું."
+            }
+        }
+    },
+    {
+        "id": 106823,
+        "sloka": "10.68.23",
+        "verse_id": 106823,
+        "verseNumber": 23,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Upon hearing these words of Lord Baladeva’s, which were full of potency, courage and strength and were appropriate to His transcendental power, the Kauravas became furious and spoke as follows."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "भगवान बलदेव के इन शब्दों को सुनकर, जो शक्ति, साहस और ताकत से भरे हुए थे और उनकी पारलौकिक शक्ति के लिए उपयुक्त थे, कौरव क्रोधित हो गए और इस प्रकार बोले।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "ભગવાન બલદેવના આ શબ્દો, જે શક્તિ, હિંમત અને શક્તિથી ભરપૂર હતા અને તેમની દિવ્ય શક્તિ માટે યોગ્ય હતા, તે સાંભળીને, કૌરવો ગુસ્સે થયા અને નીચે પ્રમાણે બોલ્યા."
+            }
+        }
+    },
+    {
+        "id": 106824,
+        "sloka": "10.68.24",
+        "verse_id": 106824,
+        "verseNumber": 24,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "[The Kuru nobles said:] Oh, how amazing this is! The force of time is indeed insurmountable: a lowly shoe now wants to climb on the head that bears the royal crown."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "[कुरु सरदारों ने कहा:] ओह, यह कितना आश्चर्यजनक है! समय की शक्ति वास्तव में अजेय है: एक तुच्छ जूता अब उस सिर पर चढ़ना चाहता है जिस पर शाही ताज है।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "[કુરુ ઉમરાવોએ કહ્યું:] ઓહ, આ કેટલું આશ્ચર્યજનક છે! સમયનું બળ ખરેખર દુસ્તર છે: નીચા જૂતા હવે શાહી તાજ ધારણ કરનાર માથા પર ચઢવા માંગે છે."
+            }
+        }
+    },
+    {
+        "id": 106825,
+        "sloka": "10.68.25",
+        "verse_id": 106825,
+        "verseNumber": 25,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "It is because these Vṛṣṇis are bound to us by marital ties that we have granted them equality, allowing them to share our beds, seats and meals. Indeed, it is we who have given them their royal thrones."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "ऐसा इसलिए है क्योंकि ये वृष्णि हमारे साथ वैवाहिक संबंधों से बंधे हुए हैं, इसलिए हमने उन्हें समानता प्रदान की है, जिससे उन्हें हमारे बिस्तर, सीटें और भोजन साझा करने की अनुमति मिलती है। वास्तव में, यह हम ही हैं जिन्होंने उन्हें उनका राज सिंहासन दिया है।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "કારણ કે આ વૃષ્ણો આપણી સાથે વૈવાહિક સંબંધો દ્વારા બંધાયેલા છે કે અમે તેમને સમાનતા આપી છે, તેમને અમારી પથારી, બેઠકો અને ભોજન વહેંચવાની મંજૂરી આપી છે. ખરેખર, અમે જ તેમને તેમના શાહી સિંહાસન આપ્યા છે."
+            }
+        }
+    },
+    {
+        "id": 106826,
+        "sloka": "10.68.26",
+        "verse_id": 106826,
+        "verseNumber": 26,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Only because we looked the other way could they enjoy the pair of yak-tail fans and the conchshell, white umbrella, throne, and royal bed."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "केवल इसलिए कि हमने दूसरी तरफ देखा, वे याक-पूंछ वाले पंखों की जोड़ी और शंख, सफेद छतरी, सिंहासन और शाही बिस्तर का आनंद ले सके।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "માત્ર એટલા માટે કે અમે બીજી રીતે જોયું તો તેઓ યાક પૂંછડીના ચાહકોની જોડી અને શંખ, સફેદ છત્રી, સિંહાસન અને શાહી પલંગનો આનંદ માણી શક્યા."
+            }
+        }
+    },
+    {
+        "id": 106827,
+        "sloka": "10.68.27",
+        "verse_id": 106827,
+        "verseNumber": 27,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "No longer should the Yadus be allowed to use these royal symbols, which now cause trouble for those who gave them, like milk fed to poisonous snakes. Having prospered by our grace, these Yādavas have now lost all shame and are daring to command us!"
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "अब यदुओं को इन शाही प्रतीकों का उपयोग करने की अनुमति नहीं दी जानी चाहिए, जो अब उन्हें देने वालों के लिए परेशानी का कारण बनते हैं, जैसे जहरीले सांपों को दूध पिलाना। Having prospered by our grace, these Yādavas have now lost all shame and are daring to command us!"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "હવે યદુઓને આ શાહી પ્રતીકોનો ઉપયોગ કરવાની મંજૂરી આપવી જોઈએ નહીં, જે હવે તેમને આપનારાઓ માટે મુશ્કેલી ઊભી કરે છે, જેમ કે ઝેરી સાપને દૂધ પીવડાવ્યું. અમારી કૃપાથી સમૃદ્ધ થઈને, આ યાદવો હવે બધી શરમ ગુમાવી ચૂક્યા છે અને અમને આજ્ઞા કરવાની હિંમત કરી રહ્યા છે!"
+            }
+        }
+    },
+    {
+        "id": 106828,
+        "sloka": "10.68.28",
+        "verse_id": 106828,
+        "verseNumber": 28,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "How would even Indra dare usurp anything that Bhīṣma, Droṇa, Arjuna or the other Kurus have not given him? It would be like a lamb claiming the lion’s kill."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "इंद्र भी उस चीज़ को हड़पने का साहस कैसे कर सकता है जो भीष्म, द्रोण, अर्जुन या अन्य कौरवों ने उसे नहीं दी है? यह उस मेमने के समान होगा जो शेर को मारने का दावा कर रहा हो।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "ભીષ્મ, દ્રોણ, અર્જુન અથવા અન્ય કુરુઓએ તેમને ન આપ્યું હોય તે કંઈપણ હડપ કરવાની હિંમત ઈન્દ્ર પણ કેવી રીતે કરશે? તે સિંહની હત્યાનો દાવો કરનાર ઘેટાં જેવું હશે."
+            }
+        }
+    },
+    {
+        "id": 106829,
+        "sloka": "10.68.29",
+        "verse_id": 106829,
+        "verseNumber": 29,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Śrī Bādarāyaṇi said: O best of the Bhāratas, after the arrogant Kurus, thoroughly puffed up by the opulence of their high birth and relations, had spoken these harsh words to Lord Balarāma, they turned and went back to their city."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "श्री बदरायणि ने कहा: हे भरतश्रेष्ठ, जब अहंकारी कौरवों ने, अपने उच्च जन्म और संबंधों के ऐश्वर्य से पूरी तरह से फूलकर, भगवान बलराम को ये कठोर शब्द कहे थे, तो वे मुड़ गए और अपने शहर में वापस चले गए।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "શ્રી બાદરાયણીએ કહ્યું: હે ભરતના શ્રેષ્ઠીઓ, અહંકારી કુરુઓએ, તેમના ઉચ્ચ જન્મ અને સંબંધોની ઐશ્વર્યથી સંપૂર્ણ રીતે ફૂલેલા, ભગવાન બલરામને આ કઠોર શબ્દો કહ્યા પછી, તેઓ પાછા ફર્યા અને તેમના શહેરમાં ગયા."
+            }
+        }
+    },
+    {
+        "id": 106830,
+        "sloka": "10.68.30",
+        "verse_id": 106830,
+        "verseNumber": 30,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Seeing the bad character of the Kurus and hearing their nasty words, the infallible Lord Balarāma became filled with rage. His countenance frightful to behold, He laughed repeatedly and spoke as follows."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "कौरवों के बुरे चरित्र को देखकर और उनके बुरे शब्दों को सुनकर, अमोघ भगवान बलराम क्रोध से भर गए। उनका मुखमंडल देखने में भयानक था, वे बार-बार हँसते थे और इस प्रकार बोलते थे।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "કુરુઓનું ખરાબ ચરિત્ર જોઈને અને એમના ખરાબ શબ્દો સાંભળીને અચૂક ભગવાન બલરામ ક્રોધથી ભરાઈ ગયા. તેનો ચહેરો જોઈને ભયાનક હતો, તે વારંવાર હસ્યો અને નીચે પ્રમાણે બોલ્યો."
+            }
+        }
+    },
+    {
+        "id": 106831,
+        "sloka": "10.68.31",
+        "verse_id": 106831,
+        "verseNumber": 31,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "[Lord Balarāma said:] “Clearly the many passions of these scoundrels have made them so proud that they do not want peace. Then let them be pacified by physical punishment, as animals are with a stick."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "[भगवान बलराम ने कहा:] \"स्पष्ट रूप से इन दुष्टों के कई जुनून ने उन्हें इतना घमंडी बना दिया है कि वे शांति नहीं चाहते हैं। फिर उन्हें शारीरिक दंड से शांत किया जाए, जैसे जानवर छड़ी से शांत होते हैं।\""
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "[ભગવાન બલરામે કહ્યું:] “સ્પષ્ટપણે આ બદમાશોની ઘણી જુસ્સોએ તેમને એટલો ગર્વ અનુભવ્યો છે કે તેઓ શાંતિ ઇચ્છતા નથી. તો પછી તેમને શારીરિક સજા દ્વારા શાંત થવા દો, જેમ કે પ્રાણીઓ લાકડી વડે છે."
+            }
+        }
+    },
+    {
+        "id": 106832,
+        "sloka": "10.68.32-33",
+        "verse_id": 106832,
+        "verseNumber": 32,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "“Ah, only gradually was I able to calm the furious Yadus and Lord Kṛṣṇa, who was also enraged. Desiring peace for these Kauravas, I came here. But they are so dull-headed, fond of quarrel and mischievous by nature that they have repeatedly disrespected Me. Out of conceit they dared to address Me with harsh words!"
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "\"ओह, धीरे-धीरे ही मैं क्रोधित यदुओं और भगवान कृष्ण को, जो क्रोधित थे, शांत करने में सक्षम हो सका। इन कौरवों के लिए शांति की कामना करते हुए, मैं यहां आया था। लेकिन वे स्वभाव से इतने मंदबुद्धि, झगड़े के शौकीन और शरारती हैं कि उन्होंने बार-बार मेरा अनादर किया है। अहंकारवश उन्होंने मुझे कठोर शब्दों से संबोधित करने का साहस किया!"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "\"આહ, ધીમે ધીમે હું ગુસ્સે ભરાયેલા યદુઓ અને ભગવાન કૃષ્ણને પણ શાંત કરી શક્યો. આ કૌરવો માટે શાંતિની ઈચ્છા રાખીને, હું અહીં આવ્યો છું. પરંતુ તેઓ સ્વભાવથી એટલા નીરસ, ઝઘડાના શોખીન અને તોફાની છે કે તેઓએ મને દશરથી સંબોધવા માટે વારંવાર મને અપમાનિત કર્યા છે!"
+            }
+        }
+    },
+    {
+        "id": 106834,
+        "sloka": "10.68.34",
+        "verse_id": 106834,
+        "verseNumber": 34,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "“King Ugrasena, the lord of the Bhojas, Vṛṣṇis and Andhakas, is not fit to command, when Indra and other planetary rulers obey his orders?"
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "“भोज, वृष्णि और अंधक के स्वामी राजा उग्रसेन आदेश देने के योग्य नहीं हैं, जबकि इंद्र और अन्य ग्रह शासक उनके आदेशों का पालन करते हैं?"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "“ભોજ, વૃષ્ણો અને અંધકનો સ્વામી રાજા ઉગ્રસેન, જ્યારે ઇન્દ્ર અને અન્ય ગ્રહોના શાસકો તેમની આજ્ઞાનું પાલન કરે છે ત્યારે તેઓ આજ્ઞા કરવા યોગ્ય નથી?"
+            }
+        }
+    },
+    {
+        "id": 106835,
+        "sloka": "10.68.35",
+        "verse_id": 106835,
+        "verseNumber": 35,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "“That same Kṛṣṇa who occupies the Sudharmā assembly hall and for His enjoyment took the pārijāta tree from the immortal demigods — that very Kṛṣṇa is indeed not fit to sit on a royal throne?"
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "\"वही कृष्ण जो सुधर्मा सभा भवन में रहते हैं और अपने आनंद के लिए अमर देवताओं से पारिजात वृक्ष लेते हैं - वही कृष्ण वास्तव में राज सिंहासन पर बैठने के योग्य नहीं हैं?"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "“તે જ કૃષ્ણ જે સુધર્મા સભામંડપ પર કબજો કરે છે અને તેમના આનંદ માટે અમર દેવતાઓ પાસેથી પારિજાતનું વૃક્ષ લીધું હતું - તે જ કૃષ્ણ ખરેખર શાહી સિંહાસન પર બેસવા માટે યોગ્ય નથી?"
+            }
+        }
+    },
+    {
+        "id": 106836,
+        "sloka": "10.68.36",
+        "verse_id": 106836,
+        "verseNumber": 36,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "“The goddess of fortune herself, ruler of the entire universe, worships His feet. And the master of the goddess of fortune does not deserve the paraphernalia of a mortal king?"
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "\"स्वयं भाग्य की देवी, संपूर्ण ब्रह्मांड की शासक, उनके चरणों की पूजा करती है। और भाग्य की देवी का स्वामी एक नश्वर राजा की साज-सज्जा के लायक नहीं है?"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "\"ભાગ્યની દેવી પોતે, સમગ્ર બ્રહ્માંડના શાસક, તેમના ચરણોની પૂજા કરે છે. અને ભાગ્યની દેવીનો સ્વામી નશ્વર રાજાના સામાનને લાયક નથી?"
+            }
+        }
+    },
+    {
+        "id": 106837,
+        "sloka": "10.68.37",
+        "verse_id": 106837,
+        "verseNumber": 37,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "“The dust of Kṛṣṇa’s lotus feet, which is the source of holiness for all places of pilgrimage, is worshiped by all the great demigods. The principal deities of all planets are engaged in His service, and they consider themselves most fortunate to take the dust of the lotus feet of Kṛṣṇa on their crowns. Great demigods like Lord Brahmā and Lord Śiva, and even the goddess of fortune and I, are simply parts of His spiritual identity, and we also carefully carry that dust on our heads. And still Kṛṣṇa is not fit to use the royal insignia or even sit on the royal throne?"
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "\"कृष्ण के चरण कमलों की धूल, जो सभी तीर्थ स्थानों के लिए पवित्रता का स्रोत है, की पूजा सभी महान देवताओं द्वारा की जाती है। सभी ग्रहों के प्रमुख देवता उनकी सेवा में लगे हुए हैं, और वे कृष्ण के चरण कमलों की धूल को अपने मुकुट पर लेने के लिए खुद को सबसे भाग्यशाली मानते हैं। भगवान ब्रह्मा और भगवान शिव जैसे महान देवता, और यहां तक ​​कि भाग्य की देवी और मैं, बस इसके अंश हैं उनकी आध्यात्मिक पहचान, और हम भी उस धूल को ध्यान से अपने सिर पर रखते हैं और फिर भी कृष्ण शाही प्रतीक चिन्ह का उपयोग करने या यहां तक कि शाही सिंहासन पर बैठने के लायक नहीं हैं?"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "\"કૃષ્ણના કમળના ચરણની ધૂળ, જે તમામ તીર્થસ્થાનો માટે પવિત્રતાનો સ્ત્રોત છે, તે તમામ મહાન દેવતાઓ દ્વારા પૂજવામાં આવે છે. તમામ ગ્રહોના મુખ્ય દેવતાઓ તેમની સેવામાં પ્રવૃત્ત છે, અને તેઓ પોતાના મહાન ભગવાન કૃષ્ણદેવની જેમ કૃષ્ણના ચરણ કમળની ધૂળ લેવા માટે પોતાને સૌથી ભાગ્યશાળી માને છે. બ્રહ્મા અને ભગવાન શિવ, અને ભાગ્યની દેવી અને હું પણ, ફક્ત તેમની આધ્યાત્મિક ઓળખના ભાગો છીએ, અને આપણે પણ તે ધૂળને આપણા માથા પર કાળજીપૂર્વક વહન કરીએ છીએ અને હજુ પણ કૃષ્ણ શાહી ચિહ્નનો ઉપયોગ કરવા અથવા શાહી સિંહાસન પર બેસવા માટે યોગ્ય નથી?"
+            }
+        }
+    },
+    {
+        "id": 106838,
+        "sloka": "10.68.38",
+        "verse_id": 106838,
+        "verseNumber": 38,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "“We Vṛṣṇis enjoy only whatever small parcel of land the Kurus allow us? And we are indeed shoes, whereas the Kurus are the head?"
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "\"हम वृष्णि केवल उस भूमि का आनंद लेते हैं जो कुरु हमें अनुमति देते हैं? और हम वास्तव में जूते हैं, जबकि कुरु मुखिया हैं?\""
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "\"આપણે વૃષ્ણો કુરુઓ અમને પરવાનગી આપે છે તે જમીનના નાના ભાગનો જ આનંદ લઈએ છીએ? અને આપણે ખરેખર પગરખાં છીએ, જ્યારે કુરુઓ વડા છે?"
+            }
+        }
+    },
+    {
+        "id": 106839,
+        "sloka": "10.68.39",
+        "verse_id": 106839,
+        "verseNumber": 39,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "“Just see how these puffed-up Kurus are intoxicated with their so-called power, like ordinary drunken men! What actual ruler, with the power to command, would tolerate their foolish, nasty words?"
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "\"जरा देखो कि कैसे ये फूले हुए कौरव सामान्य शराबी लोगों की तरह अपनी तथाकथित शक्ति के नशे में चूर हैं! आदेश देने की शक्ति वाला कौन सा वास्तविक शासक, उनके मूर्खतापूर्ण, बुरे शब्दों को सहन करेगा?\""
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "“જરા જુઓ કે આ ધૂંધવાતા કુરુઓ સામાન્ય શરાબી માણસોની જેમ તેમની કહેવાતી શક્તિના નશામાં કેવી રીતે ધૂત છે! કયો વાસ્તવિક શાસક, આદેશની શક્તિ સાથે, તેમની મૂર્ખ, બીભત્સ વાતોને સહન કરશે?"
+            }
+        }
+    },
+    {
+        "id": 106840,
+        "sloka": "10.68.40",
+        "verse_id": 106840,
+        "verseNumber": 40,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "“Today I shall rid the earth of the Kauravas!” declared the furious Balarāma. Thus He took His plow weapon and rose up as if to set the three worlds ablaze."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "\"आज मैं पृथ्वी को कौरवों से मुक्त कर दूँगा!\" क्रोधित बलराम ने घोषणा की। इस प्रकार उन्होंने अपना हल हथियार लिया और ऊपर उठे मानो तीनों लोकों को आग लगा रहे हों।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "\"આજે હું પૃથ્વીને કૌરવોથી મુક્ત કરીશ!\" ક્રોધિત બલરામે જાહેર કર્યું. આમ તેણે પોતાનું હળનું શસ્ત્ર ઉપાડ્યું અને જાણે ત્રણેય જગતને સળગાવી દે તેવી રીતે ઉભા થયા."
+            }
+        }
+    },
+    {
+        "id": 106841,
+        "sloka": "10.68.41",
+        "verse_id": 106841,
+        "verseNumber": 41,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "The Lord angrily dug up Hastināpura with the tip of His plow and began to drag it, intending to cast the entire city into the Ganges."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "भगवान ने क्रोधपूर्वक अपने हल की नोक से हस्तिनापुर को खोद डाला और पूरे शहर को गंगा में डालने के इरादे से उसे खींचना शुरू कर दिया।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "ભગવાને ક્રોધિત થઈને પોતાના હળની ટોચ વડે હસ્તિનાપુરાને ખોદી કાઢ્યું અને સમગ્ર શહેરને ગંગામાં નાખવાના ઈરાદાથી તેને ખેંચવા લાગ્યા."
+            }
+        }
+    },
+    {
+        "id": 106842,
+        "sloka": "10.68.42-43",
+        "verse_id": 106842,
+        "verseNumber": 42,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Seeing that their city was tumbling about like a raft at sea as it was being dragged away, and that it was about to fall into the Ganges, the Kauravas became terrified. To save their lives they approached the Lord for shelter, taking their families with them. Placing Sāmba and Lakṣmaṇā in front, they joined their palms in supplication."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "यह देखकर कि उनका नगर समुद्र में घसीटे जाने पर नाव की भाँति लड़खड़ा रहा है और गंगा में गिरने ही वाला है, कौरव भयभीत हो गये। अपनी जान बचाने के लिए वे अपने परिवार को साथ लेकर भगवान की शरण में गए। साम्ब और लक्ष्मण को सामने रखकर उन्होंने प्रार्थना करते हुए अपनी हथेलियाँ जोड़ लीं।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "તેમનું શહેર સમુદ્રમાં તરાપાની જેમ ગબડી રહ્યું હતું અને તેને ખેંચીને લઈ જતું હતું અને તે ગંગામાં પડવાનું હતું તે જોઈને કૌરવો ગભરાઈ ગયા. તેમના જીવન બચાવવા માટે તેઓ તેમના પરિવારોને સાથે લઈને આશ્રય માટે ભગવાનનો સંપર્ક કર્યો. સામ્બ અને લક્ષ્મણને સામે મૂકીને, તેઓ પ્રાર્થનામાં તેમની હથેળીઓ જોડ્યા."
+            }
+        }
+    },
+    {
+        "id": 106844,
+        "sloka": "10.68.44",
+        "verse_id": 106844,
+        "verseNumber": 44,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "[The Kauravas said:] O Rāma, Rāma, foundation of everything! We know nothing of Your power. Please excuse our offense, for we are ignorant and misguided."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "[कौरवों ने कहा:] हे राम, राम, हर चीज के आधार! हम आपकी शक्ति के बारे में कुछ नहीं जानते। कृपया हमारा अपराध क्षमा करें, क्योंकि हम अज्ञानी और पथभ्रष्ट हैं।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "[કૌરવોએ કહ્યું:] હે રામ, રામ, દરેક વસ્તુનો પાયો! અમે તમારી શક્તિ વિશે કંઈ જાણતા નથી. કૃપા કરીને અમારા ગુનાને માફ કરો, કારણ કે અમે અજ્ઞાન અને ગેરમાર્ગે દોરાયેલા છીએ."
+            }
+        }
+    },
+    {
+        "id": 106845,
+        "sloka": "10.68.45",
+        "verse_id": 106845,
+        "verseNumber": 45,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "You alone cause the creation, maintenance and annihilation of the cosmos, and of You there is no prior cause. Indeed, O Lord, authorities say that the worlds are mere playthings for You as You perform Your pastimes."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "आप अकेले ही ब्रह्मांड की रचना, पालन और संहार का कारण हैं, और आपका कोई पूर्व कारण नहीं है। वास्तव में, हे भगवान, अधिकारियों का कहना है कि जब आप अपनी लीलाएँ करते हैं तो संसार आपके लिए मात्र खेल है।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "બ્રહ્માંડની રચના, જાળવણી અને સંહારનું કારણ તમે જ છો, અને તમારા માટે કોઈ પૂર્વ કારણ નથી. ખરેખર, હે ભગવાન, સત્તાધિકારીઓ કહે છે કે વિશ્વ તમારા માટે માત્ર રમતની વસ્તુઓ છે કારણ કે તમે તમારા મનોરંજન કરો છો."
+            }
+        }
+    },
+    {
+        "id": 106846,
+        "sloka": "10.68.46",
+        "verse_id": 106846,
+        "verseNumber": 46,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "O unlimited one of a thousand heads, as Your pastime You carry this earthly globe upon one of Your heads. At the time of annihilation You withdraw the entire universe within Your body and, remaining all alone, lie down to rest."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "हे हजारों सिरों में से एक असीमित, अपनी लीला के रूप में आप इस सांसारिक दुनिया को अपने एक सिर पर धारण करते हैं। प्रलय के समय आप समस्त ब्रह्माण्ड को अपने शरीर में समेट लेते हैं और बिल्कुल अकेले रहकर आराम करने के लिए लेट जाते हैं।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "હે હજારો મસ્તકોમાંથી અમર્યાદિત, તમારા મનોરંજન તરીકે તમે તમારા એક મસ્તક પર આ ધરતીનું ગ્લોબ ધરાવો છો. વિનાશના સમયે તમે તમારા શરીરની અંદર સમગ્ર બ્રહ્માંડને પાછી ખેંચી લો અને, એકલા રહીને, આરામ કરવા સૂઈ જાઓ."
+            }
+        }
+    },
+    {
+        "id": 106847,
+        "sloka": "10.68.47",
+        "verse_id": 106847,
+        "verseNumber": 47,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Your anger is meant for instructing everyone; it is not a manifestation of hatred or envy. O Supreme Lord, You sustain the pure mode of goodness, and You become angry only to maintain and protect this world."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "तुम्हारा क्रोध हर किसी को शिक्षा देने के लिये है; यह घृणा या ईर्ष्या की अभिव्यक्ति नहीं है। हे परमेश्वर, आप सत्वगुण को बनाए रखते हैं, और आप इस संसार को बनाए रखने और उसकी रक्षा करने के लिए ही क्रोधित होते हैं।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "તમારો ગુસ્સો દરેકને સૂચના આપવા માટે છે; તે નફરત અથવા ઈર્ષ્યાનું અભિવ્યક્તિ નથી. હે પરમ ભગવાન, તમે સદ્ગુણની શુદ્ધ રીતને ટકાવી રાખો છો, અને તમે આ જગતને જાળવવા અને બચાવવા માટે જ ક્રોધિત થાઓ છો."
+            }
+        }
+    },
+    {
+        "id": 106848,
+        "sloka": "10.68.48",
+        "verse_id": 106848,
+        "verseNumber": 48,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "We bow down to You, O Soul of all beings, O wielder of all potencies, O tireless maker of the universe! Offering You obeisances, we take shelter of You."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "हम आपको नमन करते हैं, हे सभी प्राणियों की आत्मा, हे सभी शक्तियों के स्वामी, हे ब्रह्मांड के अथक निर्माता! हम आपको नमस्कार करके आपकी शरण लेते हैं।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "અમે તમને પ્રણામ કરીએ છીએ, હે સર્વ જીવોના આત્મા, હે સર્વ શક્તિઓના સંરક્ષક, હે સૃષ્ટિના અથાક નિર્માતા! તમને પ્રણામ કરીને અમે તમારો આશ્રય લઈએ છીએ."
+            }
+        }
+    },
+    {
+        "id": 106849,
+        "sloka": "10.68.49",
+        "verse_id": 106849,
+        "verseNumber": 49,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Śukadeva Gosvāmī said: Thus propitiated by the Kurus, whose city was trembling and who were surrendering to Him in great distress, Lord Balarāma became very calm and kindly disposed toward them. “Do not be afraid,” He said, and took away their fear."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "शुकदेव गोस्वामी ने कहा: इस प्रकार कौरवों द्वारा प्रसन्न होकर, जिनका शहर कांप रहा था और जो बड़े संकट में उनके सामने आत्मसमर्पण कर रहे थे, भगवान बलराम बहुत शांत हो गए और उनके प्रति दयालु हो गए। “डरो मत,” उसने कहा, और उनका डर दूर कर दिया।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "શુકદેવ ગોસ્વામીએ કહ્યું: આ રીતે કુરુઓ, જેમની નગરી ધ્રૂજી રહી હતી અને જેઓ ભારે સંકટમાં તેમને શરણે થઈ રહ્યા હતા, તેમના દ્વારા પ્રસન્ન થયા, ભગવાન બલરામ તેમના પ્રત્યે ખૂબ જ શાંત અને કૃપાળુ સ્વભાવ ધરાવતા થયા. \"ડરશો નહીં,\" તેણે કહ્યું, અને તેમનો ડર દૂર કર્યો."
+            }
+        }
+    },
+    {
+        "id": 106850,
+        "sloka": "10.68.50-51",
+        "verse_id": 106850,
+        "verseNumber": 50,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Duryodhana, being very affectionate to his daughter, gave as her dowry 1,200 sixty-year-old elephants, 120,000 horses, 6,000 golden chariots shining like the sun, and 1,000 maidservants with jeweled lockets on their necks."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "दुर्योधन ने अपनी पुत्री के प्रति अत्यधिक स्नेह रखते हुए उसे दहेज में 1,200 साठ वर्ष पुराने हाथी, 120,000 घोड़े, सूर्य के समान चमकते 6,000 स्वर्ण रथ और गले में रत्न जड़ित लॉकेट पहने 1,000 दासियाँ दीं।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "દુર્યોધને, તેની પુત્રી પ્રત્યે ખૂબ જ પ્રેમાળ હોવાથી, તેના દહેજ તરીકે 1,200 સાઠ વર્ષના હાથી, 120,000 ઘોડા, 6,000 સૂર્ય જેવા ચમકતા સુવર્ણ રથ અને 1,000 દાસીઓ તેમના ગળામાં રત્ન જડિત લોકેટ્સ સાથે આપી."
+            }
+        }
+    },
+    {
+        "id": 106852,
+        "sloka": "10.68.52",
+        "verse_id": 106852,
+        "verseNumber": 52,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "The Supreme Lord, chief of the Yādavas, accepted all these gifts and then departed with His son and daughter-in-law as His well-wishers bid Him farewell."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "यादवों के प्रमुख भगवान ने इन सभी उपहारों को स्वीकार किया और फिर अपने बेटे और बहू के साथ चले गए क्योंकि उनके शुभचिंतकों ने उन्हें विदाई दी।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "યાદવોના વડા, પરમ ભગવાને આ બધી ભેટો સ્વીકારી અને પછી તેમના શુભચિંતકોએ તેમને વિદાય આપતા તેમના પુત્ર અને પુત્રવધૂ સાથે વિદાય લીધી."
+            }
+        }
+    },
+    {
+        "id": 106853,
+        "sloka": "10.68.53",
+        "verse_id": 106853,
+        "verseNumber": 53,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Then Lord Halāyudha entered His city [Dvārakā] and met His relatives, whose hearts were all bound to Him in loving attachment. In the assembly hall He reported to the Yadu leaders everything about His dealings with the Kurus."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "तब भगवान हलायुध ने अपने शहर (द्वारका) में प्रवेश किया और अपने रिश्तेदारों से मुलाकात की, जिनके दिल उनके प्रति प्रेमपूर्ण लगाव से बंधे थे। सभा भवन में उन्होंने यदु नेताओं को कौरवों के साथ अपने व्यवहार के बारे में सब कुछ बताया।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "પછી ભગવાન હલાયુધ તેમના શહેર [દ્વારકા]માં પ્રવેશ્યા અને તેમના સંબંધીઓને મળ્યા, જેમના હૃદય તેમના પ્રત્યે પ્રેમાળ આસક્તિથી બંધાયેલા હતા. એસેમ્બલી હોલમાં તેણે યદુ નેતાઓને કુરુઓ સાથેના તેમના વ્યવહાર વિશે બધું જ જાણ કરી."
+            }
+        }
+    },
+    {
+        "id": 106854,
+        "sloka": "10.68.54",
+        "verse_id": 106854,
+        "verseNumber": 54,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Even today the city of Hastināpura is visibly elevated on its southern side along the Ganges, thus showing the signs of Lord Balarāma’s prowess."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "आज भी हस्तिनापुर शहर गंगा के किनारे अपने दक्षिणी किनारे पर ऊंचा दिखाई देता है, जिससे भगवान बलराम की शक्ति के संकेत मिलते हैं।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "આજે પણ હસ્તિનાપુરા શહેર ગંગાના કિનારે તેની દક્ષિણ બાજુએ દેખીતી રીતે ઊંચું છે, આમ ભગવાન બલરામના પરાક્રમના ચિહ્નો દર્શાવે છે."
+            }
+        }
+    }
+]

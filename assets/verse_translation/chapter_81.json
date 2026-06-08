@@ -1,0 +1,784 @@
+[
+    {
+        "id": 108101,
+        "sloka": "10.81.1-2",
+        "verse_id": 108101,
+        "verseNumber": 1,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "[Śukadeva Gosvāmī said:] Lord Hari, Kṛṣṇa, perfectly knows the hearts of all living beings, and He is especially devoted to the brāhmaṇas. While the Supreme Lord, the goal of all saintly persons, conversed in this way with the best of the twice-born, He laughed and spoke the following words to that dear friend of His, the brāhmaṇa Sudāmā, all the while smiling and looking upon him with affection."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "[शुकदेव गोस्वामी ने कहा:] भगवान हरि, कृष्ण, सभी जीवित प्राणियों के दिलों को पूरी तरह से जानते हैं, और वे विशेष रूप से ब्राह्मणों के प्रति समर्पित हैं। जबकि परम भगवान, जो सभी संतों के लक्ष्य हैं, द्विजों में से सर्वश्रेष्ठ के साथ इस तरह से बातचीत कर रहे थे, उन्होंने हंसते हुए अपने प्रिय मित्र, ब्राह्मण सुदामा को निम्नलिखित शब्द कहे, जबकि वे पूरे समय मुस्कुराते रहे और उन्हें स्नेह से देखते रहे।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "[શુકદેવ ગોસ્વામીએ કહ્યું:] ભગવાન હરિ, કૃષ્ણ, સર્વ જીવોના હૃદયને સંપૂર્ણ રીતે જાણે છે, અને તેઓ ખાસ કરીને બ્રાહ્મણોને સમર્પિત છે. જ્યારે સર્વ સંતપુરુષોના ધ્યેય એવા પરમ ભગવાને બે વખત જન્મેલા શ્રેષ્ઠીઓ સાથે આ રીતે વાતચીત કરી, ત્યારે તેમણે હસ્યા અને તેમના પ્રિય મિત્ર, બ્રાહ્મણ સુદામાને નીચેના શબ્દો કહ્યા, તે બધા સમયે હસતા અને સ્નેહથી તેમની તરફ જોતા."
+            }
+        }
+    },
+    {
+        "id": 108103,
+        "sloka": "10.81.3",
+        "verse_id": 108103,
+        "verseNumber": 3,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "The Supreme Lord said: O brāhmaṇa, what gift have you brought Me from home? I regard as great even the smallest gift offered by My devotees in pure love, but even great offerings presented by nondevotees do not please Me."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "भगवान ने कहा: हे ब्राह्मण, तुम घर से मेरे लिए क्या उपहार लाए हो? मैं अपने भक्तों द्वारा शुद्ध प्रेम से दिए गए सबसे छोटे उपहार को भी महान मानता हूं, लेकिन गैर-भक्तों द्वारा दिए गए महान उपहार भी मुझे प्रसन्न नहीं करते हैं।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "પરમ ભગવાને કહ્યું: હે બ્રાહ્મણ, તમે મને ઘરેથી શું ભેટ લાવ્યા છો? હું મારા ભક્તો દ્વારા શુદ્ધ પ્રેમમાં આપેલી નાની નાની ભેટને પણ મહાન ગણું છું, પરંતુ અભક્તો દ્વારા આપવામાં આવેલ મહાન પ્રસાદ પણ મને પ્રસન્ન કરતું નથી."
+            }
+        }
+    },
+    {
+        "id": 108104,
+        "sloka": "10.81.4",
+        "verse_id": 108104,
+        "verseNumber": 4,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "If one offers Me with love and devotion a leaf, a flower, a fruit or water, I will accept it."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "यदि कोई मुझे प्रेम और भक्ति से एक पत्ता, एक फूल, एक फल या जल अर्पण करेगा तो मैं उसे स्वीकार कर लूँगा।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "જો કોઈ મને પ્રેમ અને ભક્તિ સાથે પાંદડું, ફૂલ, ફળ કે પાણી અર્પણ કરે તો હું તેનો સ્વીકાર કરીશ."
+            }
+        }
+    },
+    {
+        "id": 108105,
+        "sloka": "10.81.5",
+        "verse_id": 108105,
+        "verseNumber": 5,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "[Śukadeva Gosvāmī continued:] Even after being addressed in this way, O King, the brāhmaṇa felt too embarrassed to offer his palmfuls of flat rice to the husband of the goddess of fortune. He simply kept his head bowed in shame."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "[शुकदेव गोस्वामी ने आगे कहा:] हे राजन, इस प्रकार संबोधित किए जाने के बाद भी, ब्राह्मण को भाग्य की देवी के पति को अपनी मुट्ठी भर चावल देने में बहुत शर्मिंदगी महसूस हुई। उसने तो शर्म से अपना सिर झुका लिया।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "[શુકદેવ ગોસ્વામીએ ચાલુ રાખ્યું:] આ રીતે સંબોધન કર્યા પછી પણ, હે રાજા, બ્રાહ્મણને તેના ચપટા ચોખાની ખજૂર ભાગ્યદેવીના પતિને અર્પણ કરવામાં ખૂબ શરમ અનુભવી. તેણે ફક્ત શરમથી માથું ઝુકાવી રાખ્યું."
+            }
+        }
+    },
+    {
+        "id": 108106,
+        "sloka": "10.81.6-7",
+        "verse_id": 108106,
+        "verseNumber": 6,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Being the direct witness in the hearts of all living beings, Lord Kṛṣṇa fully understood why Sudāmā had come to see Him. Thus He thought, “In the past My friend has never worshiped Me out of a desire for material opulence, but now he comes to Me to satisfy his chaste and devoted wife. I will give him riches that even the immortal demigods cannot obtain.”"
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "सभी प्राणियों के हृदय में प्रत्यक्ष साक्षी होने के कारण, भगवान कृष्ण पूरी तरह से समझ गए कि सुदामा उनसे मिलने क्यों आए थे। इस प्रकार उन्होंने सोचा, \"अतीत में मेरे मित्र ने भौतिक ऐश्वर्य की इच्छा से कभी मेरी पूजा नहीं की, लेकिन अब वह अपनी पवित्र और समर्पित पत्नी को संतुष्ट करने के लिए मेरे पास आता है। मैं उसे वह धन दूँगा जिसे अमर देवता भी प्राप्त नहीं कर सकते।\""
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "તમામ જીવોના હૃદયમાં પ્રત્યક્ષ સાક્ષી હોવાને કારણે, ભગવાન કૃષ્ણ સંપૂર્ણ રીતે સમજી ગયા કે સુદામા તેમને મળવા શા માટે આવ્યા હતા. આમ તેણે વિચાર્યું, \"ભૂતકાળમાં મારા મિત્રએ ભૌતિક ઐશ્વર્યની ઇચ્છાથી મારી પૂજા ક્યારેય કરી નથી, પરંતુ હવે તે તેની પવિત્ર અને સમર્પિત પત્નીને સંતોષવા મારી પાસે આવે છે. હું તેને એવી સંપત્તિ આપીશ જે અમર દેવતાઓ પણ મેળવી શકતા નથી.\""
+            }
+        }
+    },
+    {
+        "id": 108108,
+        "sloka": "10.81.8",
+        "verse_id": 108108,
+        "verseNumber": 8,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Thinking like this, the Lord snatched from the brāhmaṇa’s garment the grains of flat rice tied up in an old piece of cloth and exclaimed, “What is this?"
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "ऐसा सोचते हुए, भगवान ने ब्राह्मण के वस्त्र से कपड़े के एक पुराने टुकड़े में बंधे चावल के दाने छीन लिए और कहा, “यह क्या है?"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "એમ વિચારીને ભગવાને બ્રાહ્મણના વસ્ત્રમાંથી જૂના કપડામાં બાંધેલા ચોખાના દાણા ઝૂંટવી લીધા અને કહ્યું, “આ શું છે?"
+            }
+        }
+    },
+    {
+        "id": 108109,
+        "sloka": "10.81.9",
+        "verse_id": 108109,
+        "verseNumber": 9,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "“My friend, have You brought this for Me? It gives Me extreme pleasure. Indeed, these few grains of flat rice will satisfy not only Me but also the entire universe.”"
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "\"मेरे दोस्त, क्या तुम इसे मेरे लिए लाए हो? इससे मुझे अत्यधिक खुशी मिलती है। वास्तव में, चपटे चावल के ये कुछ दाने न केवल मुझे बल्कि पूरे ब्रह्मांड को तृप्त करेंगे।\""
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "\"મારા મિત્ર, શું તું આ મારા માટે લાવ્યો છે? તે મને અત્યંત આનંદ આપે છે. ખરેખર, ચોખાના આ થોડા દાણા માત્ર મને જ નહિ પણ સમગ્ર બ્રહ્માંડને પણ સંતુષ્ટ કરશે.\""
+            }
+        }
+    },
+    {
+        "id": 108110,
+        "sloka": "10.81.10",
+        "verse_id": 108110,
+        "verseNumber": 10,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "After saying this, the Supreme Lord ate one palmful and was about to eat a second when the devoted goddess Rukmiṇī took hold of His hand."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "यह कहने के बाद, भगवान ने एक हथेली खायी और दूसरी हथेली खाने ही वाले थे कि समर्पित देवी रुक्मिणी ने उनका हाथ पकड़ लिया।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "આ કહ્યા પછી, પરમ ભગવાને એક ખજૂર ખાધી અને બીજી બીજી ખાવાની તૈયારીમાં હતા ત્યારે દેવી રુક્મિણીએ તેમનો હાથ પકડી લીધો."
+            }
+        }
+    },
+    {
+        "id": 108111,
+        "sloka": "10.81.11",
+        "verse_id": 108111,
+        "verseNumber": 11,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "[Queen Rukmiṇī said:] This is more than enough, O Soul of the universe, to secure him an abundance of all kinds of wealth in this world and the next. After all, one’s prosperity depends simply on Your satisfaction."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "[रानी रुक्मिणी ने कहा:] हे ब्रह्मांड की आत्मा, यह उसे इस दुनिया और अगले दुनिया में सभी प्रकार की संपत्ति की प्रचुरता सुनिश्चित करने के लिए पर्याप्त से अधिक है। आख़िरकार, किसी की समृद्धि केवल आपकी संतुष्टि पर निर्भर करती है।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "[રાણી રુક્મિણીએ કહ્યું:] હે બ્રહ્માંડના આત્મા, તેને આ જગત અને પછીના સમયમાં તમામ પ્રકારની સંપત્તિની પુષ્કળતા પ્રાપ્ત કરવા માટે આ પૂરતું છે. છેવટે, વ્યક્તિની સમૃદ્ધિ ફક્ત તમારા સંતોષ પર આધારિત છે."
+            }
+        }
+    },
+    {
+        "id": 108112,
+        "sloka": "10.81.12",
+        "verse_id": 108112,
+        "verseNumber": 12,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "[Śukadeva Gosvāmī continued:] The brāhmaṇa spent that night in Lord Acyuta’s palace after eating and drinking to his full satisfaction. He felt as if he had gone to the spiritual world."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "[शुकदेव गोस्वामी ने आगे कहा:] ब्राह्मण ने पूरी संतुष्टि के साथ खाने-पीने के बाद वह रात भगवान अच्युत के महल में बिताई। उसे ऐसा महसूस हुआ मानो वह आध्यात्मिक दुनिया में चला गया हो।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "[શુકદેવ ગોસ્વામીએ ચાલુ રાખ્યું:] બ્રાહ્મણે તે રાત ભગવાન અચ્યુતના મહેલમાં વિતાવી અને ખાધું પીધું અને તેના સંપૂર્ણ સંતોષ સાથે. તેને લાગ્યું કે તે આધ્યાત્મિક જગતમાં ગયો છે."
+            }
+        }
+    },
+    {
+        "id": 108113,
+        "sloka": "10.81.13",
+        "verse_id": 108113,
+        "verseNumber": 13,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "The next day, Sudāmā set off for home while being honored by Lord Kṛṣṇa, the self-satisfied maintainer of the universe. The brāhmaṇa felt greatly delighted, my dear King, as he walked along the road."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "अगले दिन, सुदामा ब्रह्मांड के स्वयं-संतुष्ट पालनकर्ता, भगवान कृष्ण द्वारा सम्मानित होते हुए घर के लिए रवाना हुए। हे राजन, जब वह सड़क पर चल रहा था तो ब्राह्मण को बहुत खुशी हुई।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "બીજા દિવસે, સુદામા બ્રહ્માંડના સ્વ-સંતુષ્ટ જાળવણી કરનાર ભગવાન કૃષ્ણ દ્વારા સન્માનિત થતાં ઘર તરફ પ્રયાણ કર્યું. મારા પ્રિય રાજા, બ્રાહ્મણને ખૂબ આનંદ થયો, જ્યારે તે રસ્તા પર ચાલતો હતો."
+            }
+        }
+    },
+    {
+        "id": 108114,
+        "sloka": "10.81.14",
+        "verse_id": 108114,
+        "verseNumber": 14,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Although he had apparently received no wealth from Lord Kṛṣṇa, Sudāmā was too shy to beg for it on his own. He simply returned home, feeling perfectly satisfied to have had the Supreme Lord’s audience."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "यद्यपि सुदामा को स्पष्टतः भगवान कृष्ण से कोई धन नहीं मिला था, फिर भी सुदामा स्वयं भीख माँगने में बहुत शर्मीला था। वह परम भगवान के दर्शन पाकर पूरी तरह संतुष्ट महसूस करते हुए घर लौट आया।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "જો કે તેને દેખીતી રીતે ભગવાન કૃષ્ણ પાસેથી કોઈ સંપત્તિ પ્રાપ્ત થઈ ન હતી, સુદામા પોતાની મેળે તે માટે ભીખ માંગવામાં ખૂબ શરમાતા હતા. પરમ ભગવાનના પ્રેક્ષકોને મળવાથી સંપૂર્ણ સંતુષ્ટિ અનુભવતા, તે ફક્ત ઘરે પાછો ફર્યો."
+            }
+        }
+    },
+    {
+        "id": 108115,
+        "sloka": "10.81.15",
+        "verse_id": 108115,
+        "verseNumber": 15,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "[Sudāmā thought:] Lord Kṛṣṇa is known to be devoted to the brāhmaṇas, and now I have personally seen this devotion. Indeed, He who carries the goddess of fortune on His chest has embraced the poorest beggar."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "[सुदामा ने सोचा:] भगवान कृष्ण को ब्राह्मणों के प्रति समर्पित माना जाता है, और अब मैंने व्यक्तिगत रूप से इस भक्ति को देखा है। वास्तव में, जिसने भाग्य की देवी को अपनी छाती पर धारण किया है, उसने सबसे गरीब भिखारी को गले लगाया है।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "[સુદામાએ વિચાર્યું:] ભગવાન કૃષ્ણ બ્રાહ્મણોને સમર્પિત તરીકે ઓળખાય છે, અને હવે મેં વ્યક્તિગત રીતે આ ભક્તિ જોઈ છે. ખરેખર, જેણે ભાગ્યની દેવીને પોતાની છાતી પર વહન કર્યું છે તેણે સૌથી ગરીબ ભિખારીને ભેટી લીધો છે."
+            }
+        }
+    },
+    {
+        "id": 108116,
+        "sloka": "10.81.16",
+        "verse_id": 108116,
+        "verseNumber": 16,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Who am I? A sinful, poor friend of a brāhmaṇa. And who is Kṛṣṇa? The Supreme Personality of Godhead, full in six opulences. Nonetheless, He has embraced me with His two arms."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "मैं कौन हूँ? एक ब्राह्मण का पापी, दरिद्र मित्र। और कृष्ण कौन हैं? भगवान का सर्वोच्च व्यक्तित्व, छह ऐश्वर्यों से परिपूर्ण। फिर भी, उन्होंने मुझे अपनी दोनों भुजाओं से गले लगा लिया है।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "હું કોણ છું? બ્રાહ્મણનો પાપી, ગરીબ મિત્ર. અને કૃષ્ણ કોણ છે? છ ઐશ્વર્યથી ભરપૂર ભગવાનના પરમ વ્યક્તિત્વ. તેમ છતાં, તેણે મને તેના બે હાથ વડે આલિંગન આપ્યું છે."
+            }
+        }
+    },
+    {
+        "id": 108117,
+        "sloka": "10.81.17",
+        "verse_id": 108117,
+        "verseNumber": 17,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "He treated me just like one of His brothers, making me sit on the bed of His beloved consort. And because I was fatigued, His queen personally fanned me with a yak-tail cāmara."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "उन्होंने मेरे साथ बिल्कुल अपने भाइयों जैसा व्यवहार किया, मुझे अपनी प्रिय पत्नी के बिस्तर पर बिठाया। और क्योंकि मैं थका हुआ था, उनकी रानी ने व्यक्तिगत रूप से मुझे याक-पूंछ वाले कैमरे से हवा दी।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "તેણે મારી સાથે તેના એક ભાઈ જેવો વ્યવહાર કર્યો, મને તેની પ્રિય પત્નીના પલંગ પર બેસાડ્યો. અને કારણ કે હું થાકી ગયો હતો, તેની રાણીએ અંગત રીતે મને યાક-ટેઇલ કેમરા વડે ચાંપ્યો."
+            }
+        }
+    },
+    {
+        "id": 108118,
+        "sloka": "10.81.18",
+        "verse_id": 108118,
+        "verseNumber": 18,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Although He is the Lord of all demigods and the object of worship for all brāhmaṇas, He worshiped me as if I were a demigod myself, massaging my feet and rendering other humble services."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "यद्यपि वह सभी देवताओं के भगवान हैं और सभी ब्राह्मणों के लिए पूजा का विषय हैं, उन्होंने मेरी पूजा इस तरह की जैसे कि मैं स्वयं एक देवता हूं, मेरे पैरों की मालिश करते थे और अन्य विनम्र सेवाएं प्रदान करते थे।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "તેમ છતાં તે બધા દેવતાઓના ભગવાન છે અને બધા બ્રાહ્મણો માટે પૂજાનો હેતુ છે, તેમણે મારી પૂજા કરી કે જાણે હું પોતે જ દેવતા હોઉં, મારા પગની માલિશ કરું છું અને અન્ય નમ્ર સેવાઓ પ્રદાન કરું છું."
+            }
+        }
+    },
+    {
+        "id": 108119,
+        "sloka": "10.81.19",
+        "verse_id": 108119,
+        "verseNumber": 19,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Devotional service to His lotus feet is the root cause of all the perfections a person can find in heaven, in liberation, in the subterranean regions and on earth."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "उनके कमल चरणों की भक्तिपूर्ण सेवा उन सभी सिद्धियों का मूल कारण है जो एक व्यक्ति स्वर्ग में, मुक्ति में, भूमिगत क्षेत्रों में और पृथ्वी पर पा सकता है।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "તેમના કમળના ચરણોની ભક્તિમય સેવા એ તમામ પૂર્ણતાઓનું મૂળ કારણ છે જે વ્યક્તિ સ્વર્ગમાં, મુક્તિમાં, ભૂગર્ભ પ્રદેશોમાં અને પૃથ્વી પર મેળવી શકે છે."
+            }
+        }
+    },
+    {
+        "id": 108120,
+        "sloka": "10.81.20",
+        "verse_id": 108120,
+        "verseNumber": 20,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Thinking “If this poor wretch suddenly becomes rich, he will forget Me in his intoxicating happiness,” the compassionate Lord did not grant me even a little wealth."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "“यदि यह बेचारा अचानक धनवान हो जायेगा, तो नशे में मुझे भूल जायेगा” यह सोचकर दयालु भगवान ने मुझे थोड़ी सी भी संपत्ति नहीं दी।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "\"જો આ ગરીબ દુ:ખી અચાનક ધનવાન થઈ જશે, તો તે તેના માદક સુખમાં મને ભૂલી જશે,\" એમ વિચારીને દયાળુ ભગવાને મને થોડી સંપત્તિ પણ ન આપી."
+            }
+        }
+    },
+    {
+        "id": 108121,
+        "sloka": "10.81.21-23",
+        "verse_id": 108121,
+        "verseNumber": 21,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "[Śukadeva Gosvāmī continued:] Thinking thus to himself, Sudāmā finally came to the place where his home stood. But that place was now crowded on all sides with towering, celestial palaces rivaling the combined brilliance of the sun, fire and the moon. There were splendorous courtyards and gardens, each filled with flocks of cooing birds and beautified by ponds in which kumuda, ambhoja, kahlāra and utpala lotuses grew. Finely attired men and doe-eyed women stood in attendance. Sudāmā wondered, “What is all this? Whose property is it? How has this all come about?”"
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "[शुकदेव गोस्वामी ने आगे कहा:] ऐसा सोचते हुए, सुदामा अंततः उस स्थान पर आये जहाँ उनका घर था। लेकिन वह स्थान अब हर तरफ सूर्य, अग्नि और चंद्रमा की संयुक्त चमक के प्रतिद्वंद्वी, विशाल, दिव्य महलों से भरा हुआ था। वहाँ शानदार आंगन और बगीचे थे, जिनमें से प्रत्येक चहचहाते पक्षियों के झुंड से भरा हुआ था और तालाबों से सुशोभित था जिनमें कुमुदा, अम्भोज, कहलारा और उत्पल कमल उगते थे। सुंदर पोशाक पहने पुरुष और हिरणी जैसी आंखों वाली महिलाएं उपस्थित थीं। सुदामा ने सोचा, \"यह सब क्या है? यह किसकी संपत्ति है? यह सब कैसे हुआ?\""
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "[શુકદેવ ગોસ્વામીએ ચાલુ રાખ્યું:] આવું વિચારીને, સુદામા આખરે જ્યાં તેમનું ઘર હતું ત્યાં પહોંચ્યા. પરંતુ તે જગ્યા હવે ચારે બાજુથી ઉંચા, આકાશી મહેલોથી ભરાઈ ગઈ હતી, જે સૂર્ય, અગ્નિ અને ચંદ્રની સંયુક્ત તેજને હરીફાઈ કરતા હતા. ભવ્ય આંગણાઓ અને બગીચાઓ હતા, દરેક પક્ષીઓના ટોળાઓથી ભરેલા હતા અને કુમુડા, અંભોજ, કહલારા અને ઉત્પલા કમળ ઉગાડતા તળાવો દ્વારા સુશોભિત હતા. સુંદર પોશાક પહેરેલા પુરૂષો અને ડો-આંખવાળી સ્ત્રીઓ ઉપસ્થિત રહી હતી. સુદામા આશ્ચર્ય પામ્યા, \"આ બધું શું છે? કોની મિલકત છે? આ બધું કેવી રીતે બન્યું?\""
+            }
+        }
+    },
+    {
+        "id": 108124,
+        "sloka": "10.81.24",
+        "verse_id": 108124,
+        "verseNumber": 24,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "As he continued to ponder in this way, the beautiful men — and maidservants, as effulgent as demigods, came forward to greet their greatly fortunate master with loud song and instrumental music."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "जब वह इस प्रकार विचार करता रहा, तो सुंदर पुरुष और दासियाँ, जो देवताओं के समान तेजस्वी थीं, ऊंचे गीत और वाद्य संगीत के साथ अपने परम भाग्यशाली स्वामी का स्वागत करने के लिए आगे आईं।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "જ્યારે તે આ રીતે વિચારવાનું ચાલુ રાખ્યું, ત્યારે સુંદર પુરુષો - અને દાસીઓ, દેવતાઓની જેમ તેજસ્વી, મોટેથી ગીત અને વાદ્ય સંગીત સાથે તેમના મહાન ભાગ્યશાળી માસ્ટરનું સ્વાગત કરવા આગળ આવ્યા."
+            }
+        }
+    },
+    {
+        "id": 108125,
+        "sloka": "10.81.25",
+        "verse_id": 108125,
+        "verseNumber": 25,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "When she heard that her husband had arrived, the brāhmaṇa’s wife quickly came out of the house in a jubilant flurry. She resembled the goddess of fortune herself emerging from her divine abode."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "जब उसने सुना कि उसका पति आ गया है, तो ब्राह्मण की पत्नी ख़ुशी से झूमती हुई तुरंत घर से बाहर आ गई। वह स्वयं भाग्य की देवी के समान थी जो अपने दिव्य निवास से प्रकट हो रही थी।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "જ્યારે તેણીએ સાંભળ્યું કે તેનો પતિ આવ્યો છે, ત્યારે બ્રાહ્મણની પત્ની આનંદી ઉશ્કેરાટમાં ઝડપથી ઘરની બહાર નીકળી ગઈ. તેણી તેના દૈવી નિવાસસ્થાનમાંથી બહાર આવતી નસીબની દેવી જેવી જ હતી."
+            }
+        }
+    },
+    {
+        "id": 108126,
+        "sloka": "10.81.26",
+        "verse_id": 108126,
+        "verseNumber": 26,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "When the chaste lady saw her husband, her eyes filled with tears of love and eagerness. As she held her eyes closed, she solemnly bowed down to him, and in her heart she embraced him."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "जब पतिव्रता स्त्री ने अपने पति को देखा तो उसकी आँखों में प्रेम और उत्सुकता के आँसू भर आये। जैसे ही उसने अपनी आँखें बंद कीं, वह गंभीरता से उसके सामने झुकी, और अपने दिल में उसने उसे गले लगा लिया।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "જ્યારે પવિત્ર મહિલાએ તેના પતિને જોયો, ત્યારે તેની આંખો પ્રેમ અને આતુરતાના આંસુઓથી ભરાઈ ગઈ. તેણીએ તેણીની આંખો બંધ કરી, તેણીએ તેને ગંભીરતાથી પ્રણામ કર્યા, અને તેણીના હૃદયમાં તેણીએ તેને આલિંગન આપ્યું."
+            }
+        }
+    },
+    {
+        "id": 108127,
+        "sloka": "10.81.27",
+        "verse_id": 108127,
+        "verseNumber": 27,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Sudāmā was amazed to see his wife. Shining forth in the midst of maidservants adorned with jeweled lockets, she looked as effulgent as a demigoddess in her celestial airplane."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "सुदामा अपनी पत्नी को देखकर आश्चर्यचकित रह गये। रत्नजड़ित लॉकेटों से सुसज्जित दासियों के बीच में चमकती हुई वह अपने दिव्य विमान में बैठी हुई देवी के समान दीप्तिमान लग रही थी।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "સુદામા પોતાની પત્નીને જોઈને આશ્ચર્યચકિત થઈ ગયા. રત્ન જડિત લોકેટ્સથી શણગારેલી દાસીઓની મધ્યમાં ચમકતી, તેણી તેના આકાશી વિમાનમાં દેવી જેવી તેજસ્વી દેખાતી હતી."
+            }
+        }
+    },
+    {
+        "id": 108128,
+        "sloka": "10.81.28",
+        "verse_id": 108128,
+        "verseNumber": 28,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "With pleasure he took his wife with him and entered his house, where there were hundreds of gem-studded pillars, just as in the palace of Lord Mahendra."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "वह ख़ुशी से अपनी पत्नी को अपने साथ ले गया और अपने घर में प्रवेश किया, जहाँ भगवान महेंद्र के महल की तरह ही सैकड़ों रत्न-जटित खंभे थे।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "આનંદ સાથે તે તેની પત્નીને તેની સાથે લઈ ગયો અને તેના ઘરમાં પ્રવેશ કર્યો, જ્યાં ભગવાન મહેન્દ્રના મહેલમાં સેંકડો રત્નો જડેલા સ્તંભો હતા."
+            }
+        }
+    },
+    {
+        "id": 108129,
+        "sloka": "10.81.29-32",
+        "verse_id": 108129,
+        "verseNumber": 29,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "In Sudāmā’s home were beds as soft and white as the foam of milk, with bedsteads made of ivory and ornamented with gold. There were also couches with golden legs, as well as royal cāmara fans, golden thrones, soft cushions and gleaming canopies hung with strings of pearls. Upon the walls of sparkling crystal glass, inlaid with precious emeralds, shone jeweled lamps, and the women in the palace were all adorned with precious gems. As he viewed this luxurious opulence of all varieties, the brāhmaṇa calmly reasoned to himself about his unexpected prosperity."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "सुदामा के घर में दूध के झाग के समान मुलायम और सफेद बिस्तर थे, जिनमें हाथी दांत के बने और सोने से अलंकृत बिस्तर थे। वहाँ सुनहरे पैरों वाले सोफ़े भी थे, साथ ही शाही कैमरे के पंखे, सुनहरे सिंहासन, मुलायम गद्दे और मोतियों की माला से लटकी चमचमाती छतरियाँ भी थीं। चमचमाते क्रिस्टल ग्लास की दीवारों पर, कीमती पन्ने जड़े हुए, रत्नजड़ित दीपक चमक रहे थे और महल की सभी महिलाएँ कीमती रत्नों से सजी हुई थीं। जैसे ही उसने सभी प्रकार के इस विलासितापूर्ण ऐश्वर्य को देखा, ब्राह्मण ने शांति से अपनी अप्रत्याशित समृद्धि के बारे में सोचा।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "સુદામાના ઘરમાં દૂધના ફીણની જેમ નરમ અને સફેદ પથારી હતી, જેમાં હાથીદાંતની બનેલી અને સોનાથી શણગારેલી પથારી હતી. સોનેરી પગ સાથેના પલંગ, તેમજ શાહી કામરાના ચાહકો, સુવર્ણ સિંહાસન, નરમ ગાદીઓ અને મોતીના તાર સાથે લટકાવેલા ચમકદાર કેનોપીઝ પણ હતા. સ્પાર્કલિંગ સ્ફટિક કાચની દિવાલો પર, કિંમતી નીલમણિથી જડિત, ઝવેરાતથી જડિત દીવાઓ અને મહેલની સ્ત્રીઓ કિંમતી રત્નોથી શણગારેલી હતી. બધી જાતોની આ વૈભવી ઐશ્વર્યને જોતાં, બ્રાહ્મણે શાંતિથી પોતાની અણધારી સમૃદ્ધિ વિશે પોતાની જાતને તર્ક આપ્યો."
+            }
+        }
+    },
+    {
+        "id": 108133,
+        "sloka": "10.81.33",
+        "verse_id": 108133,
+        "verseNumber": 33,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "[Sudāmā thought:] I have always been poor. Certainly the only possible way that such an unfortunate person as myself could become suddenly rich is that Lord Kṛṣṇa, the supremely opulent chief of the Yadu dynasty, has glanced upon Me."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "[सुदामा ने सोचा:] मैं सदैव गरीब रहा हूँ। निश्चित रूप से मेरे जैसे दुर्भाग्यशाली व्यक्ति के लिए अचानक धनवान बनने का एकमात्र संभव तरीका यह है कि यदुवंश के परम ऐश्वर्यशाली मुखिया भगवान कृष्ण की दृष्टि मुझ पर पड़ी है।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "[સુદામાએ વિચાર્યું:] હું હંમેશા ગરીબ રહ્યો છું. ચોક્કસપણે મારા જેવો કમનસીબ વ્યક્તિ અચાનક ધનવાન બનવાનો એકમાત્ર સંભવિત રસ્તો એ છે કે ભગવાન કૃષ્ણ, યદુ વંશના સર્વોત્તમ શ્રીમંત સરદારે મારા પર નજર કરી."
+            }
+        }
+    },
+    {
+        "id": 108134,
+        "sloka": "10.81.34",
+        "verse_id": 108134,
+        "verseNumber": 34,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "After all, my friend Kṛṣṇa, the most exalted of the Dāśārhas and the enjoyer of unlimited wealth, noticed that I secretly intended to beg from Him. Thus even though He said nothing about it when I stood before Him, He actually bestowed upon me the most abundant riches. In this way He acted just like a merciful rain cloud."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "आख़िरकार, मेरे मित्र कृष्ण, जो दशार्हों में सबसे श्रेष्ठ और असीमित धन के भोगी हैं, ने देखा कि मैं गुप्त रूप से उनसे भिक्षा माँगने का इरादा रखता हूँ। इस प्रकार, भले ही जब मैं उसके सामने खड़ा था तो उसने इसके बारे में कुछ नहीं कहा, उसने वास्तव में मुझे सबसे प्रचुर धन प्रदान किया। इस तरह उन्होंने दयालु वर्षा वाले बादल की तरह व्यवहार किया।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "છેવટે, મારા મિત્ર કૃષ્ણ, દાશરોમાં સર્વોત્તમ અને અમર્યાદિત સંપત્તિનો ઉપભોગ કરનાર, એ નોંધ્યું કે હું ગુપ્ત રીતે તેમની પાસેથી ભીખ માંગવાનો ઇરાદો ધરાવતો હતો. આમ જ્યારે હું તેની સામે ઊભો હતો ત્યારે તેણે તેના વિશે કંઈ કહ્યું ન હોવા છતાં, તેણે ખરેખર મને સૌથી વધુ સમૃદ્ધિ આપી. આ રીતે તેણે દયાળુ વરસાદી વાદળની જેમ કામ કર્યું."
+            }
+        }
+    },
+    {
+        "id": 108135,
+        "sloka": "10.81.35",
+        "verse_id": 108135,
+        "verseNumber": 35,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "The Lord considers even His greatest benedictions to be insignificant, while He magnifies even a small service rendered to Him by His well-wishing devotee. Thus with pleasure the Supreme Soul accepted a single palmful of the flat rice I brought Him."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "भगवान अपने सबसे बड़े आशीर्वाद को भी महत्वहीन मानते हैं, जबकि वे अपने शुभचिंतक भक्त द्वारा की गई छोटी सी सेवा को भी बढ़ा-चढ़ाकर पेश करते हैं। इस प्रकार परम आत्मा ने प्रसन्नतापूर्वक मेरे द्वारा लाये गये चपटे चावल में से एक हथेली स्वीकार कर ली।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "ભગવાન તેમના મહાન આશીર્વાદને પણ તુચ્છ માને છે, જ્યારે તેઓ તેમના શુભેચ્છક ભક્ત દ્વારા તેમને આપવામાં આવતી એક નાની સેવાને પણ મોટો કરે છે. આ રીતે પરમાત્માએ આનંદ સાથે હું તેમને લાવેલા સપાટ ચોખામાંથી એક ખજૂર સ્વીકાર્યો."
+            }
+        }
+    },
+    {
+        "id": 108136,
+        "sloka": "10.81.36",
+        "verse_id": 108136,
+        "verseNumber": 36,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "The Lord is the supremely compassionate reservoir of all transcendental qualities. Life after life may I serve Him with love, friendship and sympathy, and may I cultivate such firm attachment for Him by the precious association of His devotees."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "भगवान सभी दिव्य गुणों के परम दयालु भंडार हैं। मैं जन्म-जन्मांतर तक प्रेम, मित्रता और सहानुभूति के साथ उनकी सेवा कर सकता हूं, और उनके भक्तों की बहुमूल्य संगति से मैं उनके प्रति ऐसा दृढ़ लगाव विकसित कर सकता हूं।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "ભગવાન સર્વ દિવ્ય ગુણોના પરમ કરુણામય ભંડાર છે. જીવન પછીનું જીવન હું પ્રેમ, મિત્રતા અને સહાનુભૂતિ સાથે તેમની સેવા કરી શકું અને તેમના ભક્તોના અમૂલ્ય સંગ દ્વારા હું તેમના માટે આવો મજબૂત જોડાણ કેળવી શકું."
+            }
+        }
+    },
+    {
+        "id": 108137,
+        "sloka": "10.81.37",
+        "verse_id": 108137,
+        "verseNumber": 37,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "To a devotee who lacks spiritual insight, the Supreme Lord will not grant the wonderful opulences of this world — kingly power and material assets. Indeed, in His infinite wisdom the unborn Lord well knows how the intoxication of pride can cause the downfall of the wealthy."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "जिस भक्त में आध्यात्मिक अंतर्दृष्टि का अभाव है, उसे भगवान इस दुनिया की अद्भुत समृद्धि - राजसी शक्ति और भौतिक संपत्ति - नहीं देंगे। दरअसल, अजन्मा भगवान अपनी अनंत बुद्धि में यह भलीभांति जानते हैं कि घमंड का नशा किस तरह अमीरों के पतन का कारण बन सकता है।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "આધ્યાત્મિક સૂઝનો અભાવ ધરાવતા ભક્તને, પરમ ભગવાન આ વિશ્વની અદ્ભુત ઐશ્વર્ય - રાજાની શક્તિ અને ભૌતિક સંપત્તિ આપશે નહીં. ખરેખર, તેમના અનંત જ્ઞાનમાં અજાત ભગવાન સારી રીતે જાણે છે કે અભિમાનનો નશો કેવી રીતે શ્રીમંતોના પતનનું કારણ બની શકે છે."
+            }
+        }
+    },
+    {
+        "id": 108138,
+        "sloka": "10.81.38",
+        "verse_id": 108138,
+        "verseNumber": 38,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "[Śukadeva Gosvāmī continued:] Thus firmly fixing his determination by means of his spiritual intelligence, Sudāmā remained absolutely devoted to Lord Kṛṣṇa, the shelter of all living beings. Free from avarice, he enjoyed, together with his wife, the sense pleasures that had been bestowed upon him, always with the idea of eventually renouncing all sense gratification."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "[शुकदेव गोस्वामी ने आगे कहा:] इस प्रकार अपनी आध्यात्मिक बुद्धि के माध्यम से अपने दृढ़ संकल्प को दृढ़ करते हुए, सुदामा सभी जीवित प्राणियों के आश्रय भगवान कृष्ण के प्रति पूरी तरह से समर्पित रहे। लालच से मुक्त होकर, उन्होंने अपनी पत्नी के साथ मिलकर, उन्हें दिए गए इंद्रिय सुखों का आनंद लिया, हमेशा इस विचार के साथ कि अंततः सभी इंद्रिय संतुष्टि को त्याग दिया जाएगा।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "[શુકદેવ ગોસ્વામીએ ચાલુ રાખ્યું:] આ રીતે તેમની આધ્યાત્મિક બુદ્ધિ દ્વારા તેમના નિશ્ચયને નિશ્ચિતપણે નિશ્ચિત કરીને, સુદામા ભગવાન કૃષ્ણને સંપૂર્ણ રીતે સમર્પિત રહ્યા, જે તમામ જીવોના આશ્રય છે. લાલચથી મુક્ત, તેણે તેની પત્ની સાથે મળીને, તેને આપવામાં આવેલ ઇન્દ્રિય આનંદનો આનંદ માણ્યો, હંમેશા અંતમાં બધી ઇન્દ્રિય તૃપ્તિનો ત્યાગ કરવાના વિચાર સાથે."
+            }
+        }
+    },
+    {
+        "id": 108139,
+        "sloka": "10.81.39",
+        "verse_id": 108139,
+        "verseNumber": 39,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Lord Hari is the God of all gods, the master of all sacrifices, and the supreme ruler. But He accepts the saintly brāhmaṇas as His masters, and so there exists no deity higher than them."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "भगवान हरि सभी देवताओं के भगवान, सभी यज्ञों के स्वामी और सर्वोच्च शासक हैं। लेकिन वह साधु ब्राह्मणों को अपने स्वामी के रूप में स्वीकार करता है, और इसलिए उनसे बढ़कर कोई देवता नहीं है।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "ભગવાન હરિ એ સર્વ દેવોના દેવ છે, સર્વ બલિદાનના સ્વામી અને સર્વોચ્ચ શાસક છે. પરંતુ તે સંત બ્રાહ્મણોને તેમના ગુરુ તરીકે સ્વીકારે છે, અને તેથી તેમનાથી ઉચ્ચ કોઈ દેવતા નથી."
+            }
+        }
+    },
+    {
+        "id": 108140,
+        "sloka": "10.81.40",
+        "verse_id": 108140,
+        "verseNumber": 40,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Thus seeing how the unconquerable Supreme Lord is nonetheless conquered by His own servants, the Lord’s dear brāhmaṇa friend felt the remaining knots of material attachment within his heart being cut by the force of his constant meditation on the Lord. In a short time he attained Lord Kṛṣṇa’s supreme abode, the destination of great saints."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "इस प्रकार यह देखकर कि कैसे अजेय परम भगवान फिर भी अपने ही सेवकों द्वारा जीत लिए जाते हैं, भगवान के प्रिय ब्राह्मण मित्र ने महसूस किया कि भगवान पर उनके निरंतर ध्यान के बल से उनके हृदय के भीतर भौतिक लगाव की शेष गांठें कट रही हैं। थोड़े ही समय में उन्होंने भगवान कृष्ण के परमधाम, महान संतों के गंतव्य, को प्राप्त कर लिया।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "આ રીતે અજેય પરમ ભગવાનને તેમ છતાં તેમના પોતાના સેવકો દ્વારા કેવી રીતે જીતવામાં આવે છે તે જોઈને, ભગવાનના પ્રિય બ્રાહ્મણ મિત્રએ અનુભવ્યું કે તેમના હૃદયમાં ભૌતિક આસક્તિની બાકીની ગાંઠો ભગવાન પરના તેમના સતત ધ્યાનના બળ દ્વારા કાપવામાં આવી રહી છે. થોડા જ સમયમાં તેણે ભગવાન કૃષ્ણના પરમ ધામ, મહાન સંતોનું ગંતવ્ય સ્થાન પ્રાપ્ત કર્યું."
+            }
+        }
+    },
+    {
+        "id": 108141,
+        "sloka": "10.81.41",
+        "verse_id": 108141,
+        "verseNumber": 41,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "The Lord always shows brāhmaṇas special favor. Anyone who hears this account of the Supreme Lord’s kindness to brāhmaṇas will come to develop love for the Lord and thus become freed from the bondage of material work."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "भगवान सदैव ब्राह्मणों पर विशेष कृपा करते हैं। जो कोई भी ब्राह्मणों के प्रति भगवान की दयालुता का यह वृत्तांत सुनेगा, उसमें भगवान के प्रति प्रेम विकसित हो जाएगा और इस प्रकार वह भौतिक कर्म के बंधन से मुक्त हो जाएगा।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "ભગવાન હંમેશા બ્રાહ્મણોની વિશેષ કૃપા કરે છે. જે કોઈ પણ ભગવાનની બ્રાહ્મણો પ્રત્યેની કૃપાનો આ અહેવાલ સાંભળશે તે ભગવાન માટે પ્રેમ ઉત્પન્ન કરવા આવશે અને આ રીતે ભૌતિક કાર્યના બંધનમાંથી મુક્ત થશે."
+            }
+        }
+    }
+]

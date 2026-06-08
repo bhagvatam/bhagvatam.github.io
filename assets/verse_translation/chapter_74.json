@@ -1,0 +1,1060 @@
+[
+    {
+        "id": 107401,
+        "sloka": "10.74.1",
+        "verse_id": 107401,
+        "verseNumber": 1,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Śukadeva Gosvāmī said: Having thus heard of the killing of Jarāsandha, and also of almighty Kṛṣṇa’s wonderful power, King Yudhiṣṭhira addressed the Lord as follows with great pleasure."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "शुकदेव गोस्वामी ने कहा: इस प्रकार जरासंध के वध के बारे में और सर्वशक्तिमान कृष्ण की अद्भुत शक्ति के बारे में सुनकर, राजा युधिष्ठिर ने बड़ी खुशी के साथ भगवान को इस प्रकार संबोधित किया।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "શુકદેવ ગોસ્વામીએ કહ્યું: આ રીતે જરાસંધની હત્યા વિશે અને સર્વશક્તિમાન કૃષ્ણની અદ્ભુત શક્તિ વિશે સાંભળીને, રાજા યુધિષ્ઠિરે ભગવાનને આ રીતે સંબોધન કર્યું અને ખૂબ આનંદથી કહ્યું."
+            }
+        }
+    },
+    {
+        "id": 107402,
+        "sloka": "10.74.2",
+        "verse_id": 107402,
+        "verseNumber": 2,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Śrī Yudhiṣṭhira said: All the exalted spiritual masters of the three worlds, together with the inhabitants and rulers of the various planets, carry on their heads Your command, which is rarely obtained."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "श्री युधिष्ठिर ने कहा: तीनों लोकों के सभी श्रेष्ठ आध्यात्मिक गुरु, विभिन्न ग्रहों के निवासियों और शासकों के साथ, आपके आदेश को अपने सिर पर रखते हैं, जो शायद ही कभी प्राप्त होता है।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "શ્રી યુધિષ્ઠિરે કહ્યું: ત્રણેય લોકના સર્વ શ્રેષ્ઠ આધ્યાત્મિક ગુરુઓ, વિવિધ ગ્રહોના રહેવાસીઓ અને શાસકો સાથે, તમારા માથા પર તમારી આજ્ઞા વહન કરે છે, જે ભાગ્યે જ પ્રાપ્ત થાય છે."
+            }
+        }
+    },
+    {
+        "id": 107403,
+        "sloka": "10.74.3",
+        "verse_id": 107403,
+        "verseNumber": 3,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "That You, the lotus-eyed Supreme Lord, accept the orders of wretched fools who presume themselves rulers is a great pretense on Your part, O all-pervading one."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "यह कि आप, कमल-नेत्र परम भगवान, उन दुष्ट मूर्खों के आदेशों को स्वीकार करते हैं जो स्वयं को शासक मानते हैं, यह आपकी ओर से एक महान दिखावा है, हे सर्वव्यापी।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "તમે, કમળ-આંખવાળા પરમ ભગવાન, પોતાને શાસક માનનારા દુ: ખી મૂર્ખ લોકોના આદેશને સ્વીકારો તે તમારા તરફથી એક મહાન ડોળ છે, હે સર્વવ્યાપી."
+            }
+        }
+    },
+    {
+        "id": 107404,
+        "sloka": "10.74.4",
+        "verse_id": 107404,
+        "verseNumber": 4,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "But of course the power of the Absolute Truth, the Supreme Soul, the primeval one without a second, is neither increased nor diminished by His activities, any more than the sun’s power is by its movements."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "लेकिन निःसंदेह परम सत्य, परमात्मा, अनादि आदि की शक्ति उसकी गतिविधियों से न तो बढ़ती है और न ही घटती है, जितनी सूर्य की शक्ति उसकी गतिविधियों से होती है।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "પરંતુ અલબત્ત પરમ સત્યની શક્તિ, પરમાત્મા, એક સેકન્ડ વિનાના આદિમાન્ય, તેમની પ્રવૃત્તિઓ દ્વારા ન તો વધે છે કે ઘટતી નથી, સૂર્યની શક્તિ તેના હલનચલનથી વધારે છે."
+            }
+        }
+    },
+    {
+        "id": 107405,
+        "sloka": "10.74.5",
+        "verse_id": 107405,
+        "verseNumber": 5,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "O unconquerable Mādhava, even Your devotees make no distinctions of “I” and “mine,” “you” and “yours,” for this is the perverted mentality of animals."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "हे अजेय माधव, आपके भक्त भी \"मैं\" और \"मेरा\", \"तू\" और \"तेरा\" का कोई भेद नहीं करते, क्योंकि यह जानवरों की विकृत मानसिकता है।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "હે અજેય માધવ, તમારા ભક્તો પણ “હું” અને “મારું,” “તું” અને “તારું” એવો કોઈ ભેદ રાખતા નથી, કારણ કે આ પ્રાણીઓની વિકૃત માનસિકતા છે."
+            }
+        }
+    },
+    {
+        "id": 107406,
+        "sloka": "10.74.6",
+        "verse_id": 107406,
+        "verseNumber": 6,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Śukadeva Gosvāmī said: Having said this, King Yudhiṣṭhira waited until the proper time for the sacrifice was at hand. Then with Lord Kṛṣṇa’s permission he selected suitable priests, all expert authorities on the Vedas, to execute the sacrifice."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "शुकदेव गोस्वामी ने कहा: यह कहने के बाद, राजा युधिष्ठिर ने बलिदान के लिए उचित समय आने तक प्रतीक्षा की। फिर भगवान कृष्ण की अनुमति से उन्होंने यज्ञ को संपन्न कराने के लिए उपयुक्त पुजारियों, वेदों के सभी विशेषज्ञ अधिकारियों का चयन किया।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "શુકદેવ ગોસ્વામીએ કહ્યું: આટલું કહીને, રાજા યુધિષ્ઠિર યજ્ઞનો યોગ્ય સમય નજીક ન આવે ત્યાં સુધી રાહ જોતા હતા. પછી ભગવાન કૃષ્ણની અનુમતિથી તેમણે બલિદાન ચલાવવા માટે યોગ્ય પુરોહિતો, વેદના તમામ નિષ્ણાત અધિકારીઓની પસંદગી કરી."
+            }
+        }
+    },
+    {
+        "id": 107407,
+        "sloka": "10.74.7-9",
+        "verse_id": 107407,
+        "verseNumber": 7,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "He selected Kṛṣṇa-dvaipāyana, Bharadvāja, Sumantu, Gotama and Asita, along with Vasiṣṭha, Cyavana, Kaṇva, Maitreya, Kavaṣa and Trita. He also selected Viśvāmitra, Vāmadeva, Sumati, Jaimini, Kratu, Paila and Parāśara, as well as Garga, Vaiśampāyana, Atharvā, Kaśyapa, Dhaumya, Rāma of the Bhārgavas, Āsuri, Vītihotra, Madhucchandā, Vīrasena and Akṛtavraṇa."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "उन्होंने कृष्णद्वैपायन, भारद्वाज, सुमन्तु, गौतम और असित के साथ-साथ वशिष्ठ, च्यवन, कण्व, मैत्रेय, कवश और त्रित का चयन किया। उन्होंने विश्वामित्र, वामदेव, सुमति, जैमिनी, क्रतु, पैल और पराशर के साथ-साथ गर्ग, वैशम्पायन, अथर्व, कश्यप, धौम्य, भार्गवों के राम, आसुरी, वीतिहोत्र, मधुच्छंदा, वीरसेन और का भी चयन किया। अकृतवर्ण।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "તેણે કૃષ્ણ-દ્વૈપાયન, ભારદ્વાજ, સુમંતુ, ગોતમ અને અસિતાની સાથે વસિષ્ઠ, સાયવન, કણ્વ, મૈત્રેય, કવષ અને ત્રિતાની પસંદગી કરી. તેણે વિશ્વામિત્ર, વામદેવ, સુમતિ, જૈમિની, ક્રતુ, પૈલા અને પરાશર તેમજ ગર્ગ, વૈશમ્પાયન, અથર્વ, કશ્યપ, ધૌમ્ય, ભાર્ગવોના રામ, અસુરી, વિતિહોત્ર, મધુચંદા અને અકતરવરણને પણ પસંદ કર્યા."
+            }
+        }
+    },
+    {
+        "id": 107410,
+        "sloka": "10.74.10-11",
+        "verse_id": 107410,
+        "verseNumber": 10,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "O King, others who were invited included Droṇa, Bhīṣma, Kṛpa, Dhṛtarāṣṭra with his sons, the wise Vidura, and many other brāhmaṇas, kṣatriyas, vaiśyas and śūdras, all eager to witness the sacrifice. Indeed, all the kings came there with their entourages."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "हे राजन, जिन अन्य लोगों को आमंत्रित किया गया था उनमें द्रोण, भीष्म, कृप, धृतराष्ट्र अपने पुत्रों के साथ, बुद्धिमान विदुर और कई अन्य ब्राह्मण, क्षत्रिय, वैश्य और शूद्र शामिल थे, जो सभी यज्ञ देखने के लिए उत्सुक थे। दरअसल, सभी राजा अपने दल के साथ वहां आए थे।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "હે રાજા, અન્ય જેઓને આમંત્રિત કરવામાં આવ્યા હતા તેમાં દ્રોણ, ભીષ્મ, કૃષ્ણ, ધૃષ્ટ્ર અને તેમના પુત્રો, જ્ઞાની વિદુર અને બીજા ઘણા બ્રાહ્મણો, ક્ષત્રિય, વૈશ્ય અને શુદ્રો હતા, જેઓ બલિદાનને જોવા માટે ઉત્સુક હતા. ખરેખર, બધા રાજાઓ તેમના સૈનિકો સાથે ત્યાં આવ્યા હતા."
+            }
+        }
+    },
+    {
+        "id": 107412,
+        "sloka": "10.74.12",
+        "verse_id": 107412,
+        "verseNumber": 12,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "The brāhmaṇa priests then plowed the sacrificial ground with golden plowshares and initiated King Yudhiṣṭhira for the sacrifice in accordance with the traditions set down by standard authorities."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "तब ब्राह्मण पुजारियों ने यज्ञ भूमि को सुनहरे हल के फाल से जोता और राजा युधिष्ठिर को मानक अधिकारियों द्वारा निर्धारित परंपराओं के अनुसार बलिदान के लिए प्रेरित किया।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "ત્યારબાદ બ્રાહ્મણ પુરોહિતોએ બલિદાનની જમીનને સોનાના હળથી ખેડવી અને માનક સત્તાવાળાઓ દ્વારા નક્કી કરાયેલી પરંપરાઓ અનુસાર બલિદાન માટે રાજા યુધિષ્ઠિરને દીક્ષા આપી."
+            }
+        }
+    },
+    {
+        "id": 107413,
+        "sloka": "10.74.13-15",
+        "verse_id": 107413,
+        "verseNumber": 13,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "The utensils used in the sacrifice were made of gold, just as in the ancient Rājasūya performed by Lord Varuṇa. Indra, Brahmā, Śiva and many other planetary rulers; the Siddhas and Gandharvas with their entourage; the Vidyādharas; great serpents; sages; Yakṣas; Rākṣasas; celestial birds; Kinnaras; Cāraṇas; and earthly kings — all were invited, and indeed they all came from every direction to the Rājasūya sacrifice of King Yudhiṣṭhira, the son of Pāṇḍu. They were not in the least astonished to see the opulence of the sacrifice, since it was quite appropriate for a devotee of Lord Kṛṣṇa."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "यज्ञ में उपयोग किए गए बर्तन सोने के बने होते थे, जैसे भगवान वरुण द्वारा किए गए प्राचीन राजसूय यज्ञ में किया जाता था। इंद्र, ब्रह्मा, शिव और कई अन्य ग्रह शासक; सिद्ध और गंधर्व अपने दल के साथ; विद्याधर; महान नाग; साधु; यक्ष; राक्षस; आकाशीय पक्षी; किन्नर; चरण; और सांसारिक राजा - सभी को आमंत्रित किया गया था, और वास्तव में वे सभी पांडु के पुत्र राजा युधिष्ठिर के राजसूय यज्ञ में हर दिशा से आए थे। वे यज्ञ की महिमा देखकर ज़रा भी आश्चर्यचकित नहीं हुए, क्योंकि यह भगवान कृष्ण के भक्त के लिए बिल्कुल उपयुक्त था।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "બલિદાનમાં વપરાતા વાસણો સોનાના બનેલા હતા, જેમ કે પ્રાચીન રાજસૂય ભગવાન વરુણ દ્વારા કરવામાં આવતું હતું. ઇન્દ્ર, બ્રહ્મા, શિવ અને અન્ય ઘણા ગ્રહોના શાસકો; સિદ્ધો અને ગાંધર્વો તેમના ટોળા સાથે; વિદ્યાધરો; મહાન સાપ; ઋષિઓ; યક્ષ; રાક્ષસ; આકાશી પક્ષીઓ; કિન્નરો; કારાણસ; અને પૃથ્વીના રાજાઓ - બધાને આમંત્રિત કરવામાં આવ્યા હતા, અને ખરેખર તેઓ બધા પાંડુના પુત્ર રાજા યુધિષ્ઠિરના રાજસૂય બલિદાન માટે દરેક દિશામાંથી આવ્યા હતા. બલિદાનની ઐશ્વર્ય જોઈને તેઓ સહેજ પણ આશ્ચર્યચકિત થયા ન હતા, કારણ કે તે ભગવાન કૃષ્ણના ભક્ત માટે એકદમ યોગ્ય હતું."
+            }
+        }
+    },
+    {
+        "id": 107416,
+        "sloka": "10.74.16",
+        "verse_id": 107416,
+        "verseNumber": 16,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "The priests, as powerful as gods, performed the Rājasūya sacrifice for King Yudhiṣṭhira in accordance with the Vedic injunctions, just as the demigods had previously performed it for Varuṇa."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "देवताओं के समान शक्तिशाली पुजारियों ने, वैदिक आदेशों के अनुसार, राजा युधिष्ठिर के लिए राजसूय यज्ञ किया, ठीक वैसे ही जैसे देवताओं ने पहले वरुण के लिए किया था।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "પાદરીઓએ, દેવતાઓની જેમ શક્તિશાળી, રાજા યુધિષ્ઠિર માટે રાજસૂય બલિદાન વૈદિક આદેશો અનુસાર કર્યું, જેમ કે દેવતાઓએ અગાઉ વરુણ માટે કર્યું હતું."
+            }
+        }
+    },
+    {
+        "id": 107417,
+        "sloka": "10.74.17",
+        "verse_id": 107417,
+        "verseNumber": 17,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "On the day of extracting the soma juice, King Yudhiṣṭhira properly and very attentively worshiped the priests and the most exalted personalities of the assembly."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "सोम रस निकालने के दिन राजा युधिष्ठिर ने पुरोहितों तथा सभा के श्रेष्ठ व्यक्तियों की विधिपूर्वक तथा बड़े ध्यान से पूजा की।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "સોમ રસ કાઢવાના દિવસે, રાજા યુધિષ્ઠિરે યોગ્ય રીતે અને ખૂબ જ ધ્યાનપૂર્વક પૂજારીઓ અને સભાના ઉચ્ચતમ વ્યક્તિત્વોની પૂજા કરી."
+            }
+        }
+    },
+    {
+        "id": 107418,
+        "sloka": "10.74.18",
+        "verse_id": 107418,
+        "verseNumber": 18,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "The members of the assembly then pondered over who among them should be worshiped first, but since there were many personalities qualified for this honor, they were unable to decide. Finally Sahadeva spoke up."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "तब सभा के सदस्यों ने इस बात पर विचार किया कि उनमें से किसकी पूजा पहले की जानी चाहिए, लेकिन चूँकि इस सम्मान के लिए कई व्यक्तित्व योग्य व्यक्ति थे, इसलिए वे निर्णय नहीं ले सके। अंततः सहदेव बोल उठे।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "પછી એસેમ્બલીના સભ્યોએ વિચાર્યું કે તેમની વચ્ચે કોની પૂજા કરવી જોઈએ, પરંતુ આ સન્માન માટે લાયક ઘણી વ્યક્તિઓ હોવાથી, તેઓ નક્કી કરવામાં અસમર્થ હતા. અંતે સહદેવ બોલ્યો."
+            }
+        }
+    },
+    {
+        "id": 107419,
+        "sloka": "10.74.19",
+        "verse_id": 107419,
+        "verseNumber": 19,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "[Sahadeva said:] Certainly it is Acyuta, the Supreme Personality of Godhead and chief of the Yādavas, who deserves the highest position. In truth, He Himself comprises all the demigods worshiped in sacrifice, along with such aspects of the worship as the sacred place, the time and the paraphernalia."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "[सहदेव ने कहा:] निश्चित रूप से यह अच्युत, भगवान के सर्वोच्च व्यक्तित्व और यादवों के प्रमुख हैं, जो सर्वोच्च पद के पात्र हैं। सच तो यह है कि, वह स्वयं यज्ञ में पूजे जाने वाले सभी देवताओं के साथ-साथ पूजा के पवित्र स्थान, समय और सामग्री जैसे पहलुओं को भी शामिल करता है।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "[સહદેવે કહ્યું:] ચોક્કસપણે તે અચ્યુત છે, ભગવાનના સર્વોચ્ચ વ્યક્તિત્વ અને યાદવોના વડા, જે સર્વોચ્ચ પદને પાત્ર છે. સત્યમાં, તે પોતે પવિત્ર સ્થાન, સમય અને સાધનસામગ્રી જેવા પૂજાના પાસાઓ સાથે બલિદાનમાં પૂજવામાં આવતા તમામ દેવતાઓનો સમાવેશ કરે છે."
+            }
+        }
+    },
+    {
+        "id": 107420,
+        "sloka": "10.74.20-21",
+        "verse_id": 107420,
+        "verseNumber": 20,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "This entire universe is founded upon Him, as are the great sacrificial performances, with their sacred fires, oblations and mantras. Sāṅkhya and yoga both aim toward Him, the one without a second. O assembly members, that unborn Lord, relying solely on Himself, creates, maintains and destroys this cosmos by His personal energies, and thus the existence of this universe depends on Him alone."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "यह संपूर्ण ब्रह्मांड उसी पर आधारित है, जैसे महान यज्ञ प्रदर्शन, उनकी पवित्र अग्नि, आहुतियाँ और मंत्रों के साथ। सांख्य और योग दोनों का लक्ष्य उसी की ओर है, जो बिना किसी क्षण के है। हे सभा सदस्यों, वह अजन्मा भगवान, पूरी तरह से खुद पर भरोसा करते हुए, अपनी व्यक्तिगत ऊर्जाओं द्वारा इस ब्रह्मांड का निर्माण, रखरखाव और विनाश करता है, और इस प्रकार इस ब्रह्मांड का अस्तित्व केवल उस पर निर्भर करता है।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "આ સમગ્ર બ્રહ્માંડ તેમના પર સ્થાપિત થયેલ છે, જેમ કે તેમના પવિત્ર અગ્નિ, અર્પણ અને મંત્રો સાથે મહાન બલિદાન પ્રદર્શન છે. સાંખ્ય અને યોગ બંને તેમના તરફ લક્ષ્ય રાખે છે, જે એક સેકન્ડ વિનાનું છે. ઓ એસેમ્બલી સભ્યો, તે અજન્મા ભગવાન, ફક્ત પોતાના પર આધાર રાખીને, તેમની વ્યક્તિગત શક્તિઓ દ્વારા આ બ્રહ્માંડનું સર્જન, જાળવણી અને નાશ કરે છે, અને આ રીતે આ બ્રહ્માંડનું અસ્તિત્વ તેમના પર નિર્ભર છે."
+            }
+        }
+    },
+    {
+        "id": 107422,
+        "sloka": "10.74.22",
+        "verse_id": 107422,
+        "verseNumber": 22,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "He creates the many activities of this world, and thus by His grace the whole world endeavors for the ideals of religiosity, economic development, sense gratification and liberation."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "वह इस संसार की अनेक गतिविधियों की रचना करते हैं, और इस प्रकार उनकी कृपा से पूरा संसार धार्मिकता, आर्थिक विकास, इंद्रियतृप्ति और मुक्ति के आदर्शों के लिए प्रयास करता है।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "તે આ જગતની અનેક પ્રવૃત્તિઓનું સર્જન કરે છે, અને આ રીતે તેમની કૃપાથી આખું વિશ્વ ધાર્મિકતા, આર્થિક વિકાસ, ઇન્દ્રિય તૃપ્તિ અને મુક્તિના આદર્શો માટે પ્રયત્ન કરે છે."
+            }
+        }
+    },
+    {
+        "id": 107423,
+        "sloka": "10.74.23",
+        "verse_id": 107423,
+        "verseNumber": 23,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Therefore we should give the highest honor to Kṛṣṇa, the Supreme Lord. If we do so, we will be honoring all living beings and also our own selves."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "इसलिए हमें परम भगवान कृष्ण को सर्वोच्च सम्मान देना चाहिए। यदि हम ऐसा करते हैं, तो हम सभी जीवित प्राणियों और स्वयं का भी सम्मान करेंगे।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "તેથી આપણે કૃષ્ણ, પરમ ભગવાનને સર્વોચ્ચ સન્માન આપવું જોઈએ. જો આપણે આમ કરીશું, તો આપણે બધા જીવો અને આપણી જાતનું પણ સન્માન કરીશું."
+            }
+        }
+    },
+    {
+        "id": 107424,
+        "sloka": "10.74.24",
+        "verse_id": 107424,
+        "verseNumber": 24,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Anyone who wishes the honor he gives to be reciprocated infinitely should honor Kṛṣṇa, the perfectly peaceful and perfectly complete Soul of all beings, the Supreme Lord, who views nothing as separate from Himself."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "जो कोई चाहता है कि उसके द्वारा दिए गए सम्मान का प्रतिफल अनंत काल तक मिले, उसे कृष्ण का सम्मान करना चाहिए, जो सभी प्राणियों की पूरी तरह से शांतिपूर्ण और पूरी तरह से पूर्ण आत्मा हैं, सर्वोच्च भगवान, जो किसी भी चीज को खुद से अलग नहीं मानते हैं।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "કોઈપણ જે ઈચ્છે છે કે તે જે સન્માન આપે છે તેને અનંત રૂપે આપવામાં આવે તેણે કૃષ્ણનું સન્માન કરવું જોઈએ, જે સર્વ જીવોના સંપૂર્ણ શાંતિપૂર્ણ અને સંપૂર્ણ આત્મા છે, પરમ ભગવાન, જે કંઈપણ પોતાનાથી અલગ નથી માનતા."
+            }
+        }
+    },
+    {
+        "id": 107425,
+        "sloka": "10.74.25",
+        "verse_id": 107425,
+        "verseNumber": 25,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "[Śukadeva Gosvāmī continued:] Having said this, Sahadeva, who understood Lord Kṛṣṇa’s powers, fell silent. And having heard his words, all the saintly persons present congratulated him, exclaiming “Excellent! Excellent!”"
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "[शुकदेव गोस्वामी ने आगे कहा:] यह कहने के बाद, सहदेव, जो भगवान कृष्ण की शक्तियों को समझते थे, चुप हो गए। और उनके शब्दों को सुनकर, उपस्थित सभी संतों ने उन्हें बधाई देते हुए कहा, \"बहुत बढ़िया! बहुत बढ़िया!\""
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "[શુકદેવ ગોસ્વામીએ ચાલુ રાખ્યું:] આ કહીને, સહદેવ, જેઓ ભગવાન કૃષ્ણની શક્તિઓને સમજતા હતા, મૌન થઈ ગયા. અને તેમના શબ્દો સાંભળીને, ઉપસ્થિત તમામ સંતપુરુષોએ તેમને “ઉત્તમ! ઉત્તમ!” કહીને અભિનંદન આપ્યા."
+            }
+        }
+    },
+    {
+        "id": 107426,
+        "sloka": "10.74.26",
+        "verse_id": 107426,
+        "verseNumber": 26,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "The King was delighted to hear this pronouncement of the brāhmaṇas, from which he understood the mood of the entire assembly. Overwhelmed with love, he fully worshiped Lord Kṛṣṇa, the master of the senses."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "ब्राह्मणों की यह बात सुनकर राजा प्रसन्न हुए, जिससे उन्हें पूरी सभा की मनोदशा समझ में आ गई। प्रेम से अभिभूत होकर, उन्होंने इंद्रियों के स्वामी भगवान कृष्ण की पूरी तरह से पूजा की।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "બ્રાહ્મણોનું આ ઉચ્ચારણ સાંભળીને રાજાને આનંદ થયો, જેમાંથી તે આખી સભાનો મૂડ સમજી ગયો. પ્રેમથી અભિભૂત થઈને, તેણે ઇન્દ્રિયોના સ્વામી ભગવાન કૃષ્ણની સંપૂર્ણ ઉપાસના કરી."
+            }
+        }
+    },
+    {
+        "id": 107427,
+        "sloka": "10.74.27-28",
+        "verse_id": 107427,
+        "verseNumber": 27,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "After bathing Lord Kṛṣṇa’s feet, Mahārāja Yudhiṣṭhira joyfully sprinkled the water upon his own head, and then upon the heads of his wife, brothers, other family members and ministers. That water purifies the whole world. As he honored the Lord with presentations of yellow silken garments and precious jeweled ornaments, the King’s tear-filled eyes prevented him from looking directly at the Lord."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "भगवान कृष्ण के पैरों को स्नान कराने के बाद, महाराज युधिष्ठिर ने खुशी से अपने सिर पर और फिर अपनी पत्नी, भाइयों, परिवार के अन्य सदस्यों और मंत्रियों के सिर पर पानी छिड़का। वह जल सारे संसार को पवित्र करता है। जैसे ही उन्होंने पीले रेशमी वस्त्रों और बहुमूल्य रत्नों से सुसज्जित आभूषणों से भगवान का सम्मान किया, राजा की आंसुओं से भरी आँखों ने उन्हें सीधे भगवान की ओर देखने से रोक दिया।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "ભગવાન કૃષ્ણના ચરણોમાં સ્નાન કર્યા પછી, મહારાજ યુધિષ્ઠિરે આનંદપૂર્વક પાણી તેમના પોતાના માથા પર, અને પછી તેમની પત્ની, ભાઈઓ, પરિવારના અન્ય સભ્યો અને મંત્રીઓના માથા પર છાંટ્યું. તે પાણી સમગ્ર વિશ્વને શુદ્ધ કરે છે. જ્યારે તેણે પીળા રેશમી વસ્ત્રો અને કિંમતી રત્ન જડિત આભૂષણોથી ભગવાનનું સન્માન કર્યું, ત્યારે રાજાની આંસુ ભરેલી આંખોએ તેને ભગવાન તરફ સીધો જોવાથી અટકાવ્યો."
+            }
+        }
+    },
+    {
+        "id": 107429,
+        "sloka": "10.74.29",
+        "verse_id": 107429,
+        "verseNumber": 29,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "When they saw Lord Kṛṣṇa thus honored, nearly all who were present joined their palms reverentially, exclaiming “Obeisances to You! All victory to You!” and then bowed down to Him. Flowers rained down from above."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "जब उन्होंने भगवान कृष्ण को इस प्रकार सम्मानित होते देखा, तो उपस्थित लगभग सभी लोगों ने श्रद्धापूर्वक अपनी हथेलियाँ जोड़ लीं और कहा, \"आपको प्रणाम! आपकी जय हो!\" और फिर उसे दण्डवत् किया। ऊपर से फूलों की वर्षा होने लगी।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "જ્યારે તેઓએ ભગવાન કૃષ્ણને આ રીતે સન્માનિત જોયા, ત્યારે હાજર રહેલા લગભગ તમામ લોકો તેમની હથેળીઓ સાથે આદરપૂર્વક જોડાયા, \"તમને પ્રણામ! તમારી બધી જીત!\" અને પછી તેને નમન કર્યું. ઉપરથી ફૂલો વરસ્યા."
+            }
+        }
+    },
+    {
+        "id": 107430,
+        "sloka": "10.74.30",
+        "verse_id": 107430,
+        "verseNumber": 30,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "The intolerant son of Damaghoṣa became infuriated upon hearing the glorification of Lord Kṛṣṇa’s transcendental qualities. He stood up from his seat and, angrily waving his arms, fearlessly spoke to the entire assembly the following harsh words against the Supreme Lord."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "दमघोष का असहिष्णु पुत्र भगवान कृष्ण के दिव्य गुणों की महिमा सुनकर क्रोधित हो गया। वह अपने स्थान से उठ खड़ा हुआ और क्रोधपूर्वक अपनी भुजाएँ लहराते हुए निडर होकर पूरी सभा में परमेश्वर के विरुद्ध निम्नलिखित कठोर शब्द कहे।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "દમઘોષનો અસહિષ્ણુ પુત્ર ભગવાન કૃષ્ણના દિવ્ય ગુણોની સ્તુતિ સાંભળીને ક્રોધિત થઈ ગયો. તે પોતાની બેઠક પરથી ઉભા થયા અને ગુસ્સાથી હાથ લહેરાવીને, નિર્ભયતાથી આખી સભાને પરમ ભગવાન સામે નીચેના કઠોર શબ્દો બોલ્યા."
+            }
+        }
+    },
+    {
+        "id": 107431,
+        "sloka": "10.74.31",
+        "verse_id": 107431,
+        "verseNumber": 31,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "[Śiśupāla said:] The statement of the Vedas that time is the unavoidable controller of all has indeed been proven true, since the intelligence of wise elders has now become diverted by the words of a mere boy."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "[शिशुपाल ने कहा:] वेदों का यह कथन कि समय सभी का अपरिहार्य नियंत्रक है, वास्तव में सत्य साबित हुआ है, क्योंकि बुद्धिमान बुजुर्गों की बुद्धि अब एक मात्र लड़के के शब्दों से विचलित हो गई है।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "[શિશુપાલે કહ્યું:] સમય એ બધાનો અનિવાર્ય નિયંત્રક છે એવું વેદોનું નિવેદન ખરેખર સાચું સાબિત થયું છે, કારણ કે શાણા વડીલોની બુદ્ધિ હવે માત્ર છોકરાના શબ્દોથી વિચલિત થઈ ગઈ છે."
+            }
+        }
+    },
+    {
+        "id": 107432,
+        "sloka": "10.74.32",
+        "verse_id": 107432,
+        "verseNumber": 32,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "O leaders of the assembly, you know best who is a fit candidate for being honored. Therefore you should not heed the words of a child when he claims that Kṛṣṇa deserves to be worshiped."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "हे सभा के नेताओं, आप सबसे अच्छी तरह जानते हैं कि सम्मानित होने के लिए कौन उपयुक्त उम्मीदवार है। इसलिए आपको किसी बच्चे की बातों पर ध्यान नहीं देना चाहिए जब वह दावा करता है कि कृष्ण पूजा के योग्य हैं।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "ઓ વિધાનસભાના નેતાઓ, તમે સારી રીતે જાણો છો કે સન્માન માટે યોગ્ય ઉમેદવાર કોણ છે. તેથી તમારે બાળકના શબ્દો પર ધ્યાન ન આપવું જોઈએ જ્યારે તે દાવો કરે છે કે કૃષ્ણ પૂજા કરવા લાયક છે."
+            }
+        }
+    },
+    {
+        "id": 107433,
+        "sloka": "10.74.33-34",
+        "verse_id": 107433,
+        "verseNumber": 33,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "How can you pass over the most exalted members of this assembly — topmost sages dedicated to the Absolute Truth endowed with powers of austerity, divine insight and strict adherence to severe vows, sanctified by knowledge and worshiped even by the rulers of the universe? How does this cowherd boy, the disgrace of His family, deserve your worship, any more than a crow deserves to eat the sacred puroḍāśa rice cake?"
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "आप इस सभा के सबसे श्रेष्ठ सदस्यों - परम सत्य को समर्पित सर्वोच्च ऋषियों, जो तपस्या, दिव्य अंतर्दृष्टि और कठोर व्रतों का कड़ाई से पालन करने की शक्तियों से संपन्न हैं, ज्ञान से पवित्र हैं और ब्रह्मांड के शासकों द्वारा भी पूजे जाते हैं, को कैसे नजरअंदाज कर सकते हैं? यह चरवाहा लड़का, अपने परिवार का कलंक, आपकी पूजा के लायक कैसे है, एक कौवे से भी अधिक पवित्र पुरोधा चावल केक खाने का हकदार है?"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "તમે આ સભાના સર્વોચ્ચ સભ્યોને કેવી રીતે પાર કરી શકો - સર્વોચ્ચ સત્યને સમર્પિત સર્વોચ્ચ ઋષિઓ જે તપની શક્તિઓથી સંપન્ન, દૈવી સૂઝ અને કઠોર વ્રતોનું ચુસ્ત પાલન, જ્ઞાનથી પવિત્ર અને બ્રહ્માંડના શાસકો દ્વારા પણ પૂજવામાં આવે છે? આ ગોવાળો છોકરો, તેના પરિવારની બદનામી, તમારી પૂજાને કેવી રીતે લાયક છે, એક કાગડો પવિત્ર પુરોષા ચોખાની કેક ખાવાને લાયક છે?"
+            }
+        }
+    },
+    {
+        "id": 107435,
+        "sloka": "10.74.35",
+        "verse_id": 107435,
+        "verseNumber": 35,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "How does one who follows no principles of the social and spiritual orders or of family ethics, who has been excluded from all religious duties, who behaves whimsically, and who has no good qualities — how does such a person deserve to be worshiped?"
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "जो व्यक्ति सामाजिक और आध्यात्मिक आदेशों या पारिवारिक नैतिकता के किसी भी सिद्धांत का पालन नहीं करता है, जिसे सभी धार्मिक कर्तव्यों से बाहर रखा गया है, जो सनकी व्यवहार करता है, और जिसमें कोई अच्छे गुण नहीं हैं - ऐसा व्यक्ति कैसे पूजा के योग्य है?"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "જે વ્યક્તિ સામાજિક અને આધ્યાત્મિક આદેશો અથવા પારિવારિક નીતિશાસ્ત્રના કોઈ સિદ્ધાંતોને અનુસરતો નથી, જેને તમામ ધાર્મિક ફરજોમાંથી બાકાત રાખવામાં આવ્યો છે, જે લહેરી રીતે વર્તે છે અને જેની પાસે કોઈ સારા ગુણો નથી - તે કેવી રીતે પૂજાને પાત્ર છે?"
+            }
+        }
+    },
+    {
+        "id": 107436,
+        "sloka": "10.74.36",
+        "verse_id": 107436,
+        "verseNumber": 36,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Yayāti cursed the dynasty of these Yādavas, and ever since then they have been ostracized by honest men and addicted to liquor. How, then, does Kṛṣṇa deserve to be worshiped?"
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "ययाति ने इन यादवों के वंश को श्राप दिया और तब से वे ईमानदार लोगों द्वारा बहिष्कृत और शराब के आदी हो गए। तो फिर, कृष्ण पूजा के योग्य कैसे हैं?"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "યયાતિએ આ યાદવોના વંશને શ્રાપ આપ્યો, અને ત્યારથી તેઓ પ્રામાણિક પુરુષો દ્વારા બહિષ્કૃત કરવામાં આવ્યા છે અને દારૂના વ્યસની છે. તો પછી, કૃષ્ણ કેવી રીતે પૂજા કરવા લાયક છે?"
+            }
+        }
+    },
+    {
+        "id": 107437,
+        "sloka": "10.74.37",
+        "verse_id": 107437,
+        "verseNumber": 37,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "These Yādavas have abandoned the holy lands inhabited by saintly sages and have instead taken shelter of a fortress in the sea, a place where no brahminical principles are observed. There, just like thieves, they harass their subjects."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "इन यादवों ने साधु संतों द्वारा बसाई गई पवित्र भूमि को त्याग दिया है और इसके बजाय समुद्र में एक किले की शरण ली है, एक ऐसा स्थान जहां किसी भी ब्राह्मणवादी सिद्धांतों का पालन नहीं किया जाता है। वहां वे चोरों की भाँति अपनी प्रजा को सताते हैं।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "આ યાદવોએ પુણ્યશાળી ઋષિઓના વસવાટવાળી પવિત્ર ભૂમિનો ત્યાગ કર્યો છે અને તેના બદલે સમુદ્રમાં એક કિલ્લાનો આશ્રય લીધો છે, જ્યાં કોઈ બ્રાહ્મણવાદી સિદ્ધાંતોનું પાલન થતું નથી. ત્યાં ચોરોની જેમ તેઓ પોતાની પ્રજાને હેરાન કરે છે."
+            }
+        }
+    },
+    {
+        "id": 107438,
+        "sloka": "10.74.38",
+        "verse_id": 107438,
+        "verseNumber": 38,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "[Śukadeva Gosvāmī continued:] Bereft of all good fortune, Śiśupāla spoke these and other insults. But the Supreme Lord said nothing, just as a lion ignores a jackal’s cry."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "[शुकदेव गोस्वामी ने आगे कहा:] सभी सौभाग्यों से वंचित शिशुपाल ने ये और अन्य अपमान कहे। परन्तु परमेश्वर ने कुछ नहीं कहा, जैसे सिंह सियार की पुकार को अनसुना कर देता है।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "[શુકદેવ ગોસ્વામીએ ચાલુ રાખ્યું:] તમામ સારા નસીબથી વંચિત, શિશુપાલે આ અને અન્ય અપમાન બોલ્યા. પરંતુ પરમ ભગવાને કશું કહ્યું નહીં, જેમ સિંહ શિયાળના પોકારને અવગણે છે."
+            }
+        }
+    },
+    {
+        "id": 107439,
+        "sloka": "10.74.39",
+        "verse_id": 107439,
+        "verseNumber": 39,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Upon hearing such intolerable blasphemy of the Lord, several members of the assembly covered their ears and walked out, angrily cursing the King of Cedi."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "प्रभु की ऐसी असहनीय निंदा सुनकर, सभा के कई सदस्यों ने अपने कान बंद कर लिए और गुस्से में सेडी के राजा को कोसते हुए बाहर चले गए।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "ભગવાનની આવી અસહ્ય નિંદા સાંભળીને, એસેમ્બલીના કેટલાક સભ્યો તેમના કાન ઢાંકીને બહાર નીકળી ગયા, ગુસ્સાથી કેડીના રાજાને શાપ આપતા."
+            }
+        }
+    },
+    {
+        "id": 107440,
+        "sloka": "10.74.40",
+        "verse_id": 107440,
+        "verseNumber": 40,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Anyone who fails to immediately leave the place where he hears criticism of the Supreme Lord or His faithful devotee will certainly fall down, bereft of his pious credit."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "जो कोई भी उस स्थान को तुरंत छोड़ने में विफल रहता है जहां वह सर्वोच्च भगवान या उनके वफादार भक्त की आलोचना सुनता है, वह निश्चित रूप से अपने पवित्र श्रेय से वंचित होकर गिर जाएगा।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "જે કોઈ પણ પરમ ભગવાન અથવા તેમના વિશ્વાસુ ભક્તની ટીકા સાંભળે છે તે સ્થાનને તરત જ છોડવામાં નિષ્ફળ જાય છે, તે ચોક્કસપણે તેના પવિત્ર શ્રેયથી વંચિત, નીચે પડી જશે."
+            }
+        }
+    },
+    {
+        "id": 107441,
+        "sloka": "10.74.41",
+        "verse_id": 107441,
+        "verseNumber": 41,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Then the sons of Pāṇḍu became furious, and together with the warriors of the Matsya, Kaikaya and Sṛñjaya clans, they rose up from their seats with weapons poised, ready to kill Śiśupāla."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "तब पाण्डु के पुत्र क्रोधित हो गए, और मत्स्य, कैकय और सृंजय वंश के योद्धाओं के साथ, वे शिशुपाल को मारने के लिए हथियार लेकर अपने स्थानों से उठे।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "પછી પાંડુના પુત્રો ગુસ્સે થયા, અને મત્સ્ય, કૈકય અને શૃંજય કુળના યોદ્ધાઓ સાથે, તેઓ શસ્ત્રો લઈને શિશુપાલને મારવા તૈયાર થઈને તેમની બેઠક પરથી ઉભા થયા."
+            }
+        }
+    },
+    {
+        "id": 107442,
+        "sloka": "10.74.42",
+        "verse_id": 107442,
+        "verseNumber": 42,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Undaunted, Śiśupāla then took up his sword and shield in the midst of all the assembled kings, O Bhārata, and hurled insults at those who sided with Lord Kṛṣṇa."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "हे भारत, निडर होकर, शिशुपाल ने सभी एकत्रित राजाओं के बीच में अपनी तलवार और ढाल उठाई, और भगवान कृष्ण के पक्ष में रहने वालों का अपमान किया।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "નિઃશબ્દ, શિશુપાલે પછી બધા ભેગા થયેલા રાજાઓ વચ્ચે પોતાની તલવાર અને ઢાલ ઉપાડી, હે ભરત, અને ભગવાન કૃષ્ણનો પક્ષ લેનારાઓનું અપમાન કર્યું."
+            }
+        }
+    },
+    {
+        "id": 107443,
+        "sloka": "10.74.43",
+        "verse_id": 107443,
+        "verseNumber": 43,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "At that point the Supreme Lord stood up and checked His devotees. He then angrily sent forth His razor-sharp disc and severed the head of His enemy as he was attacking."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "उस समय परमेश्वर खड़े हुए और अपने भक्तों की जाँच की। फिर उसने गुस्से में अपनी धारदार डिस्क चलाई और हमला कर रहे अपने दुश्मन का सिर धड़ से अलग कर दिया।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "તે સમયે ભગવાન ઉભા થયા અને તેમના ભક્તોને તપાસ્યા. પછી તેણે ગુસ્સામાં તેની રેઝર-તીક્ષ્ણ ડિસ્ક મોકલી અને તેના દુશ્મનનું માથું કાપી નાખ્યું કારણ કે તે હુમલો કરી રહ્યો હતો."
+            }
+        }
+    },
+    {
+        "id": 107444,
+        "sloka": "10.74.44",
+        "verse_id": 107444,
+        "verseNumber": 44,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "When Śiśupāla was thus killed, a great roar and howl went up from the crowd. Taking advantage of that disturbance, the few kings who were supporters of Śiśupāla quickly left the assembly out of fear for their lives."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "जब शिशुपाल इस प्रकार मारा गया, तो भीड़ से बड़ी गर्जना और चीख-पुकार मच गई। उस अशांति का लाभ उठाते हुए, कुछ राजा जो शिशुपाल के समर्थक थे, अपने जीवन के डर से तुरंत सभा छोड़कर चले गए।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "જ્યારે શિશુપાલની આ રીતે હત્યા કરવામાં આવી, ત્યારે ભીડમાંથી એક મહાન ગર્જના અને કિકિયારીઓ ઉઠી. તે ખલેલનો લાભ લઈને, થોડા રાજાઓ જેઓ શિશુપાલના સમર્થક હતા તેઓ તેમના જીવના ડરથી સભામાંથી બહાર નીકળી ગયા."
+            }
+        }
+    },
+    {
+        "id": 107445,
+        "sloka": "10.74.45",
+        "verse_id": 107445,
+        "verseNumber": 45,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "An effulgent light rose from Śiśupāla’s body and, as everyone watched, entered Lord Kṛṣṇa just like a meteor falling from the sky to the earth."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "शिशुपाल के शरीर से एक तेज रोशनी निकली और, जैसा कि सभी ने देखा, वह भगवान कृष्ण में प्रवेश कर गई, जैसे आकाश से पृथ्वी पर गिरती हुई उल्का।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "શિશુપાલના શરીરમાંથી એક તેજસ્વી પ્રકાશ ઊગ્યો અને, જેમ જેમ બધાએ જોયું તેમ, આકાશમાંથી પૃથ્વી પર પડતી ઉલ્કાની જેમ ભગવાન કૃષ્ણમાં પ્રવેશ કર્યો."
+            }
+        }
+    },
+    {
+        "id": 107446,
+        "sloka": "10.74.46",
+        "verse_id": 107446,
+        "verseNumber": 46,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Obsessed with hatred of Lord Kṛṣṇa throughout three lifetimes, Śiśupāla attained the Lord’s transcendental nature. Indeed, one’s consciousness determines one’s future birth."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "तीन जन्मों तक भगवान कृष्ण के प्रति घृणा से ग्रस्त शिशुपाल ने भगवान के दिव्य स्वरूप को प्राप्त किया। दरअसल, किसी की चेतना ही उसके भावी जन्म को निर्धारित करती है।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "ત્રણ જીવનકાળ દરમિયાન ભગવાન કૃષ્ણના દ્વેષથી ગ્રસ્ત, શિશુપાલે ભગવાનના દિવ્ય સ્વભાવને પ્રાપ્ત કર્યો. ખરેખર, વ્યક્તિની ચેતના વ્યક્તિનો ભાવિ જન્મ નક્કી કરે છે."
+            }
+        }
+    },
+    {
+        "id": 107447,
+        "sloka": "10.74.47",
+        "verse_id": 107447,
+        "verseNumber": 47,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Emperor Yudhiṣṭhira gave generous gifts to the sacrificial priests and the members of the assembly, properly honoring them all in the manner prescribed by the Vedas. He then took the avabhṛtha bath."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "सम्राट युधिष्ठिर ने यज्ञ करने वाले पुरोहितों और सभा के सदस्यों को वेदों द्वारा निर्धारित तरीके से उचित सम्मान देते हुए उदार उपहार दिए। फिर उन्होंने अवभृत स्नान किया।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "સમ્રાટ યુધિષ્ઠિરે બલિદાન પુરોહિતો અને સભાના સભ્યોને ઉદાર ભેટો આપી, વેદ દ્વારા નિર્ધારિત રીતે તેઓનું યોગ્ય રીતે સન્માન કર્યું. પછી તેણે અવભ્રથ સ્નાન કર્યું."
+            }
+        }
+    },
+    {
+        "id": 107448,
+        "sloka": "10.74.48",
+        "verse_id": 107448,
+        "verseNumber": 48,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Thus Śrī Kṛṣṇa, the Lord of all masters of mystic yoga, saw to the successful execution of this great sacrifice on behalf of King Yudhiṣṭhira. Afterwards, the Lord stayed with His intimate friends for a few months at their earnest request."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "इस प्रकार रहस्यवादी योग के सभी गुरुओं के भगवान, श्री कृष्ण ने राजा युधिष्ठिर की ओर से इस महान बलिदान के सफल निष्पादन को देखा। बाद में, भगवान अपने घनिष्ठ मित्रों के आग्रह पर कुछ महीनों तक उनके साथ रहे।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "આ રીતે શ્રી કૃષ્ણ, રહસ્યમય યોગના તમામ માસ્ટર્સના ભગવાન, રાજા યુધિષ્ઠિર વતી આ મહાન બલિદાનના સફળ અમલ માટે જોયા. તે પછી, ભગવાન તેમના આત્મીય મિત્રો સાથે તેમની વિનંતી પર થોડા મહિના રહ્યા."
+            }
+        }
+    },
+    {
+        "id": 107449,
+        "sloka": "10.74.49",
+        "verse_id": 107449,
+        "verseNumber": 49,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Then the Lord, the son of Devakī, took the reluctant permission of the King and returned to His capital with His wives and ministers."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "तब देवकी के पुत्र भगवान ने राजा की अनिच्छा से अनुमति ली और अपनी पत्नियों और मंत्रियों के साथ अपनी राजधानी लौट आए।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "પછી દેવકીના પુત્ર ભગવાને રાજાની અનિચ્છાએ અનુમતિ લીધી અને તેમની પત્નીઓ અને મંત્રીઓ સાથે તેમની રાજધાની પરત ફર્યા."
+            }
+        }
+    },
+    {
+        "id": 107450,
+        "sloka": "10.74.50",
+        "verse_id": 107450,
+        "verseNumber": 50,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "I have already described to you in detail the history of the two residents of Vaikuṇṭha who had to undergo repeated births in the material world because of being cursed by brāhmaṇas."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "मैं आपको पहले ही वैकुंठ के दो निवासियों के इतिहास का विस्तार से वर्णन कर चुका हूं, जिन्हें ब्राह्मणों द्वारा शापित होने के कारण भौतिक संसार में बार-बार जन्म लेना पड़ा।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "મેં તમને વૈકુંઠના બે રહેવાસીઓના ઇતિહાસનું વિગતવાર વર્ણન કર્યું છે જેમને બ્રાહ્મણોના શ્રાપને કારણે ભૌતિક જગતમાં વારંવાર જન્મ લેવો પડ્યો હતો."
+            }
+        }
+    },
+    {
+        "id": 107451,
+        "sloka": "10.74.51",
+        "verse_id": 107451,
+        "verseNumber": 51,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Purified in the final, avabhṛthya ritual, which marked the successful completion of the Rājasūya sacrifice, King Yudhiṣṭhira shone among the assembled brāhmaṇas and kṣatriyas like the King of the demigods himself."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "अंतिम, अवभृत्य अनुष्ठान में शुद्ध होकर, जो राजसूय यज्ञ के सफल समापन का प्रतीक था, राजा युधिष्ठिर एकत्रित ब्राह्मणों और क्षत्रियों के बीच स्वयं देवताओं के राजा की तरह चमके।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "અંતિમ, અવભ્રથ્ય વિધિમાં શુદ્ધિકરણ, જે રાજસૂય બલિદાનની સફળ સમાપ્તિને ચિહ્નિત કરે છે, રાજા યુધિષ્ઠિર ભેગા થયેલા બ્રાહ્મણો અને ક્ષત્રિયોમાં સ્વયં દેવોના રાજાની જેમ ચમક્યા."
+            }
+        }
+    },
+    {
+        "id": 107452,
+        "sloka": "10.74.52",
+        "verse_id": 107452,
+        "verseNumber": 52,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "The demigods, humans and residents of intermediate heavens, all properly honored by the King, happily set off for their respective domains while singing the praises of Lord Kṛṣṇa and the great sacrifice."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "देवता, मनुष्य और मध्यवर्ती स्वर्ग के निवासी, सभी राजा द्वारा उचित रूप से सम्मानित, भगवान कृष्ण और महान यज्ञ की स्तुति करते हुए खुशी से अपने-अपने डोमेन के लिए प्रस्थान कर गए।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "દેવતાઓ, મનુષ્યો અને મધ્યવર્તી સ્વર્ગના રહેવાસીઓ, બધા રાજા દ્વારા યોગ્ય રીતે સન્માનિત, ભગવાન કૃષ્ણ અને મહાન બલિદાનની સ્તુતિ ગાતી વખતે ખુશીથી પોતપોતાના ક્ષેત્રો માટે પ્રયાણ કરે છે."
+            }
+        }
+    },
+    {
+        "id": 107453,
+        "sloka": "10.74.53",
+        "verse_id": 107453,
+        "verseNumber": 53,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "[All were satisfied] except sinful Duryodhana, the personification of the age of quarrel and the disease of the Kuru dynasty. He could not bear to see the flourishing opulence of the son of Pāṇḍu."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "[सभी संतुष्ट थे] पापी दुर्योधन को छोड़कर, जो झगड़े के युग और कुरु वंश की बीमारी का प्रतीक था। वह पाण्डु पुत्र के समृद्ध ऐश्वर्य को देखकर सहन नहीं कर सका।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "[બધા સંતુષ્ટ હતા] સિવાય કે પાપી દુર્યોધન, ઝઘડાના યુગનું અવતાર અને કુરુ વંશના રોગ. તે પાંડુના પુત્રની સમૃદ્ધિ જોવાનું સહન કરી શક્યો નહીં."
+            }
+        }
+    },
+    {
+        "id": 107454,
+        "sloka": "10.74.54",
+        "verse_id": 107454,
+        "verseNumber": 54,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "One who recites these activities of Lord Viṣṇu, including the killing of Śiśupāla, the deliverance of the kings and the performance of the Rājasūya sacrifice, is freed from all sins."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "जो शिशुपाल का वध, राजाओं का उद्धार और राजसूय यज्ञ सहित भगवान विष्णु की इन गतिविधियों का पाठ करता है, वह सभी पापों से मुक्त हो जाता है।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "જે વ્યક્તિ ભગવાન વિષ્ણુના આ કાર્યોનો પાઠ કરે છે, જેમાં શિશુપાલનો વધ, રાજાઓની મુક્તિ અને રાજસૂય યજ્ઞનો સમાવેશ થાય છે, તે તમામ પાપોમાંથી મુક્ત થાય છે."
+            }
+        }
+    }
+]

@@ -1,0 +1,922 @@
+[
+    {
+        "id": 106401,
+        "sloka": "10.64.1",
+        "verse_id": 106401,
+        "verseNumber": 1,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Śrī Bādarāyaṇi said: O King, one day Sāmba, Pradyumna, Cāru, Bhānu, Gada and other young boys of the Yadu dynasty went to a small forest to play."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "श्री बदरायणि ने कहा: हे राजा, एक दिन सांब, प्रद्युम्न, चारु, भानु, गदा और यदु वंश के अन्य युवा लड़के खेलने के लिए एक छोटे से जंगल में गए।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "શ્રી બાદરાયણીએ કહ્યું: હે રાજા, એક દિવસ સામ્બ, પ્રદ્યુમ્ન, કારુ, ભાનુ, ગડ અને યદુ વંશના અન્ય નાના છોકરાઓ રમવા માટે નાના જંગલમાં ગયા."
+            }
+        }
+    },
+    {
+        "id": 106402,
+        "sloka": "10.64.2",
+        "verse_id": 106402,
+        "verseNumber": 2,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "After playing for a long time, they became thirsty. As they searched for water, they looked inside a dry well and saw a peculiar creature."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "काफी देर तक खेलने के बाद उन्हें प्यास लगी। जैसे ही वे पानी की तलाश कर रहे थे, उन्होंने एक सूखे कुएं के अंदर देखा और एक अजीब प्राणी देखा।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "લાંબા સમય સુધી રમ્યા બાદ તેઓ તરસ્યા હતા. જ્યારે તેઓ પાણીની શોધ કરતા હતા, ત્યારે તેઓએ સૂકા કૂવાની અંદર જોયું અને એક વિચિત્ર પ્રાણી જોયું."
+            }
+        }
+    },
+    {
+        "id": 106403,
+        "sloka": "10.64.3",
+        "verse_id": 106403,
+        "verseNumber": 3,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "The boys were astonished to behold this creature, a lizard who looked like a hill. They felt sorry for it and tried to lift it out of the well."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "पहाड़ी जैसी दिखने वाली छिपकली नाम के इस जीव को देखकर लड़के हैरान रह गए। उन्हें इस बात का दुख हुआ और उन्होंने उसे कुएं से बाहर निकालने की कोशिश की।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "છોકરાઓ આ પ્રાણીને જોઈને આશ્ચર્યચકિત થઈ ગયા, એક ગરોળી જે એક ટેકરી જેવી દેખાતી હતી. તેઓને તેના માટે દિલગીર લાગ્યું અને તેને કૂવામાંથી બહાર કાઢવાનો પ્રયાસ કર્યો."
+            }
+        }
+    },
+    {
+        "id": 106404,
+        "sloka": "10.64.4",
+        "verse_id": 106404,
+        "verseNumber": 4,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "They caught on to the trapped lizard with leather thongs and then with woven ropes, but still they could not lift it out. So they went to Lord Kṛṣṇa and excitedly told Him about the creature."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "उन्होंने फँसी हुई छिपकली को पहले चमड़े की पेटी और फिर बुनी हुई रस्सियों से पकड़ा, लेकिन फिर भी वे उसे बाहर नहीं निकाल सके। इसलिए वे भगवान कृष्ण के पास गए और उत्साहपूर्वक उन्हें प्राणी के बारे में बताया।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "તેઓએ ફસાયેલી ગરોળીને ચામડાની થંગ્સથી અને પછી ગૂંથેલા દોરડા વડે પકડી લીધી, પરંતુ તેમ છતાં તેઓ તેને બહાર કાઢી શક્યા નહીં. તેથી તેઓ ભગવાન કૃષ્ણ પાસે ગયા અને ઉત્સાહપૂર્વક તેમને જીવ વિશે જણાવ્યું."
+            }
+        }
+    },
+    {
+        "id": 106405,
+        "sloka": "10.64.5",
+        "verse_id": 106405,
+        "verseNumber": 5,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "The lotus-eyed Supreme Lord, maintainer of the universe, went to the well and saw the lizard. Then with His left hand He easily lifted it out."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "ब्रह्मांड के पालनकर्ता, कमल-नेत्र भगवान, कुएं के पास गए और छिपकली को देखा। फिर उसने अपने बाएँ हाथ से उसे आसानी से उठा लिया।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "કમળની આંખોવાળા પરમ ભગવાન, બ્રહ્માંડના પાલનહાર, કૂવા પાસે ગયા અને ગરોળીને જોઈ. પછી તેના ડાબા હાથથી તેણે તેને સરળતાથી બહાર કાઢ્યું."
+            }
+        }
+    },
+    {
+        "id": 106406,
+        "sloka": "10.64.6",
+        "verse_id": 106406,
+        "verseNumber": 6,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Touched by the hand of the glorious Supreme Lord, the being at once gave up its lizard form and assumed that of a resident of heaven. His complexion was beautifully colored like molten gold, and he was adorned with wonderful ornaments, clothes and garlands."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "महिमामय परमेश्वर के हाथ का स्पर्श पाकर प्राणी ने तुरंत अपना छिपकली रूप त्याग दिया और स्वर्गवासी का रूप धारण कर लिया। उनका रंग पिघले हुए सोने के समान सुंदर था और वे अद्भुत आभूषणों, वस्त्रों और मालाओं से सुशोभित थे।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "પ્રતાપી પરમ ભગવાનના હાથનો સ્પર્શ થતાં, તે પ્રાણીએ તરત જ તેનું ગરોળીનું સ્વરૂપ છોડી દીધું અને સ્વર્ગના રહેવાસી તરીકે ધારણ કર્યું. તેનો રંગ પીગળેલા સોના જેવો સુંદર રંગનો હતો, અને તે અદ્ભુત આભૂષણો, વસ્ત્રો અને માળાથી સુશોભિત હતો."
+            }
+        }
+    },
+    {
+        "id": 106407,
+        "sloka": "10.64.7",
+        "verse_id": 106407,
+        "verseNumber": 7,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Lord Kṛṣṇa understood the situation, but to inform people in general He inquired as follows: “Who are you, O greatly fortunate one? Seeing your excellent form, I think you must surely be an exalted demigod."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "भगवान कृष्ण स्थिति को समझते थे, लेकिन आम तौर पर लोगों को सूचित करने के लिए उन्होंने इस प्रकार पूछताछ की: \"हे महान भाग्यशाली, आप कौन हैं? आपके उत्कृष्ट रूप को देखकर, मुझे लगता है कि आप निश्चित रूप से एक श्रेष्ठ देवता होंगे।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "ભગવાન કૃષ્ણ પરિસ્થિતિને સમજતા હતા, પરંતુ સામાન્ય રીતે લોકોને જાણ કરવા માટે તેમણે નીચે પ્રમાણે પૂછ્યું: \"ઓ ખૂબ ભાગ્યશાળી, તમે કોણ છો? તમારું ઉત્તમ સ્વરૂપ જોઈને, મને લાગે છે કે તમે ચોક્કસપણે એક ઉચ્ચતમ દેવતા હોવા જોઈએ."
+            }
+        }
+    },
+    {
+        "id": 106408,
+        "sloka": "10.64.8",
+        "verse_id": 106408,
+        "verseNumber": 8,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "“By what past activity were you brought to this condition? It seems you did not deserve such a fate, O good soul. We are eager to know about you, so please inform us about yourself — if, that is, you think this the proper time and place to tell us.”"
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "\"किस पूर्व गतिविधि के कारण आप इस स्थिति में पहुंचे? ऐसा लगता है कि आप इस तरह के भाग्य के लायक नहीं थे, हे अच्छे आत्मा। हम आपके बारे में जानने के लिए उत्सुक हैं, इसलिए कृपया हमें अपने बारे में सूचित करें - यदि आप ऐसा सोचते हैं कि यह हमें बताने का उचित समय और स्थान है।\""
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "\"તને કઈ ભૂતકાળની પ્રવૃત્તિ દ્વારા આ સ્થિતિમાં લાવવામાં આવ્યો હતો? એવું લાગે છે કે તમે આવા ભાગ્યને લાયક નહોતા, હે સારા આત્મા. અમે તમારા વિશે જાણવા આતુર છીએ, તેથી કૃપા કરીને અમને તમારા વિશે જણાવો - જો, એટલે કે, તમે અમને જણાવવા માટે આ યોગ્ય સમય અને સ્થળ માનો છો.\""
+            }
+        }
+    },
+    {
+        "id": 106409,
+        "sloka": "10.64.9",
+        "verse_id": 106409,
+        "verseNumber": 9,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Śukadeva Gosvāmī said: Thus questioned by Kṛṣṇa, whose forms are unlimited, the King, his helmet as dazzling as the sun, bowed down to Lord Mādhava and replied as follows."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "शुकदेव गोस्वामी ने कहा: इस प्रकार कृष्ण द्वारा पूछे जाने पर, जिनके रूप असीमित हैं, राजा ने, जिसका हेलमेट सूर्य के समान चमकीला था, भगवान माधव को प्रणाम किया और इस प्रकार उत्तर दिया।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "શુકદેવ ગોસ્વામીએ કહ્યું: આ રીતે કૃષ્ણ દ્વારા પ્રશ્ન કરવામાં આવ્યો, જેમના સ્વરૂપો અમર્યાદિત છે, રાજા, તેમનું હેલ્મેટ સૂર્યની જેમ ચમકતું હતું, ભગવાન માધવને પ્રણામ કર્યા અને નીચે પ્રમાણે જવાબ આપ્યો."
+            }
+        }
+    },
+    {
+        "id": 106410,
+        "sloka": "10.64.10",
+        "verse_id": 106410,
+        "verseNumber": 10,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "King Nṛga said: I am a king known as Nṛga, the son of Ikṣvāku. Perhaps, Lord, You have heard of me when lists of charitable men were recited."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "राजा नृग ने कहा: मैं इक्ष्वाकु का पुत्र नृग नाम से प्रसिद्ध राजा हूं। शायद, भगवान, आपने मेरे बारे में सुना होगा जब दान करने वाले व्यक्तियों की सूची का पाठ किया गया था।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "રાજા નૃગે કહ્યું: હું એક રાજા છું, જે ઇક્ષ્વાકુનો પુત્ર નૃગ તરીકે ઓળખાય છે. કદાચ, ભગવાન, તમે મારા વિશે સાંભળ્યું હશે જ્યારે સેવાભાવી માણસોની સૂચિ વાંચવામાં આવી હતી."
+            }
+        }
+    },
+    {
+        "id": 106411,
+        "sloka": "10.64.11",
+        "verse_id": 106411,
+        "verseNumber": 11,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "What could possibly be unknown to You, O master? With vision undisturbed by time, You witness the minds of all living beings. Nevertheless, on Your order I will speak."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "हे स्वामी, आपके लिए संभवतः क्या अज्ञात हो सकता है? समय से विचलित न होने वाली दृष्टि से, आप सभी जीवित प्राणियों के मन के साक्षी बनते हैं। फिर भी आपके आदेश पर मैं बोलूंगा."
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "હે સ્વામી, તમારા માટે શું અજાણ હોઈ શકે? સમય દ્વારા અવ્યવસ્થિત દ્રષ્ટિ સાથે, તમે બધા જીવોના મનના સાક્ષી છો. તેમ છતાં, તમારા આદેશ પર હું બોલીશ."
+            }
+        }
+    },
+    {
+        "id": 106412,
+        "sloka": "10.64.12",
+        "verse_id": 106412,
+        "verseNumber": 12,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "I gave in charity as many cows as there are grains of sand on the earth, stars in the heavens, or drops in a rain shower."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "मैंने उतनी गायें दान में दीं जितनी पृथ्वी पर रेत के कण हैं, आकाश में तारे हैं, या वर्षा की बूँदें हैं।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "પૃથ્વી પર રેતીના દાણા હોય, આકાશમાં તારાઓ હોય કે વરસાદના ટીપાં હોય એટલી ગાયો મેં દાનમાં આપી."
+            }
+        }
+    },
+    {
+        "id": 106413,
+        "sloka": "10.64.13",
+        "verse_id": 106413,
+        "verseNumber": 13,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Young, brown, milk-laden cows, who were well-behaved, beautiful and endowed with good qualities, who were all acquired honestly, and who had gilded horns, silver-plated hooves and decorations of fine ornamental cloths and garlands — such were the cows, along with their calves, that I gave in charity."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "युवा, भूरी, दूध से लदी गायें, जो अच्छे आचरण वाली, सुंदर और अच्छे गुणों से संपन्न थीं, जिन्हें ईमानदारी से हासिल किया गया था, और जिनके सोने के सींग, चांदी से जड़े हुए खुर और बढ़िया सजावटी कपड़े और मालाओं से सजावट की गई थी - ऐसी गायें थीं, उनके बछड़ों के साथ, जिन्हें मैंने दान में दे दिया था।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "યુવાન, કથ્થઈ, દૂધથી ભરેલી ગાયો, જે સારી વર્તણૂકવાળી, સુંદર અને સારા ગુણોથી સંપન્ન હતી, જેઓ બધા પ્રામાણિકપણે પ્રાપ્ત થયા હતા, અને જેમની પાસે સોનાના શિંગડા, ચાંદીના ઢોળાવ અને સુંદર સુશોભન વસ્ત્રો અને માળા હતી - આવી ગાયો, તેમના વાછરડાઓ સહિત, જે મેં દાનમાં આપી હતી."
+            }
+        }
+    },
+    {
+        "id": 106414,
+        "sloka": "10.64.14-15",
+        "verse_id": 106414,
+        "verseNumber": 14,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "I first honored the brāhmaṇas who were recipients of my charity by decorating them with fine ornaments. Those most exalted brāhmaṇas, whose families were in need, were young and possessed of excellent character and qualities. They were dedicated to truth, famous for their austerity, vastly learned in the Vedic scriptures and saintly in their behavior. I gave them cows, land, gold and houses, along with horses, elephants and marriageable girls with maidservants, as well as sesame, silver, fine beds, clothing, jewels, furniture and chariots. In addition, I performed Vedic sacrifices and executed various pious welfare activities."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "मैंने सबसे पहले मेरे दान के प्राप्तकर्ता ब्राह्मणों को उत्तम आभूषणों से अलंकृत करके उनका सम्मान किया। वे परम श्रेष्ठ ब्राह्मण, जिनके परिवार जरूरतमंद थे, युवा थे और उत्कृष्ट चरित्र और गुणों से युक्त थे। वे सत्य के प्रति समर्पित थे, अपनी तपस्या के लिए प्रसिद्ध थे, वैदिक धर्मग्रंथों के बड़े विद्वान थे और उनका आचरण संत जैसा था। मैंने उन्हें गायें, भूमि, सोना और घर, घोड़े, हाथी और दासियों सहित विवाह योग्य लड़कियाँ, साथ ही तिल, चाँदी, बढ़िया बिस्तर, कपड़े, गहने, फर्नीचर और रथ दिए। इसके अलावा, मैंने वैदिक यज्ञ किये और विभिन्न पवित्र कल्याणकारी गतिविधियाँ निष्पादित कीं।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "મેં સૌપ્રથમ બ્રાહ્મણોનું સન્માન કર્યું કે જેઓ મારા દાન મેળવનારા હતા તેમને સુંદર આભૂષણોથી શણગારીને. તે સૌથી ઉત્કૃષ્ટ બ્રાહ્મણો, જેમના પરિવારોની જરૂરિયાત હતી, તેઓ યુવાન હતા અને ઉત્તમ પાત્ર અને ગુણો ધરાવતા હતા. તેઓ સત્યને સમર્પિત હતા, તેમની તપસ્યા માટે પ્રખ્યાત હતા, વૈદિક શાસ્ત્રોમાં ઘણું શીખ્યા હતા અને તેમના વર્તનમાં સંત હતા. મેં તેમને ગાયો, જમીન, સોનું અને મકાનો, ઘોડાઓ, હાથીઓ અને દાસી સાથે લગ્ન કરવા યોગ્ય કન્યાઓ તેમજ તલ, ચાંદી, સુંદર પલંગ, વસ્ત્રો, ઝવેરાત, ફર્નિચર અને રથ આપ્યાં. આ ઉપરાંત, મેં વૈદિક યજ્ઞો કર્યા અને વિવિધ કલ્યાણકારી કાર્યો કર્યા."
+            }
+        }
+    },
+    {
+        "id": 106416,
+        "sloka": "10.64.16",
+        "verse_id": 106416,
+        "verseNumber": 16,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Once a cow belonging to a certain first-class brāhmaṇa wandered away and entered my herd. Unaware of this, I gave that cow in charity to a different brāhmaṇa."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "एक बार एक प्रथम श्रेणी के ब्राह्मण की गाय भटक कर मेरे झुण्ड में आ घुसी। इस बात से अनभिज्ञ होकर मैंने वह गाय एक दूसरे ब्राह्मण को दान में दे दी।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "એકવાર એક ચોક્કસ પ્રથમ વર્ગના બ્રાહ્મણની ગાય ભટકી ગઈ અને મારા ટોળામાં પ્રવેશી. આનાથી અજાણ, મેં તે ગાય બીજા બ્રાહ્મણને દાનમાં આપી."
+            }
+        }
+    },
+    {
+        "id": 106417,
+        "sloka": "10.64.17",
+        "verse_id": 106417,
+        "verseNumber": 17,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "When the cow’s first owner saw her being led away, he said, “She is mine!” The second brāhmaṇa, who had accepted her as a gift, replied, “No, she’s mine! Nṛga gave her to me.”"
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "जब गाय के पहले मालिक ने उसे ले जाते हुए देखा, तो उसने कहा, \"वह मेरी है!\" दूसरे ब्राह्मण ने, जिसने उसे उपहार के रूप में स्वीकार किया था, उत्तर दिया, \"नहीं, वह मेरी है! नृगा ने उसे मुझे दे दिया।\""
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "જ્યારે ગાયના પ્રથમ માલિકે તેણીને લઈ જતી જોઈ, ત્યારે તેણે કહ્યું, \"તે મારી છે!\" બીજા બ્રાહ્મણ, જેમણે તેણીને ભેટ તરીકે સ્વીકારી હતી, જવાબ આપ્યો, \"ના, તે મારી છે! નૃગાએ તેણીને મને આપી.\""
+            }
+        }
+    },
+    {
+        "id": 106418,
+        "sloka": "10.64.18",
+        "verse_id": 106418,
+        "verseNumber": 18,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "As the two brāhmaṇas argued, each trying to fulfill his own purpose, they came to me. One of them said, “You gave me this cow,” and the other said, “But you stole her from me.” Hearing this, I was bewildered."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "जैसे ही दोनों ब्राह्मण बहस कर रहे थे, प्रत्येक अपने उद्देश्य को पूरा करने की कोशिश कर रहे थे, वे मेरे पास आए। One of them said, “You gave me this cow,” and the other said, “But you stole her from me.” यह सुनकर मैं हतप्रभ रह गया."
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "જેમ કે બે બ્રાહ્મણોએ દલીલ કરી, દરેક પોતપોતાનો હેતુ પૂરો કરવાનો પ્રયાસ કરી રહ્યા હતા, તેઓ મારી પાસે આવ્યા. તેમાંથી એકે કહ્યું, \"તમે મને આ ગાય આપી,\" અને બીજાએ કહ્યું, \"પણ તે મારી પાસેથી ચોરી લીધી.\" આ સાંભળીને હું સ્તબ્ધ થઈ ગયો."
+            }
+        }
+    },
+    {
+        "id": 106419,
+        "sloka": "10.64.19-20",
+        "verse_id": 106419,
+        "verseNumber": 19,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Finding myself in a terrible dilemma concerning my duty in the situation, I humbly entreated both the brāhmaṇas: “I will give one hundred thousand of the best cows in exchange for this one. Please give her back to me. Your good selves should be merciful to me, your servant. I did not know what I was doing. Please save me from this difficult situation, or I’ll surely fall into a filthy hell.”"
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "इस स्थिति में अपने कर्तव्य को लेकर खुद को एक भयानक दुविधा में पाते हुए, मैंने विनम्रतापूर्वक दोनों ब्राह्मणों से विनती की: \"मैं इसके बदले में एक लाख सर्वोत्तम गायें दूंगा। कृपया उसे मुझे वापस दे दें। आपकी दयालुता मुझ पर, आपके सेवक पर दया होनी चाहिए। मुझे नहीं पता था कि मैं क्या कर रहा था। कृपया मुझे इस कठिन परिस्थिति से बचाएं, अन्यथा मैं निश्चित रूप से गंदे नरक में गिर जाऊंगा।\""
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "પરિસ્થિતિમાં મારી ફરજને લગતી એક ભયંકર મૂંઝવણમાં મારી જાતને શોધીને, મેં બંને બ્રાહ્મણોને નમ્રતાપૂર્વક વિનંતી કરી: \"હું આના બદલામાં એક લાખ શ્રેષ્ઠ ગાયો આપીશ. કૃપા કરીને તે મને પાછી આપો. તમારા સારા સ્વભાવો, તમારા સેવક, મારા પર દયાળુ હોવા જોઈએ. મને ખબર ન હતી કે હું શું કરી રહ્યો છું. કૃપા કરીને મને આ મુશ્કેલ પરિસ્થિતિમાંથી બચાવો, અથવા તે મને ખાતરીપૂર્વક બચાવી લેશે.\""
+            }
+        }
+    },
+    {
+        "id": 106421,
+        "sloka": "10.64.21",
+        "verse_id": 106421,
+        "verseNumber": 21,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "The present owner of the cow said, “I don’t want anything in exchange for this cow, O King,” and went away. The other brāhmaṇa declared, “I don’t want even ten thousand more cows [than you are offering],” and he too went away."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "गाय के वर्तमान मालिक ने कहा, \"हे राजा, मुझे इस गाय के बदले में कुछ भी नहीं चाहिए,\" और चला गया। दूसरे ब्राह्मण ने घोषणा की, \"मुझे (आप जितनी गायें दे रहे हैं) उससे दस हजार अधिक गायें भी नहीं चाहिए,\" और वह भी चला गया।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "ગાયના હાજર માલિકે કહ્યું, “મને આ ગાયના બદલામાં કંઈ જોઈતું નથી, હે રાજા,” અને ચાલ્યો ગયો. બીજા બ્રાહ્મણે જાહેર કર્યું, \"મારે દસ હજાર વધુ ગાયો પણ નથી જોઈતી [તમે ચઢાવો છો]\" અને તે પણ ચાલ્યો ગયો."
+            }
+        }
+    },
+    {
+        "id": 106422,
+        "sloka": "10.64.22",
+        "verse_id": 106422,
+        "verseNumber": 22,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "O Lord of lords, O master of the universe, the agents of Yamarāja, taking advantage of the opportunity thus created, later carried me to his abode. There Yamarāja himself questioned me."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "हे देवों के देव, हे ब्रह्मांड के स्वामी, यमराज के एजेंट, इस प्रकार उत्पन्न अवसर का लाभ उठाते हुए, बाद में मुझे अपने निवास स्थान पर ले गए। वहाँ यमराज ने स्वयं मुझसे प्रश्न किया।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "હે ભગવાનોના ભગવાન, હે બ્રહ્માંડના સ્વામી, યમરાજના એજન્ટો, આ રીતે સર્જાયેલી તકનો લાભ લઈને, મને પાછળથી તેમના ધામમાં લઈ ગયા. ત્યાં યમરાજે પોતે મને પ્રશ્ન કર્યો."
+            }
+        }
+    },
+    {
+        "id": 106423,
+        "sloka": "10.64.23",
+        "verse_id": 106423,
+        "verseNumber": 23,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "[Yamarāja said:] My dear King, do you wish to experience the results of your sins first, or those of your piety? Indeed, I see no end to the dutiful charity you have performed, or to your consequent enjoyment in the radiant heavenly planets."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "[यमराज ने कहा:] मेरे प्रिय राजा, क्या आप पहले अपने पापों का फल भोगना चाहते हैं, या अपनी धर्मपरायणता का? वास्तव में, मुझे आपके द्वारा किए गए कर्तव्यपरायण दान का, या उसके परिणामस्वरूप उज्ज्वल स्वर्गीय ग्रहों में आनंद का कोई अंत नहीं दिख रहा है।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "[યમરાજાએ કહ્યું:] મારા વ્હાલા રાજા, શું તમે તમારા પાપોનું પરિણામ પહેલા અનુભવવા માંગો છો કે તમારી ધર્મનિષ્ઠાનું? ખરેખર, તમે જે કર્તવ્યપૂર્ણ દાન કર્યું છે, અથવા તેજસ્વી સ્વર્ગીય ગ્રહોમાં તમારા પરિણામે આનંદનો મને કોઈ અંત નથી દેખાતો."
+            }
+        }
+    },
+    {
+        "id": 106424,
+        "sloka": "10.64.24",
+        "verse_id": 106424,
+        "verseNumber": 24,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "I replied, “First, my lord, let me suffer my sinful reactions,” and Yamarāja said, “Then fall!” At once I fell, and while falling I saw myself becoming a lizard, O master."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "मैंने उत्तर दिया, \"पहले, हे प्रभु, मुझे अपने पापों का फल भुगतने दो,\" और यमराज ने कहा, \"फिर गिरना!\" मैं तुरन्त गिर पड़ी और गिरते समय मैंने स्वयं को छिपकली बनते देखा, हे स्वामी।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "મેં જવાબ આપ્યો, \"પ્રથમ, મારા સ્વામી, મને મારી પાપી પ્રતિક્રિયાઓ ભોગવવા દો,\" અને યમરાજે કહ્યું, \"પછી પડો!\" તરત જ હું પડી ગયો, અને પડતી વખતે મેં મારી જાતને ગરોળી બનતા જોયા, હે માસ્ટર."
+            }
+        }
+    },
+    {
+        "id": 106425,
+        "sloka": "10.64.25",
+        "verse_id": 106425,
+        "verseNumber": 25,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "O Keśava, as Your servant I was devoted to the brāhmaṇas and generous to them, and I always hankered for Your audience. Therefore even till now I have never forgotten [my past life]."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "हे केशव, आपके सेवक के रूप में मैं ब्राह्मणों के प्रति समर्पित था और उनके प्रति उदार था, और मैं हमेशा आपके दर्शकों के लिए लालायित रहता था। इसलिये मैं अब तक भी अपना पिछला जीवन नहीं भूला हूं।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "હે કેશવ, તમારા સેવક તરીકે હું બ્રાહ્મણોને સમર્પિત અને તેમના માટે ઉદાર હતો, અને હું હંમેશા તમારા શ્રોતાઓ માટે આતુર હતો. તેથી પણ આજ સુધી હું [મારા પાછલા જીવનને] ક્યારેય ભૂલ્યો નથી."
+            }
+        }
+    },
+    {
+        "id": 106426,
+        "sloka": "10.64.26",
+        "verse_id": 106426,
+        "verseNumber": 26,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "O almighty one, how is it that my eyes see You here before me? You are the Supreme Soul, whom the greatest masters of mystic yoga can meditate upon within their pure hearts only by employing the spiritual eye of the Vedas. Then how, O transcendental Lord, are You directly visible to me, since my intelligence has been blinded by the severe tribulations of material life? Only one who has finished his material entanglement in this world should be able to see You."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "हे सर्वशक्तिमान, ऐसा कैसे हुआ कि मेरी आँखें तुम्हें यहाँ मेरे सामने देखती हैं? You are the Supreme Soul, whom the greatest masters of mystic yoga can meditate upon within their pure hearts only by employing the spiritual eye of the Vedas. फिर, हे दिव्य भगवान, आप मुझे प्रत्यक्ष रूप से कैसे दिखाई देते हैं, क्योंकि मेरी बुद्धि भौतिक जीवन के गंभीर क्लेशों से अंधी हो गई है? केवल वही व्यक्ति आपको देख पाएगा जिसने इस संसार में अपनी भौतिक उलझन को समाप्त कर लिया है।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "હે સર્વશક્તિમાન, મારી આંખો તમને અહીં મારી સમક્ષ કેવી રીતે જુએ છે? તમે પરમાત્મા છો, જેનું રહસ્યમય યોગના મહાન સ્વામીઓ ફક્ત વેદની આધ્યાત્મિક આંખનો ઉપયોગ કરીને તેમના શુદ્ધ હૃદયમાં ધ્યાન કરી શકે છે. તો પછી, હે દિવ્ય ભગવાન, તમે મને પ્રત્યક્ષ કેવી રીતે દેખાશો, કારણ કે મારી બુદ્ધિ ભૌતિક જીવનની ગંભીર વિપત્તિઓથી આંધળી થઈ ગઈ છે? જેણે આ જગતમાં પોતાની ભૌતિક ગૂંચવણો પૂરી કરી લીધી છે તે જ તમને જોઈ શકશે."
+            }
+        }
+    },
+    {
+        "id": 106427,
+        "sloka": "10.64.27-28",
+        "verse_id": 106427,
+        "verseNumber": 27,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "O Devadeva, Jagannātha, Govinda, Puruṣottama, Nārāyaṇa, Hṛṣīkeśa, Puṇyaśloka, Acyuta, Avyaya! O Kṛṣṇa, please permit me to depart for the world of the demigods. Wherever I live, O master, may my mind always take shelter of Your feet."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "हे देवदेव, जगन्नाथ, गोविंदा, पुरुषोत्तम, नारायण, हृषीकेश, पुण्यश्लोक, अच्युत, अव्यय! हे कृष्ण, कृपया मुझे देवताओं के लोक में प्रस्थान करने की अनुमति दें। हे गुरु, मैं जहां भी रहूं, मेरा मन सदैव आपके चरणों का आश्रय ले।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "હે દેવદેવ, જગન્નાથ, ગોવિંદ, પુરૂષોત્તમ, નારાયણ, ઋષિકેશ, પુણ્યશ્લોક, અચ્યુત, અવ્યય! હે કૃષ્ણ, કૃપા કરીને મને દેવતાઓની દુનિયામાં જવાની પરવાનગી આપો. હું જ્યાં પણ રહું છું, હે સ્વામી, મારું મન હંમેશા તમારા ચરણોનો આશ્રય લે."
+            }
+        }
+    },
+    {
+        "id": 106429,
+        "sloka": "10.64.29",
+        "verse_id": 106429,
+        "verseNumber": 29,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "I offer my repeated obeisances unto You, Kṛṣṇa, the son of Vasudeva. You are the source of all beings, the Supreme Absolute Truth, the possessor of unlimited potencies, the master of all spiritual disciplines."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "वासुदेव के पुत्र कृष्ण, मैं आपको बार-बार नमस्कार करता हूँ। आप सभी प्राणियों के स्रोत हैं, सर्वोच्च परम सत्य हैं, असीमित शक्तियों के स्वामी हैं, सभी आध्यात्मिक विषयों के स्वामी हैं।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "વાસુદેવના પુત્ર કૃષ્ણ, હું તમને વારંવાર પ્રણામ કરું છું. તમે બધા જીવોના સ્ત્રોત છો, પરમ સંપૂર્ણ સત્ય છો, અમર્યાદિત શક્તિઓના માલિક છો, બધી આધ્યાત્મિક વિદ્યાઓના માસ્ટર છો."
+            }
+        }
+    },
+    {
+        "id": 106430,
+        "sloka": "10.64.30",
+        "verse_id": 106430,
+        "verseNumber": 30,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Having spoken thus, Mahārāja Nṛga circumambulated Lord Kṛṣṇa and touched his crown to the Lord’s feet. Granted permission to depart, King Nṛga then boarded a wonderful celestial airplane as all the people present looked on."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "ऐसा कहकर महाराज नृग ने भगवान कृष्ण की परिक्रमा की और अपना मुकुट भगवान के चरणों से लगा दिया। प्रस्थान की अनुमति मिलने के बाद, राजा नृगा एक अद्भुत दिव्य विमान में सवार हो गए, जिसे उपस्थित सभी लोग देख रहे थे।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "આ રીતે બોલ્યા પછી, મહારાજા નૃગાએ ભગવાન કૃષ્ણની પ્રદક્ષિણા કરી અને તેમના મુગટને ભગવાનના ચરણોમાં સ્પર્શ કર્યો. પ્રસ્થાન કરવાની પરવાનગી આપવામાં આવી, રાજા નૃગ પછી એક અદ્ભુત અવકાશી વિમાનમાં સવાર થયા કારણ કે બધા હાજર લોકો તેની તરફ જોતા હતા."
+            }
+        }
+    },
+    {
+        "id": 106431,
+        "sloka": "10.64.31",
+        "verse_id": 106431,
+        "verseNumber": 31,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "The Supreme Personality of Godhead — Lord Kṛṣṇa, the son of Devakī — who is especially devoted to the brāhmaṇas and who embodies the essence of religion, then spoke to His personal associates and thus instructed the royal class in general."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "भगवान के सर्वोच्च व्यक्तित्व - भगवान कृष्ण, देवकी के पुत्र - जो विशेष रूप से ब्राह्मणों के प्रति समर्पित हैं और जो धर्म के सार का प्रतीक हैं, फिर उन्होंने अपने निजी सहयोगियों से बात की और इस प्रकार सामान्य रूप से शाही वर्ग को निर्देश दिया।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "ભગવાનના સર્વોચ્ચ વ્યક્તિત્વ - ભગવાન કૃષ્ણ, દેવકીના પુત્ર - જે ખાસ કરીને બ્રાહ્મણોને સમર્પિત છે અને જેઓ ધર્મના સારને મૂર્ત બનાવે છે, પછી તેમના અંગત સહયોગીઓ સાથે વાત કરી અને આમ સામાન્ય રીતે રાજવી વર્ગને સૂચના આપી."
+            }
+        }
+    },
+    {
+        "id": 106432,
+        "sloka": "10.64.32",
+        "verse_id": 106432,
+        "verseNumber": 32,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "[Lord Kṛṣṇa said:] How indigestible is the property of a brāhmaṇa, even when enjoyed just slightly and by one more potent than fire! What then to speak of kings who try to enjoy it, presuming themselves lords."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "[भगवान कृष्ण ने कहा:] ब्राह्मण की संपत्ति कितनी अपचनीय है, भले ही उसका थोड़ा सा और अग्नि से भी अधिक शक्तिशाली व्यक्ति द्वारा उपभोग किया गया हो! फिर उन राजाओं के बारे में क्या कहा जाए जो स्वयं को स्वामी मानकर इसका आनंद लेने का प्रयास करते हैं।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "[ભગવાન કૃષ્ણે કહ્યું:] બ્રાહ્મણની મિલકત કેટલી અજીર્ણ છે, ભલે તે અગ્નિ કરતાં પણ વધુ શક્તિશાળી હોય તો પણ તેનો થોડોક આનંદ લેવામાં આવે! તો પછી રાજાઓની તો શું વાત કરવી કે જેઓ પોતાને સ્વામી માનીને તેનો આનંદ માણવાનો પ્રયાસ કરે છે."
+            }
+        }
+    },
+    {
+        "id": 106433,
+        "sloka": "10.64.33",
+        "verse_id": 106433,
+        "verseNumber": 33,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "I do not consider hālāhala to be real poison, because it has an antidote. But a brāhmaṇa’s property, when stolen, can truly be called poison, for it has no antidote in this world."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "मैं हलाहल को असली जहर नहीं मानता, क्योंकि इसमें मारक औषधि है। लेकिन ब्राह्मण की संपत्ति चोरी होने पर वास्तव में जहर कही जा सकती है, क्योंकि इस दुनिया में इसका कोई इलाज नहीं है।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "હું હલાહલાને વાસ્તવિક ઝેર માનતો નથી, કારણ કે તેમાં મારણ છે. પરંતુ બ્રાહ્મણની મિલકત, જ્યારે ચોરાઈ જાય, ત્યારે તેને ખરેખર ઝેર કહી શકાય, કારણ કે આ દુનિયામાં તેનો કોઈ મારણ નથી."
+            }
+        }
+    },
+    {
+        "id": 106434,
+        "sloka": "10.64.34",
+        "verse_id": 106434,
+        "verseNumber": 34,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Poison kills only the person who ingests it, and an ordinary fire may be extinguished with water. But the fire generated from the kindling wood of a brāhmaṇa’s property burns the thief’s entire family down to the root."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "ज़हर केवल उसी व्यक्ति को मारता है जो इसे खाता है, और एक साधारण आग को पानी से बुझाया जा सकता है। लेकिन एक ब्राह्मण की संपत्ति की जलती हुई लकड़ी से उत्पन्न आग चोर के पूरे परिवार को जड़ तक जला देती है।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "ઝેર ફક્ત તે જ વ્યક્તિને મારી નાખે છે જે તેને પીવે છે, અને સામાન્ય આગ પાણીથી ઓલવી શકાય છે. પરંતુ બ્રાહ્મણની સંપત્તિના સળગતા લાકડામાંથી ઉત્પન્ન થતી અગ્નિ ચોરના સમગ્ર પરિવારને જડમૂળ સુધી બાળી નાખે છે."
+            }
+        }
+    },
+    {
+        "id": 106435,
+        "sloka": "10.64.35",
+        "verse_id": 106435,
+        "verseNumber": 35,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "If a person enjoys a brāhmaṇa’s property without receiving due permission, that property destroys three generations of his family. But if he takes it by force or gets the government or other outsiders to help him usurp it, then ten generations of his ancestors and ten generations of his descendants are all destroyed."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "यदि कोई व्यक्ति उचित अनुमति प्राप्त किए बिना ब्राह्मण की संपत्ति का उपभोग करता है, तो वह संपत्ति उसके परिवार की तीन पीढ़ियों को नष्ट कर देती है। परन्तु यदि वह उसे बलपूर्वक ले लेता है, या सरकार या अन्य बाहरी लोगों से उसे हड़पने में सहायता करवा लेता है, तो उसके पूर्वजों की दस पीढ़ियाँ और उसके वंशजों की दस पीढ़ियाँ नष्ट हो जाती हैं।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "જો કોઈ વ્યક્તિ યોગ્ય પરવાનગી લીધા વિના બ્રાહ્મણની મિલકત ભોગવે છે, તો તે મિલકત તેના પરિવારની ત્રણ પેઢીઓનો નાશ કરે છે. પરંતુ જો તે બળજબરીથી તેને લઈ લે અથવા તેને હડપ કરવા માટે સરકાર અથવા અન્ય બહારના લોકોને મદદ કરે, તો તેના પૂર્વજોની દસ પેઢીઓ અને તેના વંશજોની દસ પેઢીઓનો નાશ થાય છે."
+            }
+        }
+    },
+    {
+        "id": 106436,
+        "sloka": "10.64.36",
+        "verse_id": 106436,
+        "verseNumber": 36,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Members of the royal order, blinded by royal opulence, fail to foresee their own downfall. Childishly hankering to enjoy a brāhmaṇa’s property, they are actually hankering to go to hell."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "शाही व्यवस्था के सदस्य, शाही वैभव से अंधे होकर, अपने स्वयं के पतन की भविष्यवाणी करने में विफल रहते हैं। ब्राह्मण की संपत्ति का आनंद लेने के लिए बचकानी लालसा रखते हुए, वे वास्तव में नरक में जाने की लालसा रखते हैं।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "શાહી ઐશ્વર્યથી અંધ થયેલા શાહી હુકમના સભ્યો તેમના પોતાના પતનની આગાહી કરવામાં નિષ્ફળ જાય છે. બાલિશ રીતે બ્રાહ્મણની મિલકતનો આનંદ માણવાની ઝંખના, તેઓ ખરેખર નરકમાં જવાની ઝંખના કરે છે."
+            }
+        }
+    },
+    {
+        "id": 106437,
+        "sloka": "10.64.37-38",
+        "verse_id": 106437,
+        "verseNumber": 37,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "For as many years as there are particles of dust touched by the tears of generous brāhmaṇas who have dependent families and whose property is stolen, uncontrolled kings who usurp a brāhmaṇa’s property are cooked, along with their royal families, in the hell known as Kumbhīpāka."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "जिन उदार ब्राह्मणों के आश्रित परिवार होते हैं और जिनकी संपत्ति चोरी हो जाती है, उनके आंसुओं से छूए गए धूल के कण जितने वर्षों तक ब्राह्मण की संपत्ति हड़पने वाले अनियंत्रित राजा होते हैं, उन्हें उनके शाही परिवारों सहित कुंभीपाक नामक नरक में पकाया जाता है।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "જેટલા વર્ષો સુધી ઉદાર બ્રાહ્મણોના આંસુથી ધૂળના રજકણો સ્પર્શે છે જેમના આશ્રિત પરિવારો છે અને જેમની સંપત્તિ ચોરાઈ છે, બ્રાહ્મણની સંપત્તિ હડપ કરનાર અનિયંત્રિત રાજાઓ તેમના રાજવી પરિવારો સાથે, કુંભીપાક તરીકે ઓળખાતા નરકમાં રાંધવામાં આવે છે."
+            }
+        }
+    },
+    {
+        "id": 106439,
+        "sloka": "10.64.39",
+        "verse_id": 106439,
+        "verseNumber": 39,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Whether it be his own gift or someone else’s, a person who steals a brāhmaṇa’s property will take birth as a worm in feces for sixty thousand years."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "चाहे वह अपना उपहार हो या किसी और का, जो व्यक्ति ब्राह्मण की संपत्ति चुराता है वह साठ हजार वर्षों तक मल में कीड़े के रूप में जन्म लेता है।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "પોતાની ભેટ હોય કે બીજા કોઈની હોય, બ્રાહ્મણની મિલકત ચોરનાર વ્યક્તિ સાઠ હજાર વર્ષ સુધી મળમાં કીડા બનીને જન્મ લેશે."
+            }
+        }
+    },
+    {
+        "id": 106440,
+        "sloka": "10.64.40",
+        "verse_id": 106440,
+        "verseNumber": 40,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "I do not desire brāhmaṇas’ wealth. Those who lust after it become short-lived and are defeated. They lose their kingdoms and become snakes, who trouble others."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "मुझे ब्राह्मणों का धन नहीं चाहिए. जो लोग इसकी लालसा करते हैं वे अल्पायु हो जाते हैं और पराजित हो जाते हैं। वे अपना राज्य खो देते हैं और साँप बन जाते हैं, जो दूसरों को परेशान करते हैं।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "હું બ્રાહ્મણોની સંપત્તિ ઈચ્છતો નથી. જેઓ તેની પાછળ વાસના કરે છે તે અલ્પજીવી બની જાય છે અને પરાજિત થાય છે. તેઓ તેમના સામ્રાજ્ય ગુમાવે છે અને સાપ બની જાય છે, જે બીજાઓને તકલીફ આપે છે."
+            }
+        }
+    },
+    {
+        "id": 106441,
+        "sloka": "10.64.41",
+        "verse_id": 106441,
+        "verseNumber": 41,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "My dear followers, never treat a learned brāhmaṇa harshly, even if he has sinned. Even if he attacks you physically or repeatedly curses you, always continue to offer him obeisances."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "मेरे प्रिय अनुयायियों, किसी विद्वान ब्राह्मण के साथ कभी भी कठोरता से व्यवहार न करें, भले ही उसने पाप किया हो। भले ही वह आप पर शारीरिक हमला करे या आपको बार-बार शाप दे, हमेशा उसे नमस्कार करते रहें।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "મારા વહાલા અનુયાયીઓ, વિદ્વાન બ્રાહ્મણ સાથે ક્યારેય કઠોર વર્તન ન કરો, ભલે તેણે પાપ કર્યું હોય. જો તે તમારા પર શારીરિક હુમલો કરે અથવા વારંવાર તમને શાપ આપે, તો પણ હંમેશા તેને પ્રણામ કરવાનું ચાલુ રાખો."
+            }
+        }
+    },
+    {
+        "id": 106442,
+        "sloka": "10.64.42",
+        "verse_id": 106442,
+        "verseNumber": 42,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Just us I always carefully bow down to brāhmaṇas, so all of you should likewise bow down to them. I will punish anyone who acts otherwise."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "Just us I always carefully bow down to brāhmaṇas, so all of you should likewise bow down to them. जो कोई अन्यथा कार्य करेगा उसे मैं दण्ड दूँगा।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "ફક્ત આપણે જ હું હંમેશા બ્રાહ્મણોને કાળજીપૂર્વક નમન કરું છું, તેથી તમે બધાએ પણ તેમને નમન કરવું જોઈએ. જે કોઈ અન્યથા કામ કરશે તેને હું સજા કરીશ."
+            }
+        }
+    },
+    {
+        "id": 106443,
+        "sloka": "10.64.43",
+        "verse_id": 106443,
+        "verseNumber": 43,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "When a brāhmaṇa’s property is stolen, even unknowingly, it certainly causes the person who takes it to fall down, just as the brāhmaṇa’s cow did to Nṛga."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "जब किसी ब्राह्मण की संपत्ति चोरी हो जाती है, भले ही अनजाने में, तो यह निश्चित रूप से उस व्यक्ति को नीचे गिरा देती है जो उसे लेता है, जैसे कि ब्राह्मण की गाय ने नृगा के साथ किया था।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "જ્યારે બ્રાહ્મણની મિલકત ચોરાઈ જાય છે, અજાણતા પણ, તે ચોક્કસપણે તેને લેનાર વ્યક્તિ નીચે પડી જાય છે, જેમ બ્રાહ્મણની ગાયે નરગને કરી હતી."
+            }
+        }
+    },
+    {
+        "id": 106444,
+        "sloka": "10.64.44",
+        "verse_id": 106444,
+        "verseNumber": 44,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Having thus instructed the residents of Dvārakā, Lord Mukunda, purifier of all the worlds, entered His palace."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "इस प्रकार द्वारका के निवासियों को निर्देश देकर, सभी लोकों के पवित्रकर्ता भगवान मुकुंद ने अपने महल में प्रवेश किया।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "આ રીતે દ્વારકાના રહેવાસીઓને સૂચના આપીને, ભગવાન મુકુંદ, જે તમામ જગતના શુદ્ધિકરણ છે, તેમના મહેલમાં પ્રવેશ્યા."
+            }
+        }
+    }
+]
