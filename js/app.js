@@ -10,7 +10,6 @@ let endX = 0;
 let previousScreen = null; // Track where user came from
 
 // DOM elements
-const cantoScreen = document.getElementById('canto-screen');
 const chaptersScreen = document.getElementById('chapters-screen');
 const versesScreen = document.getElementById('verses-screen');
 const verseDetailScreen = document.getElementById('verse-detail-screen');
@@ -22,7 +21,7 @@ const chapterTitle = document.getElementById('chapter-title');
 const backBtn = document.getElementById('back-btn');
 const mainFloatingBtn = document.getElementById('main-floating-btn');
 const floatingMenu = document.getElementById('floating-menu');
-const bookmarkBtn = document.getElementById('bookmark-btn');
+const bookmarkBtn = document.getElementById('header-bookmark-btn');
 const headerTitle = document.getElementById('header-title');
 
 // Initialize app
@@ -49,14 +48,7 @@ async function init() {
 
         // Render chapters
         renderChapters();
-
-        // Setup Canto 10 Card click handler
-        const canto10Card = document.getElementById('canto-10-card');
-        if (canto10Card) {
-            canto10Card.addEventListener('click', () => {
-                switchScreen(chaptersScreen);
-            });
-        }
+        checkAndShowBookmarkResume();
 
         // Setup navigation
         setupNavigation();
@@ -102,7 +94,11 @@ function showChapter(chapter) {
     const chapterVerses = verses.filter(v => v.chapter_number === chapter.chapter_number).sort((a, b) => a.verse_number - b.verse_number);
     versesList.innerHTML = '';
 
+    const summaryCard = document.getElementById('chapter-summary-card');
+    const summaryText = document.getElementById('chapter-summary-text');
+
     if (chapterVerses.length === 0) {
+        if (summaryCard) summaryCard.style.display = 'none';
         // Render unseeded chapters with a summary view
         const item = document.createElement('div');
         item.className = 'glass-card';
@@ -119,6 +115,34 @@ function showChapter(chapter) {
         `;
         versesList.appendChild(item);
     } else {
+        if (summaryCard && summaryText && chapter.chapter_summary) {
+            let shortSummary = chapter.chapter_summary;
+            if (shortSummary.length > 220) {
+                shortSummary = shortSummary.substring(0, 210) + '...';
+                summaryText.innerHTML = `${shortSummary} <span class="read-more-toggle" style="color: var(--color-electric-blue); font-weight: 600; cursor: pointer; margin-left: 5px;">Read More</span>`;
+                
+                const toggle = summaryText.querySelector('.read-more-toggle');
+                if (toggle) {
+                    toggle.onclick = (e) => {
+                        e.stopPropagation();
+                        summaryText.innerHTML = `${chapter.chapter_summary} <span class="read-less-toggle" style="color: var(--color-electric-blue); font-weight: 600; cursor: pointer; margin-left: 5px;">Read Less</span>`;
+                        const lessToggle = summaryText.querySelector('.read-less-toggle');
+                        if (lessToggle) {
+                            lessToggle.onclick = (ev) => {
+                                ev.stopPropagation();
+                                showChapter(chapter); // Reset
+                            };
+                        }
+                    };
+                }
+            } else {
+                summaryText.textContent = shortSummary;
+            }
+            summaryCard.style.display = 'block';
+        } else if (summaryCard) {
+            summaryCard.style.display = 'none';
+        }
+
         chapterVerses.forEach(verse => {
             const item = document.createElement('div');
             item.className = 'verse-item';
@@ -190,8 +214,18 @@ async function showVerse(verse) {
     // Setup interactive controls
     setupVerseNavigation();
     setupLanguagePills();
+    setupFavoriteButton();
     setupBookmarkButton();
     setupShareButton();
+
+    // Toggle multi-sloka layout class for combined/long verses
+    const delimiterCount = (verse.text.match(/॥/g) || []).length;
+    const isMultiSloka = delimiterCount > 2 || verse.text.length > 200;
+    if (isMultiSloka) {
+        verseDetailScreen.classList.add('multi-sloka-layout');
+    } else {
+        verseDetailScreen.classList.remove('multi-sloka-layout');
+    }
 
     switchScreen(verseDetailScreen);
 }
@@ -387,10 +421,8 @@ function goToPreviousScreen() {
         }
     } else if (currentActiveScreen === versesScreen) {
         switchScreen(chaptersScreen);
-    } else if (currentActiveScreen === chaptersScreen) {
-        switchScreen(cantoScreen);
     } else if (currentActiveScreen === settingsScreen || currentActiveScreen === bookmarksScreen) {
-        switchScreen(cantoScreen);
+        switchScreen(chaptersScreen);
     }
 }
 
@@ -467,26 +499,21 @@ function switchScreen(screen) {
     // Add CSS classes for active state styling
     document.body.classList.remove('canto-active', 'verse-detail-active', 'chapters-active', 'verses-active', 'settings-active', 'bookmarks-active');
     
-    if (screen === cantoScreen) {
-        document.body.classList.add('canto-active');
-        document.getElementById('verse-navigation').style.display = 'none';
-        document.getElementById('floating-settings-btn').style.display = 'block';
-        if (headerTitle) headerTitle.textContent = 'श्रीमद्भागवत पुराण';
-    } else if (screen === chaptersScreen) {
+    if (screen === chaptersScreen) {
         document.body.classList.add('chapters-active');
         document.getElementById('verse-navigation').style.display = 'none';
         document.getElementById('floating-settings-btn').style.display = 'block';
-        if (headerTitle) headerTitle.textContent = 'श्रीमद्भागवत पुराण';
+        if (headerTitle) headerTitle.innerHTML = '<img src="images/app-navbar-logo-yellow-transparent.png" alt="श्रीमद्भागवत पुराण" id="header-logo">';
     } else if (screen === versesScreen) {
         document.body.classList.add('verses-active');
         document.getElementById('verse-navigation').style.display = 'none';
         document.getElementById('floating-settings-btn').style.display = 'block';
-        if (headerTitle) headerTitle.textContent = 'श्रीमद्भागवत पुराण';
+        if (headerTitle) headerTitle.innerHTML = '<img src="images/app-navbar-logo-yellow-transparent.png" alt="श्रीमद्भागवत पुराण" id="header-logo">';
     } else if (screen === verseDetailScreen) {
         document.body.classList.add('verse-detail-active');
         document.getElementById('verse-navigation').style.display = 'flex';
         document.getElementById('floating-settings-btn').style.display = 'none';
-        if (headerTitle) headerTitle.textContent = 'श्रीमद्भागवत पुराण';
+        if (headerTitle) headerTitle.innerHTML = '<img src="images/app-navbar-logo-yellow-transparent.png" alt="श्रीमद्भागवत पुराण" id="header-logo">';
     } else if (screen === settingsScreen) {
         document.body.classList.add('settings-active');
         document.getElementById('verse-navigation').style.display = 'none';
@@ -500,10 +527,18 @@ function switchScreen(screen) {
     }
 
     // Hide back button only on home screen
-    if (screen === cantoScreen) {
+    if (screen === chaptersScreen) {
         backBtn.style.display = 'none';
+        checkAndShowBookmarkResume();
     } else {
         backBtn.style.display = 'block';
+    }
+
+    // Show header bookmark button only on verse detail screen
+    if (screen === verseDetailScreen) {
+        bookmarkBtn.style.display = 'flex';
+    } else {
+        bookmarkBtn.style.display = 'none';
     }
 }
 
@@ -551,30 +586,57 @@ function initFloatingMenu() {
         updatedMainFloatingBtn.classList.remove('opened');
         updatedMainFloatingBtn.innerHTML = '<i class="fas fa-cog"></i>';
     });
+
+    document.getElementById('floating-bookmark-btn').addEventListener('click', (e) => {
+        e.stopPropagation();
+        updatedFloatingMenu.classList.remove('show');
+        updatedMainFloatingBtn.classList.remove('opened');
+        updatedMainFloatingBtn.innerHTML = '<i class="fas fa-cog"></i>';
+
+        const activeB = getActiveBookmark();
+        if (activeB) {
+            const verseObj = verses.find(v => v.id === activeB.verseId);
+            if (verseObj) {
+                const chapterObj = chapters.find(c => c.chapter_number === verseObj.chapter_number);
+                if (chapterObj) currentChapter = chapterObj;
+                showVerse(verseObj);
+            } else {
+                showToast("बुकमार्क श्लोक नहीं मिला।");
+            }
+        } else {
+            showToast("कोई बुकमार्क सेट नहीं है। श्लोक स्क्रीन के ऊपर बुकमार्क आइकन दबाएं।");
+        }
+    });
 }
 
-// Local Storage Bookmarking
-function getBookmarks() {
-    const bookmarks = localStorage.getItem('bhagavatam_bookmarks');
-    return bookmarks ? JSON.parse(bookmarks) : [];
+// Favorites Database (Heart Icon list)
+function getFavorites() {
+    let favorites = localStorage.getItem('bhagavatam_favorites');
+    if (!favorites) {
+        const oldBookmarks = localStorage.getItem('bhagavatam_bookmarks');
+        if (oldBookmarks) {
+            favorites = oldBookmarks;
+            localStorage.setItem('bhagavatam_favorites', oldBookmarks);
+        }
+    }
+    return favorites ? JSON.parse(favorites) : [];
 }
 
-function saveBookmarks(bookmarks) {
-    localStorage.setItem('bhagavatam_bookmarks', JSON.stringify(bookmarks));
+function saveFavorites(favorites) {
+    localStorage.setItem('bhagavatam_favorites', JSON.stringify(favorites));
 }
 
-// Check if a verse is bookmarked
-function isBookmarked(verseId) {
-    const bookmarks = getBookmarks();
-    return bookmarks.some(bookmark => bookmark.verseId === verseId);
+function isFavorite(verseId) {
+    const favorites = getFavorites();
+    return favorites.some(fav => fav.verseId === verseId);
 }
 
-function addBookmark(verse) {
-    const bookmarks = getBookmarks();
+function addFavorite(verse) {
+    const favorites = getFavorites();
     const chapterTranslations = translations[verse.chapter_number] || [];
     const translation = chapterTranslations.find(t => t.verse_id === verse.id);
 
-    const bookmark = {
+    const fav = {
         verseId: verse.id,
         chapterNumber: verse.chapter_number,
         verseNumber: verse.verse_number,
@@ -585,16 +647,88 @@ function addBookmark(verse) {
         dateAdded: new Date().toISOString()
     };
 
-    bookmarks.push(bookmark);
-    saveBookmarks(bookmarks);
-    updateBookmarkButton();
+    favorites.push(fav);
+    saveFavorites(favorites);
+    updateFavoriteButton();
+    showToast('श्लोक पसंदीदा में जोड़ दिया गया है!');
 }
 
-function removeBookmark(verseId) {
-    const bookmarks = getBookmarks();
-    const filteredBookmarks = bookmarks.filter(bookmark => bookmark.verseId !== verseId);
-    saveBookmarks(filteredBookmarks);
+function removeFavorite(verseId) {
+    const favorites = getFavorites();
+    const filtered = favorites.filter(fav => fav.verseId !== verseId);
+    saveFavorites(filtered);
+    updateFavoriteButton();
+    showToast('पसंदीदा से हटा दिया गया है!');
+}
+
+function updateFavoriteButton() {
+    const favoriteBtn = document.getElementById('favorite-btn');
+    if (!currentVerse || !favoriteBtn) return;
+
+    if (isFavorite(currentVerse.id)) {
+        favoriteBtn.classList.add('bookmarked');
+        favoriteBtn.innerHTML = '<i class="fas fa-heart"></i>';
+    } else {
+        favoriteBtn.classList.remove('bookmarked');
+        favoriteBtn.innerHTML = '<i class="far fa-heart"></i>';
+    }
+}
+
+function setupFavoriteButton() {
+    const favoriteBtn = document.getElementById('favorite-btn');
+    if (favoriteBtn) {
+        updateFavoriteButton();
+        favoriteBtn.removeEventListener('click', handleFavoriteClick);
+        favoriteBtn.addEventListener('click', handleFavoriteClick);
+    }
+}
+
+function handleFavoriteClick() {
+    if (!currentVerse) return;
+    if (isFavorite(currentVerse.id)) {
+        removeFavorite(currentVerse.id);
+    } else {
+        addFavorite(currentVerse);
+    }
+}
+
+// Single Active Bookmark (Navbar Bookmark Icon)
+function getActiveBookmark() {
+    const activeB = localStorage.getItem('bhagavatam_active_bookmark');
+    return activeB ? JSON.parse(activeB) : null;
+}
+
+function isBookmarked(verseId) {
+    const activeB = getActiveBookmark();
+    return activeB && activeB.verseId === verseId;
+}
+
+function addBookmark(verse) {
+    const activeB = {
+        verseId: verse.id,
+        chapterNumber: verse.chapter_number,
+        verseNumber: verse.verse_number
+    };
+    localStorage.setItem('bhagavatam_active_bookmark', JSON.stringify(activeB));
     updateBookmarkButton();
+    checkAndShowBookmarkResume();
+    showToast('श्लोक बुकमार्क कर लिया गया है!');
+}
+
+function removeBookmark() {
+    localStorage.removeItem('bhagavatam_active_bookmark');
+    updateBookmarkButton();
+    checkAndShowBookmarkResume();
+    showToast('बुकमार्क हटा दिया गया है!');
+}
+
+function handleBookmarkClick() {
+    if (!currentVerse) return;
+    if (isBookmarked(currentVerse.id)) {
+        removeBookmark();
+    } else {
+        addBookmark(currentVerse);
+    }
 }
 
 function updateBookmarkButton() {
@@ -602,38 +736,67 @@ function updateBookmarkButton() {
 
     if (isBookmarked(currentVerse.id)) {
         bookmarkBtn.classList.add('bookmarked');
-        bookmarkBtn.innerHTML = '<i class="fas fa-heart"></i>';
+        bookmarkBtn.innerHTML = '<i class="fas fa-bookmark"></i>';
     } else {
         bookmarkBtn.classList.remove('bookmarked');
-        bookmarkBtn.innerHTML = '<i class="far fa-heart"></i>';
+        bookmarkBtn.innerHTML = '<i class="far fa-bookmark"></i>';
     }
 }
 
-// Render Bookmarks
+function setupBookmarkButton() {
+    updateBookmarkButton();
+    bookmarkBtn.removeEventListener('click', handleBookmarkClick);
+    bookmarkBtn.addEventListener('click', handleBookmarkClick);
+}
+
+function checkAndShowBookmarkResume() {
+    const resumeBanner = document.getElementById('bookmark-resume-banner');
+    const resumeVerseText = document.getElementById('bookmark-resume-verse');
+    if (!resumeBanner || !resumeVerseText) return;
+
+    const activeB = getActiveBookmark();
+    if (activeB) {
+        resumeVerseText.textContent = `श्लोक 10.${activeB.chapterNumber}.${activeB.verseNumber}`;
+        resumeBanner.style.display = 'flex';
+        
+        resumeBanner.onclick = () => {
+            const verseObj = verses.find(v => v.id === activeB.verseId);
+            if (verseObj) {
+                const chapterObj = chapters.find(c => c.chapter_number === verseObj.chapter_number);
+                if (chapterObj) currentChapter = chapterObj;
+                showVerse(verseObj);
+            }
+        };
+    } else {
+        resumeBanner.style.display = 'none';
+    }
+}
+
+// Render Bookmarks (Favorite Verses List)
 function renderBookmarks() {
     const bookmarksList = document.getElementById('bookmarks-list');
-    const bookmarks = getBookmarks();
+    const favorites = getFavorites();
 
-    if (bookmarks.length === 0) {
+    if (favorites.length === 0) {
         bookmarksList.innerHTML = `
             <div class="glass-card" style="text-align: center; padding: 40px; margin: 20px;">
                 <i class="fas fa-heart" style="font-size: 48px; color: rgba(255, 255, 255, 0.15); margin-bottom: 20px;"></i>
-                <h3 style="color: var(--color-gold); margin-bottom: 10px;">No Bookmarks Yet</h3>
-                <p style="color: var(--color-text-muted);">Start bookmarking your favorite verses to see them here.</p>
+                <h3 style="color: var(--color-gold); margin-bottom: 10px;">No Favorites Yet</h3>
+                <p style="color: var(--color-text-muted);">Start marking your favorite verses to see them here.</p>
             </div>
         `;
         return;
     }
 
     bookmarksList.innerHTML = '';
-    bookmarks.reverse().forEach(bookmark => {
+    favorites.reverse().forEach(bookmark => {
         const bookmarkItem = document.createElement('div');
         bookmarkItem.className = 'bookmark-item';
         const cleanedText = bookmark.text.replace(/\n\s*([०-९0-9\s\-–]+)॥/g, ' $1॥').replace(/\n/g, '<br>');
         bookmarkItem.innerHTML = `
             <div class="bookmark-header">
                 <span class="bookmark-sloka-number">श्लोक 10.${bookmark.chapterNumber}.${bookmark.verseNumber}</span>
-                <button class="remove-bookmark-btn" data-verse-id="${bookmark.verseId}">
+                <button class="remove-bookmark-btn" data-verse-id="${bookmark.verseId}" title="Remove from Favorites">
                     <i class="fas fa-times"></i>
                 </button>
             </div>
@@ -650,7 +813,7 @@ function renderBookmarks() {
         const removeBtn = bookmarkItem.querySelector('.remove-bookmark-btn');
         removeBtn.addEventListener('click', (e) => {
             e.stopPropagation();
-            removeBookmark(bookmark.verseId);
+            removeFavorite(bookmark.verseId);
             renderBookmarks();
         });
 

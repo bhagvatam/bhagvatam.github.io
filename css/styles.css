@@ -64,13 +64,13 @@ header {
     background: #E6A623;
     backdrop-filter: blur(20px);
     -webkit-backdrop-filter: blur(20px);
-    padding: 15px 20px;
+    padding: 4px 20px;
     display: flex;
     justify-content: space-between;
     align-items: center;
     box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
     z-index: 1000;
-    border-bottom: 1px solid rgba(255, 255, 255, 0.25);
+    border-bottom: 1px solid rgba(165, 37, 44, 0.18);
 }
 
 header h1 {
@@ -82,12 +82,45 @@ header h1 {
     letter-spacing: 1px;
 }
 
+#header-logo {
+    max-height: 82px;
+    max-width: 95%;
+    object-fit: contain;
+    vertical-align: middle;
+    display: inline-block;
+    transition: var(--transition-smooth);
+}
+
 .header-buttons {
     position: absolute;
     right: 20px;
     display: flex;
     align-items: center;
     gap: 15px;
+}
+
+#header-bookmark-btn {
+    background: transparent;
+    color: var(--color-royal-blue);
+    border: none;
+    cursor: pointer;
+    font-size: 1.55rem;
+    transition: var(--transition-smooth);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 38px;
+    height: 38px;
+    outline: none;
+}
+
+#header-bookmark-btn:hover {
+    transform: scale(1.1);
+    color: var(--color-electric-blue);
+}
+
+#header-bookmark-btn.bookmarked {
+    color: var(--color-electric-blue);
 }
 
 #back-btn {
@@ -143,7 +176,7 @@ header h1 {
 /* Main Content Area */
 main {
     flex: 1;
-    padding: 85px 15px 95px 15px; /* Spacing for header and footer */
+    padding: 102px 15px 95px 15px; /* Spacing for header and footer */
     overflow-y: auto;
     -webkit-overflow-scrolling: touch;
 }
@@ -161,161 +194,93 @@ main {
     transform: translateY(0);
 }
 
-/* Canto Selection Screen (Home) */
-#canto-screen {
-    max-width: 800px;
-    margin: 0 auto;
-    padding-bottom: 30px;
-}
-
-.canto-header-banner {
+.chapters-header-section {
     text-align: center;
-    margin-bottom: 35px;
-    position: relative;
-    padding: 25px 20px;
-    background: rgba(165, 37, 44, 0.08);
-    border: 1px solid rgba(165, 37, 44, 0.15);
-    border-radius: 20px;
-    backdrop-filter: blur(10px);
-    box-shadow: inset 0 0 20px rgba(165, 37, 44, 0.05);
-}
-
-.canto-header-banner.image-banner {
-    padding: 0;
-    overflow: hidden;
-    height: 260px;
-    border: 1px solid rgba(165, 37, 44, 0.2);
-    box-shadow: 0 8px 32px 0 rgba(0, 0, 0, 0.15);
+    margin-bottom: 25px;
+    padding: 10px 0;
     background: none;
+    border: none;
+    border-radius: 0;
     backdrop-filter: none;
-}
-
-.hero-image {
-    width: 100%;
-    height: 100%;
-    object-fit: cover;
-    object-position: center 25%;
-    display: block;
-}
-
-.canto-header-banner h2 {
-    color: var(--color-royal-blue);
-    font-size: 1.8rem;
-    font-weight: 700;
-    margin-bottom: 6px;
-    text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.1);
-}
-
-.canto-header-banner p {
-    color: var(--color-text-muted);
-    font-size: 0.95rem;
-    font-style: italic;
-}
-
-#canto-list {
-    display: flex;
-    flex-direction: column;
-    gap: 20px;
-}
-
-.canto-card {
-    background: var(--glass-bg);
-    border: 1px solid var(--glass-border);
-    border-radius: 20px;
-    padding: 22px;
-    position: relative;
-    transition: var(--transition-smooth);
-    overflow: hidden;
-}
-
-.canto-card.active {
-    cursor: pointer;
-    border-left: 5px solid var(--color-amber);
-}
-
-.canto-card.active:hover {
-    transform: translateY(-3px);
-    border-color: rgba(255, 130, 0, 0.4);
-    box-shadow: 0 12px 40px rgba(255, 130, 0, 0.15);
-}
-
-.canto-card.locked {
-    background: rgba(255, 255, 255, 0.25);
-    backdrop-filter: blur(8px);
-    -webkit-backdrop-filter: blur(8px);
-    border: 1px dashed rgba(165, 37, 44, 0.2);
-    border-left: 5px solid var(--color-text-muted);
-    opacity: 0.6;
+    -webkit-backdrop-filter: none;
     box-shadow: none;
-    cursor: not-allowed;
 }
 
-.canto-card-badge {
-    position: absolute;
-    top: 15px;
-    right: 20px;
-    background: rgba(255, 130, 0, 0.15);
-    color: var(--color-amber);
-    border: 1px solid rgba(255, 130, 0, 0.3);
-    padding: 4px 12px;
-    border-radius: 30px;
-    font-size: 0.75rem;
-    font-weight: 600;
-}
-
-.canto-card-badge.locked-badge {
-    background: rgba(255, 255, 255, 0.05);
-    color: var(--color-text-muted);
-    border-color: rgba(255, 255, 255, 0.1);
-}
-
-.canto-card-body h3 {
-    color: var(--color-gold);
-    font-size: 1.3rem;
+.chapters-header-section h2 {
+    color: var(--color-royal-blue);
+    font-size: 1.45rem;
     font-weight: 700;
-    margin-bottom: 8px;
+    margin-bottom: 4px;
 }
 
-.canto-title-hindi {
-    color: var(--color-saffron-light);
-    font-size: 1rem;
-    font-weight: 500;
-    margin-bottom: 10px;
-}
-
-.canto-summary {
-    font-size: 0.9rem;
-    line-height: 1.55;
+.chapters-header-section p {
     color: var(--color-text-muted);
-    margin-bottom: 15px;
-    text-align: justify;
+    font-size: 0.9rem;
+    font-weight: 500;
 }
 
-.canto-stats-row {
+.bookmark-resume-banner {
     display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 14px 20px;
+    background: rgba(255, 255, 255, 0.45); /* Translucent glass */
+    border: 1px solid var(--glass-border);
+    border-radius: 16px;
+    margin-bottom: 20px;
+    cursor: pointer;
+    transition: var(--transition-smooth);
+    backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(10px);
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.05);
+}
+
+.bookmark-resume-banner:hover {
+    transform: translateY(-2px);
+    background: rgba(247, 200, 68, 0.22); /* Warm golden tint on hover */
+    border-color: rgba(230, 166, 35, 0.45);
+    box-shadow: 0 6px 20px rgba(230, 166, 35, 0.12);
+}
+
+.bookmark-resume-content {
+    display: flex;
+    align-items: center;
     gap: 15px;
 }
 
-.canto-stat-pill {
-    background: rgba(255, 130, 0, 0.08);
-    border: 1px solid rgba(255, 130, 0, 0.2);
-    color: var(--color-gold);
-    padding: 4px 10px;
-    border-radius: 8px;
-    font-size: 0.75rem;
-    font-weight: 600;
-    display: flex;
-    align-items: center;
-    gap: 6px;
+.bookmark-resume-icon {
+    color: var(--color-electric-blue);
+    font-size: 1.45rem;
 }
 
-.lock-indicator {
-    font-size: 0.8rem;
-    color: var(--color-text-muted);
-    font-weight: 600;
+.bookmark-resume-text {
     display: flex;
-    align-items: center;
-    gap: 6px;
+    flex-direction: column;
+    gap: 2px;
+}
+
+.bookmark-resume-title {
+    font-size: 0.76rem;
+    text-transform: uppercase;
+    font-weight: 700;
+    color: var(--color-royal-blue);
+    letter-spacing: 0.5px;
+}
+
+.bookmark-resume-details {
+    font-size: 1.05rem;
+    font-weight: 600;
+    color: var(--color-text-main);
+}
+
+.bookmark-resume-arrow {
+    color: var(--color-royal-blue);
+    font-size: 1.1rem;
+    transition: var(--transition-smooth);
+}
+
+.bookmark-resume-banner:hover .bookmark-resume-arrow {
+    transform: translateX(3px);
 }
 
 /* Chapters Screen */
@@ -1173,9 +1138,9 @@ footer {
 footer p {
     color: var(--color-gold);
     margin: 0;
-    font-size: 0.8rem;
+    font-size: 0.95rem;
     letter-spacing: 0.5px;
-    font-weight: 500;
+    font-weight: 600;
 }
 
 .footer-sloka {
@@ -1209,16 +1174,34 @@ footer p {
 
 /* Media Queries for Responsiveness */
 @media (max-width: 600px) {
+    header {
+        padding: 3px 15px;
+    }
+
     header h1 {
         font-size: 1.55rem;
     }
     
-    .canto-header-banner.image-banner {
-        height: 180px;
+    #header-logo {
+        max-height: 64px;
+        max-width: 90%;
+    }
+    
+    .chapters-header-section {
+        padding: 5px 0;
+        margin-bottom: 15px;
+    }
+    
+    .chapters-header-section h2 {
+        font-size: 1.25rem;
+    }
+    
+    .chapters-header-section p {
+        font-size: 0.82rem;
     }
     
     main {
-        padding: 75px 10px 85px 10px;
+        padding: 88px 10px 85px 10px;
     }
     
     #chapters-list {
@@ -1299,4 +1282,36 @@ footer p {
 #toast.show {
     opacity: 1;
     transform: translateX(-50%) translateY(0);
+}
+
+/* Styling overrides for long/multi-sloka detail pages */
+.multi-sloka-layout #verse-text {
+    font-size: 1.08rem !important;
+    line-height: 1.75 !important;
+}
+
+.multi-sloka-layout #verse-transliteration {
+    font-size: 0.88rem !important;
+    line-height: 1.6 !important;
+}
+
+.multi-sloka-layout #verse-translation {
+    font-size: 0.98rem !important;
+    line-height: 1.55 !important;
+}
+
+/* Mobile responsive multi-sloka layout overrides */
+@media (max-width: 600px) {
+    .multi-sloka-layout #verse-text {
+        font-size: 1.02rem !important;
+    }
+    
+    .multi-sloka-layout #verse-transliteration {
+        font-size: 0.8rem !important;
+    }
+    
+    .multi-sloka-layout #verse-translation {
+        font-size: 0.88rem !important;
+        padding: 12px !important;
+    }
 }

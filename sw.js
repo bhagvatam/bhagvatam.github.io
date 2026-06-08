@@ -1,4 +1,4 @@
-const CACHE_NAME = '1.8.0';
+const CACHE_NAME = '2.3.0';
 const urlsToCache = [
     './',
     './index.html',
@@ -6,6 +6,7 @@ const urlsToCache = [
     './js/app.js',
     './manifest.json',
     './images/yellow_bg.png',
+    './images/app-navbar-logo-yellow-transparent.png',
     './assets/chapters.json',
     './assets/verse.json',
     'https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.4.0/js/all.min.js'
