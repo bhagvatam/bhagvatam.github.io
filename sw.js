@@ -1,4 +1,4 @@
-const CACHE_NAME = '2.8.0';
+const CACHE_NAME = '2.9.0';
 const urlsToCache = [
     './',
     './index.html',
@@ -9,6 +9,7 @@ const urlsToCache = [
     './images/app-navbar-logo-yellow-transparent.png',
     './assets/chapters.json',
     './assets/verse.json',
+    './assets/timeline.json',
     'https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.4.0/js/all.min.js'
 ];
 

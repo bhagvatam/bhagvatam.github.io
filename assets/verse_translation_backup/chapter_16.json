@@ -1,0 +1,1428 @@
+[
+    {
+        "id": 101601,
+        "sloka": "10.16.1",
+        "verse_id": 101601,
+        "verseNumber": 1,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Śukadeva Gosvāmī said: Lord Śrī Kṛṣṇa, the Supreme Personality of Godhead, seeing that the Yamunā River had been contaminated by the black snake Kāliya, desired to purify the river, and thus the Lord banished him from it."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "शुकदेव गोस्वामी ने कहा: परमपुरुष भगवान श्रीकृष्ण ने जब देखा कि यमुना नदी काले नाग कालिया द्वारा दूषित हो गई है, तो उन्होंने नदी को शुद्ध करने की इच्छा की, और इस प्रकार भगवान ने उन्हें इससे दूर कर दिया।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "શુકદેવ ગોસ્વામીએ કહ્યું: ભગવાન શ્રી કૃષ્ણ, પરમ પુરૂષ ભગવાન, યમુના નદીને કાળા નાગ કાલિય દ્વારા દૂષિત થયેલ જોઈને, નદીને શુદ્ધ કરવાની ઈચ્છા થઈ, અને આ રીતે ભગવાને તેમને તેમાંથી કાઢી મૂક્યા."
+            }
+        }
+    },
+    {
+        "id": 101602,
+        "sloka": "10.16.2",
+        "verse_id": 101602,
+        "verseNumber": 2,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "King Parīkṣit inquired: O learned sage, please explain how the Supreme Personality of Godhead chastised the serpent Kāliya within the unfathomable waters of the Yamunā, and how it was that Kāliya had been living there for so many ages."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "राजा परीक्षित ने पूछा: हे विद्वान ऋषि, कृपया बताएं कि भगवान के परम व्यक्तित्व ने यमुना के अथाह जल में कालिया नाग को कैसे दंडित किया, और ऐसा कैसे हुआ कि कालिया इतने युगों से वहां रह रहा था।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "રાજા પરીક્ષિતે પૂછ્યું: હે વિદ્વાન ઋષિ, કૃપા કરીને સમજાવો કે કેવી રીતે પરમપુરુષ ભગવાને યમુનાના અગમ્ય જળની અંદર સર્પ કાલિયાને શિક્ષા કરી, અને કેવી રીતે કાલિય ત્યાં આટલા યુગોથી રહેતો હતો."
+            }
+        }
+    },
+    {
+        "id": 101603,
+        "sloka": "10.16.3",
+        "verse_id": 101603,
+        "verseNumber": 3,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "O brāhmaṇa, the unlimited Supreme Personality of Godhead freely acts according to His own desires. Who could be satiated when hearing the nectar of the magnanimous pastimes He performed as a cowherd boy in Vṛndāvana?"
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "हे ब्राह्मण, भगवान का असीमित परम व्यक्तित्व स्वतंत्र रूप से अपनी इच्छाओं के अनुसार कार्य करता है। वृन्दावन में एक चरवाहे लड़के के रूप में उन्होंने जो उदार लीलाएँ कीं, उनका अमृत सुनकर कौन तृप्त हो सकता है?"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "હે બ્રાહ્મણ, ભગવાનના અમર્યાદિત પરમ પુરૂષ મુક્તપણે તેમની પોતાની ઇચ્છાઓ અનુસાર કાર્ય કરે છે. વૃંદાવનમાં ગોવાળો છોકરો તરીકે તેણે કરેલા ભવ્ય મનોરંજનનું અમૃત સાંભળીને કોણ તૃપ્ત થઈ શકે?"
+            }
+        }
+    },
+    {
+        "id": 101604,
+        "sloka": "10.16.4",
+        "verse_id": 101604,
+        "verseNumber": 4,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Śrī Śukadeva Gosvāmī said: Within the river Kālindī [Yamunā] was a lake inhabited by the serpent Kāliya, whose fiery poison constantly heated and boiled its waters. Indeed, the vapors thus created were so poisonous that birds flying over the contaminated lake would fall down into it."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "श्री शुकदेव गोस्वामी ने कहा: कालिंदी (यमुना) नदी के भीतर एक झील थी जिसमें कालिया नाग रहता था, जिसका उग्र जहर लगातार गर्म होता था और उसका पानी उबलता रहता था। वास्तव में, इस प्रकार उत्पन्न वाष्प इतने जहरीले थे कि दूषित झील के ऊपर उड़ने वाले पक्षी उसमें गिर जाते थे।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "શ્રી શુકદેવ ગોસ્વામીએ કહ્યું: કાલિંદી [યમુના] નદીની અંદર એક સરોવર હતું જેમાં સર્પ કાલિયા રહેતો હતો, જેનું અગ્નિનું ઝેર તેના પાણીને સતત ગરમ અને ઉકાળતું હતું. ખરેખર, આ રીતે બનાવેલી વરાળ એટલી ઝેરી હતી કે દૂષિત તળાવ પર ઉડતા પક્ષીઓ તેમાં પડી જતા."
+            }
+        }
+    },
+    {
+        "id": 101605,
+        "sloka": "10.16.5",
+        "verse_id": 101605,
+        "verseNumber": 5,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "The wind blowing over that deadly lake carried droplets of water to the shore. Simply by coming in contact with that poisonous breeze, all vegetation and creatures on the shore died."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "उस घातक झील के ऊपर बहने वाली हवा पानी की बूंदों को किनारे तक ले जाती थी। उस जहरीली हवा के संपर्क में आने से ही तट की सारी वनस्पतियां और जीव-जंतु मर गये।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "તે જીવલેણ સરોવર પર ફૂંકાતા પવન પાણીના ટીપાંને કિનારે લઈ ગયા. ફક્ત તે ઝેરી પવનના સંપર્કમાં આવવાથી, તમામ વનસ્પતિ અને કિનારા પરના જીવો મૃત્યુ પામ્યા."
+            }
+        }
+    },
+    {
+        "id": 101606,
+        "sloka": "10.16.6",
+        "verse_id": 101606,
+        "verseNumber": 6,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Lord Kṛṣṇa saw how the Kāliya serpent had polluted the Yamunā River with his terribly powerful poison. Since Kṛṣṇa had descended from the spiritual world specifically to subdue envious demons, the Lord immediately climbed to the top of a very high kadamba tree and prepared Himself for battle. He tightened His belt, slapped His arms and then jumped into the poisonous water."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "भगवान कृष्ण ने देखा कि कैसे कालिया नाग ने अपने अत्यंत शक्तिशाली जहर से यमुना नदी को प्रदूषित कर दिया था। चूँकि कृष्ण विशेष रूप से ईर्ष्यालु राक्षसों को वश में करने के लिए आध्यात्मिक दुनिया से अवतरित हुए थे, भगवान तुरंत एक बहुत ऊँचे कदंब पेड़ की चोटी पर चढ़ गए और खुद को युद्ध के लिए तैयार किया। उसने अपनी बेल्ट कस ली, अपनी बाँहों पर थप्पड़ मारा और फिर जहरीले पानी में कूद गया।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "ભગવાન કૃષ્ણે જોયું કે કેવી રીતે કાલિયા નાગએ યમુના નદીને તેના ભયંકર શક્તિશાળી ઝેરથી પ્રદૂષિત કરી દીધી હતી. કૃષ્ણ આધ્યાત્મિક જગતમાંથી ખાસ કરીને ઈર્ષાળુ રાક્ષસોને વશ કરવા માટે ઉતર્યા હોવાથી, ભગવાન તરત જ એક ખૂબ ઊંચા કદંબ વૃક્ષની ટોચ પર ચઢ્યા અને પોતાને યુદ્ધ માટે તૈયાર કર્યા. તેણે પોતાનો પટ્ટો બાંધ્યો, તેના હાથ પર થપ્પડ મારી અને પછી ઝેરી પાણીમાં કૂદી પડ્યો."
+            }
+        }
+    },
+    {
+        "id": 101607,
+        "sloka": "10.16.7",
+        "verse_id": 101607,
+        "verseNumber": 7,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "When the Supreme Personality of Godhead landed in the serpent’s lake, the snakes there became extremely agitated and began breathing heavily, further polluting it with volumes of poison. The force of the Lord’s entrance into the lake caused it to overflow on all sides, and poisonous, fearsome waves flooded the surrounding lands up to a distance of one hundred bow-lengths. This is not at all amazing, however, for the Supreme Lord possesses infinite strength."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "जब भगवान का परम व्यक्तित्व सर्प की झील में उतरा, तो वहां के सांप बेहद उत्तेजित हो गए और जोर-जोर से सांस लेने लगे, जिससे वह जहर की मात्रा से और अधिक प्रदूषित हो गया। झील में भगवान के प्रवेश के बल ने इसे चारों तरफ से भर दिया, और जहरीली, भयानक लहरों ने आसपास की भूमि को एक सौ धनुष-लंबाई की दूरी तक भर दिया। हालाँकि, यह बिल्कुल भी आश्चर्यजनक नहीं है, क्योंकि सर्वोच्च भगवान के पास अनंत शक्ति है।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "જ્યારે ભગવાનના પરમ પુરૂષ સર્પના તળાવમાં ઉતર્યા, ત્યારે ત્યાંના સાપ ખૂબ જ ઉશ્કેરાઈ ગયા અને ભારે શ્વાસ લેવા લાગ્યા, અને તેને ઝેરના જથ્થાથી વધુ પ્રદૂષિત કર્યા. સરોવરમાં ભગવાનના પ્રવેશના બળથી તે ચારે બાજુથી વહેતું થઈ ગયું, અને ઝેરી, ભયાનક તરંગો આસપાસની જમીનોને સો ધનુષ્ય-લંબાઈના અંતર સુધી છલકાઈ ગયા. જો કે, આ બિલકુલ આશ્ચર્યજનક નથી, કારણ કે પરમ ભગવાન અનંત શક્તિ ધરાવે છે."
+            }
+        }
+    },
+    {
+        "id": 101608,
+        "sloka": "10.16.8",
+        "verse_id": 101608,
+        "verseNumber": 8,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Kṛṣṇa began sporting in Kāliya’s lake like a lordly elephant — swirling His mighty arms and making the water resound in various ways. When Kāliya heard these sounds, he understood that someone was trespassing in his lake. The serpent could not tolerate this and immediately came forward."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "कृष्ण ने कालिया की झील में एक हाथी की तरह खेलना शुरू कर दिया - अपनी शक्तिशाली भुजाओं को घुमाते हुए और पानी को विभिन्न तरीकों से गूंजा दिया। जब कालिया ने ये आवाजें सुनीं तो वह समझ गया कि कोई उसके सरोवर में अतिक्रमण कर रहा है। नाग यह सहन नहीं कर सका और तुरंत आगे आ गया।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "કૃષ્ણે કાલિયાના સરોવરમાં સ્વામી હાથીની જેમ રમત રમવાનું શરૂ કર્યું - તેમના શક્તિશાળી હાથો ઘૂમતા અને પાણીને વિવિધ રીતે ગૂંજતા. જ્યારે કાલિયાએ આ અવાજો સાંભળ્યા, ત્યારે તે સમજી ગયો કે તેના તળાવમાં કોઈ અતિક્રમણ કરી રહ્યું છે. નાગ આ સહન ન કરી શક્યો અને તરત જ આગળ આવ્યો."
+            }
+        }
+    },
+    {
+        "id": 101609,
+        "sloka": "10.16.9",
+        "verse_id": 101609,
+        "verseNumber": 9,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Kāliya saw that Śrī Kṛṣṇa, who wore yellow silken garments, was very delicate, His attractive body shining like a glowing white cloud, His chest bearing the mark of Śrīvatsa, His face smiling beautifully and His feet resembling the whorl of a lotus flower. The Lord was playing fearlessly in the water. Despite His wonderful appearance, the envious Kāliya furiously bit Him on the chest and then completely enwrapped Him in his coils."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "कालिया ने देखा कि पीले रेशमी वस्त्र पहनने वाले श्री कृष्ण बहुत ही नाजुक थे, उनका आकर्षक शरीर चमकदार सफेद बादल की तरह चमक रहा था, उनकी छाती पर श्रीवत्स का निशान था, उनका चेहरा सुंदर मुस्कुरा रहा था और उनके पैर कमल के फूल के समान थे। भगवान निर्भय होकर जल में क्रीड़ा कर रहे थे। उनके अद्भुत रूप के बावजूद, ईर्ष्यालु कालिया ने क्रोधपूर्वक उनकी छाती पर काटा और फिर उन्हें पूरी तरह से अपनी कुंडलियों में लपेट लिया।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "કાલિયાએ જોયું કે શ્રી કૃષ્ણ, જેમણે પીળા રેશમી વસ્ત્રો પહેર્યા હતા, તે ખૂબ જ નાજુક હતા, તેમનું આકર્ષક શરીર ચમકતા સફેદ વાદળની જેમ ચમકતું હતું, તેમની છાતી પર શ્રીવત્સનું નિશાન હતું, તેમનો ચહેરો સુંદર સ્મિત કરતો હતો અને તેમના પગ કમળના ફૂલ જેવા હતા. ભગવાન પાણીમાં નિર્ભયતાથી રમતા હતા. તેમના અદ્ભુત દેખાવ હોવા છતાં, ઈર્ષાળુ કાલિયાએ ગુસ્સે થઈને તેમને છાતી પર ડંખ માર્યો અને પછી તેમને સંપૂર્ણ રીતે તેમની કોઇલમાં વીંટાળ્યા."
+            }
+        }
+    },
+    {
+        "id": 101610,
+        "sloka": "10.16.10",
+        "verse_id": 101610,
+        "verseNumber": 10,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "When the members of the cowherd community, who had accepted Kṛṣṇa as their dearmost friend, saw Him enveloped in the snake’s coils, motionless, they were greatly disturbed. They had offered Kṛṣṇa everything — their very selves, their families, their wealth, wives and all pleasures. At the sight of the Lord in the clutches of the Kāliya snake, their intelligence became deranged by grief, lamentation and fear, and thus they fell to the ground."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "जब चरवाहे समुदाय के सदस्यों ने, जिन्होंने कृष्ण को अपने सबसे प्रिय मित्र के रूप में स्वीकार किया था, उन्हें सांप की कुंडलियों में लिपटे हुए, निश्चल देखा, तो वे बहुत परेशान हो गए। उन्होंने कृष्ण को सब कुछ अर्पित कर दिया था - स्वयं, अपना परिवार, धन, पत्नियाँ और सभी सुख। भगवान को कालिया नाग के चंगुल में देखकर उनकी बुद्धि शोक, विलाप और भय से विकृत हो गई और वे भूमि पर गिर पड़े।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "જ્યારે ગોવાળ સમુદાયના સભ્યો, જેમણે કૃષ્ણને તેમના સૌથી પ્રિય મિત્ર તરીકે સ્વીકાર્યા હતા, તેમણે તેમને સાપની કોઇલમાં લપેટાયેલા, ગતિહીન જોયા, તેઓ ખૂબ જ વ્યથિત થયા. તેઓએ કૃષ્ણને બધું જ અર્પણ કર્યું હતું - તેઓની જાત, તેમના પરિવારો, તેમની સંપત્તિ, પત્નીઓ અને તમામ આનંદ. કાલિયા સાપની પકડમાં ભગવાનના દર્શન થતાં, તેમની બુદ્ધિ શોક, વિલાપ અને ભયથી વિકૃત થઈ ગઈ અને આ રીતે તેઓ જમીન પર પડ્યા."
+            }
+        }
+    },
+    {
+        "id": 101611,
+        "sloka": "10.16.11",
+        "verse_id": 101611,
+        "verseNumber": 11,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "The cows, bulls and female calves, in great distress, called out piteously to Kṛṣṇa. Fixing their eyes on Him, they stood still in fear, as if ready to cry but too shocked to shed tears."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "गायें, बैल और बछड़ियाँ बड़े संकट में पड़कर करुण स्वर में कृष्ण को पुकारने लगीं। अपनी आँखें उस पर टिकाकर, वे डर के मारे स्थिर खड़े रहे, मानो रोने को तैयार हों, लेकिन आँसू बहाने के लिए बहुत सदमे में हों।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "ગાયો, બળદ અને માદા વાછરડાઓ, ખૂબ જ તકલીફમાં, કૃષ્ણને દયાથી પોકાર્યા. તેમની નજર તેમના પર સ્થિર કરીને, તેઓ ભયભીત થઈને ઊભા હતા, જાણે કે રડવા માટે તૈયાર હોય પણ આંસુ વહાવવા માટે ખૂબ આઘાત લાગે."
+            }
+        }
+    },
+    {
+        "id": 101612,
+        "sloka": "10.16.12",
+        "verse_id": 101612,
+        "verseNumber": 12,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "In the Vṛndāvana area there then arose all three types of fearful omens — those on the earth, those in the sky and those in the bodies of living creatures — which announced imminent danger."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "वृन्दावन क्षेत्र में तब तीनों प्रकार के भयानक शकुन प्रकट हुए - पृथ्वी पर, आकाश में और जीवित प्राणियों के शरीर में - जो आसन्न खतरे की घोषणा करते थे।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "વૃંદાવન વિસ્તારમાં ત્યારબાદ ત્રણેય પ્રકારના ભયજનક શુકનો ઉદભવ્યા - જે પૃથ્વી પર છે, તે આકાશમાં છે અને તે જીવંત પ્રાણીઓના શરીરમાં છે - જે નિકટવર્તી ભયની જાહેરાત કરે છે."
+            }
+        }
+    },
+    {
+        "id": 101613,
+        "sloka": "10.16.13-15",
+        "verse_id": 101613,
+        "verseNumber": 13,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Seeing the inauspicious omens, Nanda Mahārāja and the other cowherd men were fearful, for they knew that Kṛṣṇa had gone to herd the cows that day without His elder brother, Balarāma. Because they had dedicated their minds to Kṛṣṇa, accepting Him as their very life, they were unaware of His great power and opulence. Thus they concluded that the inauspicious omens indicated He had met with death, and they were overwhelmed with grief, lamentation and fear. All the inhabitants of Vṛndāvana, including the children, women and elderly persons, thought of Kṛṣṇa just as a cow thinks of her helpless young calf, and thus these poor, suffering people rushed out of the village, intent upon finding Him."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "अपशकुन देखकर नंद महाराज और अन्य चरवाहे भयभीत हो गए, क्योंकि वे जानते थे कि कृष्ण उस दिन अपने बड़े भाई बलराम के बिना गाय चराने गए थे। चूँकि उन्होंने अपना मन कृष्ण को समर्पित कर दिया था, उन्हें अपना जीवन मानते हुए, वे उनकी महान शक्ति और ऐश्वर्य से अनजान थे। इस प्रकार उन्होंने निष्कर्ष निकाला कि अशुभ संकेतों से संकेत मिलता है कि उनकी मृत्यु हो गई है, और वे शोक, विलाप और भय से अभिभूत थे। बच्चों, महिलाओं और बुजुर्गों सहित वृन्दावन के सभी निवासी कृष्ण के बारे में उसी तरह सोचते थे जैसे एक गाय अपने असहाय युवा बछड़े के बारे में सोचती है, और इस तरह ये गरीब, पीड़ित लोग उन्हें खोजने के इरादे से गाँव से बाहर भाग गए।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "અશુભ શુકન જોઈને, નંદ મહારાજ અને અન્ય ગોવાળિયાઓ ગભરાઈ ગયા, કારણ કે તેઓ જાણતા હતા કે તે દિવસે કૃષ્ણ તેમના મોટા ભાઈ બલરામ વિના ગાયોના ધણ માટે ગયા હતા. કારણ કે તેઓએ તેમનું મન કૃષ્ણને સમર્પિત કર્યું હતું, તેમને તેમના જીવન તરીકે સ્વીકાર્યા હતા, તેઓ તેમની મહાન શક્તિ અને ઐશ્વર્યથી અજાણ હતા. આમ તેઓ નિષ્કર્ષ પર આવ્યા કે અશુભ શુકન સૂચવે છે કે તે મૃત્યુ સાથે મળ્યા હતા, અને તેઓ શોક, વિલાપ અને ભયથી ભરાઈ ગયા હતા. વૃંદાવનના તમામ રહેવાસીઓ, બાળકો, સ્ત્રીઓ અને વૃદ્ધો સહિત, કૃષ્ણ વિશે એવું જ વિચારતા હતા જેમ કે ગાય તેના અસહાય વાછરડા વિશે વિચારે છે, અને આ રીતે આ ગરીબ, પીડિત લોકો તેમને શોધવાના હેતુથી ગામની બહાર દોડી આવ્યા હતા."
+            }
+        }
+    },
+    {
+        "id": 101616,
+        "sloka": "10.16.16",
+        "verse_id": 101616,
+        "verseNumber": 16,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "The Supreme Lord Balarāma, the master of all transcendental knowledge, smiled and said nothing when He saw the residents of Vṛndāvana in such distress, since He understood the extraordinary power of His younger brother."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "सभी दिव्य ज्ञान के स्वामी, परम भगवान बलराम, जब उन्होंने वृन्दावन के निवासियों को इतने संकट में देखा, तो मुस्कुराए और कुछ नहीं कहा, क्योंकि वे अपने छोटे भाई की असाधारण शक्ति को समझते थे।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "પરમ ભગવાન બલરામ, સર્વ દિવ્ય જ્ઞાનના સ્વામી, જ્યારે તેમણે વૃંદાવનના રહેવાસીઓને આવી તકલીફમાં જોયા ત્યારે સ્મિત કર્યું અને કંઈ બોલ્યા નહીં, કારણ કે તેઓ તેમના નાના ભાઈની અસાધારણ શક્તિને સમજતા હતા."
+            }
+        }
+    },
+    {
+        "id": 101617,
+        "sloka": "10.16.17",
+        "verse_id": 101617,
+        "verseNumber": 17,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "The residents hurried toward the banks of the Yamunā in search of their dearmost Kṛṣṇa, following the path marked by His footprints, which bore the unique signs of the Personality of Godhead."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "निवासी अपने प्रियतम कृष्ण की तलाश में, उनके पदचिन्हों द्वारा चिह्नित पथ का अनुसरण करते हुए, जिन पर भगवान के व्यक्तित्व के अद्वितीय चिह्न थे, तेजी से यमुना के तट की ओर चल पड़े।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "રહેવાસીઓ તેમના સૌથી પ્રિય કૃષ્ણની શોધમાં યમુનાના કિનારે દોડી ગયા, તેમના પદચિહ્નો દ્વારા ચિહ્નિત થયેલ માર્ગને અનુસરીને, જે ભગવાનના વ્યક્તિત્વના અનન્ય ચિહ્નો ધરાવે છે."
+            }
+        }
+    },
+    {
+        "id": 101618,
+        "sloka": "10.16.18",
+        "verse_id": 101618,
+        "verseNumber": 18,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "The footprints of Lord Kṛṣṇa, the master of the entire cowherd community, were marked with the lotus flower, barleycorn, elephant goad, thunderbolt and flag. My dear King Parīkṣit, seeing His footprints on the path among the cows’ hoofprints, the residents of Vṛndāvana rushed along in great haste."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "संपूर्ण चरवाहा समुदाय के स्वामी, भगवान कृष्ण के पदचिह्नों को कमल के फूल, जौ के दाने, हाथी का अंकुश, वज्र और ध्वज के साथ चिह्नित किया गया था। मेरे प्रिय राजा परीक्षित, रास्ते में गायों के खुरों के बीच उनके पैरों के निशान देखकर, वृन्दावन के निवासी बड़ी तेजी से दौड़ पड़े।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "સમગ્ર ગોવાળિયા સમુદાયના માસ્ટર ભગવાન કૃષ્ણના પગના નિશાન, કમળના ફૂલ, જવના દાણા, હાથીનો ગોડો, વજ્ર અને ધ્વજથી ચિહ્નિત હતા. મારા વ્હાલા રાજા પરીક્ષિત, ગાયોના ખૂંખાર વચ્ચેના માર્ગ પર તેમના પગના નિશાન જોઈને, વૃંદાવનના રહેવાસીઓ ખૂબ જ ઉતાવળમાં દોડી આવ્યા."
+            }
+        }
+    },
+    {
+        "id": 101619,
+        "sloka": "10.16.19",
+        "verse_id": 101619,
+        "verseNumber": 19,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "As they hurried along the path to the bank of the Yamunā River, they saw from a distance that Kṛṣṇa was in the lake, motionless within the coils of the black serpent. They further saw that the cowherd boys had fallen unconscious and that the animals were standing on all sides, crying out for Kṛṣṇa. Seeing all this, the residents of Vṛndāvana were overwhelmed with anguish and confusion."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "जैसे ही वे यमुना नदी के किनारे की ओर तेजी से बढ़े, उन्होंने दूर से देखा कि कृष्ण झील में काले नाग की कुंडली के भीतर निश्चल थे। उन्होंने आगे देखा कि चरवाहे लड़के बेहोश हो गए थे और जानवर हर तरफ खड़े थे, कृष्ण को रो रहे थे। यह सब देखकर वृन्दावनवासी दुःख और भ्रम से अभिभूत हो गये।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "જ્યારે તેઓ યમુના નદીના કિનારે ઉતાવળ કરતા હતા, ત્યારે તેઓએ દૂરથી જોયું કે કૃષ્ણ સરોવરમાં છે, કાળા સર્પના કોઇલની અંદર ગતિહીન છે. તેઓએ આગળ જોયું કે ગોવાળો છોકરાઓ બેભાન થઈ ગયા હતા અને પ્રાણીઓ ચારે બાજુ ઉભા હતા, કૃષ્ણ માટે પોકાર કરી રહ્યા હતા. આ બધું જોઈને વૃંદાવનના રહેવાસીઓ વ્યથા અને મૂંઝવણમાં ડૂબી ગયા."
+            }
+        }
+    },
+    {
+        "id": 101620,
+        "sloka": "10.16.20",
+        "verse_id": 101620,
+        "verseNumber": 20,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "When the young gopīs, whose minds were constantly attached to Kṛṣṇa, the unlimited Supreme Lord, saw that He was now within the grips of the serpent, they remembered His loving friendship, His smiling glances and His talks with them. Burning with great sorrow, they saw the entire universe as void."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "जब युवा गोपियों, जिनके मन लगातार असीमित परम भगवान कृष्ण से जुड़े हुए थे, ने देखा कि वह अब साँप की पकड़ में हैं, तो उन्हें उनकी प्रेमपूर्ण मित्रता, उनकी मुस्कुराती नज़रें और उनके साथ उनकी बातचीत याद आई। अत्यंत दुःख से जलते हुए उन्हें सारा ब्रह्माण्ड शून्य दिखाई देने लगा।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "જ્યારે યુવાન ગોપીઓ, જેમના મન અમર્યાદિત પરમ ભગવાન કૃષ્ણ સાથે સતત જોડાયેલા હતા, તેઓએ જોયું કે તેઓ હવે સર્પની પકડમાં છે, ત્યારે તેઓને તેમની પ્રેમાળ મિત્રતા, તેમની હસતી નજર અને તેમની સાથેની તેમની વાતચીત યાદ આવી. ભારે દુ:ખથી સળગીને, તેઓએ સમગ્ર બ્રહ્માંડને શૂન્ય તરીકે જોયું."
+            }
+        }
+    },
+    {
+        "id": 101621,
+        "sloka": "10.16.21",
+        "verse_id": 101621,
+        "verseNumber": 21,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Although the elder gopīs were feeling just as much distress as she and were pouring forth a flood of sorrowful tears, they had to forcibly hold back Kṛṣṇa’s mother, whose consciousness was totally absorbed in her son. Standing like corpses, with their eyes fixed upon His face, these gopīs each took turns recounting the pastimes of the darling of Vraja."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "हालाँकि बड़ी गोपियाँ भी उसके समान ही कष्ट महसूस कर रही थीं और दुःख भरे आँसू बहा रही थीं, फिर भी उन्हें कृष्ण की माँ को बलपूर्वक रोकना पड़ा, जिनकी चेतना पूरी तरह से अपने बेटे में लीन थी। शवों की तरह खड़ी, उनके चेहरे पर अपनी आँखें गड़ाए हुए, ये गोपियाँ बारी-बारी से व्रज के प्रिय की लीलाओं का वर्णन करती रहीं।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "જો કે મોટી ગોપીઓ તેમના જેટલી જ તકલીફ અનુભવી રહી હતી અને દુ:ખભર્યા આંસુઓનું પૂર વહાવી રહી હતી, તેઓએ કૃષ્ણની માતાને બળજબરીથી રોકવી પડી, જેમની ચેતના તેમના પુત્રમાં સંપૂર્ણ રીતે સમાઈ ગઈ હતી. લાશોની જેમ ઊભા રહીને, તેમની આંખો તેમના મુખ પર ટેકવીને, આ ગોપીઓ દરેક વ્રજના પ્રિયતમના મનોરંજનનું વર્ણન કરતી હતી."
+            }
+        }
+    },
+    {
+        "id": 101622,
+        "sloka": "10.16.22",
+        "verse_id": 101622,
+        "verseNumber": 22,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Lord Balarāma then saw that Nanda Mahārāja and the other cowherd men, who had dedicated their very lives to Kṛṣṇa, were beginning to enter the serpent’s lake. As the Supreme Personality of Godhead, Lord Balarāma fully knew Lord Kṛṣṇa’s actual power, and therefore He restrained them."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "तब भगवान बलराम ने देखा कि नंद महाराज और अन्य चरवाहे, जिन्होंने अपना जीवन कृष्ण को समर्पित कर दिया था, सर्प की झील में प्रवेश करना शुरू कर रहे थे। भगवान के सर्वोच्च व्यक्तित्व के रूप में, भगवान बलराम भगवान कृष्ण की वास्तविक शक्ति को पूरी तरह से जानते थे, और इसलिए उन्होंने उन्हें रोका।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "ત્યારે ભગવાન બલરામે જોયું કે નંદ મહારાજ અને અન્ય ગોવાળિયાઓ, જેમણે પોતાનું જીવન કૃષ્ણને સમર્પિત કર્યું હતું, તેઓ સર્પના તળાવમાં પ્રવેશવા લાગ્યા હતા. ભગવાનના સર્વોચ્ચ વ્યક્તિત્વ તરીકે, ભગવાન બલરામ ભગવાન કૃષ્ણની વાસ્તવિક શક્તિને સંપૂર્ણપણે જાણતા હતા, અને તેથી તેમણે તેમને રોક્યા."
+            }
+        }
+    },
+    {
+        "id": 101623,
+        "sloka": "10.16.23",
+        "verse_id": 101623,
+        "verseNumber": 23,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "The Lord remained for some time within the coils of the serpent, imitating the behavior of an ordinary mortal. But when He understood that the women, children and other residents of His village of Gokula were in acute distress because of their love for Him, their only shelter and goal in life, He immediately rose up from the bonds of the Kāliya serpent."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "एक सामान्य प्राणी के आचरण का अनुकरण करते हुए, भगवान कुछ समय तक सर्प की योनि में रहे। लेकिन जब उन्हें पता चला कि उनके गोकुल गांव की महिलाएं, बच्चे और अन्य निवासी उनके प्रति अपने प्यार, उनके एकमात्र आश्रय और जीवन के लक्ष्य के कारण अत्यधिक संकट में हैं, तो वह तुरंत कालिया नाग के बंधन से उठ गए।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "ભગવાન સર્પના કોઇલની અંદર થોડો સમય રહ્યા, એક સામાન્ય માણસની વર્તણૂકનું અનુકરણ કર્યું. પરંતુ જ્યારે તેમને સમજાયું કે તેમના ગામ ગોકુળની સ્ત્રીઓ, બાળકો અને અન્ય રહેવાસીઓ તેમના પ્રત્યેના પ્રેમને કારણે, તેમના જીવનનો એકમાત્ર આશ્રય અને ધ્યેય હોવાને કારણે તીવ્ર સંકટમાં છે, ત્યારે તેઓ તરત જ કાલિયા સર્પના બંધનમાંથી ઉભા થયા."
+            }
+        }
+    },
+    {
+        "id": 101624,
+        "sloka": "10.16.24",
+        "verse_id": 101624,
+        "verseNumber": 24,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "His coils tormented by the expanding body of the Lord, Kāliya released Him. In great anger the serpent then raised his hoods high and stood still, breathing heavily. His nostrils appeared like vessels for cooking poison, and the staring eyes in his face like firebrands. Thus the serpent looked at the Lord."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "भगवान के बढ़ते शरीर से उनके कुंडल व्याकुल हो गए, कालिया ने उन्हें मुक्त कर दिया। तब सर्प ने अत्यंत क्रोध में आकर अपना फन ऊंचा उठाया और जोर-जोर से सांस लेते हुए स्थिर खड़ा हो गया। उसके नथुने विष पकाने के पात्र के समान प्रतीत होते थे और उसके चेहरे पर घूरती हुई आँखें आग की लपटों के समान प्रतीत होती थीं। इस प्रकार सर्प ने भगवान की ओर देखा।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "ભગવાનના વિસ્તરતા શરીરથી પીડાતા તેમના કોઇલ, કાલિયાએ તેમને મુક્ત કર્યા. ભારે ક્રોધમાં સર્પે તેના હૂડ ઉંચા કર્યા અને જોરદાર શ્વાસ લેતા સ્થિર ઊભા રહ્યા. તેના નસકોરા ઝેર રાંધવાના વાસણો જેવા દેખાતા હતા, અને તેના ચહેરા પર તાકી રહેલી આંખો અગ્નિદાહ જેવી હતી. આમ સર્પે પ્રભુ તરફ જોયું."
+            }
+        }
+    },
+    {
+        "id": 101625,
+        "sloka": "10.16.25",
+        "verse_id": 101625,
+        "verseNumber": 25,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Again and again Kāliya licked his lips with his bifurcated tongues as He stared at Kṛṣṇa with a glance full of terrible, poisonous fire. But Kṛṣṇa playfully circled around him, just as Garuḍa would play with a snake. In response, Kāliya also moved about, looking for an opportunity to bite the Lord."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "कालिया बार-बार अपनी द्विभाजित जीभों से अपने होठों को चाटता रहा और भयानक, जहरीली आग से भरी दृष्टि से कृष्ण को देखता रहा। लेकिन कृष्ण ने चंचलतापूर्वक उसके चारों ओर चक्कर लगाया, जैसे गरुड़ साँप के साथ खेलता था। प्रत्युत्तर में, कालिया भी भगवान को काटने के अवसर की तलाश में इधर-उधर घूमने लगा।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "ફરીથી અને ફરીથી કાલિયા તેની વિભાજિત જીભ વડે તેના હોઠ ચાટતો હતો કારણ કે તે ભયંકર, ઝેરી અગ્નિથી ભરેલી નજરે કૃષ્ણ તરફ જોતો હતો. પરંતુ કૃષ્ણ રમતિયાળ રીતે તેમની આસપાસ ફરતા હતા, જેમ ગરુડ સાપ સાથે રમતા હતા. જવાબમાં, કાલિયા પણ ભગવાનને ડંખ મારવાની તકની શોધમાં આગળ વધ્યો."
+            }
+        }
+    },
+    {
+        "id": 101626,
+        "sloka": "10.16.26",
+        "verse_id": 101626,
+        "verseNumber": 26,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Having severely depleted the serpent’s strength with His relentless circling, Śrī Kṛṣṇa, the origin of everything, pushed down Kāliya’s raised shoulders and mounted his broad serpentine heads. Thus Lord Śrī Kṛṣṇa, the original master of all fine arts, began to dance, His lotus feet deeply reddened by the touch of the numerous jewels upon the serpent’s heads."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "अपनी अनवरत परिक्रमा से सर्प की शक्ति को गंभीर रूप से क्षीण करने के बाद, हर चीज़ के मूल श्रीकृष्ण ने कालिया के उठे हुए कंधों को नीचे धकेल दिया और उसके चौड़े सर्प के सिरों पर चढ़ गए। इस प्रकार, सभी ललित कलाओं के मूल स्वामी, भगवान श्रीकृष्ण नृत्य करने लगे, उनके कमल पैर साँप के सिर पर असंख्य रत्नों के स्पर्श से गहरे लाल हो गए।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "તેમના અવિરત પ્રદક્ષિણાથી સર્પની શક્તિને ગંભીર રીતે ક્ષીણ કર્યા પછી, શ્રી કૃષ્ણ, દરેક વસ્તુના મૂળ, કાલિયાના ઉભા થયેલા ખભાને નીચે ધકેલ્યા અને તેના વિશાળ સર્પના માથા પર ચઢાવ્યા. આ રીતે ભગવાન શ્રી કૃષ્ણ, તમામ લલિત કળાના મૂળ માસ્ટર, નૃત્ય કરવા લાગ્યા, તેમના કમળના ચરણ સર્પના માથા પરના અસંખ્ય રત્નોના સ્પર્શથી ઊંડે લાલ થઈ ગયા."
+            }
+        }
+    },
+    {
+        "id": 101627,
+        "sloka": "10.16.27",
+        "verse_id": 101627,
+        "verseNumber": 27,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Seeing the Lord dancing, His servants in the heavenly planets — the Gandharvas, Siddhas, sages, Cāraṇas and wives of the demigods — immediately arrived there. With great pleasure they began accompanying the Lord’s dancing by playing drums such as mṛdaṅgas, paṇavas and ānakas. They also made offerings of songs, flowers and prayers."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "भगवान को नृत्य करते देख, स्वर्ग में उनके सेवक - गंधर्व, सिद्ध, ऋषि, चारण और देवताओं की पत्नियाँ - तुरंत वहाँ पहुँचे। वे अत्यंत प्रसन्नता के साथ मृदंग, पणव और अनक जैसे ढोल बजाकर भगवान के नृत्य में शामिल होने लगे। उन्होंने गीत, फूल और प्रार्थनाएँ भी अर्पित कीं।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "ભગવાનને નૃત્ય કરતા જોઈને, સ્વર્ગીય ગ્રહોમાં તેમના સેવકો - ગંધર્વો, સિદ્ધો, ઋષિઓ, કરણો અને દેવતાઓની પત્નીઓ - તરત જ ત્યાં પહોંચ્યા. ખૂબ જ આનંદ સાથે તેઓ મૃડંગ, પાણવ અને અનાક જેવા ઢોલ વગાડીને ભગવાનના નૃત્યમાં સાથ આપવા લાગ્યા. તેઓએ ગીતો, પુષ્પો અને પ્રાર્થનાઓ પણ અર્પણ કરી."
+            }
+        }
+    },
+    {
+        "id": 101628,
+        "sloka": "10.16.28",
+        "verse_id": 101628,
+        "verseNumber": 28,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "My dear King, Kāliya had 101 prominent heads, and when one of them would not bow down, Lord Śrī Kṛṣṇa, who inflicts punishment on cruel wrong-doers, would smash that stubborn head by striking it with His feet. Then, as Kāliya entered his death throes, he began wheeling his heads around and vomiting ghastly blood from his mouths and nostrils. The serpent thus experienced extreme pain and misery."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "मेरे प्रिय राजा, कालिया के 101 प्रमुख सिर थे, और जब उनमें से एक भी नहीं झुकता था, तो क्रूर अन्यायियों को दंड देने वाले भगवान श्री कृष्ण उस जिद्दी सिर को अपने पैरों से मारकर तोड़ देते थे। फिर, जैसे ही कालिया मौत के आगोश में गया, उसने अपना सिर इधर-उधर घुमाना शुरू कर दिया और अपने मुंह और नाक से भयानक खून की उल्टी करने लगा। इस प्रकार सर्प को अत्यधिक पीड़ा और कष्ट का अनुभव हुआ।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "મારા વહાલા રાજા, કાલિયાના 101 મુખ્ય માથા હતા, અને જ્યારે તેમાંથી એક પણ નમતું નહોતું, ત્યારે ભગવાન શ્રી કૃષ્ણ, જે ક્રૂર અત્યાચારીઓને સજા કરે છે, તે હઠીલા માથાને તેના પગ વડે પ્રહાર કરીને તોડી નાખશે. પછી, જેમ જેમ કાલિયા તેના મૃત્યુની કટોકટીમાં પ્રવેશ્યો, તેણે તેના માથાને આજુબાજુ ફેરવવાનું શરૂ કર્યું અને તેના મોં અને નસકોરામાંથી ભયંકર લોહીની ઉલટી કરી. આમ સર્પને ભારે પીડા અને દુઃખનો અનુભવ થયો."
+            }
+        }
+    },
+    {
+        "id": 101629,
+        "sloka": "10.16.29",
+        "verse_id": 101629,
+        "verseNumber": 29,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Exuding poisonous waste from his eyes, Kāliya, would occasionally dare to raise up one of his heads, which would breathe heavily with anger. Then the Lord would dance on it and subdue it, forcing it to bow down with His foot. The demigods took each of these exhibitions as an opportunity to worship Him, the primeval Personality of Godhead, with showers of flowers."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "अपनी आँखों से ज़हरीला कचरा बाहर निकालते हुए, कालिया कभी-कभी अपना एक सिर ऊपर उठाने की हिम्मत करता था, जो गुस्से से जोर-जोर से साँस लेने लगता था। तब प्रभु उस पर नृत्य करेंगे और उसे वश में करेंगे, और उसे अपने पैर से झुकने के लिए मजबूर करेंगे। देवताओं ने इनमें से प्रत्येक प्रदर्शन को फूलों की वर्षा के साथ आदि देवत्व की पूजा करने के अवसर के रूप में लिया।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "તેની આંખોમાંથી ઝેરી કચરો કાઢીને, કાલિયા, ક્યારેક ક્યારેક તેનું માથું ઉંચુ કરવાની હિંમત કરતો, જે ગુસ્સાથી ભારે શ્વાસ લેતો. પછી ભગવાન તેના પર નૃત્ય કરશે અને તેને વશ કરશે, તેને પગથી નમાવવા માટે દબાણ કરશે. દેવતાઓએ આ દરેક પ્રદર્શનોને ફૂલોની વર્ષા સાથે, ભગવાનના આદિમ વ્યક્તિત્વની પૂજા કરવાની તક તરીકે લીધી."
+            }
+        }
+    },
+    {
+        "id": 101630,
+        "sloka": "10.16.30",
+        "verse_id": 101630,
+        "verseNumber": 30,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "My dear King Parīkṣit, Lord Kṛṣṇa’s wonderful, powerful dancing trampled and broke all of Kāliya’s one thousand hoods. Then the serpent, profusely vomiting blood from his mouths, finally recognized Śrī Kṛṣṇa to be the eternal Personality of Godhead, the supreme master of all moving and nonmoving beings, Śrī Nārāyaṇa. Thus within his mind Kāliya took shelter of the Lord."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "मेरे प्रिय राजा परीक्षित, भगवान कृष्ण के अद्भुत, शक्तिशाली नृत्य ने कालिया के सभी एक हजार फनों को कुचल दिया और तोड़ दिया। तब साँप ने, अपने मुँह से अत्यधिक रक्त की उल्टियाँ करते हुए, अंततः पहचान लिया कि श्री कृष्ण ही शाश्वत भगवान हैं, सभी चर और अचर प्राणियों के परम स्वामी, श्री नारायण हैं। इस प्रकार कालिया ने मन ही मन भगवान की शरण ली।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "મારા વ્હાલા રાજા પરીક્ષિત, ભગવાન કૃષ્ણના અદ્ભુત, શક્તિશાળી નૃત્યે કાલિયાના એક હજાર હૂડને કચડી નાખ્યા અને તોડી નાખ્યા. પછી સર્પે, તેના મુખમાંથી પુષ્કળ પ્રમાણમાં લોહીની ઉલટી કરી, અંતે શ્રી કૃષ્ણને ભગવાનના શાશ્વત વ્યક્તિત્વ તરીકે ઓળખી કાઢ્યા, જે તમામ ગતિશીલ અને અચલ જીવોના સર્વોચ્ચ સ્વામી છે, શ્રી નારાયણ. આમ તેમના મનમાં કાલિયાએ ભગવાનનો આશ્રય લીધો."
+            }
+        }
+    },
+    {
+        "id": 101631,
+        "sloka": "10.16.31",
+        "verse_id": 101631,
+        "verseNumber": 31,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "When Kāliya’s wives saw how the serpent had become so fatigued from the excessive weight of Lord Kṛṣṇa, who carries the entire universe in His abdomen, and how Kāliya’s umbrellalike hoods had been shattered by the striking of Kṛṣṇa’s heels, they felt great distress. With their clothing, ornaments and hair scattered in disarray, they then approached the eternal Personality of Godhead."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "जब कालिया की पत्नियों ने देखा कि संपूर्ण ब्रह्मांड को अपने पेट में धारण करने वाले भगवान कृष्ण के अत्यधिक भार से नाग किस प्रकार थक गया है, और कैसे कालिया का छत्र जैसा फन कृष्ण की एड़ियों के प्रहार से टूट गया है, तो उन्हें बहुत कष्ट हुआ। अपने वस्त्र, आभूषण और बाल अस्त-व्यस्त करके, वे अनन्त भगवान के पास पहुँचे।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "જ્યારે કાલિયાની પત્નીઓએ જોયું કે કેવી રીતે સર્પ ભગવાન કૃષ્ણના અતિશય વજનથી થાકી ગયો હતો, જે સમગ્ર બ્રહ્માંડને પોતાના ઉદરમાં વહન કરે છે, અને કેવી રીતે કૃષ્ણના પ્રહારથી કાલિયાના છત્ર જેવા હૂડ વિખેરાઈ ગયા હતા, ત્યારે તેઓને ભારે દુઃખ લાગ્યું. તેમના કપડાં, આભૂષણો અને વાળ અવ્યવસ્થિત રીતે વિખરાયેલા સાથે, તેઓ પછી ભગવાનના શાશ્વત વ્યક્તિત્વનો સંપર્ક કર્યો."
+            }
+        }
+    },
+    {
+        "id": 101632,
+        "sloka": "10.16.32",
+        "verse_id": 101632,
+        "verseNumber": 32,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Their minds very much disturbed, those saintly ladies placed their children before them and then bowed down to the Lord of all creatures, laying their bodies flat upon the ground. They desired the liberation of their sinful husband and the shelter of the Supreme Lord, the giver of ultimate shelter, and thus they folded their hands in supplication and approached Him."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "उनका मन बहुत व्याकुल हो गया, उन संत महिलाओं ने अपने बच्चों को उनके सामने रख दिया और फिर सभी प्राणियों के भगवान को प्रणाम किया, और अपने शरीर को जमीन पर रख दिया। वे अपने पापी पति की मुक्ति और परम आश्रय देने वाले परम भगवान की शरण चाहती थीं, और इस प्रकार वे प्रार्थना में हाथ जोड़कर उनके पास आईं।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "તેઓના મન ખૂબ જ વ્યાકુળ થઈ ગયા, તે સંતપુરુષોએ તેમના બાળકોને તેમની સમક્ષ મૂક્યા અને પછી તેમના શરીરને જમીન પર સપાટ કરીને તમામ જીવોના ભગવાનને પ્રણામ કર્યા. તેઓ તેમના પાપી પતિની મુક્તિ અને અંતિમ આશ્રય આપનાર પરમ ભગવાનના આશ્રયની ઈચ્છા ધરાવતા હતા અને આ રીતે તેઓ હાથ જોડીને તેમની પાસે ગયા."
+            }
+        }
+    },
+    {
+        "id": 101633,
+        "sloka": "10.16.33",
+        "verse_id": 101633,
+        "verseNumber": 33,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "The wives of the Kāliya serpent said: The punishment this offender has been subjected to is certainly just. After all, You have incarnated within this world to curb down envious and cruel persons. You are so impartial that You look equally upon Your enemies and Your own sons, for when You impose a punishment on a living being You know it to be for his ultimate benefit."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "कालिया नाग की पत्नियों ने कहा: इस अपराधी को जो दंड दिया गया है वह निश्चित रूप से उचित है। आख़िरकार, आप ईर्ष्यालु और क्रूर व्यक्तियों पर अंकुश लगाने के लिए ही इस संसार में अवतरित हुए हैं। आप इतने निष्पक्ष हैं कि आप अपने शत्रुओं और अपने पुत्रों को समान रूप से देखते हैं, क्योंकि जब आप किसी जीवित प्राणी को दंड देते हैं तो आप जानते हैं कि यह उसके अंतिम लाभ के लिए है।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "કાલિયા સર્પની પત્નીઓએ કહ્યું: આ ગુનેગારને જે સજા કરવામાં આવી છે તે ચોક્કસપણે ન્યાયી છે. છેવટે, તમે ઈર્ષ્યા અને ક્રૂર વ્યક્તિઓને કાબૂમાં રાખવા માટે આ દુનિયામાં અવતર્યા છો. તમે એટલા નિષ્પક્ષ છો કે તમે તમારા દુશ્મનો અને તમારા પોતાના પુત્રોને સમાન રીતે જુઓ છો, કારણ કે જ્યારે તમે કોઈ જીવને સજા કરો છો ત્યારે તમે જાણો છો કે તે તેના અંતિમ લાભ માટે છે."
+            }
+        }
+    },
+    {
+        "id": 101634,
+        "sloka": "10.16.34",
+        "verse_id": 101634,
+        "verseNumber": 34,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "What You have done here is actually mercy for us, since the punishment You give to the wicked certainly drives away all their contamination. Indeed, because this conditioned soul, our husband, is so sinful that he has assumed the body of a serpent, Your anger toward him is obviously to be understood as Your mercy."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "आपने यहां जो किया है वह वास्तव में हमारे लिए दया है, क्योंकि आप दुष्टों को जो दंड देते हैं वह निश्चित रूप से उनके सभी प्रदूषण को दूर कर देता है। वास्तव में, क्योंकि यह बद्ध आत्मा, हमारा पति, इतना पापी है कि उसने एक साँप का शरीर धारण किया है, उसके प्रति आपका क्रोध स्पष्ट रूप से आपकी दया के रूप में समझा जाना चाहिए।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "તમે અહીં જે કર્યું છે તે ખરેખર અમારા માટે દયા છે, કારણ કે તમે દુષ્ટોને જે સજા આપો છો તે ચોક્કસપણે તેમના તમામ દૂષણોને દૂર કરે છે. ખરેખર, કારણ કે આ કન્ડિશન્ડ આત્મા, અમારા પતિ, એટલો પાપી છે કે તેણે સર્પનું શરીર ધારણ કર્યું છે, તેના પ્રત્યેનો તમારો ક્રોધ સ્વાભાવિક રીતે તમારી દયા તરીકે સમજવામાં આવે છે."
+            }
+        }
+    },
+    {
+        "id": 101635,
+        "sloka": "10.16.35",
+        "verse_id": 101635,
+        "verseNumber": 35,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Did our husband carefully perform austerities in a previous life, with his mind free of pride and full of respect for others? Is that why You are pleased with him? Or did he in some previous existence carefully execute religious duties with compassion for all living beings, and is that why You, the life of all living beings, are now satisfied with him?"
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "क्या हमारे पति ने पिछले जन्म में अहंकार से मुक्त और दूसरों के प्रति सम्मान से भरे मन से सावधानीपूर्वक तपस्या की थी? क्या इसीलिए आप उससे प्रसन्न हैं? या क्या उसने किसी पूर्व अस्तित्व में सभी प्राणियों के प्रति दया भाव रखते हुए धार्मिक कर्तव्यों का सावधानीपूर्वक पालन किया था, और क्या इसीलिए आप, सभी प्राणियों के जीवन, अब उससे संतुष्ट हैं?"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "શું અમારા પતિએ પાછલા જન્મમાં, અભિમાનથી મુક્ત અને બીજાઓ માટે આદરથી ભરપૂર મનથી કાળજીપૂર્વક તપસ્યા કરી હતી? શું એટલા માટે તમે તેના પર પ્રસન્ન છો? અથવા શું તેણે અગાઉના અસ્તિત્વમાં બધા જીવો માટે કરુણા સાથે ધાર્મિક ફરજો કાળજીપૂર્વક નિભાવી હતી, અને તેથી જ તમે, બધા જીવોના જીવન, હવે તેનાથી સંતુષ્ટ છો?"
+            }
+        }
+    },
+    {
+        "id": 101636,
+        "sloka": "10.16.36",
+        "verse_id": 101636,
+        "verseNumber": 36,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "O Lord, we do not know how the serpent Kāliya has attained this great opportunity of being touched by the dust of Your lotus feet. For this end, the goddess of fortune performed austerities for centuries, giving up all other desires and observing austere vows."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "हे भगवान, हम नहीं जानते कि कालिया नाग को आपके चरण कमलों की धूल का स्पर्श पाने का यह महान अवसर कैसे प्राप्त हुआ है। इस उद्देश्य के लिए, भाग्य की देवी ने सदियों तक तपस्या की, अन्य सभी इच्छाओं को त्याग दिया और कठिन व्रतों का पालन किया।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "હે ભગવાન, અમે નથી જાણતા કે સર્પ કાલિયાને તમારા કમળના ચરણોની ધૂળથી સ્પર્શવાની આ મહાન તક કેવી રીતે પ્રાપ્ત થઈ. આ હેતુ માટે, ભાગ્યની દેવીએ સદીઓથી તપસ્યા કરી, અન્ય તમામ ઇચ્છાઓ છોડી દીધી અને કઠોર વ્રતોનું પાલન કર્યું."
+            }
+        }
+    },
+    {
+        "id": 101637,
+        "sloka": "10.16.37",
+        "verse_id": 101637,
+        "verseNumber": 37,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Those who have attained the dust of Your lotus feet never hanker for the kingship of heaven, limitless sovereignty, the position of Brahmā or rulership over the earth. They are not interested even in the perfections of yoga or in liberation itself."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "जिन लोगों ने आपके चरण कमलों की धूल प्राप्त कर ली है, वे कभी स्वर्ग के राज्य, असीमित संप्रभुता, ब्रह्मा के पद या पृथ्वी पर शासन की लालसा नहीं करते। उन्हें योग की सिद्धियों या मुक्ति में भी कोई रुचि नहीं है।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "જેમણે તમારા કમળના પગની ધૂળ પ્રાપ્ત કરી છે તેઓ ક્યારેય સ્વર્ગના રાજ, અમર્યાદ સાર્વભૌમત્વ, બ્રહ્માના પદ અથવા પૃથ્વી પરના શાસનની લાલસા કરતા નથી. તેઓને યોગની પૂર્ણતામાં કે મુક્તિમાં પણ રસ નથી."
+            }
+        }
+    },
+    {
+        "id": 101638,
+        "sloka": "10.16.38",
+        "verse_id": 101638,
+        "verseNumber": 38,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "O Lord, although this Kāliya, the king of the serpents, has taken birth in the mode of ignorance and is controlled by anger, he has achieved that which is difficult for others to achieve. Embodied souls, who are full of desires and are thus wandering in the cycle of birth and death, can have all benedictions manifested before their eyes simply by receiving the dust of Your lotus feet."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "हे भगवान, यद्यपि यह कालिया, नागों का राजा, अज्ञानता में पैदा हुआ है और क्रोध से नियंत्रित है, उसने वह हासिल किया है जिसे दूसरों के लिए हासिल करना मुश्किल है। देहधारी आत्माएं, जो इच्छाओं से भरी हैं और इस प्रकार जन्म और मृत्यु के चक्र में भटक रही हैं, केवल आपके चरण कमलों की धूल प्राप्त करके सभी आशीर्वाद उनकी आंखों के सामने प्रकट हो सकते हैं।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "હે ભગવાન, સર્પોના રાજા આ કાલિયાએ અજ્ઞાનતામાં જન્મ લીધો હોવા છતાં અને ક્રોધ પર કાબૂ રાખ્યો હોવા છતાં, તેણે તે પ્રાપ્ત કર્યું છે જે પ્રાપ્ત કરવું અન્ય માટે મુશ્કેલ છે. મૂર્ત આત્માઓ, જેઓ ઈચ્છાઓથી ભરેલા છે અને આમ જન્મ-મરણના ચક્રમાં ભટકતા હોય છે, તેઓ તમારા કમળના ચરણોની ધૂળને પ્રાપ્ત કરીને તેમની આંખો સમક્ષ તમામ આશીર્વાદો પ્રગટ કરી શકે છે."
+            }
+        }
+    },
+    {
+        "id": 101639,
+        "sloka": "10.16.39",
+        "verse_id": 101639,
+        "verseNumber": 39,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "We offer our obeisances unto You, the Supreme Personality of Godhead. Although present in the hearts of all living beings as the Supersoul, You are all-pervasive. Although the original shelter of all created material elements, You exist prior to their creation. And although the cause of everything, You are transcendental to all material cause and effect, being the Supreme Soul."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "हम आपको, भगवान के परम व्यक्तित्व को अपना प्रणाम अर्पित करते हैं। यद्यपि आप सभी प्राणियों के हृदय में परमात्मा के रूप में विद्यमान हैं, फिर भी आप सर्वव्यापी हैं। यद्यपि सभी निर्मित भौतिक तत्वों का मूल आश्रय, आप उनकी रचना से पहले मौजूद हैं। और यद्यपि आप सभी चीज़ों के कारण हैं, आप सर्वोच्च आत्मा होने के कारण सभी भौतिक कारण और प्रभाव से परे हैं।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "અમે પરમાત્માના પરમ પરમાત્મા તમને નમસ્કાર કરીએ છીએ. પરમાત્મા તરીકે સર્વ જીવોના હૃદયમાં વિદ્યમાન હોવા છતાં, તમે સર્વવ્યાપી છો. તમામ સર્જિત ભૌતિક તત્વોનું મૂળ આશ્રય હોવા છતાં, તમે તેમની રચના પહેલા અસ્તિત્વમાં છો. અને દરેક વસ્તુનું કારણ હોવા છતાં, તમે પરમાત્મા હોવાને કારણે તમામ ભૌતિક કારણ અને અસરથી અતીન્દ્રિય છો."
+            }
+        }
+    },
+    {
+        "id": 101640,
+        "sloka": "10.16.40",
+        "verse_id": 101640,
+        "verseNumber": 40,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Obeisances unto You, the Absolute Truth, who are the reservoir of all transcendental consciousness and potency and the possessor of unlimited energies. Although completely free of material qualities and transformations, You are the prime mover of material nature."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "आपको नमस्कार है, परम सत्य, जो सभी पारलौकिक चेतना और शक्ति के भंडार हैं और असीमित ऊर्जा के स्वामी हैं। भौतिक गुणों और परिवर्तनों से पूर्णतः मुक्त होते हुए भी, आप भौतिक प्रकृति के प्रमुख प्रेरक हैं।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "સર્વ દિવ્ય ચેતના અને શક્તિના ભંડાર અને અમર્યાદિત શક્તિઓના માલિક એવા પરમ સત્ય, તમને પ્રણામ. ભૌતિક ગુણો અને પરિવર્તનોથી સંપૂર્ણપણે મુક્ત હોવા છતાં, તમે ભૌતિક પ્રકૃતિના મુખ્ય પ્રેરક છો."
+            }
+        }
+    },
+    {
+        "id": 101641,
+        "sloka": "10.16.41",
+        "verse_id": 101641,
+        "verseNumber": 41,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Obeisances unto You, who are time itself, the shelter of time and the witness of time in all its phases. You are the universe, and also its separate observer. You are its creator, and also the totality of all its causes."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "आपको नमस्कार है, जो स्वयं समय हैं, समय के आश्रय हैं और समय की सभी अवस्थाओं में उसके साक्षी हैं। आप ब्रह्मांड हैं, और इसके अलग पर्यवेक्षक भी हैं। आप इसके निर्माता हैं, और इसके सभी कारणों की समग्रता भी।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "સમયના આશ્રય અને તેના તમામ તબક્કાઓમાં સમયના સાક્ષી એવા આપને પ્રણામ. તમે બ્રહ્માંડ છો, અને તેના અલગ નિરીક્ષક પણ છો. તમે તેના સર્જક છો, અને તેના તમામ કારણોની સંપૂર્ણતા પણ છો."
+            }
+        }
+    },
+    {
+        "id": 101642,
+        "sloka": "10.16.42-43",
+        "verse_id": 101642,
+        "verseNumber": 42,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Obeisances unto You, who are the ultimate soul of the physical elements, of the subtle basis of perception, of the senses, of the vital air of life, and of the mind, intelligence and consciousness. By Your arrangement the infinitesimal spirit souls falsely identify with the three modes of material nature, and their perception of their own true self thus becomes clouded. We offer our obeisances unto You, the unlimited Supreme Lord, the supremely subtle one, the omniscient Personality of Godhead, who are always fixed in unchanging transcendence, who sanction the opposing views of different philosophies, and who are the power upholding expressed ideas and the words that express them."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "आपको नमस्कार है, जो भौतिक तत्वों की, धारणा के सूक्ष्म आधार की, इंद्रियों की, जीवन की प्राणवायु की और मन, बुद्धि और चेतना की परम आत्मा हैं। आपकी व्यवस्था के अनुसार सूक्ष्म आत्माएं भौतिक प्रकृति के तीन गुणों के साथ मिथ्या पहचान करती हैं, और इस प्रकार उनकी स्वयं की वास्तविक पहचान धुंधली हो जाती है। हम आपको, असीमित परम भगवान, अत्यंत सूक्ष्म, सर्वज्ञ भगवान को नमस्कार करते हैं, जो हमेशा अपरिवर्तनीय पारगमन में स्थिर होते हैं, जो विभिन्न दर्शनों के विरोधी विचारों को मंजूरी देते हैं, और जो व्यक्त विचारों और उन्हें व्यक्त करने वाले शब्दों को बनाए रखने वाली शक्ति हैं।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "ભૌતિક તત્ત્વોના, અનુભૂતિના સૂક્ષ્મ આધાર, ઇન્દ્રિયોના, જીવનની મહત્વપૂર્ણ હવા અને મન, બુદ્ધિ અને ચેતનાના અંતિમ આત્મા એવા તમને પ્રણામ. તમારી ગોઠવણ દ્વારા અનંત આત્માઓ ભૌતિક પ્રકૃતિના ત્રણ પ્રકારો સાથે ખોટી રીતે ઓળખે છે, અને તેમના પોતાના સાચા સ્વ વિશેની તેમની સમજ આ રીતે વાદળછાયું બને છે. અમે તમને અમર્યાદિત પરમ ભગવાન, પરમ સૂક્ષ્મ, સર્વજ્ઞ પરમાત્મા, ભગવાનના સર્વજ્ઞ વ્યક્તિત્વને અર્પણ કરીએ છીએ, જેઓ હંમેશા અપરિવર્તનશીલતામાં સ્થિર છે, જેઓ વિવિધ ફિલસૂફીના વિરોધી વિચારોને મંજૂર કરે છે, અને જેઓ વ્યક્ત વિચારો અને શબ્દોને વ્યક્ત કરવા માટે શક્તિ છે."
+            }
+        }
+    },
+    {
+        "id": 101644,
+        "sloka": "10.16.44",
+        "verse_id": 101644,
+        "verseNumber": 44,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "We offer our obeisances again and again to You, who are the basis of all authoritative evidence, who are the author and ultimate source of the revealed scriptures, and who have manifested Yourself in those Vedic literatures encouraging sense gratification as well as in those encouraging renunciation of the material world."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "हम आपको बार-बार नमस्कार करते हैं, जो सभी आधिकारिक प्रमाणों के आधार हैं, जो प्रकट ग्रंथों के लेखक और अंतिम स्रोत हैं, और जिन्होंने इंद्रिय संतुष्टि को प्रोत्साहित करने वाले वैदिक साहित्य के साथ-साथ भौतिक संसार के त्याग को प्रोत्साहित करने वाले वैदिक साहित्य में खुद को प्रकट किया है।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "તમામ અધિકૃત પુરાવાઓનો આધાર આપનારા, જેઓ પ્રગટ શાસ્ત્રોના લેખક અને અંતિમ સ્ત્રોત છે, અને જેઓ ઇન્દ્રિય તૃપ્તિને પ્રોત્સાહિત કરતા અને ભૌતિક જગતના ત્યાગને પ્રોત્સાહિત કરતા તે વૈદિક સાહિત્યમાં સ્વયંને પ્રગટ કર્યા છે, તે અમે તમને વારંવાર પ્રણામ કરીએ છીએ."
+            }
+        }
+    },
+    {
+        "id": 101645,
+        "sloka": "10.16.45",
+        "verse_id": 101645,
+        "verseNumber": 45,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "We offer our obeisances to Lord Kṛṣṇa and Lord Rāma, the sons of Vasudeva, and to Lord Pradyumna and Lord Aniruddha. We offer our respectful obeisances unto the master of all the saintly devotees of Viṣṇu."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "हम भगवान कृष्ण और भगवान राम, वासुदेव के पुत्रों और भगवान प्रद्युम्न और भगवान अनिरुद्ध को नमस्कार करते हैं। हम विष्णु के सभी संत भक्तों के गुरु को सादर प्रणाम करते हैं।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "અમે ભગવાન કૃષ્ણ અને ભગવાન રામ, વાસુદેવના પુત્રો અને ભગવાન પ્રદ્યુમ્ન અને ભગવાન અનિરુદ્ધને પ્રણામ કરીએ છીએ. અમે વિષ્ણુના તમામ સંત ભક્તોના ગુરુને આદરપૂર્વક પ્રણામ કરીએ છીએ."
+            }
+        }
+    },
+    {
+        "id": 101646,
+        "sloka": "10.16.46",
+        "verse_id": 101646,
+        "verseNumber": 46,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Obeisances to You, O Lord, who manifest varieties of material and spiritual qualities. You disguise Yourself with the material qualities, and yet the functioning of those same material qualities ultimately reveals Your existence. You stand apart from the material qualities as a witness and can be fully known only by Your devotees."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "हे भगवान, आपको नमस्कार है, जो विभिन्न प्रकार के भौतिक और आध्यात्मिक गुणों को प्रकट करते हैं। आप स्वयं को भौतिक गुणों से छिपाते हैं, और फिर भी उन्हीं भौतिक गुणों की कार्यप्रणाली अंततः आपके अस्तित्व को प्रकट करती है। आप भौतिक गुणों से अलग एक साक्षी के रूप में खड़े हैं और केवल आपके भक्त ही इसे पूरी तरह से जान सकते हैं।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "વિવિધ પ્રકારના ભૌતિક અને આધ્યાત્મિક ગુણોને પ્રગટ કરનાર, હે ભગવાન, તમને પ્રણામ. તમે તમારી જાતને ભૌતિક ગુણોનો વેશપલટો કરો છો, અને છતાં તે જ ભૌતિક ગુણોનું કાર્ય આખરે તમારા અસ્તિત્વને પ્રગટ કરે છે. તમે સાક્ષી તરીકે ભૌતિક ગુણોથી અલગ છો અને ફક્ત તમારા ભક્તો દ્વારા જ સંપૂર્ણ રીતે જાણી શકાય છે."
+            }
+        }
+    },
+    {
+        "id": 101647,
+        "sloka": "10.16.47",
+        "verse_id": 101647,
+        "verseNumber": 47,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "O Lord Hṛṣīkeśa, master of the senses, please let us offer our obeisances unto You, whose pastimes are inconceivably glorious. Your existence can be inferred from the necessity for a creator and revealer of all cosmic manifestations. But although Your devotees can understand You in this way, to the nondevotees You remain silent, absorbed in self-satisfaction."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "हे भगवान हृषीकेश, इंद्रियों के स्वामी, कृपया हम आपको नमस्कार करें, जिनकी लीलाएँ अकल्पनीय रूप से गौरवशाली हैं। आपके अस्तित्व का अनुमान सभी ब्रह्मांडीय अभिव्यक्तियों के निर्माता और प्रकटकर्ता की आवश्यकता से लगाया जा सकता है। परंतु यद्यपि आपके भक्त आपको इस प्रकार समझ सकते हैं, अभक्तों के लिए आप मौन रहते हैं, आत्म-संतुष्टि में लीन रहते हैं।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "હે ભગવાન હૃષિકેશ, ઇન્દ્રિયોના સ્વામી, કૃપા કરીને અમે તમને અમારા પ્રણામ અર્પણ કરીએ, જેમના મનોરંજન અકલ્પનીય રીતે ભવ્ય છે. તમારા અસ્તિત્વનું અનુમાન બધા બ્રહ્માંડના અભિવ્યક્તિઓના સર્જક અને પ્રગટ કરનારની આવશ્યકતા પરથી કરી શકાય છે. પણ તમારા ભક્તો તમને આ રીતે સમજી શકે છે, તેમ છતાં અભક્તો માટે તમે મૌન રહો છો, આત્મસંતોષમાં લીન છો."
+            }
+        }
+    },
+    {
+        "id": 101648,
+        "sloka": "10.16.48",
+        "verse_id": 101648,
+        "verseNumber": 48,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Obeisances unto You, who know the destination of all things, superior and inferior, and who are the presiding regulator of all that be. You are distinct from the universal creation, and yet You are the basis upon which the illusion of material creation evolves, and also the witness of this illusion. Indeed, You are the root cause of the entire world."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "आपको नमस्कार है, जो सभी चीजों के गंतव्य को जानते हैं, श्रेष्ठ और निम्न, और जो सभी के प्रमुख नियामक हैं। आप सार्वभौमिक सृष्टि से भिन्न हैं, और फिर भी आप वह आधार हैं जिस पर भौतिक सृष्टि का भ्रम विकसित होता है, और इस भ्रम के साक्षी भी हैं। सचमुच, आप ही समस्त जगत के मूल कारण हैं।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "તમને પ્રણામ, જેઓ સર્વશ્રેષ્ઠ અને નીચની બધી વસ્તુઓના લક્ષ્યને જાણે છે, અને જેઓ દરેક વસ્તુના પ્રમુખ નિયમનકાર છે. તમે સાર્વત્રિક સૃષ્ટિથી અલગ છો, અને છતાં તમે તે આધાર છો જેના પર ભૌતિક સૃષ્ટિનો ભ્રમ વિકસિત થાય છે, અને આ ભ્રાંતિના સાક્ષી પણ છો. ખરેખર, તમે સમગ્ર વિશ્વનું મૂળ કારણ છો."
+            }
+        }
+    },
+    {
+        "id": 101649,
+        "sloka": "10.16.49",
+        "verse_id": 101649,
+        "verseNumber": 49,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "O almighty Lord, although You have no reason to become involved in material activity, still You act through Your eternal potency of time to arrange for the creation, maintenance and destruction of this universe. You do this by awakening the distinct functions of each of the modes of nature, which before the creation lie dormant. Simply by Your glance You perfectly execute all these activities of cosmic control in a sporting mood."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "हे सर्वशक्तिमान भगवान, यद्यपि आपके पास भौतिक गतिविधि में शामिल होने का कोई कारण नहीं है, फिर भी आप इस ब्रह्मांड के निर्माण, रखरखाव और विनाश की व्यवस्था करने के लिए समय की अपनी शाश्वत शक्ति के माध्यम से कार्य करते हैं। आप प्रकृति के प्रत्येक गुण के विशिष्ट कार्यों को जागृत करके ऐसा करते हैं, जो सृष्टि से पहले निष्क्रिय थे। आप अपनी दृष्टि मात्र से ब्रह्मांडीय नियंत्रण की इन सभी गतिविधियों को खेल-कूद की मुद्रा में भली-भांति क्रियान्वित करते हैं।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "હે સર્વશક્તિમાન ભગવાન, જો કે તમારી પાસે ભૌતિક પ્રવૃત્તિમાં સામેલ થવાનું કોઈ કારણ નથી, તેમ છતાં તમે આ બ્રહ્માંડની રચના, જાળવણી અને વિનાશની વ્યવસ્થા કરવા માટે તમારી શાશ્વત શક્તિ દ્વારા કાર્ય કરો છો. તમે પ્રકૃતિની દરેક સ્થિતિના વિશિષ્ટ કાર્યોને જાગૃત કરીને આ કરો છો, જે સર્જન પહેલાં સુષુપ્ત છે. ફક્ત તમારી નજરથી તમે રમતગમતના મૂડમાં કોસ્મિક કંટ્રોલની આ બધી પ્રવૃત્તિઓને સંપૂર્ણ રીતે ચલાવો છો."
+            }
+        }
+    },
+    {
+        "id": 101650,
+        "sloka": "10.16.50",
+        "verse_id": 101650,
+        "verseNumber": 50,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Therefore all material bodies throughout the three worlds — those that are peaceful, in the mode of goodness; those that are agitated, in the mode of passion; and those that are foolish, in the mode of ignorance — all are Your creations. Still, those living entities whose bodies are in the mode of goodness are especially dear to You, and it is to maintain them and protect their religious principles that You are now present on the earth."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "इसलिए तीनों लोकों में सभी भौतिक शरीर - जो शांतिपूर्ण हैं, सतोगुण में हैं; जो उत्तेजित हैं, रजोगुण में हैं; और जो मूर्ख हैं, तमोगुण में हैं - वे सभी आपकी रचनाएँ हैं। फिर भी, वे जीव जिनके शरीर सतोगुण में हैं, वे आपको विशेष रूप से प्रिय हैं, और उन्हें बनाए रखने और उनके धार्मिक सिद्धांतों की रक्षा करने के लिए आप अब पृथ्वी पर मौजूद हैं।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "તેથી ત્રણેય જગતમાં તમામ ભૌતિક શરીરો - જે શાંતિપૂર્ણ છે, ભલાઈની સ્થિતિમાં છે; જેઓ ઉત્તેજિત છે, જુસ્સાના મોડમાં; અને જે મૂર્ખ છે, અજ્ઞાનતામાં છે - તે બધા તમારી રચનાઓ છે. તેમ છતાં, જે જીવોનાં શરીર સદ્ગુણની સ્થિતિમાં છે તે તમને વિશેષ પ્રિય છે, અને તે તેમને જાળવી રાખવા અને તેમના ધાર્મિક સિદ્ધાંતોનું રક્ષણ કરવા માટે છે કે તમે હવે પૃથ્વી પર હાજર છો."
+            }
+        }
+    },
+    {
+        "id": 101651,
+        "sloka": "10.16.51",
+        "verse_id": 101651,
+        "verseNumber": 51,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "At least once, a master should tolerate an offense committed by his child or subject. O supreme peaceful Soul, You should therefore forgive our foolish husband, who did not understand who You are."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "कम से कम एक बार, एक गुरु को अपने बच्चे या विषय द्वारा किए गए अपराध को सहन करना चाहिए। हे परम शांतिपूर्ण आत्मा, इसलिए आपको हमारे मूर्ख पति को माफ कर देना चाहिए, जो यह नहीं समझ पाए कि आप कौन हैं।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "ઓછામાં ઓછા એક વખત, માસ્ટરએ તેના બાળક અથવા વિષય દ્વારા કરવામાં આવેલા ગુનાને સહન કરવું જોઈએ. હે પરમ શાંતિપૂર્ણ આત્મા, તમારે અમારા મૂર્ખ પતિને માફ કરવો જોઈએ, જેણે તમે કોણ છો તે સમજી શક્યા નથી."
+            }
+        }
+    },
+    {
+        "id": 101652,
+        "sloka": "10.16.52",
+        "verse_id": 101652,
+        "verseNumber": 52,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "O Supreme Lord, please be merciful. It is proper for the saintly to feel compassion for women like us. This serpent is about to give up his life. Please give us back our husband, who is our life and soul."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "हे परमेश्वर, कृपया दयालु बनें। संतों के लिए यह उचित है कि वे हम जैसी स्त्रियों पर दया करें। यह नागिन अपनी जान देने ही वाली है. कृपया हमें हमारा पति, जो हमारा जीवन और आत्मा है, वापस लौटा दीजिये।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "હે પરમ ભગવાન, કૃપા કરી દયાળુ થાઓ. સંતપુરુષને આપણા જેવી સ્ત્રીઓ પ્રત્યે દયા આવે તે યોગ્ય છે. આ નાગ પોતાનો જીવ આપવાનો છે. કૃપા કરીને અમને અમારા પતિ પાછા આપો, જે અમારા જીવન અને આત્મા છે."
+            }
+        }
+    },
+    {
+        "id": 101653,
+        "sloka": "10.16.53",
+        "verse_id": 101653,
+        "verseNumber": 53,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Now please tell us, Your maidservants, what we should do. Certainly anyone who faithfully executes Your order is automatically freed from all fear."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "अब हे दासियों, कृपा करके हमें बताओ कि हम क्या करें। निश्चय ही जो कोई आपके आदेश का निष्ठापूर्वक पालन करता है, वह स्वतः ही सभी भय से मुक्त हो जाता है।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "હવે કૃપા કરીને અમને કહો, તમારી દાસીઓ, અમારે શું કરવું જોઈએ. ચોક્કસપણે કોઈપણ જે તમારા આદેશનો વિશ્વાસપૂર્વક અમલ કરે છે તે આપમેળે તમામ ભયમાંથી મુક્ત થઈ જાય છે."
+            }
+        }
+    },
+    {
+        "id": 101654,
+        "sloka": "10.16.54",
+        "verse_id": 101654,
+        "verseNumber": 54,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Śukadeva Gosvāmī said: Thus praised by the Nāgapatnīs, the Supreme Personality of Godhead released the serpent Kāliya, who had fallen unconscious, his heads battered by the striking of the Lord’s lotus feet."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "शुकदेव गोस्वामी ने कहा: नागपत्नियों द्वारा इस प्रकार स्तुति करने पर, भगवान के परम व्यक्तित्व ने कालिया नाग को मुक्त कर दिया, जो बेहोश हो गया था, उसके सिर भगवान के चरण कमलों के प्रहार से क्षतिग्रस्त हो गए थे।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "શુકદેવ ગોસ્વામીએ કહ્યું: આ રીતે નાગપટ્ટનીઓ દ્વારા સ્તુતિ કરીને, ભગવાનના પરમ પુરૂષે સર્પ કાલિયાને મુક્ત કર્યો, જે ભગવાનના કમળના ચરણોના પ્રહારથી બેભાન થઈને પડી ગયા હતા, તેના માથાઓ ફસાઈ ગયા હતા."
+            }
+        }
+    },
+    {
+        "id": 101655,
+        "sloka": "10.16.55",
+        "verse_id": 101655,
+        "verseNumber": 55,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Kāliya slowly regained his vital force and sensory functions. Then, breathing loudly and painfully, the poor serpent addressed Lord Kṛṣṇa, the Supreme Personality of Godhead, in humble submission."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "कालिया ने धीरे-धीरे अपनी जीवन शक्ति और संवेदी कार्यों को पुनः प्राप्त कर लिया। तब बेचारे सर्प ने जोर-जोर से और दर्द भरी सांस लेते हुए विनम्र समर्पण के साथ परम भगवान कृष्ण को संबोधित किया।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "કાલિયાએ ધીમે ધીમે તેનું મહત્વપૂર્ણ બળ અને સંવેદનાત્મક કાર્યો પાછું મેળવ્યું. પછી, જોરથી અને પીડાદાયક રીતે શ્વાસ લેતા, ગરીબ સર્પે ભગવાન કૃષ્ણને સંબોધન કર્યું, જે પરમપુરુષ ભગવાન છે, નમ્ર આધીનતામાં."
+            }
+        }
+    },
+    {
+        "id": 101656,
+        "sloka": "10.16.56",
+        "verse_id": 101656,
+        "verseNumber": 56,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "The serpent Kāliya said: Our very birth as a snake has made us envious, ignorant and constantly angry. O my Lord, it is so difficult for people to give up their conditioned nature, by which they identify with that which is unreal."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "कालिया नाग ने कहा: सर्प के रूप में हमारे जन्म ने ही हमें ईर्ष्यालु, अज्ञानी और निरंतर क्रोधित बना दिया है। हे भगवान, लोगों के लिए अपने बद्ध स्वभाव को छोड़ना बहुत कठिन है, जिसके द्वारा वे उस चीज़ की पहचान करते हैं जो अवास्तविक है।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "સર્પ કાલિયાએ કહ્યું: સાપ તરીકે આપણો જન્મ અમને ઈર્ષ્યા, અજ્ઞાની અને સતત ક્રોધિત બનાવ્યો છે. હે ભગવાન, લોકો માટે તેમના કન્ડિશન્ડ સ્વભાવને છોડવો ખૂબ મુશ્કેલ છે, જેના દ્વારા તેઓ અવાસ્તવિક સાથે ઓળખાય છે."
+            }
+        }
+    },
+    {
+        "id": 101657,
+        "sloka": "10.16.57",
+        "verse_id": 101657,
+        "verseNumber": 57,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "O supreme creator, it is You who generate this universe, composed of the variegated arrangement of the material modes, and in the process You manifest various kinds of personalities and species, varieties of sensory and physical strength, and varieties of mothers and fathers with variegated mentalities and forms."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "हे सर्वोच्च निर्माता, यह आप ही हैं जिन्होंने भौतिक गुणों की विविध व्यवस्था से बने इस ब्रह्मांड को उत्पन्न किया है, और इस प्रक्रिया में आप विभिन्न प्रकार के व्यक्तित्वों और प्रजातियों, विभिन्न प्रकार की संवेदी और शारीरिक शक्तियों, और विभिन्न मानसिकताओं और रूपों के साथ विभिन्न प्रकार की माताओं और पिताओं को प्रकट करते हैं।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "હે સર્વોચ્ચ સર્જક, તમે જ આ બ્રહ્માંડનું સર્જન કરો છો, જે ભૌતિક સ્થિતિઓની વૈવિધ્યસભર ગોઠવણીથી બનેલું છે, અને આ પ્રક્રિયામાં તમે વિવિધ પ્રકારના વ્યક્તિત્વ અને પ્રજાતિઓ, વિવિધ પ્રકારની સંવેદનાત્મક અને શારીરિક શક્તિઓ અને વિવિધ પ્રકારની માનસિકતાઓ અને સ્વરૂપો સાથે માતા અને પિતાની વિવિધતાઓ પ્રગટ કરો છો."
+            }
+        }
+    },
+    {
+        "id": 101658,
+        "sloka": "10.16.58",
+        "verse_id": 101658,
+        "verseNumber": 58,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "O Supreme Personality of Godhead, among all the species within Your material creation, we serpents are by nature always enraged. Being thus deluded by Your illusory energy, which is very difficult to give up, how can we possibly give it up on our own?"
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "हे भगवान, आपकी भौतिक सृष्टि की सभी प्रजातियों में से, हम नाग स्वभाव से हमेशा क्रोधित रहते हैं। इस प्रकार आपकी माया से मोहित होकर, जिसे त्यागना बहुत कठिन है, हम इसे स्वयं कैसे त्याग सकते हैं?"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "હે પરમ પરમ પરમાત્મા, તમારી ભૌતિક સૃષ્ટિમાં રહેલી તમામ પ્રજાતિઓમાં, અમે સર્પો સ્વભાવે હંમેશા ક્રોધિત છીએ. આ રીતે તમારી ભ્રામક ઉર્જાથી ભ્રમિત થઈને, જેને છોડવી ખૂબ જ મુશ્કેલ છે, તો આપણે તેને આપણી જાતે કેવી રીતે છોડી શકીએ?"
+            }
+        }
+    },
+    {
+        "id": 101659,
+        "sloka": "10.16.59",
+        "verse_id": 101659,
+        "verseNumber": 59,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "O Lord, since You are the omniscient Lord of the universe, You are the actual cause of freedom from illusion. Please arrange for us whatever You consider proper, whether it be mercy or punishment."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "हे भगवान, चूँकि आप ब्रह्मांड के सर्वज्ञ भगवान हैं, आप भ्रम से मुक्ति के वास्तविक कारण हैं। आप हमारे लिए जो भी उचित समझें, चाहे वह दया हो या दण्ड, वह व्यवस्था करें।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "હે ભગવાન, તમે બ્રહ્માંડના સર્વજ્ઞ ભગવાન હોવાથી, તમે ભ્રમમાંથી મુક્તિનું વાસ્તવિક કારણ છો. કૃપા કરીને અમારા માટે તમને જે યોગ્ય લાગે તે વ્યવસ્થા કરો, પછી તે દયા હોય કે સજા."
+            }
+        }
+    },
+    {
+        "id": 101660,
+        "sloka": "10.16.60",
+        "verse_id": 101660,
+        "verseNumber": 60,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Śukadeva Gosvāmī said: After hearing Kāliya’s words, the Supreme Personality of Godhead, who was acting the role of a human being, replied: O serpent, you may not remain here any longer. Go back to the ocean immediately, accompanied by your retinue of children, wives, other relatives and friends. Let this river be enjoyed by the cows and humans."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "शुकदेव गोस्वामी ने कहा: कालिया के शब्दों को सुनने के बाद, भगवान, जो एक इंसान की भूमिका निभा रहे थे, ने उत्तर दिया: हे सर्प, तुम अब यहां नहीं रह सकते। अपने बच्चों, पत्नियों, अन्य रिश्तेदारों और दोस्तों के साथ तुरंत समुद्र में वापस जाएँ। इस नदी का आनंद गायें और मनुष्य उठायें।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "શુકદેવ ગોસ્વામીએ કહ્યું: કાલિયાના શબ્દો સાંભળ્યા પછી, ભગવાનના પરમ પુરૂષ, જે મનુષ્યની ભૂમિકા ભજવી રહ્યા હતા, તેમણે જવાબ આપ્યો: હે સર્પ, તમે હવે અહીં નહીં રહી શકો. તમારા બાળકો, પત્નીઓ, અન્ય સંબંધીઓ અને મિત્રો સાથે તરત જ સમુદ્ર પર પાછા જાઓ. આ નદીને ગાયો અને માનવીઓ માણવા દો."
+            }
+        }
+    },
+    {
+        "id": 101661,
+        "sloka": "10.16.61",
+        "verse_id": 101661,
+        "verseNumber": 61,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "If a mortal being attentively remembers My command to you — to leave Vṛndāvana and go to the ocean — and narrates this account at sunrise and sunset, he will never be afraid of you."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "यदि कोई प्राणी मेरी तुम्हें दी गई आज्ञा - वृन्दावन छोड़कर समुद्र में चले जाने - को ध्यानपूर्वक स्मरण करे और सूर्योदय तथा सूर्यास्त के समय यह वृत्तान्त सुनाए, तो वह तुमसे कभी नहीं डरेगा।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "જો કોઈ નશ્વર તમને મારી આજ્ઞા ધ્યાનથી યાદ કરે છે - વૃંદાવન છોડીને સમુદ્રમાં જવાનું - અને સૂર્યોદય અને સૂર્યાસ્ત સમયે આ વાર્તા કહે છે, તો તે ક્યારેય તમારાથી ડરશે નહીં."
+            }
+        }
+    },
+    {
+        "id": 101662,
+        "sloka": "10.16.62",
+        "verse_id": 101662,
+        "verseNumber": 62,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "If one bathes in this place of My pastimes and offers the water of this lake to the demigods and other worshipable personalities, or if one observes a fast and duly worships and remembers Me, he is sure to become free from all sinful reactions."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "यदि कोई मेरी लीलाओं के इस स्थान पर स्नान करता है और इस झील का जल देवताओं और अन्य पूज्य व्यक्तियों को अर्पित करता है, या यदि कोई व्रत रखता है और विधिवत पूजा करता है और मुझे याद करता है, तो वह निश्चित रूप से सभी पापों से मुक्त हो जाता है।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "જો કોઈ વ્યક્તિ મારા વિનોદના આ સ્થાન પર સ્નાન કરે છે અને આ સરોવરનું પાણી દેવતાઓ અને અન્ય પૂજાપાત્ર વ્યક્તિઓને અર્પણ કરે છે અથવા જો કોઈ વ્રત રાખે છે અને વિધિવત પૂજા કરે છે અને મારું સ્મરણ કરે છે, તો તે નિશ્ચિતપણે તમામ પાપી પ્રતિક્રિયાઓથી મુક્ત થઈ જશે."
+            }
+        }
+    },
+    {
+        "id": 101663,
+        "sloka": "10.16.63",
+        "verse_id": 101663,
+        "verseNumber": 63,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Out of fear of Garuḍa, you left Ramaṇaka Island and came to take shelter of this lake. But because you are now marked with My footprints, Garuḍa will no longer try to eat you."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "गरुड़ के भय से तुम रमणक द्वीप छोड़कर इस सरोवर की शरण में आ गये। लेकिन क्योंकि अब तुम पर मेरे पदचिन्ह अंकित हो गए हैं, गरुड़ अब तुम्हें खाने की कोशिश नहीं करेगा।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "ગરુડના ડરથી તમે રામણક ટાપુ છોડીને આ સરોવરનો આશ્રય લેવા આવ્યા હતા. પરંતુ કારણ કે હવે તમે મારા પગના ચિહ્નોથી ચિહ્નિત થયા છો, ગરુડ હવે તમને ખાવાનો પ્રયત્ન કરશે નહીં."
+            }
+        }
+    },
+    {
+        "id": 101664,
+        "sloka": "10.16.64",
+        "verse_id": 101664,
+        "verseNumber": 64,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Śukadeva Gosvāmī continued: My dear King, having been released by Lord Kṛṣṇa, the Supreme Personality of Godhead, whose activities are wonderful, Kāliya joined his wives in worshiping Him with great joy and reverence."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "शुकदेव गोस्वामी ने आगे कहा: मेरे प्रिय राजा, भगवान कृष्ण, जिनके कार्य अद्भुत हैं, द्वारा मुक्त किए जाने के बाद, कालिया अपनी पत्नियों के साथ बहुत खुशी और श्रद्धा के साथ उनकी पूजा करने लगा।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "શુકદેવ ગોસ્વામીએ ચાલુ રાખ્યું: મારા વહાલા રાજા, ભગવાન કૃષ્ણ દ્વારા મુક્ત થયા પછી, ભગવાનના સર્વોપરી વ્યક્તિત્વ, જેમની પ્રવૃત્તિઓ અદ્ભુત છે, કાલિયાએ તેમની પત્નીઓને ખૂબ આનંદ અને આદર સાથે તેમની પૂજામાં જોડ્યા."
+            }
+        }
+    },
+    {
+        "id": 101665,
+        "sloka": "10.16.65-67",
+        "verse_id": 101665,
+        "verseNumber": 65,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Kāliya worshiped the Lord of the universe by offering Him fine garments, along with necklaces, jewels and other valuable ornaments, wonderful scents and ointments, and a large garland of lotus flowers. Having thus pleased the Lord, whose flag is marked with the emblem of Garuḍa, Kāliya felt satisfied. Receiving the Lord’s permission to leave, Kāliya circumambulated Him and offered Him obeisances. Then, taking his wives, friends and children, he went to his island in the sea. The very moment Kāliya left, the Yamunā was immediately restored to her original condition, free from poison and full of nectarean water. This happened by the mercy of the Supreme Personality of Godhead, who was manifesting a humanlike form to enjoy His pastimes."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "कालिया ने ब्रह्मांड के भगवान की पूजा की, उन्हें अच्छे वस्त्र, हार, गहने और अन्य मूल्यवान आभूषण, अद्भुत सुगंध और मलहम और कमल के फूलों की एक बड़ी माला अर्पित की। इस प्रकार भगवान को प्रसन्न करके, जिनकी ध्वजा पर गरुड़ का चिह्न अंकित है, कालिया को संतुष्टि हुई। भगवान की जाने की अनुमति पाकर कालिया ने उनकी परिक्रमा की और उन्हें प्रणाम किया। फिर वह अपनी पत्नियों, मित्रों और बच्चों को लेकर समुद्र में अपने द्वीप पर चला गया। जिस क्षण कालिया चला गया, उसी क्षण यमुना तुरंत अपनी मूल स्थिति में आ गई, जहर से मुक्त हो गई और अमृत जल से भरपूर हो गई। यह भगवान की दया से हुआ, जो अपनी लीलाओं का आनंद लेने के लिए मानवीय रूप प्रकट कर रहे थे।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "કાલિયાએ બ્રહ્માંડના ભગવાનને સુંદર વસ્ત્રો, હાર, ઝવેરાત અને અન્ય મૂલ્યવાન આભૂષણો, અદ્ભુત સુગંધ અને મલમ અને કમળના ફૂલોની મોટી માળા અર્પણ કરીને પૂજા કરી. આ રીતે ભગવાનને પ્રસન્ન કર્યા, જેમના ધ્વજ પર ગરુડનું ચિહ્ન છે, કાલિયાને સંતોષ થયો. ભગવાનની વિદાયની અનુમતિ મેળવીને, કાલિયાએ તેમની પરિક્રમા કરી અને તેમને પ્રણામ કર્યા. પછી, તેની પત્નીઓ, મિત્રો અને બાળકોને લઈને, તે સમુદ્રમાં તેના ટાપુ પર ગયો. કાલિયાએ છોડ્યા તે જ ક્ષણે, યમુના તરત જ તેની મૂળ સ્થિતિમાં પાછી આવી ગઈ, ઝેરથી મુક્ત અને અમૃત જળથી ભરપૂર. આ પરમ પુરૂષ ભગવાનની દયાથી થયું, જેઓ તેમના મનોરંજનનો આનંદ માણવા માટે માનવસમાન સ્વરૂપ પ્રગટ કરી રહ્યા હતા."
+            }
+        }
+    }
+]

@@ -1,0 +1,968 @@
+[
+    {
+        "id": 107101,
+        "sloka": "10.71.1",
+        "verse_id": 107101,
+        "verseNumber": 1,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Śukadeva Gosvāmī said: Having thus heard the statements of Devarṣi Nārada, and understanding the opinions of both the assembly and Lord Kṛṣṇa, the great-minded Uddhava began to speak."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "शुकदेव गोस्वामी ने कहा: इस प्रकार देवर्षि नारद के कथनों को सुनकर और सभा और भगवान कृष्ण दोनों की राय को समझकर, महान दिमाग वाले उद्धव ने बोलना शुरू किया।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "શુકદેવ ગોસ્વામીએ કહ્યું: આ રીતે દેવર્ષિ નારદના નિવેદનો સાંભળીને, અને સભા અને ભગવાન કૃષ્ણ બંનેના મંતવ્યો સમજીને, ઉદ્ધવ બોલવા લાગ્યા."
+            }
+        }
+    },
+    {
+        "id": 107102,
+        "sloka": "10.71.2",
+        "verse_id": 107102,
+        "verseNumber": 2,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Śrī Uddhava said: O Lord, as the sage advised, You should help Your cousin fulfill his plan for performing the Rājasūya sacrifice, and You should also protect the kings who are begging for Your shelter."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "श्री उद्धव ने कहा: हे भगवान, जैसा कि ऋषि ने सलाह दी थी, आपको अपने चचेरे भाई को राजसूय यज्ञ करने की योजना को पूरा करने में मदद करनी चाहिए, और आपको उन राजाओं की भी रक्षा करनी चाहिए जो आपकी शरण में भीख मांग रहे हैं।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "શ્રી ઉદ્ધવે કહ્યું: હે ભગવાન, ઋષિની સલાહ મુજબ, તમારે તમારા પિતરાઈ ભાઈને રાજસૂય યજ્ઞ કરવાની તેમની યોજના પૂર્ણ કરવામાં મદદ કરવી જોઈએ, અને તમારે તમારા આશ્રય માટે ભીખ માંગતા રાજાઓની પણ રક્ષા કરવી જોઈએ."
+            }
+        }
+    },
+    {
+        "id": 107103,
+        "sloka": "10.71.3",
+        "verse_id": 107103,
+        "verseNumber": 3,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Only one who has conquered all opponents in every direction can perform the Rājasūya sacrifice, O almighty one. Thus, in my opinion, conquering Jarāsandha will serve both purposes."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "हे सर्वशक्तिमान, केवल वही व्यक्ति राजसूय यज्ञ कर सकता है जिसने हर दिशा में सभी विरोधियों पर विजय प्राप्त कर ली है। इस प्रकार, मेरी राय में, जरासंध पर विजय प्राप्त करने से दोनों उद्देश्य पूरे होंगे।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "હે સર્વશક્તિમાન, ફક્ત એક જ જેણે તમામ વિરોધીઓને દરેક દિશામાં જીતી લીધા છે તે જ રાજસૂય યજ્ઞ કરી શકે છે. આમ, મારા મતે, જરાસંધ પર વિજય મેળવવો એ બંને હેતુઓ પૂરા થશે."
+            }
+        }
+    },
+    {
+        "id": 107104,
+        "sloka": "10.71.4",
+        "verse_id": 107104,
+        "verseNumber": 4,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "By this decision there will be great gain for us, and You will save the kings. Thus, Govinda, You will be glorified."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "इस निर्णय से हमें बड़ा लाभ होगा, और तू राजाओं का उद्धार करेगा। इस प्रकार, गोविंदा, आपकी महिमा होगी।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "આ નિર્ણયથી અમને મોટો ફાયદો થશે, અને તમે રાજાઓને બચાવશો. આમ, ગોવિંદા, તારો મહિમા થશે."
+            }
+        }
+    },
+    {
+        "id": 107105,
+        "sloka": "10.71.5",
+        "verse_id": 107105,
+        "verseNumber": 5,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "The invincible King Jarāsandha is as strong as ten thousand elephants. Indeed, other powerful warriors cannot defeat him. Only Bhīma is equal to him in strength."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "अजेय राजा जरासंध दस हजार हाथियों के समान शक्तिशाली है। दरअसल, अन्य शक्तिशाली योद्धा उसे हरा नहीं सकते। ताकत में केवल भीम ही उनके बराबर हैं।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "અજેય રાજા જરાસંધ દસ હજાર હાથીઓ જેવો બળવાન છે. ખરેખર, અન્ય શક્તિશાળી યોદ્ધાઓ તેને હરાવી શકતા નથી. માત્ર ભીમ જ શક્તિમાં તેના સમાન છે."
+            }
+        }
+    },
+    {
+        "id": 107106,
+        "sloka": "10.71.6",
+        "verse_id": 107106,
+        "verseNumber": 6,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "He will be defeated in a match of single chariots, not when he is with his hundred military divisions. Now, Jarāsandha is so devoted to brahminical culture that he never refuses requests from brāhmaṇas."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "वह अकेले रथों के मुकाबले में पराजित होगा, न कि तब जब वह अपनी सौ सैन्य टुकड़ियों के साथ होगा। अब, जरासंध ब्राह्मणवादी संस्कृति के प्रति इतना समर्पित है कि वह ब्राह्मणों के अनुरोधों को कभी अस्वीकार नहीं करता।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "તે એક જ રથની મેચમાં પરાજિત થશે, જ્યારે તે તેના સો લશ્કરી વિભાગો સાથે હશે ત્યારે નહીં. હવે, જરાસંધ બ્રાહ્મણ સંસ્કૃતિ પ્રત્યે એટલા સમર્પિત છે કે તે ક્યારેય બ્રાહ્મણોની વિનંતીઓનો ઇનકાર કરતા નથી."
+            }
+        }
+    },
+    {
+        "id": 107107,
+        "sloka": "10.71.7",
+        "verse_id": 107107,
+        "verseNumber": 7,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Bhīma should go to him disguised as a brāhmaṇa and beg charity. Thus he will obtain single combat with Jarāsandha, and in Your presence Bhīma will no doubt kill him."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "भीम को ब्राह्मण के भेष में उनके पास जाना चाहिए और दान माँगना चाहिए। इस प्रकार वह जरासंध से अकेले युद्ध करेगा और आपकी उपस्थिति में भीम निस्संदेह उसे मार डालेगा।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "ભીમે બ્રાહ્મણના વેશમાં તેની પાસે જવું જોઈએ અને દાનની ભીખ માંગવી જોઈએ. આમ તે જરાસંધ સાથે એક જ યુદ્ધ મેળવશે, અને તમારી હાજરીમાં ભીમ નિઃશંકપણે તેને મારી નાખશે."
+            }
+        }
+    },
+    {
+        "id": 107108,
+        "sloka": "10.71.8",
+        "verse_id": 107108,
+        "verseNumber": 8,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Even Lord Brahmā and Lord Śiva act only as Your instruments in cosmic creation and annihilation, which are ultimately done by You, the Supreme Lord, in Your invisible aspect of time."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "यहां तक ​​कि भगवान ब्रह्मा और भगवान शिव भी ब्रह्मांडीय सृजन और विनाश में आपके उपकरण के रूप में कार्य करते हैं, जो अंततः आपके द्वारा, परम भगवान, समय के अपने अदृश्य पहलू में किया जाता है।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "ભગવાન બ્રહ્મા અને ભગવાન શિવ પણ બ્રહ્માંડ સૃષ્ટિ અને વિનાશમાં તમારા સાધન તરીકે જ કાર્ય કરે છે, જે આખરે તમે, પરમ ભગવાન, તમારા સમયના અદૃશ્ય પાસામાં કરવામાં આવે છે."
+            }
+        }
+    },
+    {
+        "id": 107109,
+        "sloka": "10.71.9",
+        "verse_id": 107109,
+        "verseNumber": 9,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "In their homes, the godly wives of the imprisoned kings sing of Your noble deeds — about how You will kill their husbands’ enemy and deliver them. The gopīs also sing Your glories — how You killed the enemy of the elephant king, Gajendra; the enemy of Sīta, daughter of Janaka; and the enemies of Your own parents as well. So also do the sages who have obtained Your shelter glorify You, as do we ourselves."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "अपने घरों में, कैद किए गए राजाओं की धर्मपरायण पत्नियाँ आपके महान कार्यों के बारे में गाती हैं - कि आप उनके पतियों के शत्रु को कैसे मारेंगे और उन्हें छुड़ाएँगे। गोपियाँ भी आपकी महिमा गाती हैं - आपने हाथी राजा गजेंद्र के शत्रु को कैसे मारा; जनक की पुत्री सीता का शत्रु; और आपके अपने माता-पिता के शत्रु भी। इसी प्रकार जिन ऋषियों ने आपकी शरण प्राप्त की है वे भी आपकी महिमा करते हैं, जैसे हम स्वयं करते हैं।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "તેમના ઘરોમાં, કેદ થયેલા રાજાઓની ધર્મપ્રેમી પત્નીઓ તમારા ઉમદા કાર્યોનું ગાન કરે છે - તમે તેમના પતિના દુશ્મનને કેવી રીતે મારી નાખશો અને તેમને છોડાવશો. ગોપીઓ પણ તમારો મહિમા ગાય છે - તમે કેવી રીતે હાથી રાજા ગજેન્દ્રના દુશ્મનને મારી નાખ્યો; સીતાના દુશ્મન, જનકની પુત્રી; અને તમારા પોતાના માતાપિતાના દુશ્મનો પણ. તો જેમણે તમારો આશ્રય મેળવ્યો છે તે ઋષિઓ પણ તમારો મહિમા કરે છે, જેમ આપણે પોતે કરીએ છીએ."
+            }
+        }
+    },
+    {
+        "id": 107110,
+        "sloka": "10.71.10",
+        "verse_id": 107110,
+        "verseNumber": 10,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "O Kṛṣṇa, the killing of Jarāsandha, which is certainly a reaction of his past sins, will bring immense benefit. Indeed, it will make possible the sacrificial ceremony You desire."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "हे कृष्ण, जरासंध का वध, जो निश्चित रूप से उसके पिछले पापों की प्रतिक्रिया है, अत्यधिक लाभ पहुंचाएगा। वास्तव में, यह आपके इच्छित यज्ञ समारोह को संभव बनाएगा।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "હે કૃષ્ણ, જરાસંધની હત્યા, જે ચોક્કસપણે તેના ભૂતકાળના પાપોની પ્રતિક્રિયા છે, તે ઘણો લાભ લાવશે. ખરેખર, તમે ઈચ્છો છો તે બલિદાન વિધિ શક્ય બનાવશે."
+            }
+        }
+    },
+    {
+        "id": 107111,
+        "sloka": "10.71.11",
+        "verse_id": 107111,
+        "verseNumber": 11,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Śukadeva Gosvāmī said: O King, Devarṣi Nārada, the Yadu elders and Lord Kṛṣṇa all welcomed Uddhava’s proposal, which was entirely auspicious and infallible."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "शुकदेव गोस्वामी ने कहा: हे राजन, देवर्षि नारद, यदु बुजुर्गों और भगवान कृष्ण सभी ने उद्धव के प्रस्ताव का स्वागत किया, जो पूरी तरह से शुभ और अचूक था।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "શુકદેવ ગોસ્વામીએ કહ્યું: હે રાજા, દેવર્ષિ નારદ, યદુ વડીલો અને ભગવાન કૃષ્ણ બધાએ ઉદ્ધવના પ્રસ્તાવને આવકાર્યો, જે સંપૂર્ણ રીતે શુભ અને અચૂક હતો."
+            }
+        }
+    },
+    {
+        "id": 107112,
+        "sloka": "10.71.12",
+        "verse_id": 107112,
+        "verseNumber": 12,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "The almighty Personality of Godhead, the son of Devakī, begged His superiors for permission to leave. Then He ordered His servants, headed by Dāruka and Jaitra, to prepare for departure."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "देवकी के पुत्र सर्वशक्तिमान भगवान ने अपने वरिष्ठों से जाने की अनुमति मांगी। तब उन्होंने दारुक और जैत्र सहित अपने सेवकों को प्रस्थान की तैयारी करने का आदेश दिया।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "દેવકીના પુત્ર, ભગવાનના સર્વશક્તિમાન વ્યક્તિત્વે, તેમના ઉપરી અધિકારીઓને જવાની પરવાનગી માટે વિનંતી કરી. પછી તેમણે દારુકા અને જૈત્રાના નેતૃત્વમાં તેમના સેવકોને પ્રસ્થાન માટે તૈયાર થવા આદેશ આપ્યો."
+            }
+        }
+    },
+    {
+        "id": 107113,
+        "sloka": "10.71.13",
+        "verse_id": 107113,
+        "verseNumber": 13,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "O slayer of enemies, after He had arranged for the departure of His wives, children and baggage and taken leave of Lord Saṅkarṣaṇa and King Ugrasena, Lord Kṛṣṇa mounted His chariot, which had been brought by His driver. It flew a flag marked with the emblem of Garuḍa."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "हे शत्रुओं के संहारक, अपनी पत्नियों, बच्चों और सामान की विदाई की व्यवस्था करने और भगवान संकर्षण और राजा उग्रसेन से विदा लेने के बाद, भगवान कृष्ण अपने रथ पर चढ़े, जिसे उनका चालक लाया था। इसमें गरुड़ के प्रतीक चिन्ह वाला ध्वज फहराया गया।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "હે શત્રુઓના સંહારક, તેમણે તેમની પત્નીઓ, બાળકો અને સામાનની વિદાયની વ્યવસ્થા કરી અને ભગવાન શંકરશન અને રાજા ઉગ્રસેનની રજા લીધા પછી, ભગવાન કૃષ્ણએ તેમના રથ પર બેસાડ્યા, જે તેમના ડ્રાઇવર દ્વારા લાવ્યો હતો. તેણે ગરુડના પ્રતીક સાથે ચિહ્નિત ધ્વજ ઉડાડ્યો."
+            }
+        }
+    },
+    {
+        "id": 107114,
+        "sloka": "10.71.14",
+        "verse_id": 107114,
+        "verseNumber": 14,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "As the vibrations resounding from mṛdaṅgas, bherīs, kettledrums, conchshells and gomukhas filled the sky in all directions, Lord Kṛṣṇa set out on His journey. He was accompanied by the chief officers of His corps of chariots, elephants, infantry and cavalry and surrounded on all sides by His fierce personal guard."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "जैसे ही मृदंगों, भेरी, ढोल, शंख और गोमुखों से गूंजने वाली तरंगों ने आकाश को सभी दिशाओं में भर दिया, भगवान कृष्ण अपनी यात्रा पर निकल पड़े। उनके साथ उनके रथों, हाथियों, पैदल सेना और घुड़सवार सेना के प्रमुख अधिकारी थे और उनके भयंकर निजी रक्षक ने उन्हें चारों तरफ से घेर लिया था।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "જેમ જેમ મૃદંગ, ભેરી, કેટલડ્રમ, શંખ અને ગોમુખોમાંથી ગૂંજતા સ્પંદનોએ આકાશને ચારે દિશામાં ભરી દીધું, ભગવાન કૃષ્ણ તેમની યાત્રા પર નીકળ્યા. તેમની સાથે રથ, હાથીઓ, પાયદળ અને અશ્વદળના મુખ્ય અધિકારીઓ હતા અને તેમના ઉગ્ર અંગત રક્ષકો દ્વારા ચારે બાજુથી ઘેરાયેલા હતા."
+            }
+        }
+    },
+    {
+        "id": 107115,
+        "sloka": "10.71.15",
+        "verse_id": 107115,
+        "verseNumber": 15,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Lord Acyuta’s faithful wives, along with their children, followed the Lord on golden palanquins carried by powerful men. The queens were adorned with fine clothing, ornaments, fragrant oils and flower garlands, and they were surrounded on all sides by soldiers carrying swords and shields in their hands."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "भगवान अच्युत की वफादार पत्नियाँ, अपने बच्चों के साथ, शक्तिशाली पुरुषों द्वारा उठाई गई सुनहरी पालकी पर भगवान का अनुसरण करती थीं। रानियाँ उत्तम वस्त्रों, आभूषणों, सुगन्धित तेलों और पुष्पमालाओं से सुसज्जित थीं और वे हाथों में तलवारें और ढालें ​​लिए हुए सैनिकों से चारों ओर से घिरी हुई थीं।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "ભગવાન અચ્યુતાની વફાદાર પત્નીઓ, તેમના બાળકો સાથે, શક્તિશાળી પુરુષો દ્વારા લઈ જવામાં આવતી સોનેરી પાલખીઓ પર ભગવાનનું અનુસરણ કર્યું. રાણીઓ સુંદર વસ્ત્રો, આભૂષણો, સુગંધિત તેલ અને ફૂલોના માળાથી શણગારેલી હતી, અને તેઓ તેમના હાથમાં તલવારો અને ઢાલ લઈને સૈનિકો દ્વારા ચારે બાજુથી ઘેરાયેલા હતા."
+            }
+        }
+    },
+    {
+        "id": 107116,
+        "sloka": "10.71.16",
+        "verse_id": 107116,
+        "verseNumber": 16,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "On all sides proceeded finely adorned women-attendants of the royal household, as well as courtesans. They rode on palanquins and camels, bulls and buffalo, donkeys, mules, bullock carts and elephants. Their conveyances were fully loaded with grass tents, blankets, clothes and other items for the trip."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "हर तरफ राजघराने की सजी-धजी महिलाएँ और गणिकाएँ आगे बढ़ रही थीं। वे पालकियों और ऊँटों, बैलों और भैंसों, गधों, खच्चरों, बैलगाड़ियों और हाथियों पर सवार होते थे। उनके वाहन यात्रा के लिए घास के तंबू, कंबल, कपड़े और अन्य वस्तुओं से पूरी तरह भरे हुए थे।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "ચારે બાજુથી શાહી પરિવારની સુંદર રીતે શણગારેલી મહિલા-અટેન્ડન્ટ્સ, તેમજ ગણિકાઓ આગળ વધી રહી હતી. તેઓ પાલખી અને ઊંટ, બળદ અને ભેંસ, ગધેડા, ખચ્ચર, બળદગાડા અને હાથીઓ પર સવારી કરતા હતા. તેમના પરિવહન ઘાસના તંબુઓ, ધાબળા, કપડાં અને સફર માટેની અન્ય વસ્તુઓથી સંપૂર્ણ રીતે ભરેલા હતા."
+            }
+        }
+    },
+    {
+        "id": 107117,
+        "sloka": "10.71.17",
+        "verse_id": 107117,
+        "verseNumber": 17,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "The Lord’s army boasted royal umbrellas, cāmara fans and huge flagpoles with waving banners. During the day the sun’s rays reflected brightly from the soldiers’ fine weapons, jewelry, helmets and armor. Thus Lord Kṛṣṇa’s army, noisy with shouts and clatter, appeared like an ocean stirring with agitated waves and timiṅgila fish."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "भगवान की सेना में शाही छतरियां, कैमरा पंखे और लहराते बैनरों के साथ विशाल ध्वजदंड थे। दिन के दौरान सूर्य की किरणें सैनिकों के बढ़िया हथियारों, गहनों, हेलमेट और कवच से चमकती हुई प्रतिबिंबित होती थीं। इस प्रकार भगवान कृष्ण की सेना, जयकारों और गड़गड़ाहट से शोर करती हुई, उत्तेजित लहरों और तिमंगिला मछलियों से हिलते हुए समुद्र की तरह दिखाई देने लगी।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "ભગવાનની સેનાએ શાહી છત્રીઓ, કેમરા ચાહકો અને વિશાળ ધ્વજધ્વજ લહેરાતા બેનરો સાથે બડાઈ કરી. દિવસ દરમિયાન સૂર્યના કિરણો સૈનિકોના સુંદર શસ્ત્રો, ઘરેણાં, હેલ્મેટ અને બખ્તરમાંથી તેજસ્વી રીતે પ્રતિબિંબિત થાય છે. આ રીતે ભગવાન કૃષ્ણની સેના, ઘોંઘાટ અને ઘોંઘાટ સાથે, ઉશ્કેરાયેલા તરંગો અને તિમિંગીલા માછલીઓ સાથે ઉશ્કેરાયેલા સમુદ્રની જેમ દેખાય છે."
+            }
+        }
+    },
+    {
+        "id": 107118,
+        "sloka": "10.71.18",
+        "verse_id": 107118,
+        "verseNumber": 18,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Honored by Śrī Kṛṣṇa, the chief of the Yadus, Nārada Muni bowed down to the Lord. All of Nārada’s senses were satisfied by his meeting with Lord Kṛṣṇa. Thus, having heard the decision of the Lord and having been worshiped by Him, Nārada placed Him firmly within his heart and departed through the sky."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "यदुओं के मुखिया, श्री कृष्ण द्वारा सम्मानित, नारद मुनि ने भगवान को प्रणाम किया। भगवान कृष्ण से मिलन से नारद की सभी इंद्रियाँ संतुष्ट हो गईं। इस प्रकार, भगवान का निर्णय सुनकर और उनकी पूजा करके, नारद ने उन्हें दृढ़ता से अपने हृदय में स्थापित किया और आकाश मार्ग से चले गए।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "યદુઓના પ્રમુખ શ્રી કૃષ્ણ દ્વારા સન્માનિત, નારદ મુનિએ ભગવાનને પ્રણામ કર્યા. ભગવાન કૃષ્ણ સાથેની તેમની મુલાકાતથી નારદની બધી ઇન્દ્રિયો સંતુષ્ટ થઈ ગઈ. આ રીતે, ભગવાનનો નિર્ણય સાંભળીને અને તેમની પૂજા કરીને, નારદએ તેમને તેમના હૃદયમાં નિશ્ચિતપણે સ્થાન આપ્યું અને આકાશમાં પ્રયાણ કર્યું."
+            }
+        }
+    },
+    {
+        "id": 107119,
+        "sloka": "10.71.19",
+        "verse_id": 107119,
+        "verseNumber": 19,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "With pleasing words the Lord addressed the messenger sent by the kings: “My dear messenger, I wish all good fortune to you. I shall arrange for the killing of King Magadha. Do not fear.”"
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "प्रसन्न शब्दों में भगवान ने राजाओं द्वारा भेजे गए दूत को संबोधित किया: \"मेरे प्रिय दूत, मैं तुम्हारे अच्छे भाग्य की कामना करता हूं। मैं मगध राजा की हत्या की व्यवस्था करूंगा। डरो मत।\""
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "ભગવાને રાજાઓ દ્વારા મોકલેલા સંદેશવાહકને આનંદદાયક શબ્દો સાથે સંબોધતા કહ્યું: \"મારા પ્રિય દૂત, હું તમને બધા સારા નસીબની ઇચ્છા કરું છું. હું રાજા મગધની હત્યાની વ્યવસ્થા કરીશ. ડરશો નહીં.\""
+            }
+        }
+    },
+    {
+        "id": 107120,
+        "sloka": "10.71.20",
+        "verse_id": 107120,
+        "verseNumber": 20,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Thus addressed, the messenger departed and accurately relayed the Lord’s message to the kings. Eager for freedom, they then waited expectantly for their meeting with Lord Kṛṣṇa."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "इस प्रकार संबोधित करते हुए, दूत चला गया और राजाओं को भगवान का संदेश सटीक रूप से सुनाया। स्वतंत्रता के लिए उत्सुक, वे तब भगवान कृष्ण से मिलने की आशा से प्रतीक्षा करने लगे।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "આ રીતે સંબોધન કરીને, સંદેશવાહક વિદાય થયો અને રાજાઓને ભગવાનનો સંદેશ સચોટ રીતે સંભળાવ્યો. સ્વતંત્રતા માટે આતુર, તેઓ પછી ભગવાન કૃષ્ણ સાથેની તેમની મુલાકાત માટે આતુરતાપૂર્વક રાહ જોતા હતા."
+            }
+        }
+    },
+    {
+        "id": 107121,
+        "sloka": "10.71.21",
+        "verse_id": 107121,
+        "verseNumber": 21,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "As He traveled through the provinces of Ānarta, Sauvīra, Marudeśa and Vinaśana, Lord Hari crossed rivers and passed mountains, cities, villages, cow pastures and quarries."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "जैसे ही उन्होंने आनर्त, सौवीर, मरुदेश और विनाशन प्रांतों की यात्रा की, भगवान हरि ने नदियों को पार किया और पहाड़ों, शहरों, गांवों, गाय के चरागाहों और खदानों से होकर गुजरे।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "જ્યારે તેઓ આનર્તા, સૌવિરા, મરુદેશ અને વિનાશના પ્રાંતમાંથી પસાર થયા, ત્યારે ભગવાન હરિ નદીઓ ઓળંગીને પર્વતો, શહેરો, ગામડાઓ, ગાયના ગોચરો અને ખાણોમાંથી પસાર થયા."
+            }
+        }
+    },
+    {
+        "id": 107122,
+        "sloka": "10.71.22",
+        "verse_id": 107122,
+        "verseNumber": 22,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "After crossing the rivers Dṛṣadvatī and Sarasvatī, He passed through Pañcāla and Matsya and finally came to Indraprastha."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "दृषद्वती और सरस्वती नदियों को पार करने के बाद, वह पंचाल और मत्स्य से होकर गुजरे और अंत में इंद्रप्रस्थ आये।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "દૃષ્ટવતી અને સરસ્વતી નદીઓ પાર કર્યા પછી, તે પંચાલ અને મત્સ્યમાંથી પસાર થઈને અંતે ઈન્દ્રપ્રસ્થમાં આવ્યા."
+            }
+        }
+    },
+    {
+        "id": 107123,
+        "sloka": "10.71.23",
+        "verse_id": 107123,
+        "verseNumber": 23,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "King Yudhiṣṭhira was delighted to hear that the Lord, whom human beings rarely see, had now arrived. Accompanied by his priests and dear associates, the King came out to meet Lord Kṛṣṇa."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "राजा युधिष्ठिर को यह सुनकर प्रसन्नता हुई कि भगवान, जिन्हें मनुष्य कभी-कभार ही देखते हैं, अब आ गए हैं। अपने पुजारियों और प्रिय सहयोगियों के साथ, राजा भगवान कृष्ण से मिलने के लिए निकले।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "રાજા યુધિષ્ઠિર એ સાંભળીને આનંદિત થયા કે ભગવાન, જેને મનુષ્ય ભાગ્યે જ જોઈ શકે છે, તે હવે પધાર્યા છે. તેમના પુરોહિતો અને પ્રિય સહયોગીઓ સાથે, રાજા ભગવાન કૃષ્ણને મળવા બહાર આવ્યા."
+            }
+        }
+    },
+    {
+        "id": 107124,
+        "sloka": "10.71.24",
+        "verse_id": 107124,
+        "verseNumber": 24,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "As songs and musical instruments resounded along with the loud vibration of Vedic hymns, the King went forth with great reverence to meet Lord Hṛṣīkeśa, just as the senses go forth to meet the consciousness of life."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "जैसे ही वैदिक भजनों की तेज़ ध्वनि के साथ गीत और संगीत वाद्ययंत्र गूंजने लगे, राजा बड़ी श्रद्धा के साथ भगवान हृषीकेश से मिलने के लिए आगे बढ़े, जैसे इंद्रियाँ जीवन की चेतना से मिलने के लिए आगे बढ़ती हैं।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "વેદિક સ્તોત્રોના જોરથી સ્પંદન સાથે ગીતો અને સંગીતનાં સાધનો ગુંજી રહ્યાં હતાં, જેમ કે ઇન્દ્રિયો જીવનની ચેતનાને મળવા માટે આગળ વધે છે તેમ, રાજા ભગવાન ઋષિકેશને મળવા માટે ખૂબ જ આદરપૂર્વક આગળ વધ્યા."
+            }
+        }
+    },
+    {
+        "id": 107125,
+        "sloka": "10.71.25",
+        "verse_id": 107125,
+        "verseNumber": 25,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "The heart of King Yudhiṣṭhira melted with affection when he saw his dearmost friend, Lord Kṛṣṇa, after such a long separation, and he embraced the Lord again and again."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "जब राजा युधिष्ठिर ने अपने सबसे प्रिय मित्र भगवान कृष्ण को इतने लंबे वियोग के बाद देखा तो उनका हृदय स्नेह से पिघल गया और उन्होंने बार-बार भगवान को गले लगाया।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "રાજા યુધિષ્ઠિરનું હૃદય સ્નેહથી પીગળી ગયું જ્યારે તેણે તેના પરમ મિત્ર, ભગવાન કૃષ્ણને આટલા લાંબા વિદાય પછી જોયા, અને તે ભગવાનને વારંવાર ભેટી પડ્યા."
+            }
+        }
+    },
+    {
+        "id": 107126,
+        "sloka": "10.71.26",
+        "verse_id": 107126,
+        "verseNumber": 26,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "The eternal form of Lord Kṛṣṇa is the everlasting residence of the goddess of fortune. As soon as King Yudhiṣṭhira embraced Him, the King became free of all the contamination of material existence. He immediately felt transcendental bliss and merged in an ocean of happiness. There were tears in his eyes, and his body shook due to ecstasy. He completely forgot that he was living in this material world."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "भगवान कृष्ण का शाश्वत रूप भाग्य की देवी का शाश्वत निवास है। जैसे ही राजा युधिष्ठिर ने उन्हें गले लगाया, राजा भौतिक अस्तित्व के सभी प्रदूषण से मुक्त हो गए। उसे तुरंत दिव्य आनंद का अनुभव हुआ और वह खुशी के सागर में विलीन हो गया। उसकी आँखों में आँसू थे और आनन्द के कारण उसका शरीर काँप रहा था। वह पूरी तरह भूल गया कि वह इस भौतिक संसार में रह रहा है।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "ભગવાન કૃષ્ણનું શાશ્વત સ્વરૂપ એ સૌભાગ્યની દેવીનું શાશ્વત નિવાસસ્થાન છે. રાજા યુધિષ્ઠિરે તેમને ભેટી પડતાં જ રાજા ભૌતિક અસ્તિત્વના તમામ દૂષણોથી મુક્ત થઈ ગયા. તેણે તરત જ દિવ્ય આનંદની અનુભૂતિ કરી અને સુખના સમુદ્રમાં ભળી ગયો. તેની આંખોમાં આંસુ હતા, અને પરમાનંદના કારણે તેનું શરીર ધ્રૂજી ઊઠ્યું. તે સંપૂર્ણપણે ભૂલી ગયો કે તે આ ભૌતિક જગતમાં જીવી રહ્યો છે."
+            }
+        }
+    },
+    {
+        "id": 107127,
+        "sloka": "10.71.27",
+        "verse_id": 107127,
+        "verseNumber": 27,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Then Bhīma, his eyes brimming with tears, laughed with joy as he embraced his maternal cousin, Kṛṣṇa. Arjuna and the twins — Nakula and Sahadeva — also joyfully embraced their dearmost friend, the infallible Lord, and they cried profusely."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "तब भीम ने, जिसकी आँखें आँसुओं से भरी हुई थीं, खुशी से हँसते हुए अपने चचेरे भाई कृष्ण को गले लगा लिया। अर्जुन और जुड़वाँ बच्चे - नकुल और सहदेव - ने भी ख़ुशी से अपने सबसे प्रिय मित्र, अचूक भगवान को गले लगा लिया, और वे बहुत रोये।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "પછી ભીમ, તેની આંખો આંસુઓથી ભરેલી હતી, જ્યારે તેણે તેના મામાના પિતરાઈ ભાઈ, કૃષ્ણને આલિંગન કર્યું ત્યારે આનંદથી હસી પડ્યો. અર્જુન અને જોડિયા - નકુલ અને સહદેવ - પણ આનંદથી તેમના સૌથી પ્રિય મિત્ર, અચૂક ભગવાનને ભેટી પડ્યા, અને તેઓ ખૂબ રડ્યા."
+            }
+        }
+    },
+    {
+        "id": 107128,
+        "sloka": "10.71.28",
+        "verse_id": 107128,
+        "verseNumber": 28,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "After Arjuna had embraced Him once more and Nakula and Sahadeva had offered Him their obeisances, Lord Kṛṣṇa bowed down to the brāhmaṇas and elders present, thus properly honoring the respectable members of the Kuru, Sṛñjaya and Kaikaya clans."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "जब अर्जुन ने उन्हें एक बार फिर गले लगा लिया और नकुल और सहदेव ने उन्हें प्रणाम किया, तब भगवान कृष्ण ने उपस्थित ब्राह्मणों और बड़ों को प्रणाम किया, और इस प्रकार कुरु, सृंजय और कैकय वंश के सम्मानित सदस्यों का उचित सम्मान किया।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "અર્જુને તેને વધુ એક વાર ભેટી લીધા પછી અને નકુલ અને સહદેવે તેને પ્રણામ કર્યા પછી, ભગવાન કૃષ્ણએ બ્રાહ્મણો અને ઉપસ્થિત વડીલોને પ્રણામ કર્યા, આમ કુરુ, શ્રીંજય અને કૈકય કુળના આદરણીય સભ્યોનું યોગ્ય રીતે સન્માન કર્યું."
+            }
+        }
+    },
+    {
+        "id": 107129,
+        "sloka": "10.71.29",
+        "verse_id": 107129,
+        "verseNumber": 29,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Sūtas, Māgadhas, Gandharvas, Vandīs, jesters and brāhmaṇas all glorified the lotus-eyed Lord — some reciting prayers, some dancing and singing — as mṛdaṅgas, conchshells, kettledrums, vīṇās, paṇavas and gomukhas resounded."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "सूत, मगध, गंधर्व, वंदी, विदूषक और ब्राह्मण सभी ने कमल-नेत्र भगवान की स्तुति की - कुछ ने प्रार्थना की, कुछ ने नृत्य और गायन किया - जैसे मृदंग, शंख, केतली, वीणा, पणव और गोमुख गूंज उठे।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "સૂત, મગધ, ગાંધર્વ, વંદીઓ, વ્યંઢળો અને બ્રાહ્મણો બધાએ કમળ-નેત્રવાળા ભગવાનનો મહિમા કર્યો - કેટલાક પ્રાર્થનાઓ પાઠ કરતા, કેટલાક નૃત્ય અને ગાતા - મૃદંગ, શંખ, કેટલડ્રમ, વિષ્ણાસ અને પૌંડમુખ તરીકે."
+            }
+        }
+    },
+    {
+        "id": 107130,
+        "sloka": "10.71.30",
+        "verse_id": 107130,
+        "verseNumber": 30,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Thus surrounded by His well-wishing relatives and praised on all sides, Lord Kṛṣṇa, the crest jewel of the justly renowned, entered the decorated city."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "इस प्रकार, अपने शुभचिंतक रिश्तेदारों से घिरे हुए और हर तरफ से प्रशंसा करते हुए, न्यायप्रिय शिखर रत्न, भगवान कृष्ण ने सजाए गए शहर में प्रवेश किया।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "આ રીતે તેમના શુભેચ્છક સંબંધીઓથી ઘેરાયેલા અને ચારે બાજુથી વખાણ થતા, ન્યાયી પ્રસિદ્ધના શિખર રત્ન ભગવાન કૃષ્ણ, શણગારેલા શહેરમાં પ્રવેશ્યા."
+            }
+        }
+    },
+    {
+        "id": 107131,
+        "sloka": "10.71.31-32",
+        "verse_id": 107131,
+        "verseNumber": 31,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "The roads of Indraprastha were sprinkled with water perfumed by the liquid from elephants’ foreheads, and colorful flags, golden gateways and full waterpots enhanced the city’s splendor. Men and young girls were beautifully arrayed in fine, new garments, adorned with flower garlands and ornaments, and anointed with aromatic sandalwood paste. Every home displayed glowing lamps and respectful offerings, and from the holes of the latticed windows drifted incense, further beautifying the city. Banners waved, and the roofs were decorated with golden domes on broad silver bases. Thus Lord Kṛṣṇa saw the royal city of the King of the Kurus."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "इंद्रप्रस्थ की सड़कें हाथियों के माथे से निकलने वाले तरल पदार्थ से सुगंधित पानी से छिड़की हुई थीं, और रंगीन झंडे, सुनहरे प्रवेश द्वार और भरे हुए जलपात्र शहर की शोभा बढ़ाते थे। पुरुषों और युवा लड़कियों को सुंदर, नए वस्त्र पहनाए गए, फूलों की मालाओं और गहनों से सजाया गया, और सुगंधित चंदन के लेप से अभिषेक किया गया। हर घर में चमकते दीपक और सम्मानजनक प्रसाद प्रदर्शित होते थे, और जालीदार खिड़कियों के छिद्रों से धूप टपकती थी, जिससे शहर और भी सुंदर हो जाता था। बैनर लहरा रहे थे, और छतों को चौड़े चांदी के आधारों पर सुनहरे गुंबदों से सजाया गया था। इस प्रकार भगवान कृष्ण ने कौरवों के राजा के शाही शहर को देखा।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "ઇન્દ્રપ્રસ્થના રસ્તાઓ હાથીઓના કપાળમાંથી પ્રવાહી દ્વારા સુગંધિત પાણીથી છંટકાવ કરવામાં આવ્યા હતા, અને રંગબેરંગી ધ્વજ, સોનેરી પ્રવેશદ્વાર અને સંપૂર્ણ વોટરપોટ્સ શહેરની ભવ્યતામાં વધારો કરે છે. પુરૂષો અને યુવતીઓ સુંદર રીતે સુંદર, નવા વસ્ત્રોમાં સજ્જ હતા, ફૂલોની માળા અને આભૂષણોથી શણગારેલા હતા અને સુગંધિત ચંદન પેસ્ટથી અભિષેક કરવામાં આવ્યા હતા. દરેક ઘરમાં ઝળહળતા દીવાઓ અને આદરપૂર્વકના અર્પણો પ્રદર્શિત કરવામાં આવ્યા હતા, અને જાળીવાળી બારીઓના છિદ્રોમાંથી ધૂપ પ્રગટાવતા હતા, જે શહેરને વધુ સુંદર બનાવે છે. બેનરો લહેરાતા હતા, અને છતને ચાંદીના પહોળા પાયા પર સોનેરી ગુંબજથી શણગારવામાં આવી હતી. આ રીતે ભગવાન કૃષ્ણે કુરુઓના રાજાનું રાજનગર જોયું."
+            }
+        }
+    },
+    {
+        "id": 107133,
+        "sloka": "10.71.33",
+        "verse_id": 107133,
+        "verseNumber": 33,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "When the young women of the city heard that Lord Kṛṣṇa, the reservoir of pleasure for human eyes, had arrived, they hurriedly went onto the royal road to see Him. They abandoned their household duties and even left their husbands in bed, and in their eagerness the knots of their hair and garments came loose."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "जब नगर की युवतियों ने सुना कि मानव नेत्रों के आनंद के भंडार भगवान कृष्ण आ गए हैं, तो वे उन्हें देखने के लिए शीघ्रता से राजपथ पर चली गईं। उन्होंने अपने घरेलू कर्तव्यों को त्याग दिया और यहां तक ​​कि अपने पतियों को भी बिस्तर पर छोड़ दिया, और उनकी उत्सुकता में उनके बालों और कपड़ों की गांठें खुल गईं।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "જ્યારે શહેરની યુવતીઓએ સાંભળ્યું કે ભગવાન કૃષ્ણ, મનુષ્યની આંખો માટે આનંદનો ભંડાર, પધાર્યા છે, ત્યારે તેઓ તેમને જોવા માટે ઉતાવળે શાહી માર્ગ પર ગયા. તેઓએ તેમની ઘરની ફરજો છોડી દીધી અને તેમના પતિને પથારીમાં પણ છોડી દીધા, અને તેમની આતુરતામાં તેમના વાળ અને વસ્ત્રોની ગાંઠો છૂટી પડી."
+            }
+        }
+    },
+    {
+        "id": 107134,
+        "sloka": "10.71.34",
+        "verse_id": 107134,
+        "verseNumber": 34,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "The royal road being quite crowded with elephants, horses, chariots and foot soldiers, the women climbed to the top of their houses, where they caught sight of Lord Kṛṣṇa and His queens. The city ladies scattered flowers upon the Lord, embraced Him in their minds and expressed their heartfelt welcome with broadly smiling glances."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "शाही मार्ग हाथियों, घोड़ों, रथों और पैदल सैनिकों से काफी भरा हुआ था, महिलाएं अपने घरों की छत पर चढ़ गईं, जहां उन्होंने भगवान कृष्ण और उनकी रानियों को देखा। शहर की महिलाओं ने भगवान पर फूल बिखेरे, उन्हें अपने मन में गले लगाया और व्यापक रूप से मुस्कुराते हुए उनका हार्दिक स्वागत व्यक्त किया।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "શાહી માર્ગ હાથીઓ, ઘોડાઓ, રથ અને પગપાળા સૈનિકોથી ખીચોખીચ ભરેલો હોવાથી, સ્ત્રીઓ તેમના ઘરની ટોચ પર ચઢી ગઈ, જ્યાં તેઓએ ભગવાન કૃષ્ણ અને તેમની રાણીઓના દર્શન કર્યા. શહેરની મહિલાઓએ ભગવાન પર ફૂલો વિખેર્યા, તેમને તેમના મનમાં આલિંગન આપ્યું અને વ્યાપકપણે સ્મિત કરતી નજરે તેમનું હૃદયપૂર્વક સ્વાગત કર્યું."
+            }
+        }
+    },
+    {
+        "id": 107135,
+        "sloka": "10.71.35",
+        "verse_id": 107135,
+        "verseNumber": 35,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Observing Lord Mukunda’s wives passing on the road like stars accompanying the moon, the women exclaimed, “What have these ladies done so that the best of men bestows upon their eyes the joy of His generous smiles and playful sidelong glances?”"
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "भगवान मुकुंद की पत्नियों को चंद्रमा के साथ सितारों की तरह सड़क पर गुजरते हुए देखकर, महिलाओं ने कहा, \"इन महिलाओं ने ऐसा क्या किया है कि सर्वश्रेष्ठ पुरुष उनकी आंखों को अपनी उदार मुस्कुराहट और चंचल तिरछी नज़रों का आनंद देते हैं?\""
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "ભગવાન મુકુંદાની પત્નીઓને ચંદ્રની સાથે તારાઓની જેમ રસ્તા પર પસાર થતી જોઈને, સ્ત્રીઓએ કહ્યું, \"આ સ્ત્રીઓએ એવું શું કર્યું છે કે શ્રેષ્ઠ પુરુષો તેમની આંખો પર તેમના ઉદાર સ્મિત અને રમતિયાળ બાજુની નજરનો આનંદ આપે છે?\""
+            }
+        }
+    },
+    {
+        "id": 107136,
+        "sloka": "10.71.36",
+        "verse_id": 107136,
+        "verseNumber": 36,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "In various places citizens of the city came forward holding auspicious offerings for Lord Kṛṣṇa, and sinless leaders of occupational guilds came forward to worship the Lord."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "विभिन्न स्थानों पर शहर के नागरिक भगवान कृष्ण के लिए शुभ प्रसाद लेकर आगे आए, और व्यावसायिक संघों के पापरहित नेता भगवान की पूजा करने के लिए आगे आए।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "વિવિધ સ્થળોએ શહેરના નાગરિકો ભગવાન કૃષ્ણ માટે શુભ અર્પણો લઈને આગળ આવ્યા, અને વ્યવસાયિક મંડળોના પાપી નેતાઓ ભગવાનની પૂજા કરવા આગળ આવ્યા."
+            }
+        }
+    },
+    {
+        "id": 107137,
+        "sloka": "10.71.37",
+        "verse_id": 107137,
+        "verseNumber": 37,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "With wide-open eyes, the members of the royal household came forward in a flurry to lovingly greet Lord Mukunda, and thus the Lord entered the royal palace."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "खुली आंखों के साथ, शाही परिवार के सदस्य भगवान मुकुंद का प्रेमपूर्वक स्वागत करने के लिए आगे आए और इस तरह भगवान ने शाही महल में प्रवेश किया।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "ખુલ્લી આંખો સાથે, શાહી પરિવારના સભ્યો ભગવાન મુકુંદાને પ્રેમથી વધાવવા માટે ઉશ્કેરાટમાં આગળ આવ્યા, અને આ રીતે ભગવાન રાજમહેલમાં પ્રવેશ્યા."
+            }
+        }
+    },
+    {
+        "id": 107138,
+        "sloka": "10.71.38",
+        "verse_id": 107138,
+        "verseNumber": 38,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "When Queen Pṛthā saw her nephew Kṛṣṇa, the master of the three worlds, her heart became filled with love. Rising from her couch with her daughter-in-law, she embraced the Lord."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "जब रानी पृथा ने अपने भतीजे, तीनों लोकों के स्वामी, कृष्ण को देखा, तो उसका हृदय प्रेम से भर गया। अपनी बहू के साथ सोफ़े से उठकर उसने भगवान को गले लगा लिया।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "જ્યારે રાણી પૃથાએ તેના ભત્રીજા કૃષ્ણને જોયા, જે ત્રણ લોકના સ્વામી છે, ત્યારે તેનું હૃદય પ્રેમથી ભરાઈ ગયું. પુત્રવધૂ સાથે તેના પલંગ પરથી ઊઠીને તેણે પ્રભુને ભેટી."
+            }
+        }
+    },
+    {
+        "id": 107139,
+        "sloka": "10.71.39",
+        "verse_id": 107139,
+        "verseNumber": 39,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "King Yudhiṣṭhira respectfully brought Lord Govinda, the Supreme God of gods, to his personal quarters. The King was so overcome with joy that he could not remember all the rituals of worship."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "राजा युधिष्ठिर आदरपूर्वक देवों के परम देव भगवान गोविंद को अपने निजी आवास में ले आए। राजा खुशी से इतना अभिभूत हो गया कि उसे पूजा के सभी अनुष्ठान याद नहीं रहे।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "રાજા યુધિષ્ઠિર આદરપૂર્વક ભગવાન ગોવિંદ, દેવોના સર્વોચ્ચ ભગવાનને તેમના અંગત ક્વાર્ટરમાં લાવ્યા. રાજા એટલો પ્રસન્ન થઈ ગયો કે તેને પૂજાની બધી વિધિઓ યાદ રહી શકી નહીં."
+            }
+        }
+    },
+    {
+        "id": 107140,
+        "sloka": "10.71.40",
+        "verse_id": 107140,
+        "verseNumber": 40,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Lord Kṛṣṇa bowed down to His aunt and the wives of His elders, O King, and then Draupadī and the Lord’s sister bowed down to Him."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "हे राजन, भगवान कृष्ण ने अपनी चाची और अपने बुजुर्गों की पत्नियों को प्रणाम किया, और फिर द्रौपदी और भगवान की बहन ने उन्हें प्रणाम किया।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "ભગવાન કૃષ્ણએ તેમની કાકી અને તેમના વડીલોની પત્નીઓને પ્રણામ કર્યા, હે રાજા, અને પછી દ્રૌપદી અને ભગવાનની બહેને તેમને પ્રણામ કર્યા."
+            }
+        }
+    },
+    {
+        "id": 107141,
+        "sloka": "10.71.41-42",
+        "verse_id": 107141,
+        "verseNumber": 41,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Encouraged by her mother-in-law, Draupadī worshiped all of Lord Kṛṣṇa’s wives, including Rukmiṇī; Satyabhāmā; Bhadrā; Jāmbavatī; Kālindī; Mitravindā, the descendant of Śibi; the chaste Nāgnajitī; and the other queens of the Lord who were present. Draupadī honored them all with such gifts as clothing, flower garlands and jewelry."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "अपनी सास से प्रोत्साहित होकर द्रौपदी ने रुक्मिणी सहित भगवान कृष्ण की सभी पत्नियों की पूजा की; सत्यभामा; भद्रा; जाम्बवती; कालिंदी; मित्रविंदा, सिबि के वंशज; पवित्र नागनजीति; और प्रभु की अन्य रानियाँ जो उपस्थित थीं। द्रौपदी ने उन सभी को वस्त्र, फूल मालाएँ और आभूषण जैसे उपहार देकर सम्मानित किया।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "તેણીની સાસુ દ્વારા પ્રોત્સાહિત થઈને, દ્રૌપદીએ રુક્મિણી સહિત ભગવાન કૃષ્ણની તમામ પત્નીઓની પૂજા કરી; સત્યભામા; ભદ્રા; જાંબાવતી; કાલિન્દી; મિત્રવિંદા, શિબીના વંશજ; પવિત્ર નાગ્નજીતિ; અને ભગવાનની અન્ય રાણીઓ જેઓ હાજર હતી. દ્રૌપદીએ તે બધાને કપડાં, ફૂલોના માળા અને ઘરેણાં જેવી ભેટોથી સન્માનિત કર્યા."
+            }
+        }
+    },
+    {
+        "id": 107143,
+        "sloka": "10.71.43",
+        "verse_id": 107143,
+        "verseNumber": 43,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "King Yudhiṣṭhira arranged for Kṛṣṇa’s rest and saw to it that all who came along with Him — namely His queens, soldiers, ministers and secretaries — were comfortably situated. He arranged that they would experience a new feature of reception every day while staying as guests of the Pāṇḍavas."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "राजा युधिष्ठिर ने कृष्ण के विश्राम की व्यवस्था की और यह सुनिश्चित किया कि जो भी उनके साथ आए थे - अर्थात् उनकी रानियाँ, सैनिक, मंत्री और सचिव - आराम से बैठें। उन्होंने व्यवस्था की कि पांडवों के अतिथि के रूप में रहते हुए उन्हें हर दिन स्वागत की एक नई सुविधा का अनुभव होगा।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "રાજા યુધિષ્ઠિરે કૃષ્ણના આરામની વ્યવસ્થા કરી અને જોયું કે જેઓ તેમની સાથે આવ્યા હતા - જેમ કે તેમની રાણીઓ, સૈનિકો, મંત્રીઓ અને સચિવો - આરામથી સ્થિત છે. તેમણે એવી વ્યવસ્થા કરી કે તેઓ પાંડવોના મહેમાન તરીકે રહીને દરરોજ સ્વાગતની નવી સુવિધાનો અનુભવ કરશે."
+            }
+        }
+    },
+    {
+        "id": 107144,
+        "sloka": "10.71.44-45",
+        "verse_id": 107144,
+        "verseNumber": 44,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Desiring to please King Yudhiṣṭhira, the Lord resided at Indraprastha for several months. During His stay, He and Arjuna satisfied the fire-god by offering him the Khāṇḍava forest, and they saved Maya Dānava, who then built King Yudhiṣṭhira a celestial assembly hall. The Lord also took the opportunity to go riding in His chariot in the company of Arjuna, surrounded by a retinue of soldiers."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "राजा युधिष्ठिर को प्रसन्न करने की इच्छा से भगवान ने कई महीनों तक इंद्रप्रस्थ में निवास किया। अपने प्रवास के दौरान, उन्होंने और अर्जुन ने अग्नि-देवता को खांडव वन देकर संतुष्ट किया, और उन्होंने माया दानव को बचाया, जिन्होंने तब राजा युधिष्ठिर के लिए एक दिव्य सभा कक्ष बनवाया। भगवान ने भी अवसर का लाभ उठाते हुए अर्जुन के साथ अपने रथ पर सवार होकर, सैनिकों की एक टोली से घिरे हुए, जाने का अवसर लिया।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "રાજા યુધિષ્ઠિરને પ્રસન્ન કરવાની ઈચ્છાથી ભગવાને ઈન્દ્રપ્રસ્થમાં કેટલાંક મહિનાઓ સુધી નિવાસ કર્યો. તેમના રોકાણ દરમિયાન, તેમણે અને અર્જુને તેમને ખાંડવ વન અર્પણ કરીને અગ્નિદેવને સંતુષ્ટ કર્યા, અને તેઓએ માયા દાનવને બચાવ્યો, જેણે પછી રાજા યુધિષ્ઠિરને એક આકાશી સભામંડપ બનાવ્યો. ભગવાને પણ સૈનિકોની ટુકડીથી ઘેરાયેલા અર્જુનના સંગમાં તેમના રથમાં સવારી કરવાની તક લીધી."
+            }
+        }
+    }
+]

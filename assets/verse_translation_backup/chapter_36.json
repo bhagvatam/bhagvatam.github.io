@@ -1,0 +1,876 @@
+[
+    {
+        "id": 103601,
+        "sloka": "10.36.1",
+        "verse_id": 103601,
+        "verseNumber": 1,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Śukadeva Goswāmī said: The demon Ariṣṭa then came to the cowherd village. Appearing in the form of a bull with a large hump, he made the earth tremble as he tore it apart with his hooves."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "शुकदेव गोस्वामी ने कहा: राक्षस अरिष्ट तब चरवाहे गांव में आया। बड़े कूबड़ वाले बैल के रूप में प्रकट होकर, उसने पृथ्वी को अपने खुरों से फाड़ डाला और उसे कंपा दिया।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "શુકદેવ ગોસ્વામીએ કહ્યું: રાક્ષસ અરિષ્ટ પછી ગોવાળ ગામમાં આવ્યો. મોટા ખૂંધ સાથે બળદના રૂપમાં દેખાતા, તેણે પૃથ્વીને ધ્રૂજાવી દીધી કારણ કે તેણે તેને તેના ખુરથી ફાડી નાખ્યું."
+            }
+        }
+    },
+    {
+        "id": 103602,
+        "sloka": "10.36.2",
+        "verse_id": 103602,
+        "verseNumber": 2,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Ariṣṭāsura bellowed very harshly and pawed the ground. With his tail raised and his eyes glaring, he began to tear up the embankments with the tips of his horns, every now and then passing a little stool and urine."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "अरिष्टासुर ने बहुत जोर से चिल्लाया और जमीन पर पंजा मारा। अपनी पूँछ ऊपर उठाकर और आँखें चमका कर, वह अपने सींगों की नोकों से तटबंधों को तोड़ने लगा, बीच-बीच में थोड़ा-सा मल-मूत्र त्यागता रहा।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "અરિષ્ટાસુરે ખૂબ જ કઠોરતાથી બૂમ પાડી અને જમીન પર પંજો માર્યો. તેની પૂંછડી ઉંચી કરીને અને તેની આંખો ચમકતી હતી, તેણે તેના શિંગડાની ટીપ્સ વડે પાળાને ફાડવાનું શરૂ કર્યું, અને પછી થોડો સ્ટૂલ અને પેશાબ પસાર કર્યો."
+            }
+        }
+    },
+    {
+        "id": 103603,
+        "sloka": "10.36.3-4",
+        "verse_id": 103603,
+        "verseNumber": 3,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "My dear King, clouds hovered about sharp-horned Ariṣṭāsura’s hump, mistaking it for a mountain, and when the cowherd men and ladies caught sight of the demon, they were struck with terror. Indeed, the strident reverberation of his roar so frightened the pregnant cows and women that they lost their fetuses in miscarriages."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "मेरे प्रिय राजा, बादल तेज सींग वाले अरिष्टासुर के कूबड़ को पर्वत समझकर उसके चारों ओर मंडराने लगे और जब चरवाहे पुरुषों और महिलाओं की नजर राक्षस पर पड़ी, तो वे भयभीत हो गए। दरअसल, उसकी दहाड़ की तीव्र गूंज से गर्भवती गायें और महिलाएं इतनी भयभीत हो गईं कि उनका गर्भपात हो गया।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "મારા વહાલા રાજા, વાદળો તીક્ષ્ણ શિંગડાવાળા અરિષ્ટસુરના કૂંડાની આસપાસ ફરતા હતા, તેને પર્વત સમજતા હતા, અને જ્યારે ગોવાળો અને સ્ત્રીઓએ રાક્ષસને જોયો, ત્યારે તેઓ ભયભીત થઈ ગયા. ખરેખર, તેની ગર્જનાના જોરદાર અવાજે સગર્ભા ગાયો અને સ્ત્રીઓને એટલી ડરાવી દીધા કે તેઓ કસુવાવડમાં તેમના ભ્રૂણ ગુમાવી બેઠી."
+            }
+        }
+    },
+    {
+        "id": 103605,
+        "sloka": "10.36.5",
+        "verse_id": 103605,
+        "verseNumber": 5,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "The domestic animals fled the pasture in fear, O King, and all the inhabitants rushed to Lord Govinda for shelter, crying, “Kṛṣṇa, Kṛṣṇa!”"
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "हे राजन, घरेलू जानवर डर के मारे चरागाह से भाग गए और सभी निवासी \"कृष्ण, कृष्ण!\" चिल्लाते हुए शरण के लिए भगवान गोविंद के पास पहुंचे।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "હે રાજા, પાલતુ પ્રાણીઓ ભયભીત થઈને ગોચર છોડીને ભાગી ગયા અને બધા રહેવાસીઓ આશ્રય માટે ભગવાન ગોવિંદા પાસે દોડી ગયા, “કૃષ્ણ, કૃષ્ણ!”"
+            }
+        }
+    },
+    {
+        "id": 103606,
+        "sloka": "10.36.6",
+        "verse_id": 103606,
+        "verseNumber": 6,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "When the Supreme Lord saw the cowherd community distraught and fleeing in fear, He calmed them, saying, “Don’t be afraid.” Then He called out to the bull demon as follows."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "जब भगवान ने चरवाहा समुदाय को व्याकुल और डर के मारे भागते देखा, तो उन्होंने उन्हें शांत करते हुए कहा, \"डरो मत।\" तब उन्होंने बैल राक्षस को इस प्रकार पुकारा।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "જ્યારે પરમ ભગવાને ગોવાળ સમુદાયને પરેશાન અને ભયભીત થઈને ભાગી રહેલા જોયા, ત્યારે તેમણે તેમને શાંત પાડ્યા અને કહ્યું, \"ડરશો નહીં.\" પછી તેણે આખલા રાક્ષસને નીચે પ્રમાણે બોલાવ્યો."
+            }
+        }
+    },
+    {
+        "id": 103607,
+        "sloka": "10.36.7",
+        "verse_id": 103607,
+        "verseNumber": 7,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "You fool! What do you think you’re doing, you wicked rascal, frightening the cowherd community and their animals when I am here just to punish corrupt miscreants like you!"
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "तुम बेवकूफ! तुम क्या सोचते हो, दुष्ट दुष्ट, तुम क्या कर रहे हो, चरवाहे समुदाय और उनके जानवरों को डरा रहे हो, जबकि मैं यहाँ तुम्हारे जैसे भ्रष्ट दुष्टों को दंडित करने के लिए आया हूँ!"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "મૂર્ખ! તમે શું વિચારો છો, તમે દુષ્ટ લુચ્ચો, ગોવાળો સમુદાય અને તેમના પ્રાણીઓને ડરાવતા, જ્યારે હું તમારા જેવા ભ્રષ્ટ બદમાશોને સજા કરવા માટે અહીં છું ત્યારે તમે શું કરી રહ્યા છો!"
+            }
+        }
+    },
+    {
+        "id": 103608,
+        "sloka": "10.36.8",
+        "verse_id": 103608,
+        "verseNumber": 8,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Having spoken these words, the infallible Lord Hari slapped His arms with His palms, further angering Ariṣṭa with the loud sound. The Lord then casually threw His mighty, serpentine arm over the shoulder of a friend and stood facing the demon."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "इन शब्दों को कहने के बाद, अचूक भगवान हरि ने अपनी हथेलियों से अपनी भुजाओं को थपथपाया, जिससे अरिष्ट की तीव्र ध्वनि और भी क्रोधित हो गई। तब भगवान ने लापरवाही से अपने शक्तिशाली, सर्पिन हाथ को एक मित्र के कंधे पर फेंक दिया और राक्षस के सामने खड़े हो गए।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "આ શબ્દો બોલ્યા પછી, અચૂક ભગવાન હરિએ તેમની હથેળીઓ વડે તેમના હાથો માર્યા, અને મોટા અવાજથી અરિષ્ટને વધુ ગુસ્સો કર્યો. પછી ભગવાને આકસ્મિક રીતે તેમનો શક્તિશાળી, સર્પનો હાથ મિત્રના ખભા પર ફેંકી દીધો અને રાક્ષસની સામે ઊભા રહ્યા."
+            }
+        }
+    },
+    {
+        "id": 103609,
+        "sloka": "10.36.9",
+        "verse_id": 103609,
+        "verseNumber": 9,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Thus provoked, Ariṣṭa pawed the ground with one of his hooves and then, with the clouds hovering around his upraised tail, furiously charged Kṛṣṇa."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "इस प्रकार क्रोधित होकर, अरिष्ट ने अपने खुरों से जमीन पर पंजा मारा और फिर, अपनी उठी हुई पूंछ के चारों ओर बादलों को मंडराते हुए, क्रोधपूर्वक कृष्ण पर आक्रमण किया।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "આ રીતે ઉશ્કેરાઈને, અરિષ્ટે તેના એક ખુરથી જમીનને પંજો આપ્યો અને પછી, તેની ઉપરની પૂંછડીની આસપાસ વાદળો ફરતા, ગુસ્સે થઈને કૃષ્ણ પર આરોપ લગાવ્યો."
+            }
+        }
+    },
+    {
+        "id": 103610,
+        "sloka": "10.36.10",
+        "verse_id": 103610,
+        "verseNumber": 10,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Pointing the tips of his horns straight ahead and glaring menacingly at Lord Kṛṣṇa from the corners of his bloodshot eyes, Ariṣṭa rushed toward Him at full speed, like a thunderbolt hurled by Indra."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "अपने सींगों को सीधे आगे की ओर इंगित करते हुए और अपनी रक्तरंजित आँखों के कोनों से भगवान कृष्ण को भयानक दृष्टि से घूरते हुए, अरिष्ट इंद्र द्वारा फेंके गए वज्र की तरह पूरी गति से उनकी ओर दौड़ा।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "પોતાના શિંગડાની ટીપ્સ સીધી આગળ બતાવીને અને તેમની લોહીની આંખોના ખૂણામાંથી ભગવાન કૃષ્ણ તરફ ભયાવહ રીતે જોતા, અરિષ્ટ ઇન્દ્ર દ્વારા ફેંકવામાં આવેલી વીજળીની જેમ પૂર ઝડપે તેમની તરફ ધસી આવ્યા."
+            }
+        }
+    },
+    {
+        "id": 103611,
+        "sloka": "10.36.11",
+        "verse_id": 103611,
+        "verseNumber": 11,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "The Supreme Lord Kṛṣṇa seized Ariṣṭāsura by the horns and threw him back eighteen steps, just as an elephant might do when fighting a rival elephant."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "परम भगवान कृष्ण ने अरिष्टासुर को सींगों से पकड़ लिया और उसे अठारह कदम पीछे फेंक दिया, जैसे एक हाथी प्रतिद्वंद्वी हाथी से लड़ते समय कर सकता है।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "પરમ ભગવાન કૃષ્ણે અરિષ્ટસુરને શિંગડાથી પકડ્યો અને તેને અઢાર ડગલાં પાછળ ફેંકી દીધા, જેમ કે હરીફ હાથી સામે લડતી વખતે હાથી કરી શકે છે."
+            }
+        }
+    },
+    {
+        "id": 103612,
+        "sloka": "10.36.12",
+        "verse_id": 103612,
+        "verseNumber": 12,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Thus repulsed by the Supreme Lord, the bull demon got up and, breathing hard and sweating all over his body, again charged Him in a mindless rage."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "इस प्रकार परम भगवान द्वारा तिरस्कृत होकर बैल दानव उठ खड़ा हुआ और जोर-जोर से सांस लेते हुए और अपने पूरे शरीर पर पसीना बहाते हुए, बिना सोचे-समझे गुस्से में उन पर फिर से हमला कर दिया।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "આ રીતે પરમ ભગવાન દ્વારા ભગાડવામાં આવ્યો, બળદ રાક્ષસ ઊભો થયો અને, સખત શ્વાસ લેતો અને તેના આખા શરીર પર પરસેવો વહી ગયો, તેણે ફરીથી બેધ્યાન ક્રોધમાં તેને ચાર્જ કર્યો."
+            }
+        }
+    },
+    {
+        "id": 103613,
+        "sloka": "10.36.13",
+        "verse_id": 103613,
+        "verseNumber": 13,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "As Ariṣṭa attacked, Lord Kṛṣṇa seized him by the horns and knocked him to the ground with His foot. The Lord then thrashed him as if he were a wet cloth, and finally He yanked out one of the demon’s horns and struck him with it until he lay prostrate."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "जैसे ही अरिष्ट ने हमला किया, भगवान कृष्ण ने उसे सींगों से पकड़ लिया और अपने पैर से उसे जमीन पर गिरा दिया। तब भगवान ने उसे ऐसे पीटा जैसे वह कोई गीला कपड़ा हो, और अंत में उसने राक्षस के एक सींग को बाहर निकाला और उसे तब तक मारा जब तक वह गिर नहीं गया।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "જ્યારે અરિષ્ટે હુમલો કર્યો, ભગવાન કૃષ્ણએ તેને શિંગડાથી પકડી લીધો અને તેના પગ વડે તેને જમીન પર પછાડી દીધો. પછી ભગવાને તેને ભીના કપડાની જેમ માર્યો, અને અંતે તેણે રાક્ષસના એક શિંગને બહાર કાઢ્યું અને તેને પ્રણામ કરે ત્યાં સુધી તેને માર્યો."
+            }
+        }
+    },
+    {
+        "id": 103614,
+        "sloka": "10.36.14",
+        "verse_id": 103614,
+        "verseNumber": 14,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Vomiting blood and profusely excreting stool and urine, kicking his legs and rolling his eyes about, Ariṣṭāsura thus went painfully to the abode of Death. The demigods honored Lord Kṛṣṇa by scattering flowers upon Him."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "खून की उल्टी करते हुए और अत्यधिक मल-मूत्र त्यागते हुए, अपने पैरों को पटकते हुए और अपनी आँखें इधर-उधर घुमाते हुए, अरिष्टासुर इस प्रकार कष्टपूर्वक मृत्युलोक में चला गया। देवताओं ने भगवान कृष्ण पर फूल बिखेर कर उनका सम्मान किया।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "લોહીની ઉલટી અને પુષ્કળ પ્રમાણમાં મળ અને પેશાબનું ઉત્સર્જન કરીને, તેના પગને લાત મારીને અને તેની આંખો ચારે તરફ ફેરવતા, અરિષ્ટાસુર આ રીતે પીડાદાયક રીતે મૃત્યુના ધામમાં ગયો. દેવતાઓએ ભગવાન કૃષ્ણને તેમના પર ફૂલો વિખેરીને તેમનું સન્માન કર્યું."
+            }
+        }
+    },
+    {
+        "id": 103615,
+        "sloka": "10.36.15",
+        "verse_id": 103615,
+        "verseNumber": 15,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Having thus killed the bull demon Ariṣṭa, He who is a festival for the gopīs’ eyes entered the cowherd village with Balarāma."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "इस प्रकार बैल राक्षस अरिष्ट को मारने के बाद, वह जो गोपियों की आंखों के लिए उत्सव है, बलराम के साथ ग्वालों के गांव में प्रवेश किया।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "આ રીતે બળદ રાક્ષસ અરિષ્ટનો વધ કરીને, જે ગોપીઓની આંખો માટે ઉત્સવ છે, તે બલરામ સાથે ગોવાળ ગામમાં પ્રવેશ્યા."
+            }
+        }
+    },
+    {
+        "id": 103616,
+        "sloka": "10.36.16",
+        "verse_id": 103616,
+        "verseNumber": 16,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "After Ariṣṭāsura had been killed by Kṛṣṇa, who acts wonderfully, Nārada Muni went to speak to King Kaṁsa. That powerful sage of godly vision addressed the King as follows."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "अद्भुत कार्य करने वाले कृष्ण द्वारा अरिष्टासुर को मारने के बाद, नारद मुनि राजा कंस से बात करने गए। उस दिव्य दृष्टि वाले शक्तिशाली ऋषि ने राजा को इस प्रकार संबोधित किया।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "કૃષ્ણ દ્વારા અરિષ્ટસુરનો વધ કર્યા પછી, જે અદ્ભુત રીતે વર્તે છે, નારદ મુનિ રાજા કંસ સાથે વાત કરવા ગયા. ઈશ્વરીય દ્રષ્ટિના તે શક્તિશાળી ઋષિએ રાજાને નીચે પ્રમાણે સંબોધ્યા."
+            }
+        }
+    },
+    {
+        "id": 103617,
+        "sloka": "10.36.17",
+        "verse_id": 103617,
+        "verseNumber": 17,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "[Nārada told Kaṁsa:] Yaśodā’s child was actually a daughter, and Kṛṣṇa is the son of Devakī. Also, Rāma is the son of Rohiṇī. Out of fear, Vasudeva entrusted Kṛṣṇa and Balarāma to his friend Nanda Mahārāja, and it is these two boys who have killed your men."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "[नारद ने कंस से कहा:] यशोदा की संतान वास्तव में एक बेटी थी, और कृष्ण देवकी के पुत्र हैं। इसके अलावा, राम रोहिणी के पुत्र हैं। डर के मारे, वासुदेव ने कृष्ण और बलराम को अपने मित्र नंद महाराज को सौंप दिया, और इन दोनों लड़कों ने ही आपके आदमियों को मार डाला है।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "[નારદે કંસને કહ્યું:] યશોદાનું બાળક ખરેખર એક પુત્રી હતું, અને કૃષ્ણ દેવકીના પુત્ર છે. ઉપરાંત, રામ રોહિણીના પુત્ર છે. ડરથી, વાસુદેવે કૃષ્ણ અને બલરામને તેમના મિત્ર નંદ મહારાજને સોંપ્યા, અને આ બે છોકરાઓએ જ તમારા માણસોને મારી નાખ્યા છે."
+            }
+        }
+    },
+    {
+        "id": 103618,
+        "sloka": "10.36.18",
+        "verse_id": 103618,
+        "verseNumber": 18,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Upon hearing this, the master of the Bhojas became furious and lost control of his senses. He picked up a sharp sword to kill Vasudeva."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "यह सुनकर भोज के स्वामी क्रोधित हो गए और अपनी इंद्रियों पर नियंत्रण खो बैठे। उसने वासुदेव को मारने के लिए एक तेज़ तलवार उठाई।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "આ સાંભળીને ભોજના ગુરુ ગુસ્સે થયા અને પોતાની ઇન્દ્રિયો પરનો કાબૂ ગુમાવી દીધો. તેણે વાસુદેવને મારવા માટે ધારદાર તલવાર ઉપાડી."
+            }
+        }
+    },
+    {
+        "id": 103619,
+        "sloka": "10.36.19",
+        "verse_id": 103619,
+        "verseNumber": 19,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "But Nārada restrained Kaṁsa by reminding him that it was the two sons of Vasudeva who would cause his death. Kaṁsa then had Vasudeva and his wife shackled in iron chains."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "लेकिन नारद ने कंस को यह याद दिलाकर रोका कि वासुदेव के दो पुत्र ही उसकी मृत्यु का कारण बनेंगे। तब कंस ने वासुदेव और उनकी पत्नी को लोहे की जंजीरों में जकड़ दिया।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "પરંતુ નારદએ કંસને યાદ અપાવીને રોક્યો કે તે વાસુદેવના બે પુત્રો છે જે તેના મૃત્યુનું કારણ બનશે. ત્યારબાદ કંસએ વાસુદેવ અને તેની પત્નીને લોખંડની સાંકળોથી બાંધી દીધા હતા."
+            }
+        }
+    },
+    {
+        "id": 103620,
+        "sloka": "10.36.20",
+        "verse_id": 103620,
+        "verseNumber": 20,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "After Nārada left, King Kaṁsa summoned Keśī and ordered him, “Go kill Rāma and Kṛṣṇa.”"
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "नारद के जाने के बाद, राजा कंस ने केशी को बुलाया और उसे आदेश दिया, \"जाओ राम और कृष्ण को मार डालो।\""
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "નારદ ગયા પછી, રાજા કંસએ કેશીને બોલાવ્યો અને આદેશ આપ્યો, \"જાઓ રામ અને કૃષ્ણને મારી નાખો.\""
+            }
+        }
+    },
+    {
+        "id": 103621,
+        "sloka": "10.36.21",
+        "verse_id": 103621,
+        "verseNumber": 21,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "The King of the Bhojas next called for his ministers, headed by Muṣṭika, Cāṇūra, Śala and Tośala, and also for his elephant-keepers. The King addressed them as follows."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "भोज के राजा ने इसके बाद अपने मंत्रियों को बुलाया, जिनके प्रमुख थे मुष्टिक, चाणूर, शाल और तोशल, और अपने हाथी-पालकों को भी। राजा ने उन्हें इस प्रकार सम्बोधित किया।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "પછી ભોજના રાજાએ તેના મંત્રીઓને બોલાવ્યા, જેની આગેવાની મુષ્ટિક, કાનુર, શલ અને તોશલ હતી, અને તેના હાથીઓના રખેવાળો પણ. રાજાએ તેમને આ પ્રમાણે સંબોધ્યા."
+            }
+        }
+    },
+    {
+        "id": 103622,
+        "sloka": "10.36.22-23",
+        "verse_id": 103622,
+        "verseNumber": 22,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "My dear heroic Cāṇūra and Muṣṭika, please hear this. Rāma and Kṛṣṇa, the sons of Ānakadundubhi [Vasudeva], are living in Nanda’s cowherd village. It has been predicted that these two boys will be the cause of my death. When They are brought here, kill Them on the pretext of engaging Them in a wrestling match."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "मेरे प्रिय वीर चाणूर और मुष्टिक, कृपया इसे सुनें। राम और कृष्ण, अनकदुंदुभि [वासुदेव] के पुत्र, नंद के चरवाहे गांव में रह रहे हैं। ऐसी भविष्यवाणी की गई है कि ये दोनों लड़के मेरी मृत्यु का कारण बनेंगे। जब उन्हें यहां लाया जाए, तो उन्हें कुश्ती मैच में उलझाने के बहाने मार डालो।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "મારા પ્રિય પરાક્રમી કાનુર અને મુષ્ટિકા, કૃપા કરીને આ સાંભળો. આનકદુન્દુભિ [વાસુદેવ] ના પુત્રો રામ અને કૃષ્ણ નંદના ગોવાળ ગામમાં રહે છે. આ બે છોકરાઓ મારા મૃત્યુનું કારણ બનશે તેવી આગાહી કરવામાં આવી છે. જ્યારે તેઓને અહીં લાવવામાં આવે છે, ત્યારે તેમને કુસ્તીની મેચમાં સામેલ કરવાના બહાને મારી નાખો."
+            }
+        }
+    },
+    {
+        "id": 103624,
+        "sloka": "10.36.24",
+        "verse_id": 103624,
+        "verseNumber": 24,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Erect a wrestling ring with many surrounding viewing stands, and bring all the residents of the city and the outlying districts to see the open competition."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "आसपास के कई देखने के स्टैंड के साथ एक कुश्ती रिंग बनाएं, और शहर और बाहरी जिलों के सभी निवासियों को खुली प्रतियोगिता देखने के लिए लाएं।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "આજુબાજુના ઘણા વ્યુઇંગ સ્ટેન્ડ સાથે કુસ્તીની રીંગ ઉભી કરો અને શહેરના તમામ રહેવાસીઓ અને બહારના જિલ્લાઓને ખુલ્લી સ્પર્ધા જોવા માટે લાવો."
+            }
+        }
+    },
+    {
+        "id": 103625,
+        "sloka": "10.36.25",
+        "verse_id": 103625,
+        "verseNumber": 25,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "You, elephant-keeper, my good man, should position the elephant Kuvalayāpīḍa at the entrance to the wrestling arena and have him kill my two enemies."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "हाथी के रखवाले, मेरे भले आदमी, आपको हाथी कुवलयापीड को कुश्ती के मैदान के प्रवेश द्वार पर खड़ा करना चाहिए और उससे मेरे दो दुश्मनों को मरवाना चाहिए।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "તમે, હાથીના રક્ષક, મારા સારા માણસ, કુસ્તીના અખાડાના પ્રવેશદ્વાર પર હાથી કુવલયાપીડને સ્થિત કરો અને તેને મારા બે દુશ્મનોને મારી નાખવા માટે જણાવો."
+            }
+        }
+    },
+    {
+        "id": 103626,
+        "sloka": "10.36.26",
+        "verse_id": 103626,
+        "verseNumber": 26,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Commence the bow sacrifice on the Caturdaśī day in accordance with the relevant Vedic injunctions. In ritual slaughter offer the appropriate kinds of animals to the magnanimous Lord Śiva."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "प्रासंगिक वैदिक आदेशों के अनुसार चतुर्दशी के दिन धनुष यज्ञ प्रारंभ करें। अनुष्ठानिक वध में उदार भगवान शिव को उचित प्रकार के जानवर अर्पित करें।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "સંબંધિત વૈદિક આદેશો અનુસાર ચતુર્દશીના દિવસે ધનુષ્ય બલિદાનની શરૂઆત કરો. કર્મકાંડની કતલમાં ઉદાર ભગવાન શિવને યોગ્ય પ્રકારના પ્રાણીઓ અર્પણ કરો."
+            }
+        }
+    },
+    {
+        "id": 103627,
+        "sloka": "10.36.27",
+        "verse_id": 103627,
+        "verseNumber": 27,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Having thus commanded his ministers, Kaṁsa next called for Akrūra, the most eminent of the Yadus. Kaṁsa knew the art of securing personal advantage, and thus he took Akrūra’s hand in his own and spoke to him as follows."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "इस प्रकार अपने मंत्रियों को आदेश देने के बाद, कंस ने यदुओं में सबसे प्रतिष्ठित अक्रूर को बुलाया। कंस व्यक्तिगत लाभ हासिल करने की कला जानता था, और इसलिए उसने अक्रूर का हाथ अपने हाथ में लिया और उनसे इस प्रकार कहा।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "આ રીતે તેના મંત્રીઓને આજ્ઞા આપીને, કંસએ પછી યદુઓમાં સૌથી પ્રતિષ્ઠિત અક્રૂરને બોલાવ્યા. કંસ વ્યક્તિગત લાભ મેળવવાની કળા જાણતો હતો, અને આ રીતે તેણે અક્રૂરનો હાથ પોતાના હાથમાં લીધો અને તેની સાથે નીચે પ્રમાણે વાત કરી."
+            }
+        }
+    },
+    {
+        "id": 103628,
+        "sloka": "10.36.28",
+        "verse_id": 103628,
+        "verseNumber": 28,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "My dear Akrūra, most charitable one, please do me a friendly favor out of respect. Among the Bhojas and Vṛṣṇis, there is no one else as kind to us as you."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "मेरे प्रिय अक्रूर, परम दानी, कृपया आदर भाव से मुझ पर कृपा करें। भोजों और वृष्णियों में आपके समान हमारे प्रति दयालु कोई और नहीं है।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "મારા વહાલા અક્રુરા, સૌથી વધુ દાનવીર, કૃપા કરીને મને આદરથી મૈત્રીપૂર્ણ ઉપકાર કરો. ભોજ અને વૃષ્ણોમાં, તમારા જેવો દયાળુ બીજું કોઈ નથી."
+            }
+        }
+    },
+    {
+        "id": 103629,
+        "sloka": "10.36.29",
+        "verse_id": 103629,
+        "verseNumber": 29,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Gentle Akrūra, you always carry out your duties soberly, and therefore I am depending on you, just as powerful Indra took shelter of Lord Viṣṇu to achieve his goals."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "सज्जन अक्रूर, आप हमेशा अपने कर्तव्यों को गंभीरता से निभाते हैं, और इसलिए मैं आप पर निर्भर हूं, जैसे शक्तिशाली इंद्र ने अपने लक्ष्यों को प्राप्त करने के लिए भगवान विष्णु की शरण ली थी।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "સૌમ્ય અક્રુરા, તમે હંમેશા તમારી ફરજો સંયમપૂર્વક નિભાવો છો, અને તેથી હું તમારા પર આધાર રાખું છું, જેમ શક્તિશાળી ઇન્દ્રએ તેમના લક્ષ્યોને પ્રાપ્ત કરવા માટે ભગવાન વિષ્ણુનો આશ્રય લીધો હતો."
+            }
+        }
+    },
+    {
+        "id": 103630,
+        "sloka": "10.36.30",
+        "verse_id": 103630,
+        "verseNumber": 30,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Please go to Nanda’s village, where the two sons of Ānakadundubhi are living, and without delay bring Them here on this chariot."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "कृपया नंद के गाँव जाएँ, जहाँ अणकदुंदुभि के दोनों पुत्र रहते हैं, और बिना देर किए उन्हें इस रथ पर यहाँ ले आओ।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "મહેરબાની કરીને નંદના ગામમાં જાઓ, જ્યાં આનકદુન્દુભિના બે પુત્રો રહે છે, અને વિલંબ કર્યા વિના તેમને આ રથ પર અહીં લાવો."
+            }
+        }
+    },
+    {
+        "id": 103631,
+        "sloka": "10.36.31",
+        "verse_id": 103631,
+        "verseNumber": 31,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "The demigods, who are under the protection of Viṣṇu, have sent these two boys as my death. Bring Them here, and also have Nanda and the other cowherd men come with gifts of tribute."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "विष्णु के संरक्षण में रहने वाले देवताओं ने इन दोनों बालकों को मेरी मृत्यु के रूप में भेजा है। उन्हें यहाँ ले आओ, और नन्द तथा अन्य ग्वालों को भी भेंट लेकर आने दो।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "દેવતાઓ, જેઓ વિષ્ણુના રક્ષણ હેઠળ છે, તેઓએ આ બે છોકરાઓને મારા મૃત્યુ તરીકે મોકલ્યા છે. તેમને અહીં લાવો, અને નંદા અને અન્ય ગોવાળોને પણ શ્રદ્ધાંજલિની ભેટ સાથે આવવા કહો."
+            }
+        }
+    },
+    {
+        "id": 103632,
+        "sloka": "10.36.32",
+        "verse_id": 103632,
+        "verseNumber": 32,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "After you bring Kṛṣṇa and Balarāma, I will have Them killed by my elephant, who is as powerful as death itself. And if by chance They escape from him, I will have Them killed by my wrestlers, who are as strong as lightning."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "जब तुम कृष्ण और बलराम को ले आओगे, तो मैं उन्हें अपने हाथी से मरवा दूँगा, जो स्वयं मृत्यु के समान शक्तिशाली है। और यदि संयोगवश वे उससे बच निकले तो मैं अपने पहलवानों से, जो बिजली के समान शक्तिशाली हैं, उन्हें मरवा दूँगा।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "તમે કૃષ્ણ અને બલરામને લાવશો પછી, હું તેમને મારા હાથી દ્વારા મારી નાખીશ, જે મૃત્યુની જેમ જ શક્તિશાળી છે. અને જો તકે તેઓ તેની પાસેથી છટકી જાય, તો હું તેમને મારા કુસ્તીબાજો દ્વારા મારી નાખીશ, જેઓ વીજળી જેવા મજબૂત છે."
+            }
+        }
+    },
+    {
+        "id": 103633,
+        "sloka": "10.36.33",
+        "verse_id": 103633,
+        "verseNumber": 33,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "When these two have been killed, I will kill Vasudeva and all Their lamenting relatives — the Vṛṣṇis, Bhojas and Daśārhas."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "जब ये दोनों मारे जाएँगे, तो मैं वासुदेव और उनके सभी विलाप करने वाले रिश्तेदारों - वृष्णि, भोज और दशार्ह को मार डालूँगा।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "જ્યારે આ બંને માર્યા જશે, ત્યારે હું વાસુદેવ અને તેમના બધા વિલાપ કરનારા સંબંધીઓ - વૃષ્ણો, ભોજ અને દશરહને મારી નાખીશ."
+            }
+        }
+    },
+    {
+        "id": 103634,
+        "sloka": "10.36.34",
+        "verse_id": 103634,
+        "verseNumber": 34,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "I will also kill my old father, Ugrasena, who is greedy for my kingdom, and I will kill his brother Devaka and all my other enemies as well."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "मैं अपने बूढ़े पिता उग्रसेन को, जो मेरे राज्य का लालची है, मार डालूँगा तथा उसके भाई देवक तथा अपने अन्य सभी शत्रुओं को भी मार डालूँगा।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "હું મારા રાજ્યના લોભી મારા વૃદ્ધ પિતા ઉગ્રસેનને પણ મારી નાખીશ અને તેના ભાઈ દેવક અને મારા બીજા બધા શત્રુઓને પણ મારી નાખીશ."
+            }
+        }
+    },
+    {
+        "id": 103635,
+        "sloka": "10.36.35",
+        "verse_id": 103635,
+        "verseNumber": 35,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Then, my friend, this earth will be free of thorns."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "तब हे मित्र, यह पृथ्वी काँटों से मुक्त हो जायेगी।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "પછી, મારા મિત્ર, આ પૃથ્વી કાંટા મુક્ત થશે."
+            }
+        }
+    },
+    {
+        "id": 103636,
+        "sloka": "10.36.36",
+        "verse_id": 103636,
+        "verseNumber": 36,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "My elder relative Jarāsandha and my dear friend Dvivida are solid well-wishers of mine, as are Śambara, Naraka and Bāṇa. I will use them all to kill off those kings who are allied with the demigods, and then I will rule the earth."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "मेरे बड़े रिश्तेदार जरासंध और मेरे प्रिय मित्र द्विविद, शम्बर, नरक और बाण की तरह मेरे दृढ़ शुभचिंतक हैं। मैं उन सभी का उपयोग उन राजाओं को मारने के लिए करूंगा जो देवताओं के साथ मिले हुए हैं, और फिर मैं पृथ्वी पर शासन करूंगा।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "મારા વડીલ સંબંધી જરાસંધ અને મારા વહાલા મિત્ર દ્વિવિદા મારા નક્કર શુભેચ્છકો છે, જેમ કે શાંબરા, નરક અને બાણ. હું તે બધાનો ઉપયોગ તે રાજાઓને મારી નાખવા માટે કરીશ જેઓ દેવતાઓ સાથે સાથી છે, અને પછી હું પૃથ્વી પર શાસન કરીશ."
+            }
+        }
+    },
+    {
+        "id": 103637,
+        "sloka": "10.36.37",
+        "verse_id": 103637,
+        "verseNumber": 37,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Now that you understand my intentions, please go at once and bring Kṛṣṇa and Balarāma to watch the bow sacrifice and see the opulence of the Yadus’ capital."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "अब जब आप मेरे इरादे समझ गए हैं, तो कृपया तुरंत जाएं और धनुष यज्ञ देखने और यदुओं की राजधानी की समृद्धि देखने के लिए कृष्ण और बलराम को ले आएं।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "હવે તમે મારા ઇરાદા સમજી ગયા છો, કૃપા કરીને તરત જ જાઓ અને કૃષ્ણ અને બલરામને ધનુષ્ય બલિદાન જોવા અને યદુઓની રાજધાનીની ઐશ્વર્ય જોવા માટે લાવો."
+            }
+        }
+    },
+    {
+        "id": 103638,
+        "sloka": "10.36.38",
+        "verse_id": 103638,
+        "verseNumber": 38,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Śrī Akrūra said: O King, you have expertly devised a process to free yourself of misfortune. Still, one should be equal in success and failure, since it is certainly destiny that produces the results of one’s work."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "श्री अक्रूर ने कहा: हे राजन, आपने स्वयं को दुर्भाग्य से मुक्त करने के लिए कुशलतापूर्वक एक प्रक्रिया तैयार की है। फिर भी, व्यक्ति को सफलता और विफलता में समान होना चाहिए, क्योंकि यह निश्चित रूप से भाग्य ही है जो किसी के कार्य के परिणाम उत्पन्न करता है।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "શ્રી અક્રુરે કહ્યું: હે રાજા, તમે તમારી જાતને દુર્ભાગ્યથી મુક્ત કરવા માટે કુશળતાપૂર્વક એક પ્રક્રિયા તૈયાર કરી છે. તેમ છતાં, વ્યક્તિએ સફળતા અને નિષ્ફળતામાં સમાન હોવું જોઈએ, કારણ કે તે ચોક્કસપણે ભાગ્ય છે જે વ્યક્તિના કાર્યનું પરિણામ આપે છે."
+            }
+        }
+    },
+    {
+        "id": 103639,
+        "sloka": "10.36.39",
+        "verse_id": 103639,
+        "verseNumber": 39,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "An ordinary person is determined to act on his desires even when fate prevents their fulfillment. Therefore he encounters both happiness and distress. Yet even though such is the case, I will execute your order."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "एक सामान्य व्यक्ति अपनी इच्छाओं पर कार्य करने के लिए कृतसंकल्प होता है, तब भी जब भाग्य उनकी पूर्ति में बाधा उत्पन्न करता है। इसलिए उसे सुख और कष्ट दोनों का सामना करना पड़ता है। फिर भी ऐसी स्थिति होने पर भी मैं आपके आदेश का पालन करूँगा।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "જ્યારે ભાગ્ય તેમની પરિપૂર્ણતા અટકાવે છે ત્યારે પણ એક સામાન્ય વ્યક્તિ તેની ઇચ્છાઓ પર કાર્ય કરવા માટે કટિબદ્ધ છે. તેથી તે સુખ અને દુઃખ બંનેનો સામનો કરે છે. તેમ છતાં આવો કિસ્સો હોવા છતાં, હું તમારા હુકમનો અમલ કરીશ."
+            }
+        }
+    },
+    {
+        "id": 103640,
+        "sloka": "10.36.40",
+        "verse_id": 103640,
+        "verseNumber": 40,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Śukadeva Gosvāmī said: Having thus instructed Akrūra, King Kaṁsa dismissed his ministers and retired to his quarters, and Akrūra returned home."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "शुकदेव गोस्वामी ने कहा: इस प्रकार अक्रूर को निर्देश देकर, राजा कंस ने अपने मंत्रियों को बर्खास्त कर दिया और अपने क्वार्टर में चले गए, और अक्रूर घर लौट आए।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "શુકદેવ ગોસ્વામીએ કહ્યું: આ રીતે અક્રૂરને સૂચના આપીને, રાજા કંસએ તેમના મંત્રીઓને બરતરફ કર્યા અને તેમના નિવાસસ્થાનમાં નિવૃત્ત થયા, અને અક્રૂર ઘરે પરત ફર્યા."
+            }
+        }
+    }
+]

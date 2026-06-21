@@ -1,0 +1,945 @@
+[
+    {
+        "id": 105901,
+        "sloka": "10.59.1",
+        "verse_id": 105901,
+        "verseNumber": 1,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "[King Parīkṣit said:] How was Bhaumāsura, who kidnapped so many women, killed by the Supreme Lord? Please narrate this adventure of Lord Śārṅgadhanvā’s."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "[राजा परीक्षित ने कहा:] भौमासुर, जिसने इतनी सारी स्त्रियों का अपहरण किया था, परम भगवान द्वारा कैसे मारा गया? कृपया भगवान शारंगधन्वा के इस साहसिक कार्य का वर्णन करें।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "[રાજા પરીક્ષિતે કહ્યું:] આટલી બધી સ્ત્રીઓનું અપહરણ કરનાર ભૌમાસુરને પરમ ભગવાને કેવી રીતે માર્યો? કૃપા કરીને ભગવાન શ્રીંગધન્વના આ સાહસનું વર્ણન કરો."
+            }
+        }
+    },
+    {
+        "id": 105902,
+        "sloka": "10.59.2-3",
+        "verse_id": 105902,
+        "verseNumber": 2,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Śukadeva Gosvāmī said: After Bhauma had stolen the earrings belonging to Indra’s mother, along with Varuṇa’s umbrella and the demigods’ playground at the peak of Mandara mountain, Indra went to Lord Kṛṣṇa and informed Him of these misdeeds. The Lord, taking His wife Satyabhāmā with Him, then rode on Garuḍa to Prāgyotiṣa-pura, which was surrounded on all sides by fortifications consisting of hills, unmanned weapons, water, fire and wind, and by obstructions of mura-pāśa wire."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "शुकदेव गोस्वामी ने कहा: जब भौम ने इंद्र की मां की बालियां, वरुण का छत्र और मंदरा पर्वत के शिखर पर देवताओं के खेल का मैदान चुरा लिया था, तब इंद्र भगवान कृष्ण के पास गए और उन्हें इन दुष्कर्मों के बारे में बताया। भगवान, अपनी पत्नी सत्यभामा को अपने साथ ले गए, फिर गरुड़ पर सवार होकर प्राग्योतिष-पुरा गए, जो चारों तरफ से पहाड़ियों, मानव रहित हथियारों, पानी, आग और हवा से युक्त दुर्गों और मुरा-पाश तार की बाधाओं से घिरा हुआ था।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "શુકદેવ ગોસ્વામીએ કહ્યું: ભૌમાએ ઈન્દ્રની માતાના કાનની બુટ્ટીઓ, વરુણની છત્ર અને મંદરા પર્વતની ટોચ પર દેવતાઓના રમતના મેદાનની ચોરી કર્યા પછી, ઈન્દ્ર ભગવાન કૃષ્ણ પાસે ગયા અને તેમને આ દુષ્કર્મોની જાણ કરી. ભગવાન, તેમની પત્ની સત્યભામાને પોતાની સાથે લઈને, પછી ગરુડ પર સવાર થઈને પ્રગ્યોતિષ-પુરા ગયા, જે ચારે બાજુથી ટેકરીઓ, માનવરહિત શસ્ત્રો, પાણી, અગ્નિ અને પવન અને મુરા-પાશના તારનાં અવરોધોથી બનેલા કિલ્લેબંધીથી ઘેરાયેલું હતું."
+            }
+        }
+    },
+    {
+        "id": 105904,
+        "sloka": "10.59.4",
+        "verse_id": 105904,
+        "verseNumber": 4,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "With His club the Lord broke through the rock fortifications; with His arrows, the weapon fortifications; with His disc, the fire, water and wind fortifications; and with His sword, the mura-pāśa cables."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "प्रभु ने अपनी गदा से चट्टानी दुर्गों को तोड़ डाला; अपने तीरों, हथियारों से किलेबंदी; उसकी डिस्क के साथ, आग, पानी और हवा किलेबंदी; और उसकी तलवार से, मुरा-पाशा केबल।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "તેમના ક્લબ સાથે ભગવાન ખડક કિલ્લેબંધી દ્વારા તોડી; તેમના તીરો સાથે, શસ્ત્ર કિલ્લેબંધી; તેની ડિસ્ક સાથે, આગ, પાણી અને પવનની કિલ્લેબંધી; અને તેમની તલવાર સાથે, મુરા-પાશ કેબલ."
+            }
+        }
+    },
+    {
+        "id": 105905,
+        "sloka": "10.59.5",
+        "verse_id": 105905,
+        "verseNumber": 5,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "With the sound of His conchshell Lord Gadādhara then shattered the magic seals of the fortress, along with the hearts of its brave defenders, and with His heavy club He demolished the surrounding earthen ramparts."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "तब भगवान गदाधर ने अपने शंख की ध्वनि से किले की जादुई मुहरों को, इसके बहादुर रक्षकों के दिलों को तोड़ दिया, और अपने भारी क्लब से उन्होंने आसपास की मिट्टी की प्राचीरों को ध्वस्त कर दिया।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "તેના શંખના અવાજથી ભગવાન ગદાધરએ તેના બહાદુર રક્ષકોના હૃદય સહિત કિલ્લાના જાદુઈ સીલને તોડી નાખ્યા અને તેના ભારે ક્લબથી તેણે આસપાસના માટીના કિલ્લાઓને તોડી પાડ્યા."
+            }
+        }
+    },
+    {
+        "id": 105906,
+        "sloka": "10.59.6",
+        "verse_id": 105906,
+        "verseNumber": 6,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "The five-headed demon Mura, who slept at the bottom of the city’s moat, awoke and rose up out of the water when he heard the vibration of Lord Kṛṣṇa’s Pāñcajanya conchshell, a sound as terrifying as the thunder at the end of the cosmic age."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "पांच सिर वाला राक्षस मुरा, जो शहर की खाई के नीचे सोया हुआ था, जाग गया और पानी से बाहर आ गया जब उसने भगवान कृष्ण के पांचजन्य शंख की कंपन सुनी, जो ब्रह्मांडीय युग के अंत में गड़गड़ाहट के समान भयानक ध्वनि थी।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "પાંચ માથાવાળો રાક્ષસ મુરા, જે શહેરની ખાઈના તળિયે સૂતો હતો, જ્યારે તેણે ભગવાન કૃષ્ણના પંચજન્ય શંખનું કંપન સાંભળ્યું ત્યારે તે જાગી ગયો અને પાણીની બહાર ઊભો થયો, જે વિશ્વ યુગના અંતમાં ગર્જના જેવો ભયાનક અવાજ હતો."
+            }
+        }
+    },
+    {
+        "id": 105907,
+        "sloka": "10.59.7",
+        "verse_id": 105907,
+        "verseNumber": 7,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Shining with the blinding, terrible effulgence of the sun’s fire at the end of a millennium, Mura seemed to be swallowing up the three worlds with his five mouths. He lifted up his trident and fell upon Garuḍa, the son of Tārkṣya, like an attacking snake."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "एक सहस्राब्दी के अंत में सूर्य की अग्नि की चकाचौंध, भयानक चमक से चमकते हुए, मुरा अपने पांच मुखों से तीनों लोकों को निगलता हुआ प्रतीत हो रहा था। उसने अपना त्रिशूल उठाया और हमलावर साँप की तरह तार्क्ष्य पुत्र गरुड़ पर टूट पड़ा।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "એક સહસ્ત્રાબ્દીના અંતમાં સૂર્યની અગ્નિની અંધ, ભયંકર તેજથી ચમકતો, મુરા તેના પાંચ મોંથી ત્રણેય જગતને ગળી રહ્યો હોય તેવું લાગતું હતું. તેણે પોતાનું ત્રિશૂળ ઉપાડ્યું અને હુમલો કરતા સાપની જેમ તાર્કસના પુત્ર ગરુડ પર પડ્યો."
+            }
+        }
+    },
+    {
+        "id": 105908,
+        "sloka": "10.59.8",
+        "verse_id": 105908,
+        "verseNumber": 8,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Mura whirled his trident and then hurled it fiercely at Garuḍa, roaring from all five mouths. The sound filled the earth and sky, all directions and the limits of outer space, until it reverberated against the very shell of the universe."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "मुरा ने अपना त्रिशूल घुमाया और फिर उसे पांचों मुखों से गर्जना करते हुए गरुड़ पर भयंकर रूप से फेंका। ध्वनि ने पृथ्वी और आकाश, सभी दिशाओं और बाहरी अंतरिक्ष की सीमाओं को तब तक भर दिया, जब तक कि यह ब्रह्मांड के आवरण तक गूंज नहीं गई।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "મુરાએ તેના ત્રિશૂળને ચક્કર માર્યું અને પછી તે પાંચેય મુખમાંથી ગર્જના કરતા ગરુડ પર જોરથી ફેંકી દીધું. ધ્વનિએ પૃથ્વી અને આકાશ, બધી દિશાઓ અને બાહ્ય અવકાશની મર્યાદાઓ ભરી દીધી, જ્યાં સુધી તે બ્રહ્માંડના ખૂબ જ શેલ સામે ફરી વળ્યો નહીં."
+            }
+        }
+    },
+    {
+        "id": 105909,
+        "sloka": "10.59.9",
+        "verse_id": 105909,
+        "verseNumber": 9,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Then with two arrows Lord Hari struck the trident flying toward Garuḍa and broke it into three pieces. Next the Lord hit Mura’s faces with several arrows, and the demon angrily hurled his club at the Lord."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "तब भगवान हरि ने दो बाणों से गरुड़ की ओर उड़ रहे त्रिशूल पर प्रहार किया और उसके तीन टुकड़े कर दिये। इसके बाद भगवान ने मुरा के चेहरे पर कई बाणों से प्रहार किया और राक्षस ने गुस्से में भगवान पर अपनी छड़ी फेंकी।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "પછી ભગવાન હરિએ બે તીર વડે ગરુડ તરફ ઉડતા ત્રિશૂળ પર પ્રહાર કરીને તેના ત્રણ ટુકડા કરી નાખ્યા. પછી ભગવાને મુરાના મુખ પર અનેક તીરો માર્યા, અને રાક્ષસે ગુસ્સાથી ભગવાન પર તેની ક્લબ ફેંકી દીધી."
+            }
+        }
+    },
+    {
+        "id": 105910,
+        "sloka": "10.59.10",
+        "verse_id": 105910,
+        "verseNumber": 10,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "As Mura’s club sped toward Him on the battlefield, Lord Gadāgraja intercepted it with His own and broke it into thousands of pieces. Mura then raised his arms high and rushed at the unconquerable Lord, who easily sliced off his heads with His disc weapon."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "जैसे ही मुरा की गदा युद्ध के मैदान में उनकी ओर बढ़ी, भगवान गदगराज ने उसे अपनी गदा से रोक लिया और उसके हजारों टुकड़े कर दिए। तब मुरा ने अपनी भुजाएँ ऊँची कीं और अजेय भगवान की ओर झपटा, जिन्होंने आसानी से अपने चक्र हथियार से उसका सिर काट दिया।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "યુદ્ધના મેદાનમાં મુરાની ક્લબ તેની તરફ આગળ વધી, ભગવાન ગદાગરાજે તેને પોતાની સાથે અટકાવી અને તેના હજારો ટુકડા કરી નાખ્યા. મુરાએ પછી તેના હાથ ઊંચા કર્યા અને અજેય ભગવાન તરફ દોડી ગયા, જેમણે તેના ડિસ્ક હથિયારથી તેના માથાને સરળતાથી કાપી નાખ્યા."
+            }
+        }
+    },
+    {
+        "id": 105911,
+        "sloka": "10.59.11",
+        "verse_id": 105911,
+        "verseNumber": 11,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Lifeless, Mura’s decapitated body fell into the water like a mountain whose peak has been severed by the power of Lord Indra’s thunderbolt. The demon’s seven sons, enraged by their father’s death, prepared to retaliate."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "निर्जीव होकर, मुरा का क्षत-विक्षत शरीर एक पहाड़ की तरह पानी में गिर गया, जिसकी चोटी भगवान इंद्र के वज्र की शक्ति से टूट गई हो। राक्षस के सात पुत्र, अपने पिता की मृत्यु से क्रोधित होकर, प्रतिशोध लेने के लिए तैयार हुए।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "નિર્જીવ, મુરાનું શિરચ્છેદ થયેલું શરીર પર્વતની જેમ પાણીમાં પડ્યું, જેનું શિખર ભગવાન ઇન્દ્રની વીજળીના બળથી વિચ્છેદ થઈ ગયું છે. રાક્ષસના સાત પુત્રો, તેમના પિતાના મૃત્યુથી ગુસ્સે થયા, બદલો લેવા તૈયાર થયા."
+            }
+        }
+    },
+    {
+        "id": 105912,
+        "sloka": "10.59.12",
+        "verse_id": 105912,
+        "verseNumber": 12,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Ordered by Bhaumāsura, Mura’s seven sons — Tāmra, Antarikṣa, Śravaṇa, Vibhāvasu, Vasu, Nabhasvān and Aruṇa — followed their general, Pīṭha, onto the battlefield bearing their weapons."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "भौमासुर के आदेश पर मुरा के सात पुत्र - ताम्र, अन्तरिक्ष, श्रवण, विभावसु, वसु, नभस्वान और अरुण - अपने सेनापति पीठ के पीछे अपने हथियार लेकर युद्ध के मैदान में पहुँचे।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "ભૌમાસુરના આદેશથી, મુરાના સાત પુત્રો - તામ્ર, અંતરીક્ષ, શ્રવણ, વિભાવસુ, વસુ, નભસ્વાન અને અરુણ - તેમના સેનાપતિ પીઠની પાછળ તેમના શસ્ત્રો સાથે યુદ્ધભૂમિ પર ગયા."
+            }
+        }
+    },
+    {
+        "id": 105913,
+        "sloka": "10.59.13",
+        "verse_id": 105913,
+        "verseNumber": 13,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "These fierce warriors furiously attacked invincible Lord Kṛṣṇa with arrows, swords, clubs, spears, lances and tridents, but the Supreme Lord, with unfailing prowess, cut this mountain of weapons into tiny pieces with His arrows."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "इन भयंकर योद्धाओं ने तीरों, तलवारों, लाठियों, भालों, भालों और त्रिशूलों से अजेय भगवान कृष्ण पर क्रोधपूर्वक हमला किया, लेकिन परम भगवान ने, अचूक कौशल के साथ, हथियारों के इस पर्वत को अपने तीरों से छोटे-छोटे टुकड़ों में काट दिया।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "આ ભયંકર યોદ્ધાઓએ અજેય ભગવાન કૃષ્ણ પર તીરો, તલવારો, દાંડા, ભાલા, ભાલા અને ત્રિશૂળ વડે ક્રોધપૂર્વક હુમલો કર્યો, પરંતુ પરમ ભગવાન, અવિશ્વસનીય પરાક્રમ સાથે, તેમના તીરોથી શસ્ત્રોના આ પર્વતને નાના ટુકડા કરી નાખ્યા."
+            }
+        }
+    },
+    {
+        "id": 105914,
+        "sloka": "10.59.14",
+        "verse_id": 105914,
+        "verseNumber": 14,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "The Lord severed the heads, thighs, arms, legs and armor of these opponents led by Pīṭha and sent them all to the abode of Yamarāja. Narakāsura, the son of the earth, could not contain his fury when he saw the fate of his military leaders. Thus he went out of the citadel with elephants born from the Milk Ocean who were exuding mada from their foreheads out of excitement."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "भगवान ने पीथा के नेतृत्व में इन विरोधियों के सिर, जांघें, हाथ, पैर और कवच काट दिए और उन सभी को यमराज के निवास पर भेज दिया। जब पृथ्वी पुत्र नरकासुर ने अपने सैन्य नेताओं का भाग्य देखा तो वह अपना क्रोध नहीं रोक सका। इस प्रकार वह क्षीर सागर से उत्पन्न हाथियों के साथ गढ़ से बाहर चला गया, जो उत्साह के कारण अपने माथे से मद निकाल रहे थे।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "ભગવાને પીઠની આગેવાની હેઠળના આ વિરોધીઓના માથા, જાંઘ, હાથ, પગ અને બખ્તર કાપી નાખ્યા અને તે બધાને યમરાજના ધામમાં મોકલી દીધા. નરકાસુર, પૃથ્વીનો પુત્ર, જ્યારે તેણે તેના લશ્કરી નેતાઓનું ભાવિ જોયું ત્યારે તે પોતાનો ક્રોધ કાબૂમાં રાખી શક્યો નહીં. આ રીતે તે દૂધના મહાસાગરમાંથી જન્મેલા હાથીઓ સાથે કિલ્લામાંથી બહાર નીકળ્યો જેઓ ઉત્તેજનાથી તેમના કપાળમાંથી માડા કાઢી રહ્યા હતા."
+            }
+        }
+    },
+    {
+        "id": 105915,
+        "sloka": "10.59.15",
+        "verse_id": 105915,
+        "verseNumber": 15,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Lord Kṛṣṇa and His wife, mounted upon Garuḍa, looked like a cloud with lightning sitting above the sun. Seeing the Lord, Bhauma released his Śataghnī weapon at Him, whereupon all of Bhauma’s soldiers simultaneously attacked with their weapons."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "भगवान कृष्ण और उनकी पत्नी, गरुड़ पर सवार होकर, सूर्य के ऊपर बिजली चमकते हुए बादल की तरह दिख रहे थे। भगवान को देखकर, भौम ने उन पर अपना शतघ्नी हथियार छोड़ा, जिसके बाद भौम के सभी सैनिकों ने एक साथ अपने हथियारों से हमला किया।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "ભગવાન કૃષ્ણ અને તેમની પત્ની, ગરુડ પર બિરાજમાન, સૂર્યની ઉપર બેઠેલા વીજળીવાળા વાદળ જેવા દેખાતા હતા. ભગવાનને જોઈને, ભૌમાએ તેમનું શતઘની શસ્ત્ર તેમના પર છોડ્યું, જેનાથી ભૌમાના તમામ સૈનિકોએ એક સાથે તેમના શસ્ત્રો સાથે હુમલો કર્યો."
+            }
+        }
+    },
+    {
+        "id": 105916,
+        "sloka": "10.59.16",
+        "verse_id": 105916,
+        "verseNumber": 16,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "At that moment Lord Gadāgraja shot His sharp arrows at Bhaumāsura’s army. These arrows, displaying variegated feathers, soon reduced that army to a mass of bodies with severed arms, thighs and necks. The Lord similarly killed the opposing horses and elephants."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "उसी समय भगवान गदगराज ने भौमासुर की सेना पर अपने तीखे बाण छोड़े। विभिन्न प्रकार के पंखों को प्रदर्शित करने वाले इन बाणों ने जल्द ही उस सेना को कटी हुई भुजाओं, जांघों और गर्दन वाले शवों के समूह में बदल दिया। भगवान ने इसी प्रकार विरोधी घोड़ों और हाथियों को भी मार डाला।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "તે સમયે ભગવાન ગદાગરાજે ભૌમાસુરની સેના પર પોતાના તીક્ષ્ણ તીરો માર્યા. આ તીરો, વિવિધરંગી પીછાઓ પ્રદર્શિત કરતા, ટૂંક સમયમાં તે સેનાને વિચ્છેદિત હાથ, જાંઘ અને ગરદનવાળા શરીરના સમૂહમાં ઘટાડી દીધી. ભગવાને એ જ રીતે વિરોધી ઘોડાઓ અને હાથીઓને મારી નાખ્યા."
+            }
+        }
+    },
+    {
+        "id": 105917,
+        "sloka": "10.59.17-19",
+        "verse_id": 105917,
+        "verseNumber": 17,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Lord Hari then struck down all the missiles and weapons the enemy soldiers threw at Him, O hero of the Kurus, destroying each and every one with three sharp arrows. Meanwhile Garuḍa, as he carried the Lord, struck the enemy’s elephants with his wings. Beaten by Garuḍa’s wings, beak and talons, the elephants fled back into the city, leaving Narakāsura alone on the battlefield to oppose Kṛṣṇa."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "तब भगवान हरि ने उन सभी मिसाइलों और हथियारों को नष्ट कर दिया, जो शत्रु सैनिकों ने उन पर फेंके थे, हे कौरवों के नायक, और प्रत्येक को तीन तीखे बाणों से नष्ट कर दिया। इसी बीच भगवान को ले जाते समय गरुड़ ने शत्रु के हाथियों को अपने पंखों से मार डाला। गरुड़ के पंखों, चोंच और पंजों से घायल होकर हाथी वापस शहर में भाग गए और नरकासुर को कृष्ण का विरोध करने के लिए युद्ध के मैदान में अकेला छोड़ दिया।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "ભગવાન હરિએ પછી દુશ્મન સૈનિકોએ તેમની પર ફેંકેલા તમામ મિસાઇલો અને શસ્ત્રો, હે કુરુઓના વીર, ત્રણ તીક્ષ્ણ તીરોથી દરેકનો નાશ કર્યો. દરમિયાન, ગરુડ, ભગવાનને લઈ જતા, તેની પાંખો વડે દુશ્મનના હાથીઓ પર પ્રહાર કર્યો. ગરુડની પાંખો, ચાંચ અને ટેલોનથી પીટાયેલા, હાથીઓ કૃષ્ણનો વિરોધ કરવા નરકાસુરને યુદ્ધના મેદાનમાં એકલા છોડીને શહેરમાં પાછા ભાગી ગયા."
+            }
+        }
+    },
+    {
+        "id": 105920,
+        "sloka": "10.59.20",
+        "verse_id": 105920,
+        "verseNumber": 20,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Seeing his army driven back and tormented by Garuḍa, Bhauma attacked him with his spear, which had once defeated Lord Indra’s thunderbolt. But though struck by that mighty weapon, Garuḍa was not shaken. Indeed, he was like an elephant hit with a flower garland."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "अपनी सेना को पीछे खदेड़ते हुए और गरुड़ द्वारा सताए हुए देखकर, भौम ने उस पर अपने भाले से हमला किया, जिसने एक बार भगवान इंद्र के वज्र को हरा दिया था। परंतु उस शक्तिशाली अस्त्र के प्रहार से गरुड़ विचलित नहीं हुए। सचमुच, वह उस हाथी के समान था जिसे फूलों की माला से मारा गया हो।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "તેની સેનાને ગરુડ દ્વારા પીછેહઠ કરતી અને પીડિત જોઈને, ભૌમાએ તેના ભાલાથી તેના પર હુમલો કર્યો, જેણે એકવાર ભગવાન ઇન્દ્રની વીજળીને હરાવ્યો હતો. પરંતુ તે શક્તિશાળી શસ્ત્ર દ્વારા પ્રહાર કરવા છતાં, ગરુડ ડગમગ્યો ન હતો. ખરેખર, તે ફૂલની માળાથી અથડાતા હાથી જેવો હતો."
+            }
+        }
+    },
+    {
+        "id": 105921,
+        "sloka": "10.59.21",
+        "verse_id": 105921,
+        "verseNumber": 21,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Bhauma, frustrated in all his attempts, took up his trident to kill Lord Kṛṣṇa. But even before he could release it, the Lord cut off his head with His razor-sharp cakra as the demon sat atop his elephant."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "भौम ने अपने सभी प्रयासों से निराश होकर भगवान कृष्ण को मारने के लिए अपना त्रिशूल उठा लिया। लेकिन इससे पहले कि वह उसे छोड़ पाता, भगवान ने अपने तेज धार वाले चक्र से उसका सिर काट दिया क्योंकि राक्षस उसके हाथी के ऊपर बैठा था।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "ભૌમા, તેમના તમામ પ્રયત્નોમાં નિરાશ થઈને, ભગવાન કૃષ્ણને મારવા માટે તેમનું ત્રિશૂળ હાથમાં લીધું. પરંતુ તે તેને મુક્ત કરે તે પહેલાં જ, રાક્ષસ તેના હાથીની ટોચ પર બેઠો હોવાથી ભગવાને તેના રેઝર-તીક્ષ્ણ કાકરાથી તેનું માથું કાપી નાખ્યું."
+            }
+        }
+    },
+    {
+        "id": 105922,
+        "sloka": "10.59.22",
+        "verse_id": 105922,
+        "verseNumber": 22,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Fallen on the ground, Bhaumāsura’s head shone brilliantly, decorated as it was with earrings and an attractive helmet. As cries of “Alas, alas!” and “Well done!” arose, the sages and principal demigods worshiped Lord Mukunda by showering Him with flower garlands."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "भूमि पर गिरते हुए भौमासुर का सिर कान की बालियों और आकर्षक हेलमेट से सुशोभित होकर चमक रहा था। \"अफसोस, अफसोस!\" की चीख के रूप में और \"बहुत बढ़िया!\" उठे, ऋषियों और प्रमुख देवताओं ने फूल मालाओं से भगवान मुकुंद की पूजा की।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "જમીન પર પડ્યું, ભૌમાસુરનું માથું તેજસ્વી રીતે ચમક્યું, તે કાનની બુટ્ટીઓ અને આકર્ષક હેલ્મેટથી સજ્જ હતું. \"કાશ, અરે!\" ના રડે છે. અને \"સારું કર્યું!\" ઊભો થયો, ઋષિમુનિઓ અને મુખ્ય દેવતાઓએ ભગવાન મુકુંદને ફૂલોની માળા ચઢાવીને તેમની પૂજા કરી."
+            }
+        }
+    },
+    {
+        "id": 105923,
+        "sloka": "10.59.23",
+        "verse_id": 105923,
+        "verseNumber": 23,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "The goddess of the earth then approached Lord Kṛṣṇa and presented Him with Aditi’s earrings, which were made of glowing gold inlaid with shining jewels. She also gave Him a Vaijayantī flower garland, Varuṇa’s umbrella and the peak of Mandara Mountain."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "पृथ्वी की देवी तब भगवान कृष्ण के पास पहुंची और उन्हें अदिति की बालियां भेंट कीं, जो चमकते रत्नों से जड़े हुए चमकते सोने से बनी थीं। उन्होंने उन्हें वैजयंती फूलों की माला, वरुण का छत्र और मंदार पर्वत का शिखर भी दिया।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "પૃથ્વીની દેવી પછી ભગવાન કૃષ્ણની પાસે આવી અને તેમને અદિતિના કાનની બુટ્ટી આપી, જે ચમકતા ઝવેરાતથી જડેલા સોનાથી બનેલા હતા. તેણીએ તેમને વૈજયંતી ફૂલની માળા, વરુણની છત્ર અને મંદરા પર્વતનું શિખર પણ આપ્યું."
+            }
+        }
+    },
+    {
+        "id": 105924,
+        "sloka": "10.59.24",
+        "verse_id": 105924,
+        "verseNumber": 24,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "O King, after bowing down to Him and then standing with joined palms, the goddess, her mind filled with devotion, began to praise the Lord of the universe, whom the best of demigods worship."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "हे राजा, उन्हें प्रणाम करने और फिर हथेलियाँ जोड़कर खड़ी होने के बाद, देवी, भक्ति से भरा हुआ मन, ब्रह्मांड के भगवान की स्तुति करने लगी, जिनकी सबसे अच्छे देवता पूजा करते हैं।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "હે રાજા, તેમને પ્રણામ કર્યા પછી અને પછી હથેળીઓ જોડીને ઉભા થયા પછી, દેવી, તેનું મન ભક્તિથી ભરેલું હતું, તે વિશ્વના ભગવાનની સ્તુતિ કરવા લાગી, જેમની શ્રેષ્ઠ દેવતાઓ પૂજા કરે છે."
+            }
+        }
+    },
+    {
+        "id": 105925,
+        "sloka": "10.59.25",
+        "verse_id": 105925,
+        "verseNumber": 25,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Goddess Bhūmi said: Obeisances unto You, O Lord of the chief demigods, O holder of the conchshell, disc and club. O Supreme Soul within the heart, You assume Your various forms to fulfill Your devotees’ desires. Obeisances unto You."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "देवी भूमि ने कहा: हे प्रमुख देवताओं के स्वामी, हे शंख, चक्र और गदा धारक, आपको नमस्कार है। हे हृदय में स्थित परमात्मा, आप अपने भक्तों की इच्छाओं को पूरा करने के लिए अपने विभिन्न रूप धारण करते हैं। आपको प्रणाम."
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "દેવી ભૂમિએ કહ્યું: હે મુખ્ય દેવતાઓના ભગવાન, હે શંખ, ડિસ્ક અને ક્લબના ધારક, તમને પ્રણામ. હે હૃદયમાં રહેલા પરમાત્મા, તમે તમારા ભક્તોની મનોકામના પૂર્ણ કરવા માટે તમારા વિવિધ સ્વરૂપો ધારણ કરો છો. તમને પ્રણામ."
+            }
+        }
+    },
+    {
+        "id": 105926,
+        "sloka": "10.59.26",
+        "verse_id": 105926,
+        "verseNumber": 26,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "My respectful obeisances are unto You, O Lord, whose abdomen is marked with a depression like a lotus flower, who are always decorated with garlands of lotus flowers, whose glance is as cool as the lotus and whose feet are engraved with lotuses."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "हे भगवान, जिनके पेट पर कमल के फूल जैसा गड्ढा है, जो हमेशा कमल के फूलों की माला से सुशोभित रहते हैं, जिनकी दृष्टि कमल के समान शीतल है और जिनके पैर कमल से अंकित हैं, आपको मेरा आदरपूर्वक प्रणाम है।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "હે પ્રભુ, જેમના ઉદરમાં કમળના પુષ્પની જેમ વિષાદ છે, જેઓ હંમેશા કમળના પુષ્પોની માળાથી સુશોભિત છે, જેની નજર કમળની જેમ મસ્ત છે અને જેમના ચરણ કમળથી કોતરેલા છે, તે તમને મારી આદરપૂર્વક પ્રણામ છે."
+            }
+        }
+    },
+    {
+        "id": 105927,
+        "sloka": "10.59.27",
+        "verse_id": 105927,
+        "verseNumber": 27,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Obeisances unto You, the Supreme Lord Vāsudeva, Viṣṇu, the primeval person, the original seed. Obeisances unto You, the omniscient one."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "परम भगवान वासुदेव, विष्णु, आदि पुरुष, मूल बीज, आपको नमस्कार है। सर्वज्ञ आपको नमस्कार है।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "તમને પ્રણામ, પરમ ભગવાન વાસુદેવ, વિષ્ણુ, આદિપુરુષ, મૂળ બીજ. તમને પ્રણામ, સર્વજ્ઞ."
+            }
+        }
+    },
+    {
+        "id": 105928,
+        "sloka": "10.59.28",
+        "verse_id": 105928,
+        "verseNumber": 28,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Obeisances unto You of unlimited energies, the unborn progenitor of this universe, the Absolute. O Soul of the high and the low, O Soul of the created elements, O all-pervading Supreme Soul, obeisances unto You."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "असीमित शक्तियों वाले, इस ब्रह्मांड के अजन्मे पूर्वज, निरपेक्ष, आपको नमस्कार है। हे ऊंचे और नीचे की आत्मा, हे निर्मित तत्वों की आत्मा, हे सर्वव्यापी परमात्मा, आपको नमस्कार है।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "આ બ્રહ્માંડના અજાત પૂર્વજ, નિરપેક્ષ, અમર્યાદિત શક્તિઓના તમને પ્રણામ. હે ઉચ્ચ અને નીચાના આત્મા, હે સર્જન તત્વોના આત્મા, હે સર્વવ્યાપી પરમાત્મા, તમને પ્રણામ."
+            }
+        }
+    },
+    {
+        "id": 105929,
+        "sloka": "10.59.29",
+        "verse_id": 105929,
+        "verseNumber": 29,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Desiring to create, O unborn master, You increase and then assume the mode of passion. You do likewise with the mode of ignorance when You wish to annihilate the universe and with goodness when You wish to maintain it. Nonetheless, You remain uncovered by these modes. You are time, the pradhāna, and the puruṣa, O Lord of the universe, yet still You are separate and distinct."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "सृजन की इच्छा रखते हुए, हे अजन्मे गुरु, आप बढ़ते हैं और फिर रजोगुण धारण करते हैं। जब आप ब्रह्मांड को नष्ट करना चाहते हैं तो आप अज्ञानता के साथ भी ऐसा ही करते हैं और जब आप इसे बनाए रखना चाहते हैं तो अच्छाई के साथ भी ऐसा ही करते हैं। फिर भी, आप इन तरीकों से अछूते रहते हैं। हे ब्रह्मांड के भगवान, आप समय, प्रधान और पुरुष हैं, फिर भी आप अलग और विशिष्ट हैं।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "સર્જન કરવાની ઈચ્છા, હે અજન્મા ગુરુ, તમે વધારો કરો અને પછી ઉત્કટતાની સ્થિતિ ધારણ કરો. જ્યારે તમે બ્રહ્માંડનો નાશ કરવા ઈચ્છો છો ત્યારે તમે અજ્ઞાનતા સાથે અને જ્યારે તમે તેને જાળવી રાખવા ઈચ્છો છો ત્યારે ભલાઈથી કરો છો. તેમ છતાં, તમે આ સ્થિતિઓ દ્વારા અનકવર રહેશો. હે બ્રહ્માંડના ભગવાન, તમે સમય, પ્રધાન અને પુરૂષ છો, છતાં પણ તમે અલગ અને વિશિષ્ટ છો."
+            }
+        }
+    },
+    {
+        "id": 105930,
+        "sloka": "10.59.30",
+        "verse_id": 105930,
+        "verseNumber": 30,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "This is illusion: that earth, water, fire, air, ether, sense objects, demigods, mind, the senses, false ego and the total material energy exist independent of You. In fact, they are all within You, my Lord, who are one without a second."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "यह भ्रम है: कि पृथ्वी, जल, अग्नि, वायु, आकाश, इंद्रिय वस्तुएं, देवता, मन, इंद्रियां, मिथ्या अहंकार और संपूर्ण भौतिक ऊर्जा आपसे स्वतंत्र रूप से मौजूद हैं। वास्तव में, हे प्रभु, वे सभी आपके भीतर हैं, जो बिना किसी क्षण के एक हैं।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "આ ભ્રમ છે: પૃથ્વી, પાણી, અગ્નિ, વાયુ, આકાશ, ઇન્દ્રિય પદાર્થો, દેવતાઓ, મન, ઇન્દ્રિયો, ખોટો અહંકાર અને કુલ ભૌતિક ઊર્જા તમારાથી સ્વતંત્ર છે. હકીકતમાં, તે બધા તમારી અંદર છે, મારા ભગવાન, જે એક સેકન્ડ વિના એક છે."
+            }
+        }
+    },
+    {
+        "id": 105931,
+        "sloka": "10.59.31",
+        "verse_id": 105931,
+        "verseNumber": 31,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Here is the son of Bhaumāsura. Frightened, he is approaching Your lotus feet, since You remove the distress of all who seek refuge in You. Please protect him. Place Your lotus hand, which dispels all sins, upon his head."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "यह भौमासुर का पुत्र है। भयभीत होकर वह आपके चरणकमलों की ओर आ रहा है, क्योंकि आप अपनी शरण में आने वाले सभी लोगों का संकट दूर कर देते हैं। कृपया उसकी रक्षा करें. उसके सिर पर अपना कमल का हाथ रखें, जो सभी पापों को दूर कर देता है।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "અહીં ભૌમાસુરનો પુત્ર છે. ભયભીત થઈને, તે તમારા કમળના ચરણોની નજીક આવી રહ્યો છે, કારણ કે તમે તમારામાં આશ્રય લેનારા બધાની તકલીફો દૂર કરો છો. કૃપા કરીને તેની રક્ષા કરો. તમારા કમળનો હાથ, જે તમામ પાપોને દૂર કરે છે, તેના માથા પર મૂકો."
+            }
+        }
+    },
+    {
+        "id": 105932,
+        "sloka": "10.59.32",
+        "verse_id": 105932,
+        "verseNumber": 32,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Śukadeva Gosvāmī said: Thus entreated by Goddess Bhūmi in words of humble devotion, the Supreme Lord bestowed fearlessness upon her grandson and then entered Bhaumāsura’s palace, which was filled with all manner of riches."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "शुकदेव गोस्वामी ने कहा: इस प्रकार देवी भूमि द्वारा विनम्र भक्ति के शब्दों में विनती करने पर, भगवान ने उनके पोते को अभय प्रदान किया और फिर भौमासुर के महल में प्रवेश किया, जो सभी प्रकार के धन से भरा हुआ था।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "શુકદેવ ગોસ્વામીએ કહ્યું: આ રીતે દેવી ભૂમિ દ્વારા નમ્ર ભક્તિના શબ્દોમાં વિનંતી કરીને, પરમ ભગવાને તેમના પૌત્રને નિર્ભયતા આપી અને પછી ભૌમાસુરના મહેલમાં પ્રવેશ કર્યો, જે તમામ પ્રકારની સંપત્તિથી ભરેલો હતો."
+            }
+        }
+    },
+    {
+        "id": 105933,
+        "sloka": "10.59.33",
+        "verse_id": 105933,
+        "verseNumber": 33,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "There Lord Kṛṣṇa saw sixteen thousand royal maidens, whom Bhauma had taken by force from various kings."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "वहाँ भगवान कृष्ण ने सोलह हजार राजकन्याएँ देखीं, जिन्हें भौम ने विभिन्न राजाओं से बलपूर्वक छीन लिया था।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "ત્યાં ભગવાન કૃષ્ણએ સોળ હજાર રાજકુમારીઓને જોયા, જેમને ભૌમાએ વિવિધ રાજાઓ પાસેથી બળજબરીથી લઈ લીધા હતા."
+            }
+        }
+    },
+    {
+        "id": 105934,
+        "sloka": "10.59.34",
+        "verse_id": 105934,
+        "verseNumber": 34,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "The women became enchanted when they saw that most excellent of males enter. In their minds they each accepted Him, who had been brought there by destiny, as their chosen husband."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "स्त्रियों ने जब देखा कि श्रेष्ठतम पुरुष प्रवेश कर रहे हैं तो वे मंत्रमुग्ध हो गईं। अपने मन में उनमें से प्रत्येक ने उसे, जो नियति द्वारा वहाँ लाया गया था, अपने चुने हुए पति के रूप में स्वीकार किया।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "સ્ત્રીઓ મંત્રમુગ્ધ થઈ ગઈ જ્યારે તેઓએ જોયું કે સૌથી શ્રેષ્ઠ પુરુષો પ્રવેશ કરે છે. તેમના મનમાં તેઓએ દરેકે તેમને તેમના પસંદ કરેલા પતિ તરીકે નિયતિ દ્વારા ત્યાં લાવવામાં આવ્યા હતા તે સ્વીકાર્યો."
+            }
+        }
+    },
+    {
+        "id": 105935,
+        "sloka": "10.59.35",
+        "verse_id": 105935,
+        "verseNumber": 35,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "With the thought “May providence grant that this man become my husband,” each and every princess absorbed her heart in contemplation of Kṛṣṇa."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "इस विचार के साथ कि \"भगवान् कृपा करें कि यह व्यक्ति मेरा पति बने,\" प्रत्येक राजकुमारी ने अपने हृदय को कृष्ण के चिंतन में लीन कर लिया।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "\"પ્રોવિડન્સ આપે છે કે આ માણસ મારો પતિ બને,\" એવા વિચાર સાથે દરેક અને દરેક રાજકુમારીએ કૃષ્ણના ચિંતનમાં પોતાનું હૃદય સમાઈ લીધું."
+            }
+        }
+    },
+    {
+        "id": 105936,
+        "sloka": "10.59.36",
+        "verse_id": 105936,
+        "verseNumber": 36,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "The Lord had the princesses arrayed in clean, spotless garments and then sent them in palanquins to Dvārakā, together with great treasures of chariots, horses and other valuables."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "भगवान ने राजकुमारियों को स्वच्छ, बेदाग वस्त्र पहनाए और फिर उन्हें रथों, घोड़ों और अन्य मूल्यवान वस्तुओं के विशाल खजाने के साथ पालकियों में द्वारका भेज दिया।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "ભગવાને રાજકુમારીઓને સ્વચ્છ, નિષ્કલંક વસ્ત્રોમાં સજ્જ કર્યા અને પછી તેમને પાલખીઓમાં રથ, ઘોડાઓ અને અન્ય કિંમતી ચીજવસ્તુઓના ખજાના સાથે દ્વારકા મોકલ્યા."
+            }
+        }
+    },
+    {
+        "id": 105937,
+        "sloka": "10.59.37",
+        "verse_id": 105937,
+        "verseNumber": 37,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Lord Kṛṣṇa also dispatched sixty-four swift white elephants, descendants of Airāvata, who each sported four tusks."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "भगवान कृष्ण ने ऐरावत के वंशज, चौंसठ तीव्र गति वाले सफेद हाथी भी भेजे, जिनमें से प्रत्येक के चार-चार दाँत थे।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "ભગવાન કૃષ્ણએ પણ ચોસઠ ઝડપી સફેદ હાથીઓ મોકલ્યા, જે એરાવતના વંશજ હતા, જેઓ દરેકમાં ચાર દાંડી હતા."
+            }
+        }
+    },
+    {
+        "id": 105938,
+        "sloka": "10.59.38-39",
+        "verse_id": 105938,
+        "verseNumber": 38,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "The Lord then went to the abode of Indra, the demigods’ king, and gave mother Aditi her earrings; there Indra and his wife worshiped Kṛṣṇa and His beloved consort Satyabhāmā. Then, at Satyabhāmā’s behest the Lord uprooted the heavenly pārijāta tree and put it on the back of Garuḍa. After defeating Indra and all the other demigods, Kṛṣṇa brought the pārijāta to His capital."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "तब भगवान देवताओं के राजा इंद्र के निवास पर गए, और माता अदिति को उनकी बालियां दीं; वहां इंद्र और उनकी पत्नी ने कृष्ण और उनकी प्रिय पत्नी सत्यभामा की पूजा की। तब, सत्यभामा के आदेश पर भगवान ने स्वर्गीय पारिजात वृक्ष को उखाड़ दिया और गरुड़ की पीठ पर रख दिया। इंद्र और अन्य सभी देवताओं को हराने के बाद, कृष्ण पारिजात को अपनी राजधानी में ले आए।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "ભગવાન પછી દેવતાઓના રાજા, ઇન્દ્રના નિવાસસ્થાનમાં ગયા, અને માતા અદિતિને તેણીની બુટ્ટી આપી; ત્યાં ઇન્દ્ર અને તેમની પત્નીએ કૃષ્ણ અને તેમની પ્રિય પત્ની સત્યભામાની પૂજા કરી. પછી, સત્યભામાના કહેવાથી ભગવાને સ્વર્ગીય પરિજાત વૃક્ષને ઉખાડીને ગરુડની પીઠ પર મૂક્યું. ઇન્દ્ર અને અન્ય તમામ દેવતાઓને હરાવ્યા પછી, કૃષ્ણ પારિજાતને તેમની રાજધાનીમાં લાવ્યા."
+            }
+        }
+    },
+    {
+        "id": 105940,
+        "sloka": "10.59.40",
+        "verse_id": 105940,
+        "verseNumber": 40,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Once planted, the pārijāta tree beautified the garden of Queen Satyabhāmā’s palace. Bees followed the tree all the way from heaven, greedy for its fragrance and sweet sap."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "एक बार लगाए जाने के बाद, पारिजात वृक्ष ने रानी सत्यभामा के महल के बगीचे को सुशोभित किया। मधुमक्खियाँ उसकी सुगंध और मीठे रस के लालच में स्वर्ग से पूरे रास्ते पेड़ का पीछा करती रहीं।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "એકવાર વાવેતર કર્યા પછી, પારિજાત વૃક્ષે રાણી સત્યભામાના મહેલના બગીચાને સુંદર બનાવ્યું. મધમાખીઓ સ્વર્ગમાંથી બધી રીતે ઝાડને અનુસરતી હતી, તેની સુગંધ અને મીઠી રસ માટે લોભી હતી."
+            }
+        }
+    },
+    {
+        "id": 105941,
+        "sloka": "10.59.41",
+        "verse_id": 105941,
+        "verseNumber": 41,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Even after Indra had bowed down to Lord Acyuta, touched His feet with the tips of his crown and begged the Lord to fulfill his desire, that exalted demigod, having achieved his purpose, chose to fight with the Supreme Lord. What ignorance there is among the gods! To hell with their opulence!"
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "यहां तक ​​कि जब इंद्र ने भगवान अच्युत को प्रणाम किया, अपने मुकुट की नोकों से उनके पैर छुए और भगवान से अपनी इच्छा पूरी करने की प्रार्थना की, तब भी उस श्रेष्ठ देवता ने, अपना उद्देश्य पूरा करने के बाद, सर्वोच्च भगवान के साथ युद्ध करने का फैसला किया। देवताओं में कैसी अज्ञानता है! भाड़ में जाए उनका ऐश्वर्य!"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "ઇન્દ્રએ ભગવાન અચ્યુતને પ્રણામ કર્યા પછી પણ, તેમના મુગટની ટીપ્સથી તેમના ચરણ સ્પર્શ કર્યા અને તેમની ઇચ્છા પૂર્ણ કરવા માટે ભગવાનને વિનંતી કરી, તે ઉચ્ચતમ દેવતાએ પોતાનો હેતુ સિદ્ધ કર્યા પછી, પરમ ભગવાન સાથે યુદ્ધ કરવાનું પસંદ કર્યું. દેવતાઓમાં કેવું અજ્ઞાન છે! તેમની ઐશ્વર્ય સાથે નરકમાં!"
+            }
+        }
+    },
+    {
+        "id": 105942,
+        "sloka": "10.59.42",
+        "verse_id": 105942,
+        "verseNumber": 42,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Then the imperishable Supreme Personality, assuming a separate form for each bride, duly married all the princesses simultaneously, each in her own palace."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "तब अविनाशी परम व्यक्तित्व ने, प्रत्येक दुल्हन के लिए एक अलग रूप धारण करके, सभी राजकुमारियों से एक साथ, प्रत्येक के अपने महल में विधिवत विवाह किया।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "પછી અવિનાશી પરમ વ્યક્તિત્વે, દરેક કન્યા માટે અલગ રૂપ ધારણ કરીને, દરેક રાજકુમારીઓને એકસાથે, દરેક પોતાના મહેલમાં વિધિવત લગ્ન કર્યા."
+            }
+        }
+    },
+    {
+        "id": 105943,
+        "sloka": "10.59.43",
+        "verse_id": 105943,
+        "verseNumber": 43,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "The Lord, performer of the inconceivable, constantly remained in each of His queens’ palaces, which were unequaled and unexcelled by any other residence. There, although fully satisfied within Himself, He enjoyed with His pleasing wives, and like an ordinary husband He carried out His household duties."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "भगवान, अकल्पनीय के कर्ता, लगातार अपनी प्रत्येक रानी के महल में रहते थे, जो किसी भी अन्य निवास से अद्वितीय और अद्वितीय थे। वहाँ, अपने आप में पूर्ण संतुष्ट होते हुए भी, उन्होंने अपनी मनभावन पत्नियों के साथ आनंद लिया और एक सामान्य पति की तरह अपने घरेलू कर्तव्यों का पालन किया।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "ભગવાન, અકલ્પ્ય કલાકાર, તેમની દરેક રાણીઓના મહેલમાં સતત રહ્યા, જે અન્ય કોઈપણ નિવાસસ્થાન દ્વારા અસાધારણ અને અસાધારણ હતા. ત્યાં, પોતાની અંદર સંપૂર્ણ સંતુષ્ટ હોવા છતાં, તેણે તેની સુખી પત્નીઓ સાથે આનંદ માણ્યો, અને એક સામાન્ય પતિની જેમ તેણે તેની ઘરની ફરજો નિભાવી."
+            }
+        }
+    },
+    {
+        "id": 105944,
+        "sloka": "10.59.44",
+        "verse_id": 105944,
+        "verseNumber": 44,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Thus those women obtained as their husband the husband of the goddess of fortune, although even great demigods like Brahmā do not know how to approach Him. With ever-increasing pleasure they experienced loving attraction for Him, exchanged smiling glances with Him and reciprocated with Him in ever-fresh intimacy, replete with joking and feminine shyness."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "इस प्रकार उन महिलाओं ने भाग्य की देवी के पति को अपने पति के रूप में प्राप्त किया, हालाँकि ब्रह्मा जैसे महान देवता भी नहीं जानते कि उनके पास कैसे जाएँ। निरंतर बढ़ती खुशी के साथ उन्होंने उसके प्रति प्रेमपूर्ण आकर्षण का अनुभव किया, उसके साथ मुस्कुराते हुए नज़रों का आदान-प्रदान किया और उसके साथ हमेशा ताज़ा अंतरंगता का आदान-प्रदान किया, जो मजाक और स्त्री शर्म से परिपूर्ण था।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "આ રીતે તે સ્ત્રીઓને તેમના પતિ તરીકે સૌભાગ્યની દેવીના પતિ તરીકે પ્રાપ્ત થયું, જોકે બ્રહ્મા જેવા મહાન દેવતાઓ પણ તેમની પાસે કેવી રીતે જવું તે જાણતા નથી. સતત વધતા આનંદ સાથે તેઓએ તેમના પ્રત્યે પ્રેમાળ આકર્ષણનો અનુભવ કર્યો, તેમની સાથે સ્મિત કરતી નજરોની આપ-લે કરી અને તેમની સાથે સદા તાજી આત્મીયતામાં બદલાવ કર્યો, મજાક અને સ્ત્રીની સંકોચથી ભરપૂર."
+            }
+        }
+    },
+    {
+        "id": 105945,
+        "sloka": "10.59.45",
+        "verse_id": 105945,
+        "verseNumber": 45,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Although the Supreme Lord’s queens each had hundreds of maidservants, they chose to personally serve the Lord by approaching Him humbly, offering Him a seat, worshiping Him with excellent paraphernalia, bathing and massaging His feet, giving Him pān to chew, fanning Him, anointing Him with fragrant sandalwood paste, adorning Him with flower garlands, dressing His hair, arranging His bed, bathing Him, and presenting Him with various gifts."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "यद्यपि परम भगवान की प्रत्येक रानियों के पास सैकड़ों दासियाँ थीं, फिर भी उन्होंने विनम्रतापूर्वक उनके पास जाकर, उन्हें आसन देकर, उत्कृष्ट साज-सज्जा से उनकी पूजा करके, स्नान कराकर और उनके पैरों की मालिश करके, उन्हें चबाने के लिए पान देकर, उन्हें पंखा करके, सुगंधित चंदन के लेप से उनका अभिषेक करके, उन्हें फूलों की मालाओं से सजाकर, उनके बाल सजाकर, उनके बिस्तर की व्यवस्था करके, उन्हें नहलाकर और विभिन्न उपहार देकर व्यक्तिगत रूप से भगवान की सेवा करने का निर्णय लिया।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "સર્વોચ્ચ ભગવાનની દરેક રાણીઓ પાસે સેંકડો દાસી હોવા છતાં, તેઓએ વ્યક્તિગત રીતે ભગવાનની સેવા કરવાનું પસંદ કર્યું નમ્રતાપૂર્વક તેમની પાસે જઈને, તેમને આસન અર્પણ કરીને, તેમની ઉત્તમ સામગ્રી સાથે તેમની પૂજા કરીને, સ્નાન કરીને અને તેમના પગની માલિશ કરીને, તેમને ચાવવા માટે પાન આપીને, તેમને પંખા ચડાવીને, તેમને સુગંધિત ચંદનનો અભિષેક કરીને, તેમના વાળના વસ્ત્રોથી શણગારીને, તેમના વાળના વસ્ત્રોથી શણગારવામાં આવ્યા હતા. તેને, અને તેને વિવિધ ભેટો સાથે પ્રસ્તુત કરો."
+            }
+        }
+    }
+]

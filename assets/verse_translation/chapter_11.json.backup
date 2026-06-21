@@ -1,0 +1,1313 @@
+[
+    {
+        "id": 101101,
+        "sloka": "10.11.1",
+        "verse_id": 101101,
+        "verseNumber": 1,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Śukadeva Gosvāmī continued: O Mahārāja Parīkṣit, when the yamala-arjuna trees fell, all the cowherd men in the neighborhood, hearing the fierce sound and fearing thunderbolts, went to the spot."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "शुकदेव गोस्वामी ने आगे कहा: हे महाराज परीक्षित, जब यमला-अर्जुन के पेड़ गिरे, तो भयंकर आवाज सुनकर और वज्रपात के डर से पड़ोस के सभी चरवाहे मौके पर गए।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "શુકદેવ ગોસ્વામીએ ચાલુ રાખ્યું: હે મહારાજ પરિક્ષિત, જ્યારે યમલા-અર્જુન વૃક્ષો પડી ગયા, ત્યારે પડોશના તમામ ગોવાળિયાઓ, ભયંકર અવાજ સાંભળીને અને વીજળીના ડરથી, સ્થળ પર ગયા."
+            }
+        }
+    },
+    {
+        "id": 101102,
+        "sloka": "10.11.2",
+        "verse_id": 101102,
+        "verseNumber": 2,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "There they saw the fallen yamala-arjuna trees on the ground, but they were bewildered because even though they could directly perceive that the trees had fallen, they could not trace out the cause for their having done so."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "वहां उन्होंने जमीन पर गिरे हुए यमला-अर्जुन के पेड़ों को देखा, लेकिन वे हतप्रभ रह गए क्योंकि भले ही उन्हें प्रत्यक्ष रूप से पता चल गया था कि पेड़ गिर गए हैं, लेकिन वे ऐसा करने का कारण नहीं जान सके।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "ત્યાં તેઓએ જમીન પર પડેલા યમલા-અર્જુન વૃક્ષો જોયા, પરંતુ તેઓ આશ્ચર્યચકિત થઈ ગયા કારણ કે તેઓ સીધેસીધું જોઈ શકતા હતા કે વૃક્ષો પડી ગયા છે, તેમ છતાં તેઓ આવું કરવા પાછળનું કારણ શોધી શક્યા નહીં."
+            }
+        }
+    },
+    {
+        "id": 101103,
+        "sloka": "10.11.3",
+        "verse_id": 101103,
+        "verseNumber": 3,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Kṛṣṇa was bound by the rope to the ulūkhala, the mortar, which He was dragging. But how could He have pulled down the trees? Who had actually done it? Where was the source for this incident? Considering all these astounding things, the cowherd men were doubtful and bewildered."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "कृष्ण रस्सी से उलुखला, ओखली से बंधे हुए थे, जिसे वह खींच रहे थे। लेकिन वह पेड़ों को कैसे गिरा सकता था? वास्तव में यह किसने किया था? इस घटना का स्रोत कहाँ था? इन सब आश्चर्यजनक बातों पर विचार करके ग्वाले संशय में पड़ गये और हतप्रभ रह गये।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "કૃષ્ણ દોરડા વડે ઉલુખા, મોર્ટાર સાથે બંધાયેલા હતા, જેને તેઓ ખેંચી રહ્યા હતા. પરંતુ તે વૃક્ષો કેવી રીતે તોડી શકે? ખરેખર કોણે કર્યું હતું? આ ઘટનાનો સ્ત્રોત ક્યાં હતો? આ બધી ચોંકાવનારી બાબતોને ધ્યાનમાં લેતા, ગોવાળિયાઓ શંકાસ્પદ અને આશ્ચર્યચકિત થઈ ગયા."
+            }
+        }
+    },
+    {
+        "id": 101104,
+        "sloka": "10.11.4",
+        "verse_id": 101104,
+        "verseNumber": 4,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Then all the cowherd boys said: It is Kṛṣṇa who has done this. When He was in between the two trees, the mortar fell crosswise. Kṛṣṇa dragged the mortar, and the two trees fell down. After that, two beautiful men came out of the trees. We have seen this with our own eyes."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "तब सभी चरवाहे लड़कों ने कहा: यह कृष्ण ही हैं जिन्होंने यह किया है। जब वह दो पेड़ों के बीच में था, तो मोर्टार आड़ा-तिरछा गिर गया। कृष्ण ने ओखली खींची और दोनों पेड़ गिर गये। उसके बाद, दो खूबसूरत आदमी पेड़ों से बाहर आये। ये हमने अपनी आंखों से देखा है."
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "પછી બધા ગોવાળિયાઓએ કહ્યું: આ કૃષ્ણે જ કર્યું છે. જ્યારે તે બે ઝાડની વચ્ચે હતો, ત્યારે મોર્ટાર ક્રોસવાઇઝ પડ્યો. કૃષ્ણે મોર્ટાર ખેંચ્યું, અને બે વૃક્ષો નીચે પડી ગયા. તે પછી, ઝાડમાંથી બે સુંદર પુરુષો બહાર આવ્યા. અમે અમારી પોતાની આંખોથી આ જોયું છે."
+            }
+        }
+    },
+    {
+        "id": 101105,
+        "sloka": "10.11.5",
+        "verse_id": 101105,
+        "verseNumber": 5,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Because of intense paternal affection, the cowherd men, headed by Nanda, could not believe that Kṛṣṇa could have uprooted the trees in such a wonderful way. Therefore they could not put their faith in the words of the boys. Some of the men, however, were in doubt. “Since Kṛṣṇa was predicted to equal Nārāyaṇa,” they thought, “it might be that He could have done it.”"
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "गहन पितृ स्नेह के कारण, नंद सहित चरवाहे लोगों को विश्वास नहीं हो रहा था कि कृष्ण इतने अद्भुत तरीके से पेड़ों को उखाड़ सकते हैं। इसलिए वे लड़कों की बातों पर भरोसा नहीं कर पाते थे. हालाँकि, कुछ लोग संदेह में थे। \"चूंकि कृष्ण को नारायण के बराबर होने की भविष्यवाणी की गई थी,\" उन्होंने सोचा, \"हो सकता है कि उन्होंने ऐसा किया हो।\""
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "તીવ્ર પિતૃત્વના સ્નેહને કારણે, નંદની આગેવાની હેઠળના ગોવાળિયાઓ વિશ્વાસ કરી શકતા ન હતા કે કૃષ્ણ આટલી અદ્ભુત રીતે વૃક્ષોને ઉખેડી શકે છે. તેથી તેઓ છોકરાઓની વાતમાં વિશ્વાસ મૂકી શક્યા નહીં. જો કે, કેટલાક માણસો શંકાના દાયરામાં હતા. \"જ્યારથી કૃષ્ણને નારાયણની સમાનતાની આગાહી કરવામાં આવી હતી,\" તેઓએ વિચાર્યું, \"તે કદાચ તે કરી શક્યા હોત.\""
+            }
+        }
+    },
+    {
+        "id": 101106,
+        "sloka": "10.11.6",
+        "verse_id": 101106,
+        "verseNumber": 6,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "When Nanda Mahārāja saw his own son bound with ropes to the wooden mortar and dragging it, he smiled and released Kṛṣṇa from His bonds."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "जब नंद महाराज ने अपने पुत्र को रस्सियों से लकड़ी के ओखली से बंधे और उसे घसीटते हुए देखा, तो वे मुस्कुराए और कृष्ण को अपने बंधन से मुक्त कर दिया।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "જ્યારે નંદ મહારાજે તેમના પોતાના પુત્રને લાકડાના મોર્ટાર સાથે દોરડાથી બાંધેલા અને તેને ખેંચતા જોયા, ત્યારે તેમણે સ્મિત કર્યું અને કૃષ્ણને તેમના બંધનમાંથી મુક્ત કર્યા."
+            }
+        }
+    },
+    {
+        "id": 101107,
+        "sloka": "10.11.7",
+        "verse_id": 101107,
+        "verseNumber": 7,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "The gopīs would say, “If You dance, my dear Kṛṣṇa, then I shall give You half a sweetmeat.” By saying these words or by clapping their hands, all the gopīs encouraged Kṛṣṇa in different ways. At such times, although He was the supremely powerful Personality of Godhead, He would smile and dance according to their desire, as if He were a wooden doll in their hands. Sometimes He would sing very loudly, at their bidding. In this way, Kṛṣṇa came completely under the control of the gopīs."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "गोपियाँ कहती थीं, \"यदि तुम नाचोगे, मेरे प्रिय कृष्ण, तो मैं तुम्हें आधी मिठाइयाँ दूँगी।\" ये शब्द कहकर या ताली बजाकर सभी गोपियों ने अलग-अलग तरीकों से कृष्ण को प्रोत्साहित किया। ऐसे समय में, यद्यपि वह परम शक्तिशाली भगवान थे, वे उनकी इच्छा के अनुसार मुस्कुराते और नृत्य करते थे, जैसे कि वह उनके हाथों में एक लकड़ी की गुड़िया हों। कभी-कभी वह उनके कहने पर बहुत ऊंचे स्वर में गाते थे। इस प्रकार कृष्ण पूर्णतः गोपियों के वश में हो गये।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "ગોપીઓ કહેશે, \"જો તમે નૃત્ય કરશો, મારા પ્રિય કૃષ્ણ, તો હું તમને અડધી મીઠાઈ આપીશ.\" આ શબ્દો બોલીને અથવા તાળીઓ પાડીને, બધી ગોપીઓએ કૃષ્ણને જુદી જુદી રીતે પ્રોત્સાહિત કર્યા. આવા સમયે, જો કે તેઓ ભગવાનના પરમ શક્તિશાળી વ્યક્તિત્વ હતા, તેઓ તેમના હાથમાં લાકડાની ઢીંગલી હોય તેમ સ્મિત કરતા અને તેમની ઇચ્છા મુજબ નાચતા. કેટલીકવાર તેઓ તેમના કહેવા પર ખૂબ જોરથી ગાતા. આ રીતે, કૃષ્ણ સંપૂર્ણપણે ગોપીઓના નિયંત્રણમાં આવી ગયા."
+            }
+        }
+    },
+    {
+        "id": 101108,
+        "sloka": "10.11.8",
+        "verse_id": 101108,
+        "verseNumber": 8,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Sometimes mother Yaśodā and her gopī friends would tell Kṛṣṇa, “Bring this article” or “Bring that article.” Sometimes they would order Him to bring a wooden plank, wooden shoes or a wooden measuring pot, and Kṛṣṇa, when thus ordered by the mothers, would try to bring them. Sometimes, however, as if unable to raise these things, He would touch them and stand there. Just to invite the pleasure of His relatives, He would strike His body with His arms to show that He had sufficient strength."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "कभी-कभी माता यशोदा और उनकी गोपी सखियाँ कृष्ण से कहती थीं, \"यह वस्तु लाओ\" या \"वह वस्तु लाओ।\" कभी-कभी वे उन्हें लकड़ी का तख्ता, लकड़ी के जूते या लकड़ी का नापने का बर्तन लाने का आदेश देते थे, और जब माताएँ ऐसा आदेश देती थीं, तो कृष्ण उन्हें लाने का प्रयास करते थे। हालाँकि, कभी-कभी, जैसे कि वह इन चीज़ों को उठाने में असमर्थ हो, वह उन्हें छू लेता था और वहीं खड़ा हो जाता था। अपने रिश्तेदारों की ख़ुशी को आमंत्रित करने के लिए, वह यह दिखाने के लिए कि उसके पास पर्याप्त ताकत है, अपने शरीर पर अपनी भुजाओं से प्रहार करता था।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "ક્યારેક માતા યશોદા અને તેમના ગોપી મિત્રો કૃષ્ણને કહેતા, \"આ લેખ લાવો\" અથવા \"તે લેખ લાવો.\" કેટલીકવાર તેઓ તેમને લાકડાનું પાટિયું, લાકડાના પગરખાં અથવા લાકડાનું માપવા માટેનું વાસણ લાવવાનો આદેશ આપતા, અને કૃષ્ણ, જ્યારે આ રીતે માતાઓ દ્વારા આદેશ આપવામાં આવતો, ત્યારે તેઓ તેમને લાવવાનો પ્રયાસ કરતા. કેટલીકવાર, જો કે, આ વસ્તુઓને ઉભી કરવામાં અસમર્થ હોય તેમ, તે તેમને સ્પર્શ કરશે અને ત્યાં ઊભા રહેશે. ફક્ત તેના સંબંધીઓના આનંદને આમંત્રિત કરવા માટે, તે તેના શરીરને તેના હાથ વડે પ્રહાર કરશે તે બતાવવા માટે કે તેની પાસે પૂરતી શક્તિ છે."
+            }
+        }
+    },
+    {
+        "id": 101109,
+        "sloka": "10.11.9",
+        "verse_id": 101109,
+        "verseNumber": 9,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "To pure devotees throughout the world who could understand His activities, the Supreme Personality of Godhead, Kṛṣṇa, exhibited how much He can be subdued by His devotees, His servants. In this way He increased the pleasure of the Vrajavāsīs by His childhood activities."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "दुनिया भर के शुद्ध भक्तों को, जो उनकी गतिविधियों को समझ सकते थे, भगवान कृष्ण ने दिखाया कि उन्हें अपने भक्तों, अपने सेवकों द्वारा कितना वश में किया जा सकता है। इस प्रकार उन्होंने अपनी बाल लीलाओं से व्रजवासियों का आनंद बढ़ाया।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "સમગ્ર વિશ્વમાં શુદ્ધ ભક્તો કે જેઓ તેમની પ્રવૃત્તિઓને સમજી શકે છે, પરમપુરુષ ભગવાન, કૃષ્ણ, પ્રદર્શિત કરે છે કે તેઓ તેમના ભક્તો, તેમના સેવકો દ્વારા કેટલું વશ થઈ શકે છે. આ રીતે તેમણે તેમની બાળપણની પ્રવૃત્તિઓ દ્વારા વ્રજવાસીઓના આનંદમાં વધારો કર્યો."
+            }
+        }
+    },
+    {
+        "id": 101110,
+        "sloka": "10.11.10",
+        "verse_id": 101110,
+        "verseNumber": 10,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Once a woman selling fruit was calling, “O inhabitants of Vrajabhūmi, if you want to purchase some fruits, come here!” Upon hearing this, Kṛṣṇa immediately took some grains and went to barter as if He needed some fruits."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "एक बार एक फल बेचने वाली महिला पुकार रही थी, \"हे व्रजभूमि के निवासियों, यदि तुम कुछ फल खरीदना चाहते हो, तो यहाँ आओ!\" यह सुनकर, कृष्ण ने तुरंत कुछ अनाज लिया और विनिमय करने चले गए जैसे कि उन्हें कुछ फलों की आवश्यकता हो।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "એકવાર ફળ વેચતી એક સ્ત્રી બોલાવી રહી હતી, \"હે વ્રજભૂમિના રહેવાસીઓ, તમારે ફળ ખરીદવા હોય તો અહીં આવો!\" આ સાંભળીને, કૃષ્ણ તરત જ કેટલાક અનાજ લઈ ગયા અને જાણે તેમને ફળની જરૂર હોય તેમ વિનિમય કરવા ગયા."
+            }
+        }
+    },
+    {
+        "id": 101111,
+        "sloka": "10.11.11",
+        "verse_id": 101111,
+        "verseNumber": 11,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "While Kṛṣṇa was going to the fruit vendor very hastily, most of the grains He was holding fell. Nonetheless, the fruit vendor filled Kṛṣṇa’s hands with fruits, and her fruit basket was immediately filled with jewels and gold."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "जब कृष्ण बहुत जल्दी से फल विक्रेता के पास जा रहे थे, तो उनके पास मौजूद अधिकांश अनाज गिर गया। फिर भी, फल विक्रेता ने कृष्ण के हाथ फलों से भर दिए, और उसकी फलों की टोकरी तुरंत गहनों और सोने से भर गई।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "જ્યારે કૃષ્ણ ફળ વિક્રેતા પાસે ખૂબ જ ઉતાવળે જઈ રહ્યા હતા, ત્યારે તેમની પાસે રહેલા મોટાભાગના અનાજ પડી ગયા. તેમ છતાં, ફળ વિક્રેતાએ કૃષ્ણના હાથ ફળોથી ભરી દીધા, અને તેમની ફળની ટોપલી તરત જ ઝવેરાત અને સોનાથી ભરાઈ ગઈ."
+            }
+        }
+    },
+    {
+        "id": 101112,
+        "sloka": "10.11.12",
+        "verse_id": 101112,
+        "verseNumber": 12,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Once, after the uprooting of the yamala-arjuna trees, Rohiṇīdevī went to call Rāma and Kṛṣṇa, who had both gone to the riverside and were playing with the other boys with deep attention."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "एक बार, यमला-अर्जुन के पेड़ों को उखाड़ने के बाद, रोहिणीदेवी राम और कृष्ण को बुलाने गईं, जो दोनों नदी के किनारे गए थे और अन्य लड़कों के साथ गहरे ध्यान से खेल रहे थे।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "એકવાર, યમલા-અર્જુન વૃક્ષો ઉખેડી નાખ્યા પછી, રોહિણીદેવી રામ અને કૃષ્ણને બોલાવવા ગયા, જેઓ બંને નદી કિનારે ગયા હતા અને અન્ય છોકરાઓ સાથે ઊંડા ધ્યાનથી રમતા હતા."
+            }
+        }
+    },
+    {
+        "id": 101113,
+        "sloka": "10.11.13",
+        "verse_id": 101113,
+        "verseNumber": 13,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Because of being too attached to playing with the other boys, Kṛṣṇa and Balarāma did not return upon being called by Rohiṇī. Therefore Rohiṇī sent mother Yaśodā to call Them back, because mother Yaśodā was more affectionate to Kṛṣṇa and Balarāma."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "अन्य लड़कों के साथ खेलने में अत्यधिक आसक्त होने के कारण, कृष्ण और बलराम रोहिणी के बुलाने पर भी नहीं लौटे। इसलिए रोहिणी ने उन्हें वापस बुलाने के लिए माता यशोदा को भेजा, क्योंकि माता यशोदा कृष्ण और बलराम से अधिक स्नेह करती थीं।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "અન્ય છોકરાઓ સાથે રમવામાં ખૂબ આસક્ત હોવાને કારણે, કૃષ્ણ અને બલરામ રોહિણી દ્વારા બોલાવવા પર પાછા ફર્યા નહીં. તેથી રોહિણીએ માતા યશોદાને તેમને પાછા બોલાવવા મોકલ્યા, કારણ કે માતા યશોદા કૃષ્ણ અને બલરામ પ્રત્યે વધુ પ્રેમાળ હતી."
+            }
+        }
+    },
+    {
+        "id": 101114,
+        "sloka": "10.11.14",
+        "verse_id": 101114,
+        "verseNumber": 14,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Kṛṣṇa and Balarāma, being attached to Their play, were playing with the other boys although it was very late. Therefore mother Yaśodā called Them back for lunch. Because of her ecstatic love and affection for Kṛṣṇa and Balarāma, milk flowed from her breasts."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "कृष्ण और बलराम, अपने खेल में आसक्त होने के कारण, अन्य लड़कों के साथ खेल रहे थे, हालाँकि बहुत देर हो चुकी थी। इसलिए माता यशोदा ने उन्हें दोपहर के भोजन के लिए वापस बुलाया। कृष्ण और बलराम के प्रति उसके परम प्रेम और स्नेह के कारण उसके स्तनों से दूध बह रहा था।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "કૃષ્ણ અને બલરામ, તેમના રમત સાથે જોડાયેલા, અન્ય છોકરાઓ સાથે રમતા હતા, જોકે તે ખૂબ મોડું થઈ ગયું હતું. તેથી માતા યશોદાએ તેમને ભોજન માટે પાછા બોલાવ્યા. કૃષ્ણ અને બલરામ પ્રત્યેના તેના ઉત્સાહી પ્રેમ અને સ્નેહને કારણે, તેના સ્તનોમાંથી દૂધ વહેતું હતું."
+            }
+        }
+    },
+    {
+        "id": 101115,
+        "sloka": "10.11.15",
+        "verse_id": 101115,
+        "verseNumber": 15,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Mother Yaśodā said: My dear son Kṛṣṇa, lotus-eyed Kṛṣṇa, come here and drink the milk of my breast. My dear darling, You must be very tired because of hunger and the fatigue of playing so long. There is no need to play any more."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "माता यशोदा ने कहा: मेरे प्रिय पुत्र कृष्ण, कमल नयन कृष्ण, यहाँ आओ और मेरे स्तन का दूध पीओ। मेरी प्यारी जान, तुम भूख और इतनी देर तक खेलने की थकान के कारण बहुत थक गई होगी। अब और खेलने की कोई जरूरत नहीं है."
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "માતા યશોદાએ કહ્યું: મારા પ્રિય પુત્ર કૃષ્ણ, કમળ આંખોવાળા કૃષ્ણ, અહીં આવો અને મારા સ્તનનું દૂધ પીવો. મારા વહાલા પ્રિયતમ, ભૂખ અને આટલા લાંબા સમય સુધી રમવાના થાકને કારણે તું ખૂબ થાકી ગયો હશે. હવે વધુ રમવાની જરૂર નથી."
+            }
+        }
+    },
+    {
+        "id": 101116,
+        "sloka": "10.11.16",
+        "verse_id": 101116,
+        "verseNumber": 16,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "My dear Baladeva, best of our family, please come immediately with Your younger brother, Kṛṣṇa. You both ate in the morning, and now You ought to eat something more."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "मेरे प्रिय बलदेव, हमारे परिवार में सर्वश्रेष्ठ, कृपया अपने छोटे भाई कृष्ण के साथ तुरंत आएं। तुम दोनों ने सुबह खाया, और अब तुम्हें कुछ और खाना चाहिए।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "મારા પ્રિય બલદેવ, અમારા પરિવારના શ્રેષ્ઠ, કૃપા કરીને તમારા નાના ભાઈ, કૃષ્ણ સાથે તરત જ આવો. તમે બંને સવારે ખાધું, અને હવે તમારે કંઈક વધુ ખાવું જોઈએ."
+            }
+        }
+    },
+    {
+        "id": 101117,
+        "sloka": "10.11.17",
+        "verse_id": 101117,
+        "verseNumber": 17,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Nanda Mahārāja, the King of Vraja, is now waiting to eat. O my dear son Balarāma, he is waiting for You. Therefore, come back to please us. All the boys playing with You and Kṛṣṇa should now go to their homes."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "व्रज के राजा नंद महाराज अब भोजन की प्रतीक्षा कर रहे हैं। हे मेरे प्रिय पुत्र बलराम, वह आपकी प्रतीक्षा कर रहा है। इसलिए, हमें प्रसन्न करने के लिए वापस आएँ। आपके और कृष्ण के साथ खेलने वाले सभी लड़कों को अब अपने घर जाना चाहिए।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "વ્રજના રાજા નંદ મહારાજ હવે જમવાની રાહ જોઈ રહ્યા છે. હે મારા પ્રિય પુત્ર બલરામ, તે તમારી રાહ જોઈ રહ્યો છે. તેથી, અમને ખુશ કરવા પાછા આવો. તમારી અને કૃષ્ણ સાથે રમતા બધા છોકરાઓ હવે તેમના ઘરે જવા જોઈએ."
+            }
+        }
+    },
+    {
+        "id": 101118,
+        "sloka": "10.11.18",
+        "verse_id": 101118,
+        "verseNumber": 18,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Mother Yaśodā further told Kṛṣṇa: My dear son, because of playing all day, Your body has become covered with dust and sand. Therefore, come back, take Your bath and cleanse Yourself. Today the moon is conjoined with the auspicious star of Your birth. Therefore, be pure and give cows in charity to the brāhmaṇas."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "माता यशोदा ने कृष्ण से आगे कहा: मेरे प्रिय पुत्र, सारा दिन खेलने के कारण तुम्हारा शरीर धूल और रेत से ढक गया है। इसलिए, वापस आओ, स्नान करो और अपने आप को शुद्ध करो। आज चंद्रमा आपके जन्म के शुभ नक्षत्र से युक्त है। इसलिए पवित्र रहो और ब्राह्मणों को गायें दान में दो।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "માતા યશોદાએ કૃષ્ણને આગળ કહ્યું: મારા પ્રિય પુત્ર, આખો દિવસ રમવાને કારણે, તારું શરીર ધૂળ અને રેતીથી ઢંકાયેલું છે. તેથી, પાછા આવો, તમારું સ્નાન કરો અને તમારી જાતને શુદ્ધ કરો. આજે ચંદ્ર તમારા જન્મના શુભ નક્ષત્ર સાથે જોડાયેલો છે. તેથી, શુદ્ધ બનો અને બ્રાહ્મણોને દાનમાં ગાયો આપો."
+            }
+        }
+    },
+    {
+        "id": 101119,
+        "sloka": "10.11.19",
+        "verse_id": 101119,
+        "verseNumber": 19,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Just see how all Your playmates of Your own age have been cleansed and decorated with beautiful ornaments by their mothers. You should come here, and after You have taken Your bath, eaten Your lunch and been decorated with ornaments, You may play with Your friends again."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "जरा देखिये कि आपकी ही उम्र के आपके सभी सहपाठियों को उनकी माताओं ने कैसे शुद्ध किया है और सुंदर आभूषणों से सजाया है। तुम्हें यहाँ आना चाहिए, और स्नान करने, दोपहर का भोजन करने और आभूषणों से सुसज्जित होने के बाद, तुम फिर से अपने दोस्तों के साथ खेल सकते हो।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "જરા જુઓ કે તમારી જ ઉંમરના તમારા બધા રમતના સાથીઓને તેમની માતાઓએ કેવી રીતે સાફ અને સુંદર આભૂષણોથી શણગાર્યા છે. તમારે અહીં આવવું જોઈએ, અને તમે તમારા સ્નાન કર્યા પછી, તમારું બપોરનું ભોજન જમ્યા પછી અને ઘરેણાંથી શણગારવામાં આવ્યા પછી, તમે તમારા મિત્રો સાથે ફરીથી રમી શકો છો."
+            }
+        }
+    },
+    {
+        "id": 101120,
+        "sloka": "10.11.20",
+        "verse_id": 101120,
+        "verseNumber": 20,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "My dear Mahārāja Parīkṣit, because of intense love and affection, mother Yaśodā, Kṛṣṇa’s mother, considered Kṛṣṇa, who was at the peak of all opulences, to be her own son. Thus she took Kṛṣṇa by the hand, along with Balarāma, and brought Them home, where she performed her duties by fully bathing Them, dressing Them and feeding Them."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "मेरे प्रिय महाराज परीक्षित, गहन प्रेम और स्नेह के कारण, कृष्ण की मां यशोदा, सभी ऐश्वर्य के शिखर पर मौजूद कृष्ण को अपना पुत्र मानती थीं। इस प्रकार वह बलराम के साथ कृष्ण का हाथ पकड़कर उन्हें घर ले आई, जहां उन्होंने उन्हें पूरी तरह से नहलाकर, कपड़े पहनाकर और खाना खिलाकर अपना कर्तव्य निभाया।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "મારા વ્હાલા મહારાજા પરીક્ષિત, તીવ્ર પ્રેમ અને સ્નેહને લીધે, માતા યશોદા, કૃષ્ણની માતા, કૃષ્ણને, જે તમામ ઐશ્વર્યની ટોચ પર હતા, તેમને પોતાના પુત્ર માનતા હતા. આ રીતે તેણીએ બલરામ સાથે કૃષ્ણનો હાથ પકડી લીધો, અને તેમને ઘરે લાવ્યો, જ્યાં તેણીએ તેમને સંપૂર્ણ રીતે સ્નાન કરાવીને, વસ્ત્રો પહેરાવીને અને ખવડાવીને તેમની ફરજો નિભાવી."
+            }
+        }
+    },
+    {
+        "id": 101121,
+        "sloka": "10.11.21",
+        "verse_id": 101121,
+        "verseNumber": 21,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Śrī Śukadeva Gosvāmī continued: Then one time, having seen the great disturbances in Bṛhadvana, all the elderly persons among the cowherd men, headed by Nanda Mahārāja, assembled and began to consider what to do to stop the continuous disturbing situations in Vraja."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "श्री शुकदेव गोस्वामी ने आगे कहा: फिर एक बार, बृहदवन में बड़ी अशांति को देखकर, नंद महाराज के नेतृत्व में ग्वालों के बीच के सभी बुजुर्ग व्यक्ति इकट्ठे हुए और विचार करने लगे कि व्रज में लगातार अशांति की स्थिति को रोकने के लिए क्या किया जाए।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "શ્રી શુકદેવ ગોસ્વામીએ ચાલુ રાખ્યું: પછી એક વખત, બૃહદવનમાં ભારે વિક્ષેપ જોયા પછી, નંદ મહારાજના નેતૃત્વમાં ગોવાળિયાઓમાંના તમામ વૃદ્ધ વ્યક્તિઓ ભેગા થયા અને વ્રજમાં સતત વિક્ષેપજનક પરિસ્થિતિઓને રોકવા માટે શું કરવું તે અંગે વિચારણા કરવા લાગ્યા."
+            }
+        }
+    },
+    {
+        "id": 101122,
+        "sloka": "10.11.22",
+        "verse_id": 101122,
+        "verseNumber": 22,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "At this meeting of all the inhabitants of Gokula, a cowherd man named Upananda, who was the most mature in age and knowledge and was very experienced according to time, circumstances and country, made this suggestion for the benefit of Rāma and Kṛṣṇa."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "गोकुल के सभी निवासियों की इस बैठक में, उपनंद नाम का एक चरवाहा आदमी, जो उम्र और ज्ञान में सबसे परिपक्व था और समय, परिस्थितियों और देश के अनुसार बहुत अनुभवी था, ने राम और कृष्ण के लाभ के लिए यह सुझाव दिया।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "ગોકુળના તમામ રહેવાસીઓની આ બેઠકમાં, ઉપાનંદ નામના ગોવાળો માણસ, જેઓ વય અને જ્ઞાનમાં સૌથી વધુ પરિપક્વ હતા અને સમય, સંજોગો અને દેશ પ્રમાણે ખૂબ જ અનુભવી હતા, તેમણે રામ અને કૃષ્ણના ભલા માટે આ સૂચન કર્યું."
+            }
+        }
+    },
+    {
+        "id": 101123,
+        "sloka": "10.11.23",
+        "verse_id": 101123,
+        "verseNumber": 23,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "He said: My dear friends the cowherd men, in order to do good to this place, Gokula, we should leave it, because so many disturbances are always occurring here, just for the purpose of killing Rāma and Kṛṣṇa."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "उन्होंने कहा: मेरे प्रिय ग्वालों, इस स्थान, गोकुल का भला करने के लिए, हमें इसे छोड़ देना चाहिए, क्योंकि राम और कृष्ण को मारने के उद्देश्य से, यहां हमेशा बहुत सारी अशांति होती रहती है।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "તેણે કહ્યું: મારા વહાલા મિત્રો, ગોકુળ, આ સ્થાનનું ભલું કરવા માટે, આપણે તેને છોડી દેવી જોઈએ, કારણ કે રામ અને કૃષ્ણને મારવાના હેતુથી અહીં ઘણી બધી વિઘ્નો હંમેશા થાય છે."
+            }
+        }
+    },
+    {
+        "id": 101124,
+        "sloka": "10.11.24",
+        "verse_id": 101124,
+        "verseNumber": 24,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "The child Kṛṣṇa, simply by the mercy of the Supreme Personality of Godhead, was somehow or other rescued from the hands of the Rākṣasī Pūtanā, who was determined to kill Him. Then, again by the mercy of the Supreme Godhead, the handcart missed falling upon the child."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "भगवान की कृपा से बालक कृष्ण को किसी तरह राक्षसी पूतना के हाथों से बचाया गया, जो उन्हें मारने पर आमादा थी। फिर, परम भगवान की दया से, ठेला बच्चे पर गिरने से चूक गया।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "બાળક કૃષ્ણ, ફક્ત પરમપુરુષ ભગવાનની દયાથી, રાક્ષસી પૂતનાના હાથમાંથી કોઈક રીતે અથવા અન્ય રીતે બચાવી લેવામાં આવ્યા હતા, જેઓ તેમને મારવા માટે નક્કી હતા. પછી, ફરીથી પરમ ભગવાનની કૃપાથી, હાથગાડી બાળક પર પડવાનું ચૂકી ગઈ."
+            }
+        }
+    },
+    {
+        "id": 101125,
+        "sloka": "10.11.25",
+        "verse_id": 101125,
+        "verseNumber": 25,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Then again, the demon Tṛṇāvarta, in the form of a whirlwind, took the child away into the dangerous sky to kill Him, but the demon fell down onto a slab of stone. In that case also, by the mercy of Lord Viṣṇu or His associates, the child was saved."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "फिर, राक्षस तृणावर्त, बवंडर के रूप में, बच्चे को मारने के लिए खतरनाक आकाश में ले गया, लेकिन राक्षस पत्थर की एक स्लैब पर गिर गया। उस स्थिति में भी, भगवान विष्णु या उनके सहयोगियों की दया से, बच्चा बच गया।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "પછી ફરીથી, રાક્ષસ તૃણાવર્ત, વાવંટોળના રૂપમાં, બાળકને મારવા માટે તેને ખતરનાક આકાશમાં લઈ ગયો, પરંતુ રાક્ષસ પથ્થરના સ્લેબ પર પડ્યો. તે કિસ્સામાં પણ, ભગવાન વિષ્ણુ અથવા તેમના સહયોગીઓની દયાથી, બાળકનો બચાવ થયો હતો."
+            }
+        }
+    },
+    {
+        "id": 101126,
+        "sloka": "10.11.26",
+        "verse_id": 101126,
+        "verseNumber": 26,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Even the other day, neither Kṛṣṇa nor any of His playmates died from the falling of the two trees, although the children were near the trees or even between them. This also is to be considered the mercy of the Supreme Personality of Godhead."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "दूसरे दिन भी, दो पेड़ों के गिरने से न तो कृष्ण और न ही उनके किसी साथी की मृत्यु हुई, हालाँकि बच्चे पेड़ों के पास या उनके बीच में थे। इसे भी भगवान की कृपा ही मानना ​​चाहिए।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "બીજા દિવસે પણ, બે વૃક્ષો પડવાથી ન તો કૃષ્ણ કે તેમના કોઈ પણ રમતના સાથી મૃત્યુ પામ્યા ન હતા, જો કે બાળકો વૃક્ષોની નજીક અથવા તેમની વચ્ચે પણ હતા. આ પણ પરમપુરુષ ભગવાનની કૃપા ગણાય."
+            }
+        }
+    },
+    {
+        "id": 101127,
+        "sloka": "10.11.27",
+        "verse_id": 101127,
+        "verseNumber": 27,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "All these incidents are being caused by some unknown demon. Before he comes here to create another disturbance, it is our duty to go somewhere else with the boys until there are no more disturbances."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "ये सभी घटनाएं किसी अज्ञात राक्षस के कारण हो रही हैं। इससे पहले कि वह यहां आकर कोई और उपद्रव मचाए, हमारा कर्तव्य है कि हम लड़कों के साथ कहीं और चले जाएं, जब तक कि कोई उपद्रव न हो जाए।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "આ બધી ઘટનાઓ કોઈ અજાણ્યા રાક્ષસ દ્વારા થઈ રહી છે. તે અહીં આવે તે પહેલાં બીજી કોઈ ખલેલ ઊભી ન થાય ત્યાં સુધી છોકરાઓ સાથે બીજે ક્યાંક જવું એ અમારી ફરજ છે."
+            }
+        }
+    },
+    {
+        "id": 101128,
+        "sloka": "10.11.28",
+        "verse_id": 101128,
+        "verseNumber": 28,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Between Nandeśvara and Mahāvana is a place named Vṛndāvana. This place is very suitable because it is lush with grass, plants and creepers for the cows and other animals. It has nice gardens and tall mountains and is full of facilities for the happiness of all the gopas and gopīs and our animals."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "नंदेश्वर और महावन के बीच वृन्दावन नामक स्थान है। यह स्थान बहुत उपयुक्त है क्योंकि यह गायों और अन्य जानवरों के लिए घास, पौधों और लताओं से भरपूर है। इसमें अच्छे बगीचे और ऊंचे पहाड़ हैं और यह सभी गोप-गोपियों और हमारे जानवरों की खुशी के लिए सुविधाओं से भरपूर है।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "નંદેશ્વર અને મહાવનની વચ્ચે વૃંદાવન નામનું સ્થાન છે. આ સ્થળ ખૂબ જ યોગ્ય છે કારણ કે તે ગાય અને અન્ય પ્રાણીઓ માટે ઘાસ, છોડ અને લતાઓથી ભરપૂર છે. તેમાં સરસ બગીચાઓ અને ઊંચા પર્વતો છે અને તે તમામ ગોપાઓ અને ગોપીઓ અને આપણા પ્રાણીઓના સુખ માટે સુવિધાઓથી ભરપૂર છે."
+            }
+        }
+    },
+    {
+        "id": 101129,
+        "sloka": "10.11.29",
+        "verse_id": 101129,
+        "verseNumber": 29,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Therefore, let us immediately go today. There is no need to wait any further. If you agree to my proposal, let us prepare all the bullock carts and put the cows in front of us, and let us go there."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "अत: चलो आज तुरंत चलते हैं। अब और इंतज़ार करने की कोई ज़रूरत नहीं है. यदि आप मेरे प्रस्ताव से सहमत हैं, तो हम सभी बैलगाड़ियाँ तैयार करें और गायों को अपने सामने रखकर वहाँ चलें।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "તેથી, ચાલો આજે તરત જ જઈએ. હવે વધુ રાહ જોવાની જરૂર નથી. જો તમે મારી દરખાસ્ત સાથે સંમત થાઓ, તો ચાલો આપણે બધા બળદગાડા તૈયાર કરીએ અને ગાયોને અમારી આગળ મૂકીએ, અને અમને ત્યાં જવા દો."
+            }
+        }
+    },
+    {
+        "id": 101130,
+        "sloka": "10.11.30",
+        "verse_id": 101130,
+        "verseNumber": 30,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Upon hearing this advice from Upananda, the cowherd men unanimously agreed. “Very nice,” they said. “Very nice.” Thus they sorted out their household affairs, placed their clothing and other paraphernalia on the carts, and immediately started for Vṛndāvana."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "उपनन्द की यह सलाह सुनकर ग्वाले सर्वसम्मति से सहमत हो गये। \"बहुत बढ़िया,\" उन्होंने कहा। \"बहुत अच्छा।\" इस प्रकार उन्होंने अपने घरेलू मामले निपटाए, अपने कपड़े और अन्य सामान गाड़ियों पर रखा और तुरंत वृन्दावन के लिए चल पड़े।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "ઉપાનંદની આ સલાહ સાંભળીને ગોવાળિયાઓ સર્વસંમતિથી સંમત થયા. \"ખૂબ સરસ,\" તેઓએ કહ્યું. \"ખૂબ સરસ.\" આ રીતે તેઓએ તેમના ઘરના કામકાજને ઉકેલ્યા, તેમનાં કપડાં અને અન્ય સામાન ગાડીઓ પર મૂક્યાં, અને તરત જ વૃંદાવન માટે પ્રયાણ કર્યું."
+            }
+        }
+    },
+    {
+        "id": 101131,
+        "sloka": "10.11.31-32",
+        "verse_id": 101131,
+        "verseNumber": 31,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Keeping all the old men, women, children and household paraphernalia on the bullock carts and keeping all the cows in front, the cowherd men picked up their bows and arrows with great care and sounded bugles made of horn. O King Parīkṣit, in this way, with bugles vibrating all around, the cowherd men, accompanied by their priests, began their journey."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "सभी बूढ़ों, महिलाओं, बच्चों और घरेलू सामान को बैलगाड़ियों पर रखकर और सभी गायों को सामने रखकर, चरवाहों ने बड़ी सावधानी से अपने धनुष और तीर उठाए और सींग से बने बिगुल बजाए। हे राजा परीक्षित, इस प्रकार, चारों ओर बिगुल बजते हुए, ग्वालों ने, अपने पुजारियों के साथ, अपनी यात्रा शुरू की।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "તમામ વૃધ્ધો, સ્ત્રીઓ, બાળકો અને ઘરના સામાનને બળદગાડા પર રાખીને અને બધી ગાયોને આગળ રાખીને, ગૌપાલકોએ ખૂબ કાળજીથી તેમના ધનુષ અને તીર ઉપાડ્યા અને શિંગડાના બ્યુગલ વગાડ્યા. હે રાજા પરીક્ષિત, આ રીતે, ચારેબાજુ કંપન કરતા બગલો સાથે, ગોવાળો માણસો, તેમના પૂજારીઓ સાથે, તેમની યાત્રા શરૂ કરી."
+            }
+        }
+    },
+    {
+        "id": 101133,
+        "sloka": "10.11.33",
+        "verse_id": 101133,
+        "verseNumber": 33,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "The cowherd women, riding on the bullock carts, were dressed very nicely with excellent garments, and their bodies, especially their breasts, were decorated with fresh kuṅkuma powder. As they rode, they began to chant with great pleasure the pastimes of Kṛṣṇa."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "बैलगाड़ियों पर सवार ग्वाल-बाल महिलाएं बहुत अच्छे ढंग से उत्कृष्ट वस्त्र पहनती थीं, और उनके शरीर, विशेष रूप से उनके स्तन, ताजा कुंकुमा पाउडर से सजाए गए थे। चलते-चलते वे बड़े आनंद से कृष्ण की लीलाओं का गान करने लगे।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "બળદગાડા પર સવારી કરતી ગોવાળિયા સ્ત્રીઓ ઉત્તમ વસ્ત્રોથી ખૂબ જ સુંદર પોશાક પહેરેલી હતી, અને તેમના શરીર, ખાસ કરીને તેમના સ્તનો, તાજા કુંકુમ પાવડરથી શણગારેલા હતા. જેમ તેઓ સવારી કરતા હતા, તેઓ કૃષ્ણના વિનોદનો ખૂબ આનંદથી જપ કરવા લાગ્યા."
+            }
+        }
+    },
+    {
+        "id": 101134,
+        "sloka": "10.11.34",
+        "verse_id": 101134,
+        "verseNumber": 34,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Thus hearing about the pastimes of Kṛṣṇa and Balarāma with great pleasure, mother Yaśodā and Rohiṇīdevī, so as not to be separated from Kṛṣṇa and Balarāma for even a moment, got up with Them on one bullock cart. In this situation, they all looked very beautiful."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "इस प्रकार कृष्ण और बलराम की लीलाओं के बारे में अत्यंत प्रसन्नता से सुनकर, माता यशोदा और रोहिणीदेवी, ताकि एक क्षण के लिए भी कृष्ण और बलराम से अलग न हों, उनके साथ एक बैलगाड़ी पर चढ़ गईं। ऐसे में ये सभी बेहद खूबसूरत लग रहे थे."
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "આ રીતે કૃષ્ણ અને બલરામના મનોરંજન વિશે ખૂબ આનંદથી સાંભળીને, માતા યશોદા અને રોહિણીદેવી, જેથી એક ક્ષણ માટે પણ કૃષ્ણ અને બલરામથી અલગ ન થાય, તેઓ તેમની સાથે એક બળદગાડા પર ઉભા થયા. આ સ્થિતિમાં, તેઓ બધા ખૂબ જ સુંદર દેખાતા હતા."
+            }
+        }
+    },
+    {
+        "id": 101135,
+        "sloka": "10.11.35",
+        "verse_id": 101135,
+        "verseNumber": 35,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "In this way they entered Vṛndāvana, where it is always pleasing to live in all seasons. They made a temporary place to inhabit by placing their bullock carts around them in the shape of a half moon."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "इस प्रकार वे वृन्दावन में प्रवेश कर गये, जहाँ सभी ऋतुओं में रहना सदैव सुखदायक होता है। उन्होंने अपने चारों ओर आधे चाँद के आकार में अपनी बैलगाड़ियाँ खड़ी करके रहने के लिए एक अस्थायी स्थान बनाया।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "આ રીતે તેઓ વૃંદાવનમાં પ્રવેશ્યા, જ્યાં તમામ ઋતુઓમાં રહેવું હંમેશા આનંદદાયક છે. તેઓએ અડધા ચંદ્રના આકારમાં તેમની આજુબાજુ બળદ ગાડાઓ મૂકીને રહેવા માટે અસ્થાયી જગ્યા બનાવી."
+            }
+        }
+    },
+    {
+        "id": 101136,
+        "sloka": "10.11.36",
+        "verse_id": 101136,
+        "verseNumber": 36,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "O King Parīkṣit, when Rāma and Kṛṣṇa saw Vṛndāvana, Govardhana and the banks of the river Yamunā, They both enjoyed great pleasure."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "हे राजा परीक्षित, जब राम और कृष्ण ने वृन्दावन, गोवर्धन और यमुना नदी के तट को देखा, तो उन दोनों को बहुत खुशी हुई।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "હે રાજા પરીક્ષિત, જ્યારે રામ અને કૃષ્ણએ વૃંદાવન, ગોવર્ધન અને યમુના નદીના કિનારે જોયા, ત્યારે બંનેને ખૂબ આનંદ થયો."
+            }
+        }
+    },
+    {
+        "id": 101137,
+        "sloka": "10.11.37",
+        "verse_id": 101137,
+        "verseNumber": 37,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "In this way, Kṛṣṇa and Balarāma, acting like small boys and talking in half-broken language, gave transcendental pleasure to all the inhabitants of Vraja. In due course of time, They became old enough to take care of the calves."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "इस प्रकार, कृष्ण और बलराम ने छोटे लड़कों की तरह अभिनय किया और आधी-अधूरी भाषा में बात करते हुए, व्रज के सभी निवासियों को दिव्य आनंद दिया। समय के साथ, वे बछड़ों की देखभाल करने के लिए काफी बूढ़े हो गए।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "આ રીતે, કૃષ્ણ અને બલરામ, નાના છોકરાઓની જેમ વર્તે અને અર્ધ-તૂટેલી ભાષામાં વાત કરીને, વ્રજના તમામ રહેવાસીઓને દિવ્ય આનંદ આપ્યો. સમય જતાં, તેઓ વાછરડાઓની સંભાળ રાખવા માટે એટલા વૃદ્ધ થઈ ગયા."
+            }
+        }
+    },
+    {
+        "id": 101138,
+        "sloka": "10.11.38",
+        "verse_id": 101138,
+        "verseNumber": 38,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Not far away from Their residential quarters, both Kṛṣṇa and Balarāma, equipped with all kinds of playthings, played with other cowherd boys and began to tend the small calves."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "उनके आवासीय परिसर से कुछ ही दूरी पर, कृष्ण और बलराम दोनों, सभी प्रकार के खेल के सामान से सुसज्जित होकर, अन्य चरवाहे लड़कों के साथ खेलते थे और छोटे बछड़ों की देखभाल करने लगे।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "તેમના રહેઠાણના નિવાસસ્થાનથી વધુ દૂર, કૃષ્ણ અને બલરામ બંને, તમામ પ્રકારની રમતની વસ્તુઓથી સજ્જ, અન્ય ગોવાળિયા છોકરાઓ સાથે રમતા અને નાના વાછરડાઓને સંભાળવા લાગ્યા."
+            }
+        }
+    },
+    {
+        "id": 101139,
+        "sloka": "10.11.39-40",
+        "verse_id": 101139,
+        "verseNumber": 39,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Sometimes Kṛṣṇa and Balarāma would play on Their flutes, sometimes They would throw ropes and stones devised for getting fruits from the trees, sometimes They would throw only stones, and sometimes, Their ankle bells tinkling, They would play football with fruits like bael and āmalakī. Sometimes They would cover Themselves with blankets and imitate cows and bulls and fight with one another, roaring loudly, and sometimes They would imitate the voices of the animals. In this way They enjoyed sporting, exactly like two ordinary human children."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "कभी-कभी कृष्ण और बलराम अपनी बांसुरी बजाते थे, कभी-कभी वे पेड़ों से फल प्राप्त करने के लिए रस्सियाँ और पत्थर फेंकते थे, कभी-कभी वे केवल पत्थर फेंकते थे, और कभी-कभी, उनकी पायल की घंटियाँ बजती थीं, वे बेल और आमलकी जैसे फलों के साथ फुटबॉल खेलते थे। कभी-कभी वे अपने आप को कंबल से ढक लेते थे और गायों और बैलों की नकल करते थे और जोर से दहाड़ते हुए एक-दूसरे से लड़ते थे, और कभी-कभी वे जानवरों की आवाज़ की नकल करते थे। इस तरह उन्होंने बिल्कुल दो सामान्य मानव बच्चों की तरह खेल का आनंद लिया।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "ક્યારેક કૃષ્ણ અને બલરામ તેમની વાંસળી પર વગાડતા, ક્યારેક તેઓ ઝાડમાંથી ફળ મેળવવા માટે ઘડવામાં આવેલા દોરડા અને પથ્થરો ફેંકતા, ક્યારેક તેઓ ફક્ત પથ્થરો ફેંકતા, અને ક્યારેક, તેમના પગની ઘંટડીઓ ગડગડાટ કરતી, તેઓ બાલ અને અમલકી જેવા ફળો સાથે ફૂટબોલ રમતા. કેટલીકવાર તેઓ પોતાને ધાબળાથી ઢાંકતા અને ગાય અને બળદની નકલ કરતા અને એકબીજા સાથે લડતા, મોટેથી ગર્જના કરતા, અને કેટલીકવાર તેઓ પ્રાણીઓના અવાજોનું અનુકરણ કરતા. આ રીતે તેઓ બે સામાન્ય માનવ બાળકોની જેમ રમતગમતનો આનંદ માણતા હતા."
+            }
+        }
+    },
+    {
+        "id": 101141,
+        "sloka": "10.11.41",
+        "verse_id": 101141,
+        "verseNumber": 41,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "One day while Rāma and Kṛṣṇa, along with Their playmates, were tending the calves on the bank of the river Yamunā, another demon arrived there, desiring to kill Them."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "एक दिन जब राम और कृष्ण अपने साथियों के साथ यमुना नदी के तट पर बछड़ों की देखभाल कर रहे थे, तो एक और राक्षस उन्हें मारने की इच्छा से वहां पहुंचा।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "એક દિવસ જ્યારે રામ અને કૃષ્ણ, તેમના રમતના સાથીઓ સાથે, યમુના નદીના કિનારે વાછરડાંની સંભાળ રાખતા હતા, ત્યારે બીજો રાક્ષસ તેમને મારવા ઈચ્છતો ત્યાં આવ્યો."
+            }
+        }
+    },
+    {
+        "id": 101142,
+        "sloka": "10.11.42",
+        "verse_id": 101142,
+        "verseNumber": 42,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "When the Supreme Personality of Godhead saw that the demon had assumed the form of a calf and entered among the groups of other calves, He pointed out to Baladeva, “Here is another demon.” Then He very slowly approached the demon, as if He did not understand the demon’s intentions."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "जब भगवान के परम व्यक्तित्व ने देखा कि राक्षस ने एक बछड़े का रूप धारण कर लिया है और अन्य बछड़ों के समूह में प्रवेश कर गया है, तो उन्होंने बलदेव को बताया, \"यहाँ एक और राक्षस है।\" फिर वह बहुत धीरे से राक्षस के पास पहुंचा, जैसे कि वह राक्षस के इरादों को समझ नहीं पाया हो।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "જ્યારે પરમપુરુષ ભગવાને જોયું કે રાક્ષસ વાછરડાનું રૂપ ધારણ કરીને અન્ય વાછરડાઓના સમૂહમાં પ્રવેશી ગયો છે, ત્યારે તેમણે બલદેવને ઈશારો કર્યો, \"અહીં બીજો રાક્ષસ છે.\" પછી તે ખૂબ જ ધીરે ધીરે રાક્ષસ પાસે ગયો, જાણે કે તે રાક્ષસના ઇરાદાને સમજી શક્યો ન હોય."
+            }
+        }
+    },
+    {
+        "id": 101143,
+        "sloka": "10.11.43",
+        "verse_id": 101143,
+        "verseNumber": 43,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Thereafter, Śrī Kṛṣṇa caught the demon by the hind legs and tail, twirled the demon’s whole body very strongly until the demon was dead, and threw him into the top of a kapittha tree, which then fell down, along with the body of the demon, who had assumed a great form."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "इसके बाद, श्रीकृष्ण ने राक्षस को पिछले पैरों और पूंछ से पकड़ लिया, राक्षस के पूरे शरीर को बहुत जोर से घुमाया जब तक राक्षस मर नहीं गया, और उसे एक कपित्थ वृक्ष के शीर्ष पर फेंक दिया, जिसके बाद राक्षस के शरीर सहित नीचे गिर गया, जिसने एक विशाल रूप धारण कर लिया था।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "ત્યારપછી, શ્રી કૃષ્ણએ રાક્ષસને પાછળના પગ અને પૂંછડીથી પકડ્યો, રાક્ષસના આખા શરીરને ખૂબ જ જોરથી ઘુમાવ્યું જ્યાં સુધી તે રાક્ષસ મરી ન ગયો, અને તેને કપિતના ઝાડની ટોચ પર ફેંકી દીધો, જે પછી રાક્ષસના શરીર સાથે નીચે પડી ગયો, જેણે એક મહાન રૂપ ધારણ કર્યું હતું."
+            }
+        }
+    },
+    {
+        "id": 101144,
+        "sloka": "10.11.44",
+        "verse_id": 101144,
+        "verseNumber": 44,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Upon seeing the dead body of the demon, all the cowherd boys exclaimed, “Well done, Kṛṣṇa! Very good, very good! Thank You.” In the upper planetary system, all the demigods were pleased, and therefore they showered flowers on the Supreme Personality of Godhead."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "राक्षस के शव को देखकर, सभी चरवाहे लड़के चिल्ला उठे, \"बहुत अच्छा, कृष्ण! बहुत अच्छा, बहुत अच्छा! धन्यवाद।\" ऊपरी ग्रह मंडल में, सभी देवता प्रसन्न थे, और इसलिए उन्होंने भगवान के परम व्यक्तित्व पर फूलों की वर्षा की।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "રાક્ષસના મૃતદેહને જોઈને, બધા ગોવાળિયાઓએ બૂમ પાડી, \"શાબાશ, કૃષ્ણ! ખૂબ સારું, ખૂબ સારું! આભાર.\" ઉચ્ચ ગ્રહ મંડળમાં, બધા દેવતાઓ પ્રસન્ન થયા, અને તેથી તેઓએ ભગવાનના પરમ પુરૂષ પર પુષ્પોની વર્ષા કરી."
+            }
+        }
+    },
+    {
+        "id": 101145,
+        "sloka": "10.11.45",
+        "verse_id": 101145,
+        "verseNumber": 45,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "After the killing of the demon, Kṛṣṇa and Balarāma finished Their breakfast in the morning, and while continuing to take care of the calves, They wandered here and there. Kṛṣṇa and Balarāma, the Supreme Personalities of Godhead, who maintain the entire creation, now took charge of the calves as if cowherd boys."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "राक्षस के वध के बाद, कृष्ण और बलराम ने सुबह अपना नाश्ता समाप्त किया, और बछड़ों की देखभाल करते हुए, वे इधर-उधर घूमते रहे। कृष्ण और बलराम, भगवान के सर्वोच्च व्यक्तित्व, जो पूरी सृष्टि का पालन करते हैं, अब बछड़ों की जिम्मेदारी संभाल रहे थे मानो चरवाहे लड़के हों।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "રાક્ષસનો વધ કર્યા પછી, કૃષ્ણ અને બલરામે સવારે તેમનો નાસ્તો પૂરો કર્યો, અને વાછરડાઓની સંભાળ રાખવાનું ચાલુ રાખતા, તેઓ અહીં અને ત્યાં ભટક્યા. કૃષ્ણ અને બલરામ, ભગવાનના સર્વોપરી પુરૂષો, જેઓ સમગ્ર સૃષ્ટિની જાળવણી કરે છે, તેઓ હવે વાછરડાઓની જવાબદારી ગોવાળિયા છોકરાઓની જેમ સંભાળી રહ્યા છે."
+            }
+        }
+    },
+    {
+        "id": 101146,
+        "sloka": "10.11.46",
+        "verse_id": 101146,
+        "verseNumber": 46,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "One day all the boys, including Kṛṣṇa and Balarāma, each boy taking his own group of calves, brought the calves to a reservoir of water, desiring to allow them to drink. After the animals drank water, the boys drank water there also."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "एक दिन कृष्ण और बलराम सहित सभी लड़के, प्रत्येक लड़का अपने-अपने बछड़ों का समूह लेकर, बछड़ों को पानी पिलाने की इच्छा से एक जलाशय के पास ले आया। जानवरों के पानी पीने के बाद लड़कों ने भी वहीं पानी पिया।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "એક દિવસ કૃષ્ણ અને બલરામ સહિત તમામ છોકરાઓ, દરેક છોકરો પોતપોતાના વાછરડાઓનું જૂથ લઈને, વાછરડાઓને પાણીના ભંડાર પાસે લાવ્યા, તેમને પીવાની પરવાનગી આપવા ઈચ્છતા. જાનવરો પાણી પી ગયા પછી છોકરાઓએ પણ ત્યાં પાણી પીધું."
+            }
+        }
+    },
+    {
+        "id": 101147,
+        "sloka": "10.11.47",
+        "verse_id": 101147,
+        "verseNumber": 47,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Right by the reservoir, the boys saw a gigantic body resembling a mountain peak broken and struck down by a thunderbolt. They were afraid even to see such a huge living being."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "जलाशय के ठीक पास, लड़कों ने वज्र से टूटकर गिरा हुआ पर्वत शिखर जैसा एक विशाल पिंड देखा। वे इतने विशाल जीव को देखकर भी डर गए।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "જળાશયની જમણી બાજુએ, છોકરાઓએ એક કદાવર શરીર જોયું જે પર્વત શિખર જેવું લાગે છે અને વીજળીના કારણે તૂટી પડ્યું હતું. તેઓ આટલા વિશાળ જીવને જોઈને પણ ડરી ગયા."
+            }
+        }
+    },
+    {
+        "id": 101148,
+        "sloka": "10.11.48",
+        "verse_id": 101148,
+        "verseNumber": 48,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "That great-bodied demon was named Bakāsura. He had assumed the body of a duck with a very sharp beak. Having come there, he immediately swallowed Kṛṣṇa."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "उस विशाल शरीर वाले राक्षस का नाम बकासुर था। उसने अत्यंत तीखी चोंच वाले बत्तख का शरीर धारण कर लिया था। वहाँ आकर उसने तुरंत कृष्ण को निगल लिया।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "તે મોટા શરીરવાળા રાક્ષસનું નામ બકાસુર હતું. તેણે ખૂબ જ તીક્ષ્ણ ચાંચ વડે બતકનું શરીર ધારણ કર્યું હતું. ત્યાં આવીને, તેણે તરત જ કૃષ્ણને ગળી લીધા."
+            }
+        }
+    },
+    {
+        "id": 101149,
+        "sloka": "10.11.49",
+        "verse_id": 101149,
+        "verseNumber": 49,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "When Balarāma and the other boys saw that Kṛṣṇa had been devoured by the gigantic duck, they became almost unconscious, like senses without life."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "जब बलराम और अन्य लड़कों ने देखा कि कृष्ण को विशाल बत्तख ने निगल लिया है, तो वे लगभग बेहोश हो गए, जैसे कि बिना जीवन की इंद्रियाँ।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "જ્યારે બલરામ અને અન્ય છોકરાઓએ જોયું કે કૃષ્ણને વિશાળ બતક દ્વારા ખાઈ ગયા છે, ત્યારે તેઓ લગભગ બેભાન થઈ ગયા, જેમ કે જીવન વિનાની ઈન્દ્રિયો."
+            }
+        }
+    },
+    {
+        "id": 101150,
+        "sloka": "10.11.50",
+        "verse_id": 101150,
+        "verseNumber": 50,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Kṛṣṇa, who was the father of Lord Brahmā but who was acting as the son of a cowherd man, became like fire, burning the root of the demon’s throat, and the demon Bakāsura immediately disgorged Him. When the demon saw that Kṛṣṇa, although having been swallowed, was unharmed, he immediately attacked Kṛṣṇa again with his sharp beak."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "कृष्ण, जो भगवान ब्रह्मा के पिता थे, लेकिन एक चरवाहे के पुत्र के रूप में अभिनय कर रहे थे, आग की तरह बन गए, जिससे राक्षस के गले की जड़ जल गई, और राक्षस बकासुर ने तुरंत उन्हें शरीर से अलग कर दिया। जब राक्षस ने देखा कि निगले जाने के बावजूद कृष्ण को कोई नुकसान नहीं पहुंचा है, तो उसने तुरंत अपनी तेज चोंच से कृष्ण पर फिर से हमला किया।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "કૃષ્ણ, જે ભગવાન બ્રહ્માના પિતા હતા પણ ગોવાળિયાના પુત્ર તરીકે કામ કરી રહ્યા હતા, તે અગ્નિ જેવા બની ગયા, રાક્ષસના ગળાના મૂળને બાળી નાખ્યા, અને રાક્ષસ બકાસુરે તરત જ તેમનો ત્યાગ કર્યો. જ્યારે રાક્ષસે જોયું કે કૃષ્ણ, ગળી ગયા હોવા છતાં, તે અક્ષમ છે, તેણે તરત જ તેની તીક્ષ્ણ ચાંચ વડે કૃષ્ણ પર ફરીથી હુમલો કર્યો."
+            }
+        }
+    },
+    {
+        "id": 101151,
+        "sloka": "10.11.51",
+        "verse_id": 101151,
+        "verseNumber": 51,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "When Kṛṣṇa, the leader of the Vaiṣṇavas, saw that the demon Bakāsura, the friend of Kaṁsa, was endeavoring to attack Him, with His arms He captured the demon by the two halves of the beak, and in the presence of all the cowherd boys Kṛṣṇa very easily bifurcated him, as a child splits a blade of vīraṇa grass. By thus killing the demon, Kṛṣṇa very much pleased the denizens of heaven."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "जब वैष्णवों के नेता कृष्ण ने देखा कि राक्षस बकासुर, कंस का मित्र, उन पर हमला करने का प्रयास कर रहा था, तो उन्होंने अपनी भुजाओं से राक्षस को चोंच के दोनों हिस्सों से पकड़ लिया, और सभी चरवाहे लड़कों की उपस्थिति में कृष्ण ने बहुत आसानी से उसे दो भागों में विभाजित कर दिया, जैसे एक बच्चा एक ब्लेड को विभाजित करता है। वीराना घास. इस प्रकार राक्षस को मारकर, कृष्ण ने स्वर्ग के निवासियों को बहुत प्रसन्न किया।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "જ્યારે કૃષ્ણ, વૈષ્ણવોના નેતા, એ જોયું કે રાક્ષસ બકાસુર, કંસનો મિત્ર, તેના પર હુમલો કરવાનો પ્રયાસ કરી રહ્યો હતો, તેણે તેના હાથ વડે ચાંચના બે ભાગથી રાક્ષસને પકડ્યો, અને બધા ગોવાળિયાઓની હાજરીમાં, તેને કૃષ્ણ બાળક તરીકે સરળતાથી અર્પિત કર્યો. વિરાણ ઘાસની બ્લેડને વિભાજીત કરે છે. આ રીતે રાક્ષસનો વધ કરીને, કૃષ્ણએ સ્વર્ગવાસીઓને ખૂબ જ પ્રસન્ન કર્યા."
+            }
+        }
+    },
+    {
+        "id": 101152,
+        "sloka": "10.11.52",
+        "verse_id": 101152,
+        "verseNumber": 52,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "At that time, the celestial denizens of the higher planetary system showered mallikā-puṣpa, flowers grown in Nandana-kānana, upon Kṛṣṇa, the enemy of Bakāsura. They also congratulated Him by sounding celestial kettledrums and conchshells and by offering prayers. Seeing this, the cowherd boys were struck with wonder."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "उस समय, उच्च ग्रह मंडल के दिव्य निवासियों ने बकासुर के शत्रु कृष्ण पर मल्लिका-पुष्प, नंदन-कानन में उगाए गए फूलों की वर्षा की। उन्होंने दिव्य केतली, शंख बजाकर और प्रार्थनाएँ करके भी उन्हें बधाई दी। यह देखकर ग्वालबाल आश्चर्य चकित हो गये।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "તે સમયે, ઉચ્ચ ગ્રહમંડળના અવકાશી લોકો મલ્લિકા-પુષ્પ, નંદન-કનનમાં ઉગાડવામાં આવેલા ફૂલો, બકાસુરના શત્રુ કૃષ્ણ પર વરસાવતા હતા. તેઓએ આકાશી કેટલડ્રમ અને શંખ વગાડીને અને પ્રાર્થના કરીને પણ તેમને અભિનંદન આપ્યા. આ જોઈને ગોવાળિયા છોકરાઓ આશ્ચર્યમાં પડી ગયા."
+            }
+        }
+    },
+    {
+        "id": 101153,
+        "sloka": "10.11.53",
+        "verse_id": 101153,
+        "verseNumber": 53,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Just as the senses are pacified when consciousness and life return, so when Kṛṣṇa was freed from this danger, all the boys, including Balarāma, thought that their life had been restored. They embraced Kṛṣṇa in good consciousness, and then they collected their own calves and returned to Vrajabhūmi, where they declared the incident loudly."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "जिस प्रकार चेतना और जीवन लौटने पर इंद्रियाँ शांत हो जाती हैं, उसी प्रकार जब कृष्ण इस खतरे से मुक्त हो गए, तो बलराम सहित सभी लड़कों ने सोचा कि उनका जीवन बहाल हो गया है। उन्होंने अच्छी चेतना में कृष्ण को गले लगाया, और फिर उन्होंने अपने बछड़ों को इकट्ठा किया और व्रजभूमि लौट आए, जहां उन्होंने इस घटना की जोर-शोर से घोषणा की।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "જેમ ચેતના અને જીવન પરત આવે ત્યારે ઇન્દ્રિયો શાંત થાય છે, તેવી જ રીતે જ્યારે કૃષ્ણ આ સંકટમાંથી મુક્ત થયા, ત્યારે બલરામ સહિત તમામ છોકરાઓએ વિચાર્યું કે તેમનું જીવન પુનઃસ્થાપિત થઈ ગયું છે. તેઓ સારી ભાવનામાં કૃષ્ણને ભેટી પડ્યા, અને પછી તેઓ પોતાના વાછરડાંને એકઠા કરીને વ્રજભૂમિ પર પાછા ફર્યા, જ્યાં તેઓએ આ ઘટનાને મોટેથી જાહેર કરી."
+            }
+        }
+    },
+    {
+        "id": 101154,
+        "sloka": "10.11.54",
+        "verse_id": 101154,
+        "verseNumber": 54,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "When the cowherd men and women heard about the killing of Bakāsura in the forest, they were very much astonished. Upon seeing Kṛṣṇa and hearing the story, they received Kṛṣṇa very eagerly, thinking that Kṛṣṇa and the other boys had returned from the mouth of death. Thus they looked upon Kṛṣṇa and the boys with silent eyes, not wanting to turn their eyes aside now that the boys were safe."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "जब ग्वालों ने जंगल में बकासुर के वध की बात सुनी तो उन्हें बड़ा आश्चर्य हुआ। कृष्ण को देखकर और कहानी सुनकर, उन्होंने बहुत उत्सुकता से कृष्ण का स्वागत किया, यह सोचकर कि कृष्ण और अन्य लड़के मौत के मुँह से लौट आए हैं। इस प्रकार वे कृष्ण और बालकों को मूक दृष्टि से देखते रहे, अब चूँकि बालक सुरक्षित थे, इसलिए वे अपनी दृष्टि दूसरी ओर नहीं फेरना चाहते थे।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "જ્યારે ગોવાળ પુરુષો અને સ્ત્રીઓએ જંગલમાં બકાસુરની હત્યા વિશે સાંભળ્યું, ત્યારે તેઓ ખૂબ જ આશ્ચર્યચકિત થઈ ગયા. કૃષ્ણને જોયા અને વાર્તા સાંભળીને, તેઓએ કૃષ્ણને ખૂબ જ આતુરતાથી પ્રાપ્ત કર્યા, એમ વિચારીને કે કૃષ્ણ અને અન્ય છોકરાઓ મૃત્યુના મુખમાંથી પાછા ફર્યા છે. આ રીતે તેઓ કૃષ્ણ અને છોકરાઓ તરફ મૌન આંખોથી જોતા હતા, હવે તેઓ તેમની આંખો એક બાજુ ફેરવવા માંગતા ન હતા કારણ કે છોકરાઓ સુરક્ષિત હતા."
+            }
+        }
+    },
+    {
+        "id": 101155,
+        "sloka": "10.11.55",
+        "verse_id": 101155,
+        "verseNumber": 55,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "The cowherd men, headed by Nanda Mahārāja, began to contemplate: It is very astonishing that although this boy Kṛṣṇa has many times faced many varied causes of death, by the grace of the Supreme Personality of Godhead it was these causes of fear that were killed, instead of Him."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "नंद महाराज के नेतृत्व में चरवाहे विचार करने लगे: यह बहुत आश्चर्यजनक है कि यद्यपि इस बालक कृष्ण को कई बार मृत्यु के विभिन्न कारणों का सामना करना पड़ा है, भगवान की कृपा से उनके बजाय भय के ये कारण मारे गए थे।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "નંદ મહારાજની આગેવાની હેઠળના ગોવાળિયાઓએ ચિંતન કરવાનું શરૂ કર્યું: તે ખૂબ જ આશ્ચર્યજનક છે કે આ છોકરા કૃષ્ણએ ઘણી વખત મૃત્યુના વિવિધ કારણોનો સામનો કર્યો હોવા છતાં, પરમપુરુષ ભગવાનની કૃપાથી આ ભયના કારણો તેમના બદલે માર્યા ગયા હતા."
+            }
+        }
+    },
+    {
+        "id": 101156,
+        "sloka": "10.11.56",
+        "verse_id": 101156,
+        "verseNumber": 56,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Although the causes of death, the daityas, were very fierce, they could not kill this boy Kṛṣṇa. Rather, because they came to kill innocent boys, as soon as they approached they themselves were killed, exactly like flies attacking a fire."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "यद्यपि मृत्यु के कारण, दैत्य, बहुत भयंकर थे, वे इस बालक कृष्ण को नहीं मार सके। बल्कि, क्योंकि वे निर्दोष लड़कों को मारने आए थे, जैसे ही वे पास आए वे स्वयं मारे गए, ठीक उसी तरह जैसे मक्खियाँ आग पर हमला करती हैं।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "જો કે મૃત્યુના કારણો, દૈત્યો, ખૂબ જ ઉગ્ર હતા, તેઓ આ છોકરા કૃષ્ણને મારી શક્યા નહિ. ઊલટાનું, કારણ કે તેઓ નિર્દોષ છોકરાઓને મારવા આવ્યા હતા, જેમ જેમ તેઓ નજીક આવ્યા કે તેઓ પોતે જ માર્યા ગયા, જેમ કે માખીઓ આગ પર હુમલો કરે છે."
+            }
+        }
+    },
+    {
+        "id": 101157,
+        "sloka": "10.11.57",
+        "verse_id": 101157,
+        "verseNumber": 57,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "The words of persons in full knowledge of Brahman never become untrue. It is very wonderful that whatever Garga Muni predicted we are now actually experiencing in all detail."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "ब्रह्मज्ञान से परिपूर्ण व्यक्तियों के वचन कभी भी असत्य नहीं होते। यह बहुत आश्चर्यजनक है कि गर्ग मुनि ने जो भी भविष्यवाणी की थी, हम अब उसका पूरा विवरण अनुभव कर रहे हैं।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "બ્રહ્મનું સંપૂર્ણ જ્ઞાન ધરાવતા લોકોની વાત ક્યારેય અસત્ય બનતી નથી. તે ખૂબ જ અદ્ભુત છે કે ગર્ગ મુનિએ જે પણ ભવિષ્યવાણી કરી હતી તે આપણે હવે વાસ્તવમાં સંપૂર્ણ રીતે અનુભવી રહ્યા છીએ."
+            }
+        }
+    },
+    {
+        "id": 101158,
+        "sloka": "10.11.58",
+        "verse_id": 101158,
+        "verseNumber": 58,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "In this way all the cowherd men, headed by Nanda Mahārāja, enjoyed topics about the pastimes of Kṛṣṇa and Balarāma with great transcendental pleasure, and they could not even perceive material tribulations."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "इस प्रकार, नंद महाराज के नेतृत्व में सभी चरवाहे, कृष्ण और बलराम की लीलाओं के विषयों का अत्यधिक दिव्य आनंद के साथ आनंद लेते थे, और उन्हें भौतिक कष्टों का एहसास भी नहीं हो पाता था।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "આ રીતે નંદ મહારાજની આગેવાની હેઠળના તમામ ગોવાળો માણસો, કૃષ્ણ અને બલરામના વિનોદના વિષયોને ખૂબ જ દિવ્ય આનંદ સાથે માણતા હતા, અને તેઓ ભૌતિક વિપત્તિઓને પણ અનુભવી શકતા ન હતા."
+            }
+        }
+    },
+    {
+        "id": 101159,
+        "sloka": "10.11.59",
+        "verse_id": 101159,
+        "verseNumber": 59,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "In this way Kṛṣṇa and Balarāma passed Their childhood age in Vrajabhūmi by engaging in activities of childish play, such as playing hide-and-seek, constructing a make-believe bridge on the ocean, and jumping here and there like monkeys."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "इस प्रकार कृष्ण और बलराम ने व्रजभूमि में अपना बचपन बचपन की गतिविधियों जैसे लुका-छिपी खेलना, समुद्र पर एक काल्पनिक पुल का निर्माण करना और बंदरों की तरह इधर-उधर कूदना जैसी गतिविधियों में संलग्न होकर बिताया।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "આ રીતે કૃષ્ણ અને બલરામે તેમનું બાળપણ વ્રજભૂમિમાં બાળપણની રમતમાં વ્યસ્ત થઈને પસાર કર્યું હતું, જેમ કે સંતાકૂકડી રમતી, સમુદ્ર પર મેક-બિલીવ પુલ બાંધવો, અને વાંદરાઓની જેમ અહીં-ત્યાં કૂદવું."
+            }
+        }
+    }
+]

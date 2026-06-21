@@ -1,0 +1,669 @@
+[
+    {
+        "id": 104901,
+        "sloka": "10.49.1-2",
+        "verse_id": 104901,
+        "verseNumber": 1,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Śukadeva Gosvāmī said: Akrūra went to Hastināpura, the city distinguished by the glory of the Paurava rulers. There he saw Dhṛtarāṣṭra, Bhīṣma, Vidura and Kuntī, along with Bāhlika and his son Somadatta. He also saw Droṇācārya, Kṛpācārya, Karṇa, Duryodhana, Aśvatthāmā, the Pāṇḍavas and other close friends."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "शुकदेव गोस्वामी ने कहा: अक्रूर हस्तिनापुर गए, जो पौरव शासकों की महिमा से प्रतिष्ठित शहर था। वहां उन्होंने धृतराष्ट्र, भीष्म, विदुर और कुंती को बाह्लीक और उनके पुत्र सोमदत्त के साथ देखा। उन्होंने द्रोणाचार्य, कृपाचार्य, कर्ण, दुर्योधन, अश्वत्थामा, पांडवों और अन्य घनिष्ठ मित्रों को भी देखा।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "શુકદેવ ગોસ્વામીએ કહ્યું: અક્રૂર હસ્તિનાપુરા ગયા, જે શહેર પૌરવ શાસકોના મહિમાથી અલગ હતું. ત્યાં તેણે ધૃષ્ટ્ર, ભીષ્મ, વિદુર અને કુંતી, બાહલિકા અને તેના પુત્ર સોમદત્તને જોયા. તેણે દ્રોણાચાર્ય, કૃષ્ણાચાર્ય, કર્ણ, દુર્યોધન, અશ્વત્થામા, પાંડવો અને અન્ય નજીકના મિત્રોને પણ જોયા."
+            }
+        }
+    },
+    {
+        "id": 104903,
+        "sloka": "10.49.3",
+        "verse_id": 104903,
+        "verseNumber": 3,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "After Akrūra, the son of Gāndinī, had appropriately greeted all his relatives and friends, they asked him for news of their family members, and he in turn asked about their welfare."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "गांदिनी के पुत्र अक्रूर द्वारा अपने सभी रिश्तेदारों और दोस्तों का उचित स्वागत करने के बाद, उन्होंने उनसे अपने परिवार के सदस्यों के बारे में समाचार पूछा, और उन्होंने बदले में उनके कल्याण के बारे में पूछा।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "ગાંધીના પુત્ર અક્રુરએ તેના તમામ સંબંધીઓ અને મિત્રોને યોગ્ય રીતે અભિવાદન કર્યા પછી, તેઓએ તેને તેમના પરિવારના સભ્યોના સમાચાર પૂછ્યા, અને તેણે બદલામાં તેમના કલ્યાણ વિશે પૂછ્યું."
+            }
+        }
+    },
+    {
+        "id": 104904,
+        "sloka": "10.49.4",
+        "verse_id": 104904,
+        "verseNumber": 4,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "He remained in Hastināpura for several months to scrutinize the conduct of the weak-willed King, who had bad sons and who was inclined to give in to the whims of mischievous advisers."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "वह कमजोर इरादों वाले राजा के आचरण की जांच करने के लिए कई महीनों तक हस्तिनापुर में रहे, जिनके बेटे बुरे थे और जो शरारती सलाहकारों की सनक के आगे झुक जाते थे।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "તે ઘણા મહિનાઓ સુધી હસ્તિનાપુરામાં રહ્યો જેથી નબળા ઈચ્છા ધરાવતા રાજાના વર્તનની તપાસ કરી શકાય, જેમને ખરાબ પુત્રો હતા અને જેઓ તોફાની સલાહકારોની ધૂનને સ્વીકારવા માટે વલણ ધરાવતા હતા."
+            }
+        }
+    },
+    {
+        "id": 104905,
+        "sloka": "10.49.5-6",
+        "verse_id": 104905,
+        "verseNumber": 5,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Kuntī and Vidura described to Akrūra in detail the evil intentions of Dhṛtarāṣṭra’s sons, who could not tolerate the great qualities of Kuntī’s sons — such as their powerful influence, military skill, physical strength, bravery and humility — or the intense affection the citizens had for them. Kuntī and Vidura also told Akrūra about how the sons of Dhṛtarāṣṭra had tried to poison the Pāṇḍavas and carry out other such plots."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "कुंती और विदुर ने अक्रूर को धृतराष्ट्र के पुत्रों के बुरे इरादों के बारे में विस्तार से बताया, जो कुंती के पुत्रों के महान गुणों - जैसे उनके शक्तिशाली प्रभाव, सैन्य कौशल, शारीरिक शक्ति, बहादुरी और विनम्रता - या नागरिकों के प्रति उनके गहन स्नेह को बर्दाश्त नहीं कर सकते थे। कुंती और विदुर ने अक्रूर को यह भी बताया कि कैसे धृतराष्ट्र के पुत्रों ने पांडवों को जहर देने और ऐसी अन्य साजिशों को अंजाम देने की कोशिश की थी।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "કુંતી અને વિદુરે અક્રૂરને ધૃતરાષ્ટ્રના પુત્રોના દુષ્ટ ઇરાદાઓનું વિગતવાર વર્ણન કર્યું, જેઓ કુંતીના પુત્રોના મહાન ગુણો - જેમ કે તેમનો શક્તિશાળી પ્રભાવ, લશ્કરી કૌશલ્ય, શારીરિક શક્તિ, બહાદુરી અને નમ્રતા - અથવા નાગરિકોનો તેમના પ્રત્યેનો તીવ્ર સ્નેહ સહન ન કરી શક્યા. કુંતી અને વિદુરે અક્રૂરને પણ કહ્યું કે કેવી રીતે ધૃતરાષ્ટ્રના પુત્રોએ પાંડવોને ઝેર આપવાનો અને આવા અન્ય કાવતરાં હાથ ધરવાનો પ્રયાસ કર્યો હતો."
+            }
+        }
+    },
+    {
+        "id": 104907,
+        "sloka": "10.49.7",
+        "verse_id": 104907,
+        "verseNumber": 7,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Kuntīdevī, taking advantage of her brother Akrūra’s visit, approached him confidentially. While remembering her birthplace, she spoke with tears in her eyes."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "कुंतीदेवी, अपने भाई अक्रूर की यात्रा का लाभ उठाते हुए, गोपनीय रूप से उनके पास पहुंचीं। अपनी जन्मभूमि को याद करते हुए वह आंखों में आंसू भरकर बोलीं."
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "કુંતીદેવીએ, તેના ભાઈ અક્રૂરની મુલાકાતનો લાભ લઈને, ગુપ્ત રીતે તેમનો સંપર્ક કર્યો. તેણીના જન્મસ્થળને યાદ કરતી વખતે, તેણી આંખોમાં આંસુ સાથે બોલી."
+            }
+        }
+    },
+    {
+        "id": 104908,
+        "sloka": "10.49.8",
+        "verse_id": 104908,
+        "verseNumber": 8,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "[Queen Kuntī said:] O gentle one, do my parents, brothers, sisters, nephews, family women and girlhood friends still remember us?"
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "[रानी कुंती ने कहा:] हे सज्जन, क्या मेरे माता-पिता, भाई, बहन, भतीजे, पारिवारिक महिलाएं और लड़कपन की सहेलियां अब भी हमें याद करती हैं?"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "[રાણી કુંતીએ કહ્યું:] હે સૌમ્ય, શું મારા માતા-પિતા, ભાઈઓ, બહેનો, ભત્રીજાઓ, કુટુંબની સ્ત્રીઓ અને બાળપણના મિત્રો અમને યાદ કરે છે?"
+            }
+        }
+    },
+    {
+        "id": 104909,
+        "sloka": "10.49.9",
+        "verse_id": 104909,
+        "verseNumber": 9,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Does my nephew Kṛṣṇa, the Supreme Personality and the compassionate shelter of His devotees, still remember His aunt’s sons? And does lotus-eyed Rāma remember them also?"
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "क्या मेरे भतीजे कृष्ण, परम व्यक्तित्व और अपने भक्तों के दयालु आश्रय, अभी भी अपनी मौसी के बेटों को याद करते हैं? और क्या कमलनयन राम को भी उनका स्मरण है?"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "શું મારા ભત્રીજા કૃષ્ણ, પરમપુરુષ અને તેમના ભક્તોના દયાળુ આશ્રય, હજુ પણ તેમની કાકીના પુત્રોને યાદ કરે છે? અને શું કમળ આંખોવાળા રામ પણ તેમને યાદ કરે છે?"
+            }
+        }
+    },
+    {
+        "id": 104910,
+        "sloka": "10.49.10",
+        "verse_id": 104910,
+        "verseNumber": 10,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Now that I am suffering in the midst of my enemies like a doe in the midst of wolves, will Kṛṣṇa come to console me and my fatherless sons with His words?"
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "अब जब मैं अपने शत्रुओं के बीच भेड़ियों के बीच में हिरणी की तरह पीड़ा सह रहा हूँ, तो क्या कृष्ण मुझे और मेरे अनाथ पुत्रों को अपने शब्दों से सांत्वना देने आएंगे?"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "હવે જ્યારે હું મારા શત્રુઓની વચ્ચે વરુઓની વચ્ચોવચ ડોકની જેમ પીડાઈ રહ્યો છું, તો શું કૃષ્ણ મને અને મારા અનાથ પુત્રોને તેમના શબ્દોથી સાંત્વના આપવા આવશે?"
+            }
+        }
+    },
+    {
+        "id": 104911,
+        "sloka": "10.49.11",
+        "verse_id": 104911,
+        "verseNumber": 11,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Kṛṣṇa, Kṛṣṇa! O great yogi! O Supreme Soul and protector of the universe! O Govinda! Please protect me, who have surrendered to You. I and my sons are being overwhelmed by trouble."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "कृष्ण, कृष्ण! हे महान योगी! हे परमात्मा और ब्रह्मांड के रक्षक! हे गोविंद! कृपया मेरी रक्षा करें, जिन्होंने आपकी शरण ली है। मैं और मेरे पुत्र संकट से घिरे हुए हैं।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "કૃષ્ણ, કૃષ્ણ! હે મહાન યોગી! હે પરમાત્મા અને બ્રહ્માંડના રક્ષક! ઓ ગોવિંદા! કૃપા કરીને મારી રક્ષા કરો, જેઓ તમને શરણે આવ્યા છે. હું અને મારા પુત્રો મુશ્કેલીથી ડૂબી રહ્યા છીએ."
+            }
+        }
+    },
+    {
+        "id": 104912,
+        "sloka": "10.49.12",
+        "verse_id": 104912,
+        "verseNumber": 12,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "For persons fearful of death and rebirth, I see no shelter other than Your liberating lotus feet, for You are the Supreme Lord."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "मृत्यु और पुनर्जन्म से भयभीत व्यक्तियों के लिए, मैं आपके मुक्तिदायक कमल चरणों के अलावा कोई आश्रय नहीं देखता, क्योंकि आप सर्वोच्च भगवान हैं।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "મૃત્યુ અને પુનર્જન્મથી ભયભીત લોકો માટે, હું તમારા મુક્ત કમળના ચરણ સિવાય કોઈ આશ્રય જોતો નથી, કારણ કે તમે પરમ ભગવાન છો."
+            }
+        }
+    },
+    {
+        "id": 104913,
+        "sloka": "10.49.13",
+        "verse_id": 104913,
+        "verseNumber": 13,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "I offer my obeisances unto You, Kṛṣṇa, the supreme pure, the Absolute Truth and the Supersoul, the Lord of pure devotional service and the source of all knowledge. I have come to You for shelter."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "मैं आपको, परम शुद्ध, पूर्ण सत्य और परमात्मा, शुद्ध भक्ति के भगवान और सभी ज्ञान के स्रोत कृष्ण को नमस्कार करता हूं। मैं आपकी शरण में आया हूँ।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "કૃષ્ણ, પરમ શુદ્ધ, પરમ સત્ય અને પરમાત્મા, શુદ્ધ ભક્તિમય સેવાના ભગવાન અને સર્વ જ્ઞાનના સ્ત્રોત, હું તમને મારા પ્રણામ અર્પણ કરું છું. હું તમારી પાસે આશ્રય માટે આવ્યો છું."
+            }
+        }
+    },
+    {
+        "id": 104914,
+        "sloka": "10.49.14",
+        "verse_id": 104914,
+        "verseNumber": 14,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Śukadeva Gosvāmī said: Thus meditating on her family members and also on Kṛṣṇa, the Lord of the universe, your great-grandmother Kuntīdevī began to cry out in grief, O King."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "शुकदेव गोस्वामी ने कहा: इस प्रकार अपने परिवार के सदस्यों और ब्रह्मांड के भगवान कृष्ण का ध्यान करते हुए, आपकी परदादी कुंतीदेवी दुःख से रोने लगीं, हे राजन।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "શુકદેવ ગોસ્વામીએ કહ્યું: આ રીતે તેમના પરિવારના સભ્યોનું અને બ્રહ્માંડના ભગવાન કૃષ્ણનું પણ ધ્યાન કરતાં, તમારી પરદાદી કુંતીદેવી, હે રાજા, શોકમાં પોકારવા લાગી."
+            }
+        }
+    },
+    {
+        "id": 104915,
+        "sloka": "10.49.15",
+        "verse_id": 104915,
+        "verseNumber": 15,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Both Akrūra, who shared Queen Kuntī’s distress and happiness, and the illustrious Vidura consoled the Queen by reminding her of the extraordinary way her sons had taken birth."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "अक्रूर, जिन्होंने रानी कुंती के संकट और खुशी को साझा किया था, और प्रसिद्ध विदुर दोनों ने रानी को उनके पुत्रों के असाधारण तरीके से जन्म लेने की याद दिलाकर सांत्वना दी।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "બંને અક્રૂર, જેમણે રાણી કુંતીની તકલીફ અને ખુશીઓ વહેંચી હતી, અને પ્રસિદ્ધ વિદુરે રાણીને તેમના પુત્રોના જન્મની અસાધારણ રીતની યાદ અપાવીને સાંત્વના આપી હતી."
+            }
+        }
+    },
+    {
+        "id": 104916,
+        "sloka": "10.49.16",
+        "verse_id": 104916,
+        "verseNumber": 16,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "The ardent affection King Dhṛtarāṣṭra felt for his sons had made him act unjustly toward the Pāṇḍavas. Just before leaving, Akrūra approached the King, who was seated among his friends and supporters, and related to him the message that his relatives — Lord Kṛṣṇa and Lord Balarāma — had sent out of friendship."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "राजा धृतराष्ट्र को अपने पुत्रों के प्रति जो प्रबल स्नेह था, उसने उन्हें पांडवों के प्रति अन्यायपूर्ण कार्य करने के लिए प्रेरित किया। जाने से ठीक पहले, अक्रूर राजा के पास पहुंचे, जो अपने दोस्तों और समर्थकों के बीच बैठे थे, और उन्हें वह संदेश सुनाया जो उनके रिश्तेदारों - भगवान कृष्ण और भगवान बलराम - ने मित्रता के कारण भेजा था।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "રાજા ધૃતરાષ્ટ્રને તેમના પુત્રો પ્રત્યેના પ્રખર સ્નેહને કારણે તેમણે પાંડવો પ્રત્યે અન્યાય કર્યો હતો. જતા પહેલા, અક્રૂર રાજાનો સંપર્ક કર્યો, જેઓ તેમના મિત્રો અને સમર્થકોમાં બેઠેલા હતા, અને તેમના સંબંધીઓ - ભગવાન કૃષ્ણ અને ભગવાન બલરામ -એ મિત્રતામાંથી મોકલ્યો હતો તે સંદેશ તેમને સંભળાવ્યો."
+            }
+        }
+    },
+    {
+        "id": 104917,
+        "sloka": "10.49.17",
+        "verse_id": 104917,
+        "verseNumber": 17,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Akrūra said: O my dear son of Vicitravīrya, O enhancer of the Kurus’ glory, your brother Pāṇḍu having passed away, you have now assumed the royal throne."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "अक्रूर ने कहा: हे विचित्रवीर्य के मेरे प्रिय पुत्र, हे कौरवों की महिमा बढ़ाने वाले, तुम्हारे भाई पांडु का निधन हो गया है, अब तुमने राज सिंहासन संभाल लिया है।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "અક્રૂર બોલ્યા: હે વિચિત્રવીર્યના મારા પ્રિય પુત્ર, હે કુરુઓની કીર્તિ વધારનાર, તમારો ભાઈ પાંડુ ગુજરી ગયો છે, તમે હવે રાજગાદી પર બેઠા છો."
+            }
+        }
+    },
+    {
+        "id": 104918,
+        "sloka": "10.49.18",
+        "verse_id": 104918,
+        "verseNumber": 18,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "By religiously protecting the earth, delighting your subjects with your noble character, and treating all your relatives equally, you will surely achieve success and glory."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "धर्मपूर्वक पृथ्वी की रक्षा करके, अपने श्रेष्ठ चरित्र से अपनी प्रजा को प्रसन्न करके और अपने सभी रिश्तेदारों के साथ समान व्यवहार करके, आप निश्चित रूप से सफलता और गौरव प्राप्त करेंगे।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "ધાર્મિક રીતે પૃથ્વીનું રક્ષણ કરીને, તમારા ઉમદા ચારિત્ર્યથી તમારી પ્રજાને આનંદિત કરીને અને તમારા બધા સંબંધીઓ સાથે સમાન રીતે વર્તે તો તમે ચોક્કસ સફળતા અને કીર્તિ પ્રાપ્ત કરશો."
+            }
+        }
+    },
+    {
+        "id": 104919,
+        "sloka": "10.49.19",
+        "verse_id": 104919,
+        "verseNumber": 19,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "If you act otherwise, however, people will condemn you in this world, and in the next life you will enter the darkness of hell. Remain equally disposed, therefore, toward Pāṇḍu’s sons and your own."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "हालाँकि, यदि आप अन्यथा कार्य करते हैं, तो लोग इस दुनिया में आपकी निंदा करेंगे, और अगले जीवन में आप नरक के अंधेरे में प्रवेश करेंगे। अत: पाण्डु पुत्रों तथा अपने पुत्रों के प्रति समान भाव रखो।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "જો તમે અન્યથા કાર્ય કરશો, તેમ છતાં, લોકો તમને આ દુનિયામાં નિંદા કરશે, અને પછીના જીવનમાં તમે નરકના અંધકારમાં પ્રવેશ કરશો. તેથી, પાંડુના પુત્રો અને તમારા પોતાના પ્રત્યે સમાન સ્વભાવ રાખો."
+            }
+        }
+    },
+    {
+        "id": 104920,
+        "sloka": "10.49.20",
+        "verse_id": 104920,
+        "verseNumber": 20,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "In this world no one has any permanent relationship with anyone else, O King. We cannot stay forever even with our own body, what to speak of our wife, children and the rest."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "हे राजन, इस संसार में किसी का किसी दूसरे के साथ कोई स्थायी संबंध नहीं है। हम अपने शरीर के साथ भी हमेशा के लिए नहीं रह सकते, अपनी पत्नी, बच्चों और बाकी लोगों के बारे में तो बात ही क्या करें।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "હે રાજા, આ જગતમાં કોઈની સાથે કોઈનો કાયમી સંબંધ નથી. આપણે આપણા પોતાના શરીર સાથે પણ કાયમ રહી શકતા નથી, આપણી પત્ની, બાળકો અને બાકીની વાત તો શું કરીએ."
+            }
+        }
+    },
+    {
+        "id": 104921,
+        "sloka": "10.49.21",
+        "verse_id": 104921,
+        "verseNumber": 21,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Every creature is born alone and dies alone, and alone one experiences the just rewards of his good and evil deeds."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "प्रत्येक प्राणी अकेले ही जन्म लेता है और अकेले ही मर जाता है, और अकेले ही व्यक्ति अपने अच्छे और बुरे कर्मों का उचित फल भोगता है।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "દરેક પ્રાણી એકલા જન્મે છે અને એકલા મૃત્યુ પામે છે, અને એકલા જ તેના સારા અને ખરાબ કાર્યોના ન્યાયી વળતરનો અનુભવ કરે છે."
+            }
+        }
+    },
+    {
+        "id": 104922,
+        "sloka": "10.49.22",
+        "verse_id": 104922,
+        "verseNumber": 22,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "In the guise of dear dependents, strangers steal the sinfully acquired wealth of a foolish man, just as the offspring of a fish drink up the water that sustains the fish."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "प्रिय आश्रितों की आड़ में, अजनबी लोग मूर्ख व्यक्ति के पाप से अर्जित धन को चुरा लेते हैं, जैसे मछली की संतान उस पानी को पी जाती है जो मछली को जीवित रखता है।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "પ્રિય આશ્રિતોના વેશમાં, અજાણ્યાઓ મૂર્ખ માણસની પાપથી ઉપાર્જિત સંપત્તિની ચોરી કરે છે, જેમ માછલીનું સંતાન માછલીને ટકાવી રાખતું પાણી પીવે છે."
+            }
+        }
+    },
+    {
+        "id": 104923,
+        "sloka": "10.49.23",
+        "verse_id": 104923,
+        "verseNumber": 23,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "A fool indulges in sin to maintain his life, wealth and children and other relatives, for he thinks, “These things are mine.” In the end, however, these very things all abandon him, leaving him frustrated."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "मूर्ख अपने जीवन, धन, बच्चों और अन्य रिश्तेदारों को बनाए रखने के लिए पाप में लिप्त होता है, क्योंकि वह सोचता है, \"ये चीजें मेरी हैं।\" हालाँकि, अंत में, ये सभी चीज़ें उसका साथ छोड़ देती हैं, जिससे वह निराश हो जाता है।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "મૂર્ખ પોતાના જીવન, સંપત્તિ અને બાળકો અને અન્ય સંબંધીઓને જાળવવા માટે પાપ કરે છે, કારણ કે તે વિચારે છે, \"આ વસ્તુઓ મારી છે.\" જો કે, અંતે, આ બધી વસ્તુઓ તેને છોડી દે છે, તેને નિરાશ કરે છે."
+            }
+        }
+    },
+    {
+        "id": 104924,
+        "sloka": "10.49.24",
+        "verse_id": 104924,
+        "verseNumber": 24,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Abandoned by his so-called dependents, ignorant of the actual goal of life, indifferent to his real duty, and having failed to fulfill his purposes, the foolish soul enters the blindness of hell, taking his sinful reactions with him."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "अपने तथाकथित आश्रितों द्वारा त्याग दिया गया, जीवन के वास्तविक लक्ष्य से अनभिज्ञ, अपने वास्तविक कर्तव्य के प्रति उदासीन, और अपने उद्देश्यों को पूरा करने में असफल होने पर, मूर्ख आत्मा अपने पापी प्रतिक्रियाओं को अपने साथ लेकर नरक के अंधेपन में प्रवेश करती है।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "તેના કહેવાતા આશ્રિતો દ્વારા ત્યજી દેવાયેલ, જીવનના વાસ્તવિક ધ્યેયથી અજાણ, તેની વાસ્તવિક ફરજ પ્રત્યે ઉદાસીન અને તેના હેતુઓને પૂર્ણ કરવામાં નિષ્ફળ ગયેલા, મૂર્ખ આત્મા તેની પાપી પ્રતિક્રિયાઓ સાથે નરકના અંધત્વમાં પ્રવેશ કરે છે."
+            }
+        }
+    },
+    {
+        "id": 104925,
+        "sloka": "10.49.25",
+        "verse_id": 104925,
+        "verseNumber": 25,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Therefore, O King, looking upon this world as a dream, a magician’s illusion or a flight of fancy, please control your mind with intelligence and become equipoised and peaceful, my lord."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "इसलिए, हे राजा, इस संसार को स्वप्न, जादूगर की माया या कल्पना की उड़ान के रूप में देखते हुए, कृपया अपने मन को बुद्धि से नियंत्रित करें और शांत और शांत हो जाएं, हे प्रभु।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "તેથી, હે રાજા, આ જગતને સ્વપ્ન, જાદુગરનો ભ્રમ અથવા કલ્પનાની ઉડાન તરીકે જોઈને, કૃપા કરીને તમારા મનને બુદ્ધિથી નિયંત્રિત કરો અને સજ્જ અને શાંતિપૂર્ણ બનો."
+            }
+        }
+    },
+    {
+        "id": 104926,
+        "sloka": "10.49.26",
+        "verse_id": 104926,
+        "verseNumber": 26,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Dhṛtarāṣṭra said: O master of charity, I can never be satiated while hearing your auspicious words. Indeed, I am like a mortal who has obtained the nectar of the gods."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "धृतराष्ट्र ने कहा: हे दानवीर, आपके शुभ वचन सुनकर मैं कभी तृप्त नहीं हो सकता। सचमुच, मैं उस मनुष्य के समान हूँ जिसने देवताओं का अमृत प्राप्त कर लिया है।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "ધૃતરાષ્ટ્ર બોલ્યા: હે દાનના ગુરુ, તમારા શુભ વચનો સાંભળીને હું ક્યારેય તૃપ્ત થઈ શકતો નથી. ખરેખર, હું દેવતાઓનું અમૃત પ્રાપ્ત કરનાર નશ્વર જેવો છું."
+            }
+        }
+    },
+    {
+        "id": 104927,
+        "sloka": "10.49.27",
+        "verse_id": 104927,
+        "verseNumber": 27,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Even so, gentle Akrūra, because my unsteady heart is prejudiced by affection for my sons, these pleasing words of yours cannot remain fixed there, just as lightning cannot remain fixed in a cloud."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "फिर भी, सज्जन अक्रूर, क्योंकि मेरा अस्थिर हृदय अपने पुत्रों के प्रति स्नेह से ग्रस्त है, इसलिए आपके ये सुखदायक शब्द वहां स्थिर नहीं रह सकते, जैसे बिजली बादल में स्थिर नहीं रह सकती।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "તેમ છતાં, સૌમ્ય અક્રુરા, કારણ કે મારું અસ્થિર હૃદય મારા પુત્રો માટેના સ્નેહથી પૂર્વગ્રહયુક્ત છે, તમારા આ આનંદદાયક શબ્દો ત્યાં સ્થિર નથી રહી શકતા, જેમ વીજળી વાદળમાં સ્થિર રહી શકતી નથી."
+            }
+        }
+    },
+    {
+        "id": 104928,
+        "sloka": "10.49.28",
+        "verse_id": 104928,
+        "verseNumber": 28,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Who can defy the injunctions of the Supreme Lord, who has now descended in the Yadu dynasty to diminish the earth’s burden?"
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "कौन सर्वोच्च भगवान के आदेशों की अवहेलना कर सकता है, जो अब पृथ्वी के बोझ को कम करने के लिए यदु वंश में अवतरित हुए हैं?"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "પૃથ્વીનો ભાર ઓછો કરવા માટે હવે યદુ વંશમાં ઉતરેલા પરમ ભગવાનના આદેશનો કોણ અવગણના કરી શકે?"
+            }
+        }
+    },
+    {
+        "id": 104929,
+        "sloka": "10.49.29",
+        "verse_id": 104929,
+        "verseNumber": 29,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "I offer my obeisances to Him, the Supreme Personality of Godhead, who creates this universe by the inconceivable activity of His material energy and then distributes the various modes of nature by entering within the creation. From Him, the meaning of whose pastimes is unfathomable, come both the entangling cycle of birth and death and the process of deliverance from it."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "मैं उन्हें, भगवान के परम व्यक्तित्व को नमस्कार करता हूं, जो अपनी भौतिक ऊर्जा की अकल्पनीय गतिविधि से इस ब्रह्मांड का निर्माण करते हैं और फिर सृष्टि के भीतर प्रवेश करके प्रकृति के विभिन्न गुणों को वितरित करते हैं। उनसे, जिनकी लीलाओं का अर्थ अथाह है, जन्म और मृत्यु का उलझता हुआ चक्र और उससे मुक्ति की प्रक्रिया दोनों आती हैं।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "તેમની ભૌતિક શક્તિની અકલ્પ્ય પ્રવૃત્તિ દ્વારા આ સૃષ્ટિનું સર્જન કરનારા અને પછી સૃષ્ટિમાં પ્રવેશ કરીને પ્રકૃતિના વિવિધ પ્રકારોનું વિતરણ કરનારા પરમપુરુષ ભગવાનને હું મારા પ્રણામ કરું છું. તેમની પાસેથી, જેમના મનોરંજનનો અર્થ અગમ્ય છે, જન્મ અને મૃત્યુના ગૂંચવાયેલા ચક્ર અને તેમાંથી મુક્તિની પ્રક્રિયા બંને આવે છે."
+            }
+        }
+    },
+    {
+        "id": 104930,
+        "sloka": "10.49.30",
+        "verse_id": 104930,
+        "verseNumber": 30,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Śukadeva Gosvāmī said: Having thus apprised himself of the King’s attitude, Akrūra, the descendant of Yadu, took permission from his well-wishing relatives and friends and returned to the capital of the Yādavas."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "शुकदेव गोस्वामी ने कहा: इस प्रकार राजा के रवैये से अवगत होने के बाद, यदु के वंशज अक्रूर ने अपने शुभचिंतक रिश्तेदारों और दोस्तों से अनुमति ली और यादवों की राजधानी लौट आए।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "શુકદેવ ગોસ્વામીએ કહ્યું: આ રીતે પોતાને રાજાના વલણથી વાકેફ કર્યા પછી, યદુના વંશજ અક્રુરએ તેના શુભેચ્છક સંબંધીઓ અને મિત્રોની પરવાનગી લીધી અને યાદવોની રાજધાની પરત ફર્યા."
+            }
+        }
+    },
+    {
+        "id": 104931,
+        "sloka": "10.49.31",
+        "verse_id": 104931,
+        "verseNumber": 31,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Akrūra reported to Lord Balarāma and Lord Kṛṣṇa how Dhṛtarāṣṭra was behaving toward the Pāṇḍavas. Thus, O descendant of the Kurus, he fulfilled the purpose for which he had been sent."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "अक्रूर ने भगवान बलराम और भगवान कृष्ण को बताया कि धृतराष्ट्र पांडवों के प्रति कैसा व्यवहार कर रहे थे। इस प्रकार, हे कौरवों के वंशज, उसने वह उद्देश्य पूरा किया जिसके लिए उसे भेजा गया था।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "અક્રુરે ભગવાન બલરામ અને ભગવાન કૃષ્ણને જાણ કરી કે ધૃતરાષ્ટ્ર પાંડવો સાથે કેવી રીતે વર્તે છે. આમ, હે કુરુઓના વંશજ, તેણે તે હેતુ પૂરો કર્યો જે માટે તેને મોકલવામાં આવ્યો હતો."
+            }
+        }
+    }
+]

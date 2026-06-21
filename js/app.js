@@ -1,6 +1,7 @@
 // Global variables
 let chapters = [];
 let verses = [];
+let timelineData = null;
 let translations = {}; // {chapterNumber: [translations]}
 let currentChapter = null;
 let currentVerse = null;
@@ -22,6 +23,8 @@ const backBtn = document.getElementById('back-btn');
 const mainFloatingBtn = document.getElementById('main-floating-btn');
 const floatingMenu = document.getElementById('floating-menu');
 const bookmarkBtn = document.getElementById('header-bookmark-btn');
+const timelineBtn = document.getElementById('header-timeline-btn');
+const timelineScreen = document.getElementById('timeline-screen');
 const headerTitle = document.getElementById('header-title');
 
 // Initialize app
@@ -30,6 +33,11 @@ async function init() {
         // Load data from assets folder
         chapters = await fetch('./assets/chapters.json').then(r => r.json());
         verses = await fetch('./assets/verse.json').then(r => r.json());
+        try {
+            timelineData = await fetch('./assets/timeline.json').then(r => r.json());
+        } catch (e) {
+            console.warn('Timeline data not available:', e);
+        }
 
         // Initialize translations cache
         translations = {};
@@ -56,6 +64,7 @@ async function init() {
         // Setup navigation
         setupNavigation();
         setupSwipeGestures();
+        setupTimelineButton();
     } catch (error) {
         console.error('Error loading data:', error);
         document.getElementById('main-content').innerHTML = '<div class="glass-card" style="text-align:center; padding:30px;"><p>Error loading scriptures data. Please refresh or try again.</p></div>';
@@ -431,9 +440,88 @@ function goToPreviousScreen() {
         }
     } else if (currentActiveScreen === versesScreen) {
         switchScreen(chaptersScreen);
-    } else if (currentActiveScreen === settingsScreen || currentActiveScreen === bookmarksScreen) {
+    } else if (currentActiveScreen === settingsScreen || currentActiveScreen === bookmarksScreen || currentActiveScreen === timelineScreen) {
         switchScreen(chaptersScreen);
     }
+}
+
+// Timeline (Krishna Lifetime) screen
+function setupTimelineButton() {
+    if (!timelineBtn) return;
+    timelineBtn.addEventListener('click', () => {
+        renderTimeline();
+        switchScreen(timelineScreen);
+    });
+}
+
+function renderTimeline() {
+    const container = document.getElementById('timeline-content');
+    if (!container) return;
+    if (!timelineData || !timelineData.phases || !timelineData.nodes) {
+        container.innerHTML = '<div class="glass-card" style="text-align:center; padding:30px;"><p>Timeline data unavailable.</p></div>';
+        return;
+    }
+
+    // Skip re-render if already populated
+    if (container.dataset.rendered === 'true') return;
+
+    const chapterMap = new Map(chapters.map(c => [c.chapter_number, c]));
+    const nodesByPhase = new Map();
+    timelineData.nodes.forEach(n => {
+        if (!nodesByPhase.has(n.phase)) nodesByPhase.set(n.phase, []);
+        nodesByPhase.get(n.phase).push(n);
+    });
+
+    const html = timelineData.phases.map(phase => {
+        const nodes = (nodesByPhase.get(phase.id) || []).sort((a, b) => a.chapter - b.chapter);
+        const nodeHtml = nodes.map((node, idx) => {
+            const ch = chapterMap.get(node.chapter);
+            const title = ch ? ch.name_translation : `Chapter ${node.chapter}`;
+            const meaning = ch ? ch.name_meaning : '';
+            const sanskrit = ch ? ch.name : '';
+            const side = idx % 2 === 0 ? 'left' : 'right';
+            return `
+                <div class="tl-node tl-node-${side}" data-chapter="${node.chapter}">
+                    <div class="tl-dot" style="background:${phase.tint};"></div>
+                    <div class="tl-card glass-card" style="border-left-color:${phase.tint};">
+                        <div class="tl-card-head">
+                            <span class="tl-chapter-pill" style="background:${phase.tint};">Ch ${node.chapter}</span>
+                            <span class="tl-title">${title}</span>
+                        </div>
+                        ${sanskrit ? `<div class="tl-sanskrit">${sanskrit} <span class="tl-meaning">(${meaning})</span></div>` : ''}
+                        <p class="tl-hook">${node.hook}</p>
+                    </div>
+                </div>
+            `;
+        }).join('');
+
+        return `
+            <section class="tl-phase" data-phase="${phase.id}">
+                <div class="tl-phase-header" style="--phase-tint:${phase.tint};">
+                    <span class="tl-phase-icon">${phase.icon}</span>
+                    <div class="tl-phase-text">
+                        <h3>${phase.title}</h3>
+                        <span class="tl-phase-range">Chapters ${phase.range[0]}–${phase.range[1]}</span>
+                    </div>
+                </div>
+                <div class="tl-nodes" style="--phase-tint:${phase.tint};">
+                    <div class="tl-spine" style="background:${phase.tint};"></div>
+                    ${nodeHtml}
+                </div>
+            </section>
+        `;
+    }).join('');
+
+    container.innerHTML = html;
+    container.dataset.rendered = 'true';
+
+    container.querySelectorAll('.tl-node').forEach(el => {
+        el.addEventListener('click', () => {
+            const chNum = parseInt(el.getAttribute('data-chapter'), 10);
+            const chapter = chapters.find(c => c.chapter_number === chNum);
+            if (chapter) showChapter(chapter);
+        });
+    });
 }
 
 function handleTouchStart(e) {
@@ -507,7 +595,7 @@ function switchScreen(screen) {
     screen.classList.add('active');
 
     // Add CSS classes for active state styling
-    document.body.classList.remove('canto-active', 'verse-detail-active', 'chapters-active', 'verses-active', 'settings-active', 'bookmarks-active');
+    document.body.classList.remove('canto-active', 'verse-detail-active', 'chapters-active', 'verses-active', 'settings-active', 'bookmarks-active', 'timeline-active');
     
     if (screen === chaptersScreen) {
         document.body.classList.add('chapters-active');
@@ -534,6 +622,16 @@ function switchScreen(screen) {
         document.getElementById('verse-navigation').style.display = 'none';
         document.getElementById('floating-settings-btn').style.display = 'none';
         if (headerTitle) headerTitle.textContent = 'Bookmarks';
+    } else if (screen === timelineScreen) {
+        document.body.classList.add('timeline-active');
+        document.getElementById('verse-navigation').style.display = 'none';
+        document.getElementById('floating-settings-btn').style.display = 'none';
+        if (headerTitle) headerTitle.textContent = "Krishna's Lifetime";
+    }
+
+    // Show timeline button only on home screen
+    if (timelineBtn) {
+        timelineBtn.style.display = (screen === chaptersScreen) ? 'flex' : 'none';
     }
 
     // Hide back button only on home screen

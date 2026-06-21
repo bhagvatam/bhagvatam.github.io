@@ -1,0 +1,853 @@
+[
+    {
+        "id": 103801,
+        "sloka": "10.38.1",
+        "verse_id": 103801,
+        "verseNumber": 1,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Śukadeva Gosvāmī said: After passing the night in the city of Mathurā, the high-minded Akrūra mounted his chariot and set off for the cowherd village of Nanda Mahārāja."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "शुकदेव गोस्वामी ने कहा: मथुरा शहर में रात गुजारने के बाद, उच्च विचारों वाले अक्रूर अपने रथ पर सवार हुए और नंद महाराज के चरवाहे गांव के लिए रवाना हुए।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "શુકદેવ ગોસ્વામીએ કહ્યું: મથુરા શહેરમાં રાત પસાર કર્યા પછી, ઉચ્ચ મનવાળા અક્રૂર પોતાના રથ પર બેસીને નંદ મહારાજના ગોવાળ ગામ તરફ પ્રયાણ કર્યું."
+            }
+        }
+    },
+    {
+        "id": 103802,
+        "sloka": "10.38.2",
+        "verse_id": 103802,
+        "verseNumber": 2,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "As he traveled on the road, the great soul Akrūra felt tremendous devotion for the lotus-eyed Personality of Godhead, and thus he began to consider as follows."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "जैसे ही वह सड़क पर यात्रा कर रहे थे, महान आत्मा अक्रूर को कमल-नेत्र भगवान के प्रति जबरदस्त भक्ति महसूस हुई, और इस प्रकार उन्होंने निम्नलिखित पर विचार करना शुरू कर दिया।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "જ્યારે તે રસ્તા પર મુસાફરી કરી રહ્યો હતો, ત્યારે મહાન આત્મા અક્રૂરને ભગવાનના કમળ-આંખવાળા વ્યક્તિત્વ માટે જબરદસ્ત ભક્તિની અનુભૂતિ થઈ, અને આ રીતે તેણે નીચે મુજબ વિચારવાનું શરૂ કર્યું."
+            }
+        }
+    },
+    {
+        "id": 103803,
+        "sloka": "10.38.3",
+        "verse_id": 103803,
+        "verseNumber": 3,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "[Śrī Akrūra thought:] What pious deeds have I done, what severe austerities undergone, what worship performed or charity given so that today I will see Lord Keśava?"
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "[श्री अक्रूर ने सोचा:] मैंने कौन से पुण्य कर्म किए, कौन सी कठोर तपस्या की, कौन सी पूजा की या दान दिया कि आज मुझे भगवान केशव के दर्शन होंगे?"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "[શ્રી અક્રુરાએ વિચાર્યું:] મેં કયા પુણ્યકર્મો કર્યા છે, કઇ કઠોર તપસ્યા કરી છે, કઇ પૂજા કરી છે કે દાન આપ્યું છે જેથી આજે હું ભગવાન કેશવના દર્શન કરીશ?"
+            }
+        }
+    },
+    {
+        "id": 103804,
+        "sloka": "10.38.4",
+        "verse_id": 103804,
+        "verseNumber": 4,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Since I am a materialistic person absorbed simply in sense gratification, I think it is as difficult for me to have gotten this opportunity to see Lord Uttamaḥśloka as it would be for one born a śūdra to be allowed to recite the Vedic mantras."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "चूँकि मैं एक भौतिकवादी व्यक्ति हूँ जो केवल इन्द्रियतृप्ति में लीन रहता है, मुझे लगता है कि मेरे लिए भगवान उत्तमश्लोक के दर्शन करने का अवसर प्राप्त करना उतना ही कठिन है जितना शूद्र के रूप में जन्मे किसी व्यक्ति को वैदिक मंत्रों का पाठ करने की अनुमति देना।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "હું માત્ર ઇન્દ્રિય તૃપ્તિમાં સમાઈ ગયેલો ભૌતિકવાદી વ્યક્તિ હોવાથી, મને લાગે છે કે ભગવાન ઉત્તમલોકને જોવાની આ તક મેળવવી મારા માટે એટલી જ મુશ્કેલ છે જેટલી શૂદ્રમાં જન્મેલા વ્યક્તિને વૈદિક મંત્રોના પાઠ કરવાની છૂટ આપવામાં આવે."
+            }
+        }
+    },
+    {
+        "id": 103805,
+        "sloka": "10.38.5",
+        "verse_id": 103805,
+        "verseNumber": 5,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "But enough of such thoughts! After all, even a fallen soul like me can have the chance to behold the infallible Supreme Lord, for one of the conditioned souls being swept along in the river of time may sometimes reach the shore."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "लेकिन ऐसे विचार बहुत हो गए! आख़िरकार, मेरे जैसी गिरी हुई आत्मा को भी अचूक सर्वोच्च भगवान को देखने का मौका मिल सकता है, क्योंकि समय की नदी में बहने वाली बद्ध आत्माओं में से एक कभी-कभी किनारे तक पहुँच सकती है।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "પરંતુ આવા વિચારો પૂરતા છે! છેવટે, મારા જેવા પતન પામેલા આત્માને પણ અચૂક પરમ ભગવાનને જોવાનો મોકો મળી શકે છે, કારણ કે સમયની નદીમાં તણાઈ ગયેલો કોઈ એક આત્મા ક્યારેક કિનારે પહોંચી શકે છે."
+            }
+        }
+    },
+    {
+        "id": 103806,
+        "sloka": "10.38.6",
+        "verse_id": 103806,
+        "verseNumber": 6,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Today all my sinful reactions have been eradicated and my birth has become worthwhile, since I will offer my obeisances to the Supreme Lord’s lotus feet, which mystic yogīs meditate upon."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "आज मेरे सभी पाप नष्ट हो गए हैं और मेरा जन्म सार्थक हो गया है, क्योंकि मैं परम भगवान के चरण कमलों को प्रणाम करूंगा, जिनका ध्यान रहस्यवादी योगी करते हैं।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "આજે મારી બધી પાપી પ્રતિક્રિયાઓ નાબૂદ થઈ ગઈ છે અને મારો જન્મ સાર્થક થઈ ગયો છે, કારણ કે હું પરમ ભગવાનના કમળના ચરણોમાં મારા પ્રણામ કરીશ, જેના પર રહસ્યવાદી યોગીઓ ધ્યાન કરે છે."
+            }
+        }
+    },
+    {
+        "id": 103807,
+        "sloka": "10.38.7",
+        "verse_id": 103807,
+        "verseNumber": 7,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Indeed, today King Kaṁsa has shown me extreme mercy by sending me to see the lotus feet of Lord Hari, who has now appeared in this world. Simply by the effulgence of His toenails, many souls in the past have transcended the insurmountable darkness of material existence and achieved liberation."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "वास्तव में, आज राजा कंस ने मुझे भगवान हरि के चरण कमलों के दर्शन के लिए भेजकर मुझ पर अत्यधिक दया की है, जो अब इस संसार में प्रकट हुए हैं। केवल उनके पैर के नाखूनों के तेज से, अतीत में कई आत्माओं ने भौतिक अस्तित्व के दुर्गम अंधकार को पार किया है और मुक्ति प्राप्त की है।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "ખરેખર, આજે કંસ રાજાએ મને ભગવાન હરિના ચરણ કમળના દર્શન કરવા મોકલીને મારા પર અત્યંત દયા કરી છે, જેઓ હવે આ જગતમાં પ્રગટ થયા છે. ફક્ત તેમના પગના નખના તેજથી, ભૂતકાળમાં ઘણા આત્માઓએ ભૌતિક અસ્તિત્વના અદમ્ય અંધકારને ઓળંગીને મુક્તિ પ્રાપ્ત કરી છે."
+            }
+        }
+    },
+    {
+        "id": 103808,
+        "sloka": "10.38.8",
+        "verse_id": 103808,
+        "verseNumber": 8,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Those lotus feet are worshiped by Brahmā, Śiva and all the other demigods, by the goddess of fortune, and also by the great sages and Vaiṣṇavas. Upon those lotus feet the Lord walks about the forest while herding the cows with His companions, and those feet are smeared with the kuṅkuma from the gopīs’ breasts."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "उन कमल चरणों की पूजा ब्रह्मा, शिव और अन्य सभी देवता, भाग्य की देवी और महान ऋषियों और वैष्णवों द्वारा भी की जाती है। उन कमल चरणों पर भगवान अपने साथियों के साथ गाय चराते हुए जंगल में घूमते हैं, और उन चरणों पर गोपियों के स्तनों से कुंकुमा लगा हुआ है।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "તે કમળના ચરણોની પૂજા બ્રહ્મા, શિવ અને અન્ય તમામ દેવતાઓ, સૌભાગ્યની દેવી દ્વારા અને મહાન ઋષિઓ અને વૈષ્ણવો દ્વારા પણ કરવામાં આવે છે. તે કમળના ચરણ પર ભગવાન તેમના સાથીઓ સાથે ગાયો ચરતી વખતે વનમાં ફરે છે, અને તે પગ ગોપીઓના સ્તનોમાંથી કુંકુમાથી મઢેલા છે."
+            }
+        }
+    },
+    {
+        "id": 103809,
+        "sloka": "10.38.9",
+        "verse_id": 103809,
+        "verseNumber": 9,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Surely I shall see the face of Lord Mukunda, since the deer are now walking past me on my right. That face, framed by His curly hair, is beautified by His attractive cheeks and nose, His smiling glances and His reddish lotus eyes."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "मैं निश्चित रूप से भगवान मुकुंद का चेहरा देखूंगा, क्योंकि हिरण अब मेरे दाहिनी ओर मेरे पीछे चल रहे हैं। उनके घुंघराले बालों से घिरा वह चेहरा उनके आकर्षक गालों और नाक, उनकी मुस्कुराती निगाहों और उनकी लाल कमल आंखों से सुशोभित है।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "હું ચોક્કસ ભગવાન મુકુન્દનો ચહેરો જોઈશ, કારણ કે હરણ હવે મારી જમણી બાજુએ મારી પાછળ ચાલી રહ્યું છે. તે ચહેરો, તેના વાંકડિયા વાળથી બનેલો, તેના આકર્ષક ગાલ અને નાક, તેની સ્મિત કરતી નજરો અને તેની લાલ કમળની આંખો દ્વારા શોભિત છે."
+            }
+        }
+    },
+    {
+        "id": 103810,
+        "sloka": "10.38.10",
+        "verse_id": 103810,
+        "verseNumber": 10,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "I am going to see the Supreme Lord Viṣṇu, the reservoir of all beauty, who by His own sweet will has now assumed a humanlike form to relieve the earth of her burden. Thus there is no denying that my eyes will achieve the perfection of their existence."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "मैं संपूर्ण सौंदर्य के भंडार परम भगवान विष्णु के दर्शन करने जा रहा हूं, जिन्होंने अपनी मधुर इच्छा से अब पृथ्वी को उसके बोझ से मुक्त करने के लिए मानव रूप धारण किया है। इस प्रकार इस बात से इनकार नहीं किया जा सकता कि मेरी आँखें अपने अस्तित्व की पूर्णता प्राप्त कर लेंगी।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "હું સર્વ સૌંદર્યના ભંડાર એવા પરમ ભગવાન વિષ્ણુના દર્શન કરવા જઈ રહ્યો છું, જેમણે પોતાની મધુર ઈચ્છાથી પૃથ્વીને તેના બોજમાંથી મુક્ત કરવા માટે હવે માનવસમાન સ્વરૂપ ધારણ કર્યું છે. આમ મારી આંખો તેમના અસ્તિત્વની પૂર્ણતા પ્રાપ્ત કરશે એ વાતમાં કોઈ ઈન્કાર નથી."
+            }
+        }
+    },
+    {
+        "id": 103811,
+        "sloka": "10.38.11",
+        "verse_id": 103811,
+        "verseNumber": 11,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "He is the witness of material cause and effect, yet He is always free from false identification with them. By His internal potency He dispels the darkness of separation and confusion. The individual souls in this world, who are manifested here when He glances upon His material creative energy, indirectly perceive Him in the activities of their life airs, senses and intelligence."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "वह भौतिक कारण और प्रभाव का साक्षी है, फिर भी वह उनके साथ मिथ्या तादात्म्य से सदैव मुक्त है। अपनी आंतरिक शक्ति से वह अलगाव और भ्रम के अंधेरे को दूर कर देता है। इस दुनिया में व्यक्तिगत आत्माएं, जो यहां तब प्रकट होती हैं जब वह अपनी भौतिक रचनात्मक ऊर्जा पर नज़र डालते हैं, अप्रत्यक्ष रूप से उन्हें अपने जीवन वायु, इंद्रियों और बुद्धि की गतिविधियों में महसूस करते हैं।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "તે ભૌતિક કારણ અને અસરના સાક્ષી છે, તેમ છતાં તે હંમેશા તેમની સાથે ખોટી ઓળખથી મુક્ત છે. તેમની આંતરિક શક્તિ દ્વારા તે વિભાજન અને મૂંઝવણના અંધકારને દૂર કરે છે. આ જગતમાં વ્યક્તિગત આત્માઓ, જેઓ અહીં પ્રગટ થાય છે જ્યારે તેઓ તેમની ભૌતિક સર્જનાત્મક શક્તિ પર નજર નાખે છે, તેઓ તેમના જીવન વાયુ, ઇન્દ્રિયો અને બુદ્ધિની પ્રવૃત્તિઓમાં પરોક્ષ રીતે તેમને અનુભવે છે."
+            }
+        }
+    },
+    {
+        "id": 103812,
+        "sloka": "10.38.12",
+        "verse_id": 103812,
+        "verseNumber": 12,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "All sins are destroyed and all good fortune is created by the Supreme Lord’s qualities, activities and appearances, and words that describe these three things animate, beautify and purify the world. On the other hand, words bereft of His glories are like the decorations on a corpse."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "सभी पाप नष्ट हो जाते हैं और सारा सौभाग्य परम भगवान के गुणों, गतिविधियों और स्वरूपों और शब्दों से निर्मित होता है जो दुनिया को चेतन, सुशोभित और शुद्ध करने वाली इन तीन चीजों का वर्णन करते हैं। दूसरी ओर, उनकी महिमा से रहित शब्द शव पर अलंकरण के समान हैं।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "સર્વ પાપોનો નાશ થાય છે અને સર્વ સૌભાગ્યની રચના પરમ ભગવાનના ગુણો, પ્રવૃત્તિઓ અને દેખાવ અને આ ત્રણ વસ્તુઓનું વર્ણન કરતા શબ્દોથી થાય છે જે વિશ્વને જીવંત બનાવે છે, સુંદર બનાવે છે અને શુદ્ધ કરે છે. બીજી બાજુ, તેમની કીર્તિથી વંચિત શબ્દો શબ પરના શણગાર જેવા છે."
+            }
+        }
+    },
+    {
+        "id": 103813,
+        "sloka": "10.38.13",
+        "verse_id": 103813,
+        "verseNumber": 13,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "That same Supreme Lord has descended into the dynasty of the Sātvatas to delight the exalted demigods, who maintain the principles of religion He has created. Residing in Vṛndāvana, He spreads His fame, which the demigods glorify in song and which brings auspiciousness to all."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "वही परम भगवान श्रेष्ठ देवताओं को प्रसन्न करने के लिए सात्वतों के वंश में अवतरित हुए हैं, जो उनके द्वारा बनाए गए धर्म के सिद्धांतों को बनाए रखते हैं। वृन्दावन में निवास करते हुए, वह अपनी प्रसिद्धि फैलाते हैं, जिसका गुणगान देवतागण गीत गाकर करते हैं और जो सभी के लिए मंगलकारी होती है।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "તે જ પરમ ભગવાન સત્વતાઓના વંશમાં ઉતર્યા છે, જે ઉચ્ચતમ દેવતાઓને ખુશ કરવા માટે છે, જેઓ તેમણે બનાવેલા ધર્મના સિદ્ધાંતોને જાળવી રાખે છે. વૃંદાવનમાં નિવાસ કરીને, તેઓ તેમની ખ્યાતિ ફેલાવે છે, જેને દેવતાઓ ગીતમાં મહિમા આપે છે અને જે બધા માટે શુભતા લાવે છે."
+            }
+        }
+    },
+    {
+        "id": 103814,
+        "sloka": "10.38.14",
+        "verse_id": 103814,
+        "verseNumber": 14,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Today I shall certainly see Him, the goal and spiritual master of the great souls. Seeing Him brings jubilation to all who have eyes, for He is the true beauty of the universe. Indeed, His personal form is the shelter desired by the goddess of fortune. Now all the dawns of my life have become auspicious."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "आज मैं अवश्य ही महात्माओं के लक्ष्य एवं गुरु का दर्शन करूँगा। उसे देखकर उन सभी को ख़ुशी मिलती है जिनके पास आँखें हैं, क्योंकि वह ब्रह्मांड का सच्चा सौंदर्य है। वास्तव में, उनका व्यक्तिगत रूप भाग्य की देवी द्वारा वांछित आश्रय है। अब मेरे जीवन की सभी सुबहें शुभ हो गई हैं।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "આજે હું ચોક્કસપણે તેમને જોઈશ, મહાન આત્માઓના ધ્યેય અને આધ્યાત્મિક ગુરુ. તેને જોવાથી જેઓ આંખો ધરાવે છે તે બધાને આનંદ થાય છે, કારણ કે તે બ્રહ્માંડની સાચી સુંદરતા છે. ખરેખર, તેમનું વ્યક્તિગત સ્વરૂપ એ ભાગ્યની દેવી દ્વારા ઇચ્છિત આશ્રય છે. હવે મારા જીવનની તમામ સવારો શુભ બની ગઈ છે."
+            }
+        }
+    },
+    {
+        "id": 103815,
+        "sloka": "10.38.15",
+        "verse_id": 103815,
+        "verseNumber": 15,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Then I will at once alight from my chariot and bow down to the lotus feet of Kṛṣṇa and Balarāma, the Supreme Personalities of Godhead. Theirs are the same feet that great mystic yogīs striving for self-realization bear within their minds. I will also offer my obeisances to the Lords’ cowherd boyfriends and to all the other residents of Vṛndāvana."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "तब मैं तुरंत अपने रथ से उतरूंगा और भगवान कृष्ण और बलराम के चरण कमलों को प्रणाम करूंगा। उनके वही पैर हैं जिन्हें आत्म-साक्षात्कार के लिए प्रयास करने वाले महान रहस्यवादी योगी अपने मन में धारण करते हैं। मैं भगवान के ग्वाल-बालों और वृन्दावन के अन्य सभी निवासियों को भी प्रणाम करूँगा।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "પછી હું તરત જ મારા રથમાંથી ઉતરીશ અને કૃષ્ણ અને બલરામના ચરણ કમળને પ્રણામ કરીશ. તેમના એ જ પગ છે જે મહાન રહસ્યવાદી યોગીઓ તેમના મનમાં આત્મ-સાક્ષાત્કાર માટે પ્રયત્નશીલ હોય છે. હું ભગવાનના ગોવાળો બોયફ્રેન્ડ્સ અને વૃંદાવનના અન્ય તમામ રહેવાસીઓને પણ મારા પ્રણામ કરીશ."
+            }
+        }
+    },
+    {
+        "id": 103816,
+        "sloka": "10.38.16",
+        "verse_id": 103816,
+        "verseNumber": 16,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "And when I have fallen at His feet, the almighty Lord will place His lotus hand upon my head. For those who seek shelter in Him because they are greatly disturbed by the powerful serpent of time, that hand removes all fear."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "और जब मैं उनके चरणों में गिरूंगा, तो सर्वशक्तिमान भगवान अपना कमल हाथ मेरे सिर पर रखेंगे। जो लोग उसकी शरण चाहते हैं क्योंकि वे समय के शक्तिशाली साँप से बहुत परेशान हैं, वह हाथ सभी भय को दूर कर देता है।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "અને જ્યારે હું તેમના ચરણોમાં પડીશ, ત્યારે સર્વશક્તિમાન ભગવાન તેમના કમળનો હાથ મારા માથા પર મૂકશે. જેઓ તેમનામાં આશ્રય શોધે છે કારણ કે તેઓ સમયના શક્તિશાળી સર્પથી ખૂબ જ પરેશાન છે, તે હાથ બધા ભયને દૂર કરે છે."
+            }
+        }
+    },
+    {
+        "id": 103817,
+        "sloka": "10.38.17",
+        "verse_id": 103817,
+        "verseNumber": 17,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "By offering charity to that lotus hand, Purandara and Bali earned the status of Indra, King of heaven, and during the pleasure pastimes of the rāsa dance, when the Lord wiped away the gopīs’ perspiration and removed their fatigue, the touch of their faces made that hand as fragrant as a sweet flower."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "उस कमल के हाथ को दान देकर, पुरंदर और बाली ने स्वर्ग के राजा इंद्र का दर्जा प्राप्त किया, और रास नृत्य की आनंदमय लीलाओं के दौरान, जब भगवान ने गोपियों का पसीना पोंछा और उनकी थकान दूर की, तो उनके चेहरे के स्पर्श ने उस हाथ को एक मीठे फूल की तरह सुगंधित कर दिया।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "તે કમળના હાથને દાન આપીને, પુરંદર અને બલિએ સ્વર્ગના રાજા ઇન્દ્રનો દરજ્જો મેળવ્યો અને રાસ નૃત્યના આનંદદાયક મનોરંજન દરમિયાન જ્યારે ભગવાને ગોપીઓનો પરસેવો લૂછી નાખ્યો અને તેમનો થાક દૂર કર્યો, ત્યારે તેમના મુખના સ્પર્શથી તે હાથ મીઠા ફૂલની જેમ સુગંધિત થઈ ગયો."
+            }
+        }
+    },
+    {
+        "id": 103818,
+        "sloka": "10.38.18",
+        "verse_id": 103818,
+        "verseNumber": 18,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "The infallible Lord will not consider me an enemy, even though Kaṁsa has sent me here as his messenger. After all, the omniscient Lord is the actual knower of the field of this material body, and with His perfect vision He witnesses, both externally and internally, all the endeavors of the conditioned soul’s heart."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "यद्यपि कंस ने मुझे अपना दूत बनाकर यहाँ भेजा है, फिर भी अचूक भगवान मुझे शत्रु नहीं मानेंगे। आख़िरकार, सर्वज्ञ भगवान इस भौतिक शरीर के क्षेत्र के वास्तविक ज्ञाता हैं, और अपनी पूर्ण दृष्टि से वे बद्ध आत्मा के हृदय के सभी प्रयासों को बाहरी और आंतरिक दोनों तरह से देखते हैं।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "અચૂક ભગવાન મને શત્રુ માનશે નહીં, ભલે કંસએ મને અહીં તેમના સંદેશવાહક તરીકે મોકલ્યો હોય. છેવટે, સર્વજ્ઞ ભગવાન આ ભૌતિક શરીરના ક્ષેત્રના વાસ્તવિક જ્ઞાતા છે, અને તેમની સંપૂર્ણ દ્રષ્ટિ સાથે તેઓ બાહ્ય અને આંતરિક બંને રીતે, કન્ડિશન્ડ આત્માના હૃદયના તમામ પ્રયત્નોને સાક્ષી આપે છે."
+            }
+        }
+    },
+    {
+        "id": 103819,
+        "sloka": "10.38.19",
+        "verse_id": 103819,
+        "verseNumber": 19,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Thus He will cast His smiling, affectionate glance upon me as I remain fixed with joined palms, fallen in obeisances at His feet. Then all my contamination will at once be dispelled, and I will give up all doubts and feel the most intense bliss."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "इस प्रकार वह अपनी मुस्कुराती हुई, स्नेह भरी दृष्टि मुझ पर डालेंगे, जब मैं हथेलियाँ जोड़कर उनके चरणों में प्रणाम करता हुआ स्थिर हो जाऊँगा। तब मेरा सारा कल्मष तुरन्त दूर हो जाएगा, और मैं सभी सन्देहों को त्याग दूँगा और परम तीव्र आनन्द का अनुभव करूँगा।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "આ રીતે તેઓ તેમની સ્મિતભરી, સ્નેહભરી નજર મારા પર મૂકશે કારણ કે હું તેમના ચરણોમાં પ્રણામ કરતી હથેળીઓ સાથે સ્થિર રહીશ. પછી મારી બધી દૂષણો તરત જ દૂર થઈ જશે, અને હું બધી શંકાઓને છોડી દઈશ અને સૌથી તીવ્ર આનંદ અનુભવીશ."
+            }
+        }
+    },
+    {
+        "id": 103820,
+        "sloka": "10.38.20",
+        "verse_id": 103820,
+        "verseNumber": 20,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Recognizing me as an intimate friend and relative, Kṛṣṇa will embrace me with His mighty arms, instantly sanctifying my body and diminishing to nil all my material bondage, which is due to fruitive activities."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "मुझे एक घनिष्ठ मित्र और रिश्तेदार के रूप में पहचानकर, कृष्ण मुझे अपनी शक्तिशाली भुजाओं से गले लगा लेंगे, तुरंत मेरे शरीर को पवित्र कर देंगे और मेरे सभी भौतिक बंधनों को, जो सकाम गतिविधियों के कारण हैं, शून्य कर देंगे।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "મને એક ઘનિષ્ઠ મિત્ર અને સંબંધી તરીકે ઓળખીને, કૃષ્ણ મને તેમના શક્તિશાળી હાથોથી આલિંગન કરશે, તરત જ મારા શરીરને પવિત્ર કરશે અને મારા તમામ ભૌતિક બંધનને શૂન્ય કરશે, જે ફળદાયી પ્રવૃત્તિઓને કારણે છે."
+            }
+        }
+    },
+    {
+        "id": 103821,
+        "sloka": "10.38.21",
+        "verse_id": 103821,
+        "verseNumber": 21,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Having been embraced by the all-famous Lord Kṛṣṇa, I will humbly stand before Him with bowed head and joined palms, and He will address me, “My dear Akrūra.” At that very moment my life’s purpose will be fulfilled. Indeed, the life of anyone whom the Supreme Personality fails to recognize is simply pitiable."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "सर्व-प्रसिद्ध भगवान कृष्ण द्वारा गले लगाए जाने के बाद, मैं विनम्रतापूर्वक उनके सामने सिर झुकाकर और हथेलियाँ जोड़कर खड़ा हो जाऊँगा, और वह मुझे संबोधित करेंगे, \"मेरे प्रिय अक्रूर।\" उसी क्षण मेरे जीवन का उद्देश्य पूरा हो जायेगा। वास्तव में, जिस किसी को भी सर्वोच्च व्यक्तित्व पहचानने में विफल रहता है उसका जीवन अत्यंत दयनीय है।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "સર્વ-પ્રસિદ્ધ ભગવાન કૃષ્ણ દ્વારા આલિંગન પામ્યા પછી, હું નમ્રતાપૂર્વક તેમની સમક્ષ માથું નમાવીને અને હથેળીઓ જોડીને ઊભો રહીશ, અને તે મને સંબોધશે, \"મારા પ્રિય અક્રૂર.\" તે જ ક્ષણે મારા જીવનનો હેતુ પૂરો થશે. ખરેખર, પરમ વ્યક્તિત્વ જેને ઓળખવામાં નિષ્ફળ જાય છે તેનું જીવન ફક્ત દયનીય છે."
+            }
+        }
+    },
+    {
+        "id": 103822,
+        "sloka": "10.38.22",
+        "verse_id": 103822,
+        "verseNumber": 22,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "The Supreme Lord has no favorite and no dearmost friend, nor does He consider anyone undesirable, despicable or fit to be neglected. All the same, He lovingly reciprocates with His devotees in whatever manner they worship Him, just as the trees of heaven fulfill the desires of whoever approaches them."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "परमेश्वर का कोई पसंदीदा या सबसे प्रिय मित्र नहीं है, न ही वह किसी को अवांछनीय, घृणित या उपेक्षा के योग्य मानता है। फिर भी, वह अपने भक्तों के साथ प्रेमपूर्वक प्रत्युत्तर देता है, जिस प्रकार भी वे उसकी पूजा करते हैं, ठीक उसी प्रकार जैसे स्वर्ग के वृक्ष उनके पास आने वाले की इच्छाओं को पूरा करते हैं।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "પરમ ભગવાનને કોઈ પ્રિય અને સૌથી પ્રિય મિત્ર નથી, અને તે કોઈને અનિચ્છનીય, ધિક્કારપાત્ર અથવા ઉપેક્ષિત કરવા યોગ્ય માનતા નથી. તે જ રીતે, તેઓ તેમના ભક્તો સાથે ગમે તે રીતે તેમની પૂજા કરે છે, જેમ કે સ્વર્ગના વૃક્ષો તેમની પાસે આવનારની ઇચ્છાઓ પૂર્ણ કરે છે."
+            }
+        }
+    },
+    {
+        "id": 103823,
+        "sloka": "10.38.23",
+        "verse_id": 103823,
+        "verseNumber": 23,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "And then Lord Kṛṣṇa’s elder brother, the foremost of the Yadus, will grasp my joined hands while I am still standing with my head bowed, and after embracing me He will take me to His house. There He will honor me with all items of ritual welcome and inquire from me about how Kaṁsa has been treating His family members."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "और तब भगवान कृष्ण के बड़े भाई, यदुओं में सबसे प्रमुख, मेरे जुड़े हुए हाथों को पकड़ लेंगे जबकि मैं अभी भी सिर झुकाए खड़ा हूं, और मुझे गले लगाने के बाद वह मुझे अपने घर ले जाएंगे। वहां वह मुझे अनुष्ठानिक स्वागत की सभी वस्तुओं से सम्मानित करेंगे और मुझसे पूछेंगे कि कंस अपने परिवार के सदस्यों के साथ कैसा व्यवहार कर रहा है।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "અને પછી ભગવાન કૃષ્ણના મોટા ભાઈ, યદુઓમાં સૌથી આગળ, જ્યારે હું હજી પણ માથું નમાવીને ઊભો છું ત્યારે મારા જોડાયેલા હાથ પકડી લેશે, અને મને ભેટીને તેઓ મને તેમના ઘરે લઈ જશે. ત્યાં તે મને ધાર્મિક સ્વાગતની તમામ વસ્તુઓથી સન્માનિત કરશે અને કંસ તેના પરિવારના સભ્યો સાથે કેવી રીતે વર્તે છે તે વિશે મારી પાસેથી પૂછપરછ કરશે."
+            }
+        }
+    },
+    {
+        "id": 103824,
+        "sloka": "10.38.24",
+        "verse_id": 103824,
+        "verseNumber": 24,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Śukadeva Gosvāmī continued: My dear King, while the son of Śvaphalka, traveling on the road, thus meditated deeply on Śrī Kṛṣṇa, he reached Gokula as the sun was beginning to set."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "शुकदेव गोस्वामी ने आगे कहा: हे राजन, जब श्वफलक का पुत्र, सड़क पर यात्रा करते हुए, इस प्रकार श्री कृष्ण का गहन ध्यान करता था, तो वह गोकुल पहुँच गया क्योंकि सूर्य अस्त होने लगा था।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "શુકદેવ ગોસ્વામીએ ચાલુ રાખ્યું: મારા પ્રિય રાજા, જ્યારે શ્વફળકાનો પુત્ર, રસ્તામાં મુસાફરી કરી રહ્યો હતો, આમ શ્રી કૃષ્ણનું ઊંડું ધ્યાન કર્યું, તે ગોકુળમાં પહોંચ્યો જ્યારે સૂર્ય અસ્ત થવા લાગ્યો હતો."
+            }
+        }
+    },
+    {
+        "id": 103825,
+        "sloka": "10.38.25",
+        "verse_id": 103825,
+        "verseNumber": 25,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "In the cowherd pasture Akrūra saw the footprints of those feet whose pure dust the rulers of all the planets in the universe hold on their crowns. Those footprints of the Lord, distinguished by such marks as the lotus, barleycorn and elephant goad, made the ground wonderfully beautiful."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "चरवाहे चरागाह में अक्रूर ने उन पैरों के निशान देखे जिनकी पवित्र धूल को ब्रह्मांड के सभी ग्रहों के शासकों ने अपने मुकुट पर धारण किया था। कमल, जौ और हाथी के अंकुश जैसे चिह्नों से प्रतिष्ठित भगवान के उन पदचिह्नों ने जमीन को अद्भुत रूप से सुंदर बना दिया।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "ગોવાળના ગોચરમાં અક્રૂરએ એવા પગના પગના નિશાન જોયા જેમની શુદ્ધ ધૂળ બ્રહ્માંડના તમામ ગ્રહોના શાસકો તેમના મુગટને પકડી રાખે છે. કમળ, જવ અને હાથીના ગોડ જેવા ચિહ્નો દ્વારા અલગ પડેલા ભગવાનના તે પગના નિશાનોએ જમીનને અદ્ભુત રીતે સુંદર બનાવી દીધી હતી."
+            }
+        }
+    },
+    {
+        "id": 103826,
+        "sloka": "10.38.26",
+        "verse_id": 103826,
+        "verseNumber": 26,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Increasingly agitated by ecstasy at seeing the Lord’s footprints, his bodily hairs standing on end because of his pure love, and his eyes filled with tears, Akrūra jumped down from his chariot and began rolling about among those footprints, exclaiming, “Ah, this is the dust from my master’s feet!”"
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "भगवान के पदचिह्नों को देखकर परमानंद से उत्तेजित होकर, उनके शुद्ध प्रेम के कारण उनके शरीर के बाल खड़े हो गए और उनकी आँखों में आँसू भर आए, अक्रूर अपने रथ से नीचे कूद गए और उन पदचिह्नों के बीच लोटने लगे और चिल्लाने लगे, \"आह, यह मेरे स्वामी के पैरों की धूल है!\""
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "ભગવાનના ચરણચિહ્નો જોઈને પરમાનંદમાં વધુને વધુ ઉત્તેજિત થઈને, તેમના શુદ્ધ પ્રેમને લીધે તેમના શરીરના વાળ છેડા પર ઊભા હતા, અને તેમની આંખો આંસુઓથી ભરેલી હતી, અક્રૂર પોતાના રથ પરથી નીચે કૂદી પડ્યો અને તે પગના નિશાનો વચ્ચે ફેરવવા લાગ્યો, \"આહ, આ મારા ગુરુના પગની ધૂળ છે\"!"
+            }
+        }
+    },
+    {
+        "id": 103827,
+        "sloka": "10.38.27",
+        "verse_id": 103827,
+        "verseNumber": 27,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "The very goal of life for all embodied beings is this ecstasy, which Akrūra experienced when, upon receiving Kaṁsa’s order, he put aside all pride, fear and lamentation and absorbed himself in seeing, hearing and describing the things that reminded him of Lord Kṛṣṇa."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "सभी देहधारी प्राणियों के लिए जीवन का लक्ष्य परमानंद है, जिसे अक्रूर ने तब अनुभव किया था, जब कंस का आदेश प्राप्त होने पर, उन्होंने सभी गर्व, भय और विलाप को एक तरफ रख दिया और उन चीजों को देखने, सुनने और वर्णन करने में खुद को लीन कर लिया जो उन्हें भगवान कृष्ण की याद दिलाती थीं।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "તમામ મૂર્તિમંત જીવો માટે જીવનનો ઉદ્દેશ્ય આ પરમાનંદ છે, જેનો અનુભવ અક્રૂરને થયો હતો જ્યારે, કંસનો આદેશ પ્રાપ્ત થતાં, તેણે તમામ અભિમાન, ભય અને વિલાપને બાજુ પર મૂકી દીધા હતા અને પોતાને ભગવાન કૃષ્ણની યાદ અપાવે તેવી વસ્તુઓ જોવા, સાંભળવા અને તેનું વર્ણન કરવામાં લીન થઈ ગયા હતા."
+            }
+        }
+    },
+    {
+        "id": 103828,
+        "sloka": "10.38.28-33",
+        "verse_id": 103828,
+        "verseNumber": 28,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Akrūra then saw Kṛṣṇa and Balarāma in the village of Vraja, going to milk the cows. Kṛṣṇa wore yellow garments, Balarāma blue, and Their eyes resembled autumnal lotuses. One of those two mighty-armed youths, the shelters of the goddess of fortune, had a dark-blue complexion, and the other’s was white. With Their fine-featured faces They were the most beautiful of all persons. As They walked with the gait of young elephants, glancing about with compassionate smiles, Those two exalted personalities beautified the cow pasture with the impressions of Their feet, which bore the marks of the flag, lightning bolt, elephant goad and lotus. The two Lords, whose pastimes are most magnanimous and attractive, were ornamented with jeweled necklaces and flower garlands, anointed with auspicious, fragrant substances, freshly bathed, and dressed in spotless raiment. They were the primeval Supreme Personalities, the masters and original causes of the universes, who had for the welfare of the earth now descended in Their distinct forms of Keśava and Balarāma. O King Parīkṣit, They resembled two gold-bedecked mountains, one of emerald and the other of silver, as with Their effulgence They dispelled the sky’s darkness in all directions."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "तब अक्रूर ने कृष्ण और बलराम को व्रज गांव में गायों का दूध निकालने के लिए जाते देखा। कृष्ण ने पीले वस्त्र पहने थे, बलराम ने नीले, और उनकी आँखें शरद ऋतु के कमल के समान थीं। भाग्य की देवी के शरणागत उन दो शक्तिशाली भुजाओं वाले युवकों में से एक का रंग गहरा नीला था और दूसरे का रंग सफेद था। अपने सुन्दर चेहरे के कारण वे सभी व्यक्तियों में सबसे सुन्दर थे। जब वे युवा हाथियों की चाल के साथ, करुणामयी मुस्कान के साथ इधर-उधर देखते हुए चल रहे थे, उन दो महान व्यक्तित्वों ने अपने पैरों के निशानों से गाय के चरागाह को सुशोभित किया, जिस पर ध्वज, बिजली के बोल्ट, हाथी के अंकुश और कमल के निशान थे। दोनों भगवान, जिनकी लीलाएँ अत्यंत उदार और आकर्षक हैं, रत्नजड़ित हार और फूलों की मालाओं से अलंकृत थे, शुभ, सुगंधित पदार्थों से अभिषेक किया गया था, ताज़ा स्नान कराया गया था और बेदाग पोशाक पहने हुए थे। वे आदिम सर्वोच्च व्यक्तित्व, ब्रह्मांड के स्वामी और मूल कारण थे, जो अब पृथ्वी के कल्याण के लिए केशव और बलराम के अपने विशिष्ट रूपों में अवतरित हुए हैं। हे राजा परीक्षित, वे दो सोने से सजे हुए पर्वतों के समान थे, एक पन्ना का और दूसरा चांदी का, जैसे कि वे अपनी चमक से सभी दिशाओं में आकाश के अंधेरे को दूर कर देते थे।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "અક્રૂર પછી વ્રજ ગામમાં કૃષ્ણ અને બલરામને ગાયોને દૂધ આપવા જતા જોયા. કૃષ્ણએ પીળા વસ્ત્રો પહેર્યા હતા, બલરામ વાદળી, અને તેમની આંખો શરદ કમળ જેવી હતી. તે બે શકિતશાળી-સશસ્ત્ર યુવાનોમાંથી એક, નસીબની દેવીના આશ્રયસ્થાનો, ઘેરા વાદળી રંગના હતા, અને બીજાનો સફેદ હતો. તેમના સુંદર ચહેરાઓ સાથે તેઓ તમામ વ્યક્તિઓમાં સૌથી સુંદર હતા. જ્યારે તેઓ યુવાન હાથીઓની ચાલ સાથે ચાલતા હતા, દયાળુ સ્મિત સાથે નજર નાખતા હતા, ત્યારે તે બે ઉચ્ચ વ્યક્તિત્વોએ તેમના પગની છાપથી ગાયના ગોચરને સુશોભિત કર્યું હતું, જેમાં ધ્વજ, વીજળીનો બોલ્ટ, હાથીનો ગોડ અને કમળના નિશાન હતા. બે ભગવાન, જેમની મનોરંજન સૌથી ભવ્ય અને આકર્ષક છે, તેઓ રત્ન જડિત હાર અને ફૂલોના માળાથી શણગારવામાં આવ્યા હતા, શુભ, સુગંધિત પદાર્થોથી અભિષેક કરવામાં આવ્યા હતા, તાજા સ્નાન કર્યા હતા અને નિષ્કલંક વસ્ત્રો પહેર્યા હતા. તેઓ આદિમ સર્વોપરી વ્યક્તિત્વો હતા, બ્રહ્માંડના માસ્ટર અને મૂળ કારણ હતા, જેમણે પૃથ્વીના કલ્યાણ માટે હવે કેશવ અને બલરામના તેમના વિશિષ્ટ સ્વરૂપોમાં અવતરણ કર્યું હતું. હે રાજા પરીક્ષિત, તેઓ બે સોનાથી સજ્જ પર્વતો જેવા હતા, એક નીલમણિનો અને બીજો ચાંદીનો, જેમ કે તેઓ તેમના તેજથી આકાશના અંધકારને ચારેય દિશામાં દૂર કરે છે."
+            }
+        }
+    },
+    {
+        "id": 103834,
+        "sloka": "10.38.34",
+        "verse_id": 103834,
+        "verseNumber": 34,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Akrūra, overwhelmed with affection, quickly jumped down from his chariot and fell at the feet of Kṛṣṇa and Balarāma like a rod."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "स्नेह से अभिभूत अक्रूर तुरंत अपने रथ से नीचे कूद पड़े और छड़ी की तरह कृष्ण और बलराम के चरणों में गिर पड़े।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "અક્રૂર, સ્નેહથી અભિભૂત, ઝડપથી તેના રથ પરથી નીચે કૂદી પડ્યો અને સળિયાની જેમ કૃષ્ણ અને બલરામના પગમાં પડ્યો."
+            }
+        }
+    },
+    {
+        "id": 103835,
+        "sloka": "10.38.35",
+        "verse_id": 103835,
+        "verseNumber": 35,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "The joy of seeing the Supreme Lord flooded Akrūra’s eyes with tears and decorated his limbs with eruptions of ecstasy. He felt such eagerness that he could not speak to present himself, O King."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "भगवान को देखने की ख़ुशी से अक्रूर की आँखों में आँसू आ गए और उनके अंगों में परमानंद की लहर दौड़ गई। उसे इतनी उत्सुकता महसूस हुई कि हे राजा, वह अपना परिचय देने के लिए बोल ही नहीं सका।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "પરમ ભગવાનના દર્શનના આનંદથી અક્રૂરની આંખો આંસુઓથી છલકાઈ ગઈ અને તેના અંગોને આનંદના વિસ્ફોટોથી શણગાર્યા. તેને એવી આતુરતા લાગી કે હે રાજા, પોતાને રજૂ કરવા માટે તે બોલી શક્યો નહીં."
+            }
+        }
+    },
+    {
+        "id": 103836,
+        "sloka": "10.38.36",
+        "verse_id": 103836,
+        "verseNumber": 36,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Recognizing Akrūra, Lord Kṛṣṇa drew him close with His hand, which bears the sign of the chariot wheel, and then embraced him. Kṛṣṇa felt pleased, for He is always benignly disposed toward His surrendered devotees."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "अक्रूर को पहचानकर भगवान कृष्ण ने रथ के पहिये के निशान वाले अपने हाथ से उन्हें अपने पास खींचा और फिर उन्हें गले लगा लिया। कृष्ण प्रसन्न हुए, क्योंकि वे अपने समर्पित भक्तों के प्रति सदैव दयालु रहते हैं।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "અક્રૂરને ઓળખીને, ભગવાન કૃષ્ણએ તેમને તેમના હાથથી નજીક ખેંચ્યા, જે રથના ચક્રની નિશાની ધરાવે છે, અને પછી તેમને ભેટી પડ્યા. કૃષ્ણ પ્રસન્ન થયા, કારણ કે તેઓ હંમેશા તેમના શરણાગત ભક્તો પ્રત્યે સૌમ્યતાથી સ્વભાવ રાખે છે."
+            }
+        }
+    },
+    {
+        "id": 103837,
+        "sloka": "10.38.37-38",
+        "verse_id": 103837,
+        "verseNumber": 37,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "As Akrūra stood with his head bowed, Lord Saṅkarṣaṇa [Balarāma] grasped his joined hands, and then Balarāma took him to His house in the company of Lord Kṛṣṇa. After inquiring from Akrūra whether his trip had been comfortable, Balarāma offered him a first-class seat, bathed his feet in accordance with the injunctions of scripture and respectfully served him milk with honey."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "जैसे ही अक्रूर सिर झुकाकर खड़े हुए, भगवान संकर्षण [बलराम] ने उनके जुड़े हुए हाथों को पकड़ लिया, और फिर बलराम उन्हें भगवान कृष्ण के साथ अपने घर ले गए। अक्रूर से यह पूछने के बाद कि क्या उनकी यात्रा आरामदायक थी, बलराम ने उन्हें प्रथम श्रेणी की सीट दी, शास्त्र के आदेशों के अनुसार उनके पैर धोए और सम्मानपूर्वक उन्हें शहद के साथ दूध पिलाया।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "જેમ જેમ અક્રૂર માથું નમાવીને ઊભા હતા, ભગવાન સંકર્ષણ [બલરામે] તેમના જોડાયેલા હાથ પકડ્યા, અને પછી બલરામ તેમને ભગવાન કૃષ્ણના સંગતમાં તેમના ઘરે લઈ ગયા. અક્રુરા પાસેથી પૂછપરછ કર્યા પછી કે તેમની સફર આરામદાયક હતી કે કેમ, બલરામે તેમને પ્રથમ-વર્ગની બેઠક ઓફર કરી, શાસ્ત્રના આદેશો અનુસાર તેમના પગ સ્નાન કર્યા અને આદરપૂર્વક તેમને મધ સાથે દૂધ પીરસ્યું."
+            }
+        }
+    },
+    {
+        "id": 103839,
+        "sloka": "10.38.39",
+        "verse_id": 103839,
+        "verseNumber": 39,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "The almighty Lord Balarāma presented Akrūra with the gift of a cow, massaged his feet to relieve him of fatigue and then with great respect and faith fed him suitably prepared food of various fine tastes."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "सर्वशक्तिमान भगवान बलराम ने अक्रूर को गाय का उपहार दिया, उनकी थकान दूर करने के लिए उनके पैरों की मालिश की और फिर बड़े सम्मान और विश्वास के साथ उन्हें विभिन्न बढ़िया स्वादों का उपयुक्त रूप से तैयार भोजन खिलाया।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "સર્વશક્તિમાન ભગવાન બલરામે અક્રૂરને ગાયની ભેટ આપી, થાક દૂર કરવા માટે તેમના પગની માલિશ કરી અને પછી ખૂબ જ આદર અને વિશ્વાસ સાથે તેમને વિવિધ સ્વાદનું યોગ્ય રીતે તૈયાર કરેલ ભોજન ખવડાવ્યું."
+            }
+        }
+    },
+    {
+        "id": 103840,
+        "sloka": "10.38.40",
+        "verse_id": 103840,
+        "verseNumber": 40,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "When Akrūra had eaten to his satisfaction, Lord Balarāma, the supreme knower of religious duties, offered him aromatic herbs for sweetening his mouth, along with fragrances and flower garlands. Thus Akrūra once again enjoyed the highest pleasure."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "जब अक्रूर ने तृप्तिपूर्वक भोजन किया, तो धार्मिक कर्तव्यों के परम ज्ञाता भगवान बलराम ने उन्हें सुगंध और फूलों की मालाओं के साथ-साथ उनका मुंह मीठा करने के लिए सुगंधित जड़ी-बूटियाँ दीं। इस प्रकार अक्रूर ने एक बार फिर परम सुख का आनंद उठाया।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "જ્યારે અક્રુરે તેની સંતોષ માટે ભોજન કર્યું, ત્યારે ધાર્મિક કર્તવ્યોના સર્વોચ્ચ જાણકાર ભગવાન બલરામે તેને સુગંધિત જડીબુટ્ટીઓ અને ફૂલોની માળા સાથે તેનું મોં મીઠું કરાવ્યું. આ રીતે અક્રુરે ફરી એકવાર સર્વોચ્ચ આનંદ માણ્યો."
+            }
+        }
+    },
+    {
+        "id": 103841,
+        "sloka": "10.38.41",
+        "verse_id": 103841,
+        "verseNumber": 41,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Nanda Mahārāja asked Akrūra: O descendant of Daśārha, how are all of you maintaining yourselves while that merciless Kaṁsa remains alive? You are just like sheep under the care of a butcher."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "नंद महाराज ने अक्रूर से पूछा: हे दशार्ह के वंशज, जब तक वह क्रूर कंस जीवित है, आप सभी अपना भरण-पोषण कैसे कर रहे हैं? तुम बिल्कुल कसाई की देखरेख में रहने वाली भेड़ की तरह हो।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "નંદ મહારાજે અક્રૂરને પૂછ્યું: હે દશરહના વંશજ, જ્યારે તે નિર્દય કંસ જીવિત છે ત્યારે તમે બધા તમારી જાતને કેવી રીતે જાળવી રહ્યા છો? તમે કસાઈની દેખરેખ હેઠળના ઘેટાં જેવા છો."
+            }
+        }
+    },
+    {
+        "id": 103842,
+        "sloka": "10.38.42",
+        "verse_id": 103842,
+        "verseNumber": 42,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "That cruel, self-serving Kaṁsa murdered the infants of his own sister in her presence, even as she cried in anguish. So why should we even ask about the well-being of you, his subjects?"
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "उस क्रूर, स्वार्थी कंस ने अपनी ही बहन के शिशुओं की उसकी उपस्थिति में हत्या कर दी, जबकि वह पीड़ा में रो रही थी। तो हम आपकी, उसकी प्रजा की कुशलक्षेम भी क्यों पूछें?"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "તે ક્રૂર, સ્વ-સેવા કરનાર કંસએ તેની હાજરીમાં તેની પોતાની બહેનના શિશુઓની હત્યા કરી, ભલે તે વેદનામાં રડતી હોય. તો શા માટે અમે તમારી, તેના વિષયોની સુખાકારી વિશે પૂછવું જોઈએ?"
+            }
+        }
+    },
+    {
+        "id": 103843,
+        "sloka": "10.38.43",
+        "verse_id": 103843,
+        "verseNumber": 43,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Honored by Nanda Mahārāja with these true and pleasing words of inquiry, Akrūra forgot the fatigue of his journey."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "नंद महाराज द्वारा पूछताछ के इन सच्चे और सुखद शब्दों से सम्मानित होकर, अक्रूर अपनी यात्रा की थकान भूल गए।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "પૂછપરછના આ સાચા અને આનંદદાયક શબ્દોથી નંદ મહારાજ દ્વારા સન્માનિત, અક્રૂર તેની મુસાફરીનો થાક ભૂલી ગયો."
+            }
+        }
+    }
+]

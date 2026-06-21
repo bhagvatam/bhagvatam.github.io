@@ -1,0 +1,830 @@
+[
+    {
+        "id": 108801,
+        "sloka": "10.88.1",
+        "verse_id": 108801,
+        "verseNumber": 1,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "King Parīkṣit said: Those demigods, demons and humans who worship Lord Śiva, a strict renunciant, usually enjoy wealth and sense gratification, while the worshipers of the Supreme Lord Hari, the husband of the goddess of fortune, do not."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "राजा परीक्षित ने कहा: वे देवता, राक्षस और मनुष्य जो सख्त त्यागी भगवान शिव की पूजा करते हैं, आमतौर पर धन और इंद्रिय संतुष्टि का आनंद लेते हैं, जबकि भाग्य की देवी के पति, भगवान हरि के उपासक ऐसा नहीं करते हैं।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "રાજા પરીક્ષિતે કહ્યું: જે દેવતાઓ, દાનવો અને મનુષ્યો કે જેઓ સખત ત્યાગી ભગવાન શિવની ઉપાસના કરે છે, તેઓ સામાન્ય રીતે સંપત્તિ અને ઇન્દ્રિય તૃપ્તિનો આનંદ માણે છે, જ્યારે ભાગ્યની દેવીના પતિ પરમ ભગવાન હરિના ઉપાસકો નથી કરતા."
+            }
+        }
+    },
+    {
+        "id": 108802,
+        "sloka": "10.88.2",
+        "verse_id": 108802,
+        "verseNumber": 2,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "We wish to properly understand this matter, which greatly puzzles us. Indeed, the results attained by the worshipers of these two lords of opposite characters are contrary to what one would expect."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "हम इस बात को ठीक से समझना चाहते हैं, जो हमें बहुत उलझाती है। वास्तव में, विपरीत चरित्र वाले इन दो भगवानों के उपासकों द्वारा प्राप्त परिणाम किसी की अपेक्षा के विपरीत होते हैं।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "અમે આ બાબતને યોગ્ય રીતે સમજવા માંગીએ છીએ, જે અમને ખૂબ જ મૂંઝવે છે. વાસ્તવમાં, વિરોધી પાત્રોના આ બે સ્વામીઓના ઉપાસકો દ્વારા પ્રાપ્ત પરિણામો એકની અપેક્ષાથી વિપરીત છે."
+            }
+        }
+    },
+    {
+        "id": 108803,
+        "sloka": "10.88.3",
+        "verse_id": 108803,
+        "verseNumber": 3,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Śrī Śukadeva said: Lord Śiva is always united with his personal energy, the material nature. Manifesting himself in three features in response to the entreaties of nature’s three modes, he thus embodies the threefold principle of material ego in goodness, passion and ignorance."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "श्री शुकदेव ने कहा: भगवान शिव हमेशा अपनी व्यक्तिगत ऊर्जा, भौतिक प्रकृति के साथ एकजुट रहते हैं। प्रकृति के तीन गुणों की विनती के जवाब में खुद को तीन विशेषताओं में प्रकट करते हुए, वह इस प्रकार भौतिक अहंकार के तीन गुना सिद्धांत - अच्छाई, जुनून और अज्ञान का प्रतीक है।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "શ્રી શુકદેવે કહ્યું: ભગવાન શિવ હંમેશા તેમની વ્યક્તિગત ઊર્જા, ભૌતિક પ્રકૃતિ સાથે એકરૂપ છે. પ્રકૃતિની ત્રણ પદ્ધતિઓની વિનંતીના જવાબમાં પોતાને ત્રણ લક્ષણોમાં પ્રગટ કરીને, તે આ રીતે ભલાઈ, જુસ્સો અને અજ્ઞાનતામાં ભૌતિક અહંકારના ત્રિવિધ સિદ્ધાંતને મૂર્તિમંત કરે છે."
+            }
+        }
+    },
+    {
+        "id": 108804,
+        "sloka": "10.88.4",
+        "verse_id": 108804,
+        "verseNumber": 4,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "The sixteen elements have evolved as transformations of that false ego. When a devotee of Lord Śiva worships his manifestation in any one of these elements, the devotee obtains all sorts of corresponding enjoyable opulences."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "सोलह तत्त्व उस मिथ्या अहंकार के रूपान्तरण के रूप में विकसित हुए हैं। जब भगवान शिव का भक्त इनमें से किसी एक तत्व में उनकी अभिव्यक्ति की पूजा करता है, तो भक्त को सभी प्रकार के आनंददायक ऐश्वर्य प्राप्त होते हैं।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "સોળ તત્વો એ ખોટા અહંકારના રૂપાંતરણ તરીકે વિકસ્યા છે. જ્યારે ભગવાન શિવના ભક્ત આમાંના કોઈપણ એક તત્વમાં તેમના સ્વરૂપની પૂજા કરે છે, ત્યારે ભક્તને અનુરૂપ તમામ પ્રકારના આનંદપ્રદ ઐશ્વર્ય પ્રાપ્ત થાય છે."
+            }
+        }
+    },
+    {
+        "id": 108805,
+        "sloka": "10.88.5",
+        "verse_id": 108805,
+        "verseNumber": 5,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Lord Hari, however, has no connection with the material modes. He is the Supreme Personality of Godhead, the all-seeing eternal witness, who is transcendental to material nature. One who worships Him becomes similarly free from the material modes."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "हालाँकि, भगवान हरि का भौतिक गुणों से कोई संबंध नहीं है। वह भगवान का सर्वोच्च व्यक्तित्व, सर्वदर्शी शाश्वत साक्षी है, जो भौतिक प्रकृति से परे है। जो उनकी पूजा करता है वह भौतिक गुणों से मुक्त हो जाता है।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "ભગવાન હરિ, જો કે, ભૌતિક સ્થિતિઓ સાથે કોઈ સંબંધ નથી. તે ભગવાનના સર્વોચ્ચ વ્યક્તિત્વ છે, સર્વ-જોનાર શાશ્વત સાક્ષી છે, જે ભૌતિક પ્રકૃતિથી દિવ્ય છે. જે તેમની ભક્તિ કરે છે તે ભૌતિક સ્થિતિઓથી પણ મુક્ત થઈ જાય છે."
+            }
+        }
+    },
+    {
+        "id": 108806,
+        "sloka": "10.88.6",
+        "verse_id": 108806,
+        "verseNumber": 6,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Your grandfather, King Yudhiṣṭhira, after completing his Aśvamedha sacrifices, asked Lord Acyuta this very same question while hearing the Lord’s explanation of religious principles."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "आपके दादा, राजा युधिष्ठिर ने, अपने अश्वमेध यज्ञों को पूरा करने के बाद, धार्मिक सिद्धांतों के बारे में भगवान की व्याख्या सुनते समय भगवान अच्युत से यही प्रश्न पूछा था।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "તમારા દાદા, રાજા યુધિષ્ઠિર, તેમના અશ્વમેધ યજ્ઞો પૂર્ણ કર્યા પછી, ભગવાન અચ્યુતને ધાર્મિક સિદ્ધાંતોની સમજૂતી સાંભળીને આ જ પ્રશ્ન પૂછ્યો."
+            }
+        }
+    },
+    {
+        "id": 108807,
+        "sloka": "10.88.7",
+        "verse_id": 108807,
+        "verseNumber": 7,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "This question pleased Śrī Kṛṣṇa, the King’s Lord and master, who had descended into the family of Yadu for the purpose of bestowing the highest good on all men. The Lord replied as follows as the King eagerly listened."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "इस प्रश्न से राजा के भगवान और स्वामी, श्री कृष्ण प्रसन्न हुए, जो सभी मनुष्यों को सर्वोच्च भलाई प्रदान करने के उद्देश्य से यदु के परिवार में अवतरित हुए थे। राजा ने उत्सुकता से सुना तो भगवान ने इस प्रकार उत्तर दिया।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "આ પ્રશ્નથી રાજાના ભગવાન અને ગુરુ શ્રી કૃષ્ણ પ્રસન્ન થયા, જેઓ યદુના પરિવારમાં બધા માણસોને સર્વોચ્ચ કલ્યાણ આપવાના હેતુથી ઉતર્યા હતા. રાજાએ આતુરતાથી સાંભળ્યું તેમ ભગવાને નીચે પ્રમાણે જવાબ આપ્યો."
+            }
+        }
+    },
+    {
+        "id": 108808,
+        "sloka": "10.88.8",
+        "verse_id": 108808,
+        "verseNumber": 8,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "The Personality of Godhead said: If I especially favor someone, I gradually deprive him of his wealth. Then the relatives and friends of such a poverty-stricken man abandon him. In this way he suffers one distress after another."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "भगवान ने कहा: यदि मैं विशेष रूप से किसी का पक्ष लेता हूं, तो मैं धीरे-धीरे उसे उसकी संपत्ति से वंचित कर देता हूं। तब ऐसे दरिद्र मनुष्य के परिजन और मित्र उसका त्याग कर देते हैं। इस तरह वह एक के बाद एक कष्ट झेलता है।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "ભગવાનના વ્યક્તિત્વે કહ્યું: જો હું ખાસ કરીને કોઈની તરફેણ કરું છું, તો હું ધીમે ધીમે તેને તેની સંપત્તિથી વંચિત કરું છું. પછી આવા ગરીબીથી પીડિત માણસના સંબંધીઓ અને મિત્રો તેને ત્યજી દે છે. આ રીતે તે એક પછી એક તકલીફ સહન કરે છે."
+            }
+        }
+    },
+    {
+        "id": 108809,
+        "sloka": "10.88.9",
+        "verse_id": 108809,
+        "verseNumber": 9,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "When he becomes frustrated in his attempts to make money and instead befriends My devotees, I bestow My special mercy upon him."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "जब वह पैसा कमाने के अपने प्रयासों में निराश हो जाता है और इसके बजाय मेरे भक्तों से मित्रता करता है, तो मैं उस पर अपनी विशेष दया करता हूँ।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "જ્યારે તે પૈસા કમાવવાના પ્રયત્નોમાં નિરાશ થઈ જાય છે અને તેના બદલે મારા ભક્તો સાથે મિત્રતા કરે છે, ત્યારે હું તેના પર મારી વિશેષ દયા કરું છું."
+            }
+        }
+    },
+    {
+        "id": 108810,
+        "sloka": "10.88.10",
+        "verse_id": 108810,
+        "verseNumber": 10,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "A person who has thus become sober fully realizes the Absolute as the highest truth, the most subtle and perfect manifestation of spirit, the transcendental existence without end. In this way realizing that the Supreme Truth is the foundation of his own existence, he is freed from the cycle of material life."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "एक व्यक्ति जो इस प्रकार शांत हो गया है, उसे सर्वोच्च सत्य, आत्मा की सबसे सूक्ष्म और परिपूर्ण अभिव्यक्ति, अंत के बिना पारलौकिक अस्तित्व के रूप में निरपेक्षता का पूरी तरह से एहसास होता है। इस प्रकार यह समझकर कि सर्वोच्च सत्य ही उसके अस्तित्व का आधार है, वह भौतिक जीवन के चक्र से मुक्त हो जाता है।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "જે વ્યક્તિ આ રીતે સ્વસ્થ બની ગયો છે તે સંપૂર્ણને સર્વોચ્ચ સત્ય, ભાવનાના સૌથી સૂક્ષ્મ અને સંપૂર્ણ અભિવ્યક્તિ, અંત વિનાના દિવ્ય અસ્તિત્વ તરીકે સંપૂર્ણ રીતે અનુભવે છે. આ રીતે પરમ સત્ય તેના પોતાના અસ્તિત્વનો પાયો છે તે સમજીને તે ભૌતિક જીવનના ચક્રમાંથી મુક્ત થાય છે."
+            }
+        }
+    },
+    {
+        "id": 108811,
+        "sloka": "10.88.11",
+        "verse_id": 108811,
+        "verseNumber": 11,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Because I am difficult to worship, people generally avoid Me and instead worship other deities, who are quickly satisfied. When people receive kingly opulences from these deities, they become arrogant, intoxicated with pride and neglectful of their duties. They dare to offend even the demigods who have bestowed benedictions upon them."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "चूँकि मेरी पूजा करना कठिन है, इसलिए लोग आम तौर पर मुझसे बचते हैं और इसके बजाय अन्य देवताओं की पूजा करते हैं, जो जल्दी संतुष्ट हो जाते हैं। जब लोगों को इन देवताओं से राजसी ऐश्वर्य प्राप्त होता है, तो वे अहंकारी, अहंकार से मतवाले और अपने कर्तव्यों के प्रति लापरवाह हो जाते हैं। वे उन देवताओं को भी अपमानित करने का साहस करते हैं जिन्होंने उन्हें आशीर्वाद दिया है।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "કારણ કે મારી પૂજા કરવી મુશ્કેલ છે, લોકો સામાન્ય રીતે મને ટાળે છે અને તેના બદલે અન્ય દેવતાઓની પૂજા કરે છે, જે ઝડપથી સંતુષ્ટ થાય છે. જ્યારે લોકો આ દેવતાઓ પાસેથી રાજાશાહી ઐશ્વર્ય મેળવે છે, ત્યારે તેઓ ઘમંડી, અભિમાનના નશામાં અને તેમની ફરજોની ઉપેક્ષા કરનાર બની જાય છે. તેઓ દેવતાઓને પણ નારાજ કરવાની હિંમત કરે છે જેમણે તેમના પર આશીર્વાદ આપ્યા છે."
+            }
+        }
+    },
+    {
+        "id": 108812,
+        "sloka": "10.88.12",
+        "verse_id": 108812,
+        "verseNumber": 12,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Śukadeva Gosvāmī said: Lord Brahmā, Lord Viṣṇu, Lord Śiva and others are able to curse or bless one. Lord Śiva and Lord Brahmā are very quick to curse or bestow benedictions, my dear King, but the infallible Supreme Lord is not."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "शुकदेव गोस्वामी ने कहा: भगवान ब्रह्मा, भगवान विष्णु, भगवान शिव और अन्य किसी को शाप देने या आशीर्वाद देने में सक्षम हैं। मेरे प्रिय राजा, भगवान शिव और भगवान ब्रह्मा शाप देने या आशीर्वाद देने में बहुत तेज हैं, लेकिन अचूक सर्वोच्च भगवान नहीं हैं।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "શુકદેવ ગોસ્વામીએ કહ્યું: ભગવાન બ્રહ્મા, ભગવાન વિષ્ણુ, ભગવાન શિવ અને અન્ય લોકો કોઈને શ્રાપ અથવા આશીર્વાદ આપવા સક્ષમ છે. ભગવાન શિવ અને ભગવાન બ્રહ્મા, મારા પ્રિય રાજા, શ્રાપ આપવા અથવા આશીર્વાદ આપવા માટે ખૂબ જ ઝડપથી છે, પરંતુ અચૂક પરમ ભગવાન નથી."
+            }
+        }
+    },
+    {
+        "id": 108813,
+        "sloka": "10.88.13",
+        "verse_id": 108813,
+        "verseNumber": 13,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "In this connection, an ancient historical account is related concerning how the Lord of Kailāsa Mountain was put into danger by offering a choice of benedictions to the demon Vṛka."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "इस संबंध में, एक प्राचीन ऐतिहासिक वृत्तांत इस बात से संबंधित है कि कैसे कैलास पर्वत के भगवान को राक्षस वृक को आशीर्वाद देने की पेशकश करके खतरे में डाल दिया गया था।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "આ સંબંધમાં, એક પ્રાચીન ઐતિહાસિક અહેવાલ સંબંધિત છે કે કેવી રીતે કૈલાસ પર્વતના ભગવાન રાક્ષસ વ્રકને વરદાનની પસંદગી આપીને જોખમમાં મુકાયા હતા."
+            }
+        }
+    },
+    {
+        "id": 108814,
+        "sloka": "10.88.14",
+        "verse_id": 108814,
+        "verseNumber": 14,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "The demon named Vṛka, a son of Śakuni’s, once met Nārada on the road. The wicked fellow asked him which of the three chief gods could be pleased most quickly."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "शकुनि का पुत्र वृक नाम का राक्षस एक बार सड़क पर नारद से मिला। दुष्ट व्यक्ति ने उससे पूछा कि तीन प्रमुख देवताओं में से कौन सबसे जल्दी प्रसन्न हो सकता है।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "શકુનીનો પુત્ર વ્રક નામનો રાક્ષસ એકવાર રસ્તામાં નારદને મળ્યો. દુષ્ટ સાથીએ તેને પૂછ્યું કે ત્રણ મુખ્ય દેવતાઓમાંથી કયા સૌથી ઝડપથી પ્રસન્ન થઈ શકે છે."
+            }
+        }
+    },
+    {
+        "id": 108815,
+        "sloka": "10.88.15",
+        "verse_id": 108815,
+        "verseNumber": 15,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Nārada told him: Worship Lord Śiva and you will soon achieve success. He quickly becomes pleased by seeing his worshiper’s slightest good qualities — and quickly angered by seeing his slightest fault."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "नारद ने उससे कहा: भगवान शिव की पूजा करो और तुम्हें जल्द ही सफलता मिलेगी। वह अपने उपासक के थोड़े से अच्छे गुणों को देखकर शीघ्र प्रसन्न हो जाते हैं और उसके थोड़े से दोष को देखकर शीघ्र क्रोधित हो जाते हैं।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "નારદે તેને કહ્યું: ભગવાન શિવની આરાધના કરો અને તમને જલ્દી જ સફળતા મળશે. તે તેના ઉપાસકના સહેજ સારા ગુણો જોઈને ઝડપથી પ્રસન્ન થઈ જાય છે - અને તેની સહેજ ખામી જોઈને ઝડપથી ગુસ્સે થઈ જાય છે."
+            }
+        }
+    },
+    {
+        "id": 108816,
+        "sloka": "10.88.16",
+        "verse_id": 108816,
+        "verseNumber": 16,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "He became pleased with ten-headed Rāvaṇa, and also with Bāṇa, when they each chanted his glories, like bards in a royal court. Lord Śiva then bestowed unprecedented power upon each of them, but in both cases he was consequently beset with great difficulty."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "वह दस सिर वाले रावण से प्रसन्न हो गए, और बाण से भी, जब वे प्रत्येक राजदरबार में चारणों की तरह उसकी महिमा का गान करते थे। तब भगवान शिव ने उनमें से प्रत्येक को अभूतपूर्व शक्ति प्रदान की, लेकिन दोनों ही मामलों में उन्हें बड़ी कठिनाई का सामना करना पड़ा।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "તે દસ માથાવાળા રાવણથી પ્રસન્ન થયા અને બાણથી પણ પ્રસન્ન થયા, જ્યારે તેઓ દરેક રાજદરબારમાં ચારણની જેમ તેમનો મહિમા ગાતા હતા. ત્યારે ભગવાન શિવે તે દરેકને અભૂતપૂર્વ શક્તિ પ્રદાન કરી, પરંતુ બંને કિસ્સાઓમાં તે ખૂબ જ મુશ્કેલીથી ઘેરાયેલા હતા."
+            }
+        }
+    },
+    {
+        "id": 108817,
+        "sloka": "10.88.17",
+        "verse_id": 108817,
+        "verseNumber": 17,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "[Śukadeva Gosvāmī continued:] Thus advised, the demon proceeded to worship Lord Śiva at Kedāranātha by taking pieces of flesh from his own body and offering them as oblations into the sacred fire, which is Lord Śiva’s mouth."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "[शुकदेव गोस्वामी ने आगे कहा:] इस प्रकार सलाह दिए जाने पर, राक्षस अपने शरीर से मांस के टुकड़े लेकर और उन्हें पवित्र अग्नि, जो कि भगवान शिव का मुख है, में आहुति देकर केदारनाथ में भगवान शिव की पूजा करने के लिए आगे बढ़ा।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "[શુકદેવ ગોસ્વામીએ ચાલુ રાખ્યું:] આમ સલાહ આપી, રાક્ષસ કેદારનાથમાં ભગવાન શિવની પૂજા કરવા માટે આગળ વધ્યો અને તેના પોતાના શરીરમાંથી માંસના ટુકડા લઈને પવિત્ર અગ્નિમાં અર્પણ કર્યું, જે ભગવાન શિવનું મુખ છે."
+            }
+        }
+    },
+    {
+        "id": 108818,
+        "sloka": "10.88.18-19",
+        "verse_id": 108818,
+        "verseNumber": 18,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Vṛkāsura became frustrated after failing to obtain a vision of the lord. Finally, on the seventh day, after dipping his hair into the holy waters at Kedāranātha and leaving it wet, he took up a hatchet and prepared to cut off his head. But at that very moment the supremely merciful Lord Śiva rose up out of the sacrificial fire, looking like the god of fire himself, and grabbed both arms of the demon to stop him from killing himself, just as we would do. By Lord Śiva’s touch, Vṛkāsura once again became whole."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "वृकासुर भगवान के दर्शन न पाकर निराश हो गया। अंततः, सातवें दिन, अपने बालों को केदारनाथ के पवित्र जल में डुबाकर और गीला छोड़कर, उसने एक कुल्हाड़ी उठाई और अपना सिर काटने के लिए तैयार हो गया। लेकिन उसी क्षण परम दयालु भगवान शिव यज्ञ की अग्नि से उठे, स्वयं अग्नि के देवता की तरह लग रहे थे, और राक्षस की दोनों भुजाएँ पकड़कर उसे खुद को मारने से रोक दिया, जैसा कि हम करेंगे। भगवान शिव के स्पर्श से वृकासुर एक बार फिर स्वस्थ हो गया।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "વ્રકાસુર ભગવાનના દર્શન મેળવવામાં નિષ્ફળ જતાં હતાશ થઈ ગયા. છેવટે, સાતમા દિવસે, કેદારનાથના પવિત્ર જળમાં પોતાના વાળ ડૂબાડીને ભીના કર્યા પછી, તેણે કુંડા ઉપાડ્યા અને તેનું માથું કાપી નાખવાની તૈયારી કરી. પરંતુ તે જ ક્ષણે પરમ દયાળુ ભગવાન શિવ પોતે અગ્નિના દેવતા જેવા દેખાતા યજ્ઞ અગ્નિમાંથી ઉભા થયા, અને રાક્ષસના બંને હાથ પકડીને તેને આત્મહત્યા કરતા અટકાવ્યા, જેમ આપણે કરીશું. ભગવાન શિવના સ્પર્શથી, વૃકાસુર ફરી એકવાર સંપૂર્ણ થઈ ગયો."
+            }
+        }
+    },
+    {
+        "id": 108820,
+        "sloka": "10.88.20",
+        "verse_id": 108820,
+        "verseNumber": 20,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Lord Śiva said to him: My friend, please stop, stop! Ask from me whatever you want, and I will bestow that boon upon you. Alas, you have subjected your body to great torment for no reason, since I am pleased with a simple offering of water from those who approach me for shelter."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "भगवान शिव ने उनसे कहा: मेरे मित्र, कृपया रुकें, रुकें! तुम जो कुछ भी चाहते हो मुझसे मांगो और मैं तुम्हें वह वरदान दूँगा। अफसोस, तुमने बिना किसी कारण के अपने शरीर को बहुत पीड़ा दी है, क्योंकि जो लोग आश्रय के लिए मेरे पास आते हैं, मैं उनके द्वारा दिए गए साधारण जल अर्पण से ही प्रसन्न हो जाता हूं।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "ભગવાન શિવે તેને કહ્યું: મારા મિત્ર, થોભો, થોભો! તમે જે ઇચ્છો તે મારી પાસેથી માગો, અને હું તમને તે વરદાન આપીશ. અરે, તમે કોઈ કારણ વિના તમારા શરીરને ભારે યાતના આપી છે, કારણ કે જેઓ આશ્રય માટે મારી પાસે આવે છે તેમના તરફથી હું પાણીના સાદા પ્રસાદથી પ્રસન્ન છું."
+            }
+        }
+    },
+    {
+        "id": 108821,
+        "sloka": "10.88.21",
+        "verse_id": 108821,
+        "verseNumber": 21,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "[Śukadeva Gosvāmī continued:] The benediction sinful Vṛka chose from the lord would terrify all living beings. Vṛka said, “May death come to whomever I touch upon the head with my hand.”"
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "[शुकदेव गोस्वामी ने आगे कहा:] भगवान से चुना गया पापी वृक का आशीर्वाद सभी जीवित प्राणियों को भयभीत कर देगा। वृक ने कहा, \"मैं जिसके सिर पर हाथ रखूंगा, उसकी मृत्यु हो सकती है।\""
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "[શુકદેવ ગોસ્વામીએ ચાલુ રાખ્યું:] પાપી વ્રકાએ ભગવાન તરફથી પસંદ કરેલ આશીર્વાદ તમામ જીવોને ભયભીત કરશે. વૃકાએ કહ્યું, \"હું જેને મારા હાથથી માથા પર સ્પર્શ કરું તેને મૃત્યુ આવે.\""
+            }
+        }
+    },
+    {
+        "id": 108822,
+        "sloka": "10.88.22",
+        "verse_id": 108822,
+        "verseNumber": 22,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Upon hearing this, Lord Rudra seemed somewhat disturbed. Nonetheless, O descendant of Bharata, he vibrated om to signify his assent, granting Vṛka the benediction with an ironic smile, as if giving milk to a poisonous snake."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "यह सुनकर भगवान रूद्र कुछ परेशान दिखे। फिर भी, हे भरत के वंशज, उन्होंने अपनी सहमति दर्शाने के लिए ॐ का उच्चारण किया, और व्यंग्यपूर्ण मुस्कान के साथ वृक को आशीर्वाद दिया, मानो किसी जहरीले सांप को दूध पिला रहे हों।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "આ સાંભળીને ભગવાન રુદ્ર થોડા વ્યાકુળ જણાયા. તેમ છતાં, હે ભરતના વંશજ, તેણે પોતાની સંમતિ દર્શાવવા માટે ઓમનું સ્પંદન કર્યું, જેમ કે ઝેરીલા સાપને દૂધ આપતાં વ્રકાને માર્મિક સ્મિત સાથે આશીર્વાદ આપ્યા."
+            }
+        }
+    },
+    {
+        "id": 108823,
+        "sloka": "10.88.23",
+        "verse_id": 108823,
+        "verseNumber": 23,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "To test Lord Śambhu’s benediction, the demon then tried to put his hand on the Lord’s head. Thus Śiva was frightened because of what he himself had done."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "भगवान शम्भू के आशीर्वाद की परीक्षा लेने के लिए, राक्षस ने भगवान के सिर पर अपना हाथ रखने की कोशिश की। इस प्रकार शिव स्वयं अपने किये से भयभीत हो गये।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "ભગવાન શંભુના આશીર્વાદની પરીક્ષા કરવા માટે, રાક્ષસે પછી ભગવાનના માથા પર હાથ મૂકવાનો પ્રયાસ કર્યો. આ રીતે શિવ પોતે જે કર્યું હતું તેનાથી ગભરાઈ ગયા હતા."
+            }
+        }
+    },
+    {
+        "id": 108824,
+        "sloka": "10.88.24",
+        "verse_id": 108824,
+        "verseNumber": 24,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "As the demon pursued him, Lord Śiva fled swiftly from his abode in the north, shaking with terror. He ran as far as the limits of the earth, the sky and the corners of the universe."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "जैसे ही राक्षस ने उनका पीछा किया, भगवान शिव भय से कांपते हुए उत्तर दिशा में अपने निवास से तेजी से भाग गए। वह पृथ्वी, आकाश और ब्रह्माण्ड के कोने-कोने की सीमा तक दौड़ा।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "રાક્ષસે તેનો પીછો કર્યો ત્યારે ભગવાન શિવ આતંકથી ધ્રૂજતા ઉત્તરમાં તેમના નિવાસસ્થાનમાંથી ઝડપથી ભાગી ગયા. તે પૃથ્વી, આકાશ અને બ્રહ્માંડના ખૂણે ખૂણે છેક સુધી દોડ્યો."
+            }
+        }
+    },
+    {
+        "id": 108825,
+        "sloka": "10.88.25-26",
+        "verse_id": 108825,
+        "verseNumber": 25,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "The great demigods could only remain silent, not knowing how to counteract the benediction. Then Lord Śiva reached the luminous realm of Vaikuṇṭha, beyond all darkness, where the Supreme Lord Nārāyaṇa is manifest. That realm is the destination of renunciants who have attained peace and given up all violence against other creatures. Going there, one never returns."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "महान देवता केवल चुप रह सकते थे, उन्हें नहीं पता था कि आशीर्वाद का प्रतिकार कैसे किया जाए। तब भगवान शिव सभी अंधकारों से परे, वैकुंठ के प्रकाशमान लोक में पहुँचे, जहाँ परम भगवान नारायण प्रकट हैं। वह क्षेत्र उन त्यागियों का गंतव्य है जिन्होंने शांति प्राप्त कर ली है और अन्य प्राणियों के खिलाफ सभी हिंसा छोड़ दी है। वहां जाकर कोई कभी वापस नहीं लौटता."
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "મહાન દેવતાઓ ફક્ત મૌન રહી શકે છે, આશીર્વાદનો સામનો કેવી રીતે કરવો તે જાણતા નથી. પછી ભગવાન શિવ બધા અંધકારની પેલે પાર વૈકુંઠના તેજસ્વી ક્ષેત્રમાં પહોંચ્યા, જ્યાં પરમ ભગવાન નારાયણ પ્રગટ છે. તે ક્ષેત્ર ત્યાગીઓનું સ્થળ છે જેમણે શાંતિ પ્રાપ્ત કરી છે અને અન્ય જીવો સામેની તમામ હિંસાનો ત્યાગ કર્યો છે. ત્યાં જઈએ તો ક્યારેય પાછું આવતું નથી."
+            }
+        }
+    },
+    {
+        "id": 108827,
+        "sloka": "10.88.27-28",
+        "verse_id": 108827,
+        "verseNumber": 27,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "The Supreme Lord, who relieves His devotees’ distress, had seen from afar that Lord Śiva was in danger. Thus by His mystic Yoga-māyā potency He assumed the form of a brahmacārī student, with the appropriate belt, deerskin, rod and prayer beads, and came before Vṛkāsura. The Lord’s effulgence glowed brilliantly like fire. Holding kuśa grass in His hand, He humbly greeted the demon."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "अपने भक्तों के संकट दूर करने वाले परम भगवान ने दूर से देख लिया था कि भगवान शिव खतरे में हैं। इस प्रकार अपनी रहस्यमय योग-माया शक्ति से उन्होंने उपयुक्त बेल्ट, मृगचर्म, छड़ी और प्रार्थना माला के साथ एक ब्रह्मचारी छात्र का रूप धारण किया, और वृकासुर के सामने आए। भगवान का तेज अग्नि के समान चमक रहा था। अपने हाथ में कुश घास पकड़कर, उन्होंने विनम्रतापूर्वक राक्षस का अभिवादन किया।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "પોતાના ભક્તોની તકલીફ દૂર કરનાર પરમ ભગવાને દૂરથી જોયું હતું કે ભગવાન શિવ સંકટમાં છે. આ રીતે તેમની રહસ્યમય યોગ-માયા શક્તિ દ્વારા તેમણે યોગ્ય પટ્ટો, હરણની ચામડી, લાકડી અને પ્રાર્થના માળા સાથે બ્રહ્મચારી વિદ્યાર્થીનું રૂપ ધારણ કર્યું, અને વૃકાસુરની સમક્ષ આવ્યા. ભગવાનની તેજો અગ્નિની જેમ તેજસ્વી રીતે ચમકતી હતી. પોતાના હાથમાં કુશ ઘાસ પકડીને, તેણે નમ્રતાપૂર્વક રાક્ષસને નમસ્કાર કર્યા."
+            }
+        }
+    },
+    {
+        "id": 108829,
+        "sloka": "10.88.29",
+        "verse_id": 108829,
+        "verseNumber": 29,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "The Supreme Lord said: My dear son of Śakuni, you appear tired. Why have you come such a great distance? Please rest for a minute. After all, it is one’s body that fulfills all one’s desires."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "भगवान ने कहा: मेरे प्रिय शकुनि पुत्र, तुम थके हुए प्रतीत होते हो। तुम इतनी दूर क्यों आये हो? कृपया एक मिनट आराम करें. आख़िरकार, यह उसका शरीर ही है जो उसकी सभी इच्छाओं को पूरा करता है।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "પરમ ભગવાને કહ્યું: મારા વ્હાલા સુકુણી પુત્ર, તું થાકેલો દેખાય છે. તમે આટલા મોટા અંતરે કેમ આવ્યા છો? કૃપા કરીને એક મિનિટ આરામ કરો. છેવટે, તે વ્યક્તિનું શરીર છે જે વ્યક્તિની બધી ઇચ્છાઓને પૂર્ણ કરે છે."
+            }
+        }
+    },
+    {
+        "id": 108830,
+        "sloka": "10.88.30",
+        "verse_id": 108830,
+        "verseNumber": 30,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "O mighty one, please tell Us what you intend to do, if We are qualified to hear it. Usually one accomplishes his purposes by taking help from others."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "हे पराक्रमी, कृपया हमें बताएं कि आप क्या करना चाहते हैं, यदि हम इसे सुनने के लिए योग्य हैं। सामान्यतः व्यक्ति दूसरों की सहायता लेकर अपने उद्देश्यों की पूर्ति करता है।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "હે પરાક્રમી, કૃપા કરીને અમને કહો કે તમે શું કરવા માંગો છો, જો અમે તે સાંભળવા માટે લાયક હોઈએ. સામાન્ય રીતે વ્યક્તિ અન્યની મદદ લઈને તેના હેતુઓ સિદ્ધ કરે છે."
+            }
+        }
+    },
+    {
+        "id": 108831,
+        "sloka": "10.88.31",
+        "verse_id": 108831,
+        "verseNumber": 31,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Śukadeva Gosvāmī said: Thus questioned by the Personality of Godhead in language that poured down upon him like sweet nectar, Vṛka felt relieved of his fatigue. He described to the Lord everything he had done."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "शुकदेव गोस्वामी ने कहा: इस प्रकार भगवान के व्यक्तित्व द्वारा भाषा में प्रश्न करने पर जो मीठे अमृत की तरह उन पर बरसा, वृक को अपनी थकान से राहत महसूस हुई। उसने यहोवा को वह सब कुछ बताया जो उसने किया था।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "શુકદેવ ગોસ્વામીએ કહ્યું: આ રીતે તેમના પર મધુર અમૃતની જેમ રેલાતી ભાષામાં ભગવાનના વ્યક્તિત્વ દ્વારા પ્રશ્ન કરવામાં આવ્યો, વ્રકાએ તેમના થાકથી રાહત અનુભવી. તેણે જે કર્યું હતું તે બધું તેણે ભગવાનને વર્ણવ્યું."
+            }
+        }
+    },
+    {
+        "id": 108832,
+        "sloka": "10.88.32",
+        "verse_id": 108832,
+        "verseNumber": 32,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "The Supreme Lord said: If this is the case, We cannot believe what Śiva says. Śiva is the same lord of the Pretas and Piśācas whom Dakṣa cursed to become like a carnivorous hobgoblin."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "भगवान ने कहा: यदि यह मामला है, तो हम शिव जो कहते हैं उस पर विश्वास नहीं कर सकते। शिव प्रेत और पिशाचों के वही स्वामी हैं जिन्हें दक्ष ने मांसाहारी बन जाने का श्राप दिया था।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "પરમ ભગવાને કહ્યું: જો આવું હોય તો, શિવ જે કહે છે તેના પર આપણે વિશ્વાસ કરી શકતા નથી. શિવ એ પ્રેતાસ અને પિશાકના એ જ સ્વામી છે જેમને દક્ષે માંસાહારી હોબગોબ્લિન જેવા બનવાનો શ્રાપ આપ્યો હતો."
+            }
+        }
+    },
+    {
+        "id": 108833,
+        "sloka": "10.88.33",
+        "verse_id": 108833,
+        "verseNumber": 33,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "O best of the demons, if you have any faith in him because he is the spiritual master of the universe, then without delay put your hand on your head and see what happens."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "हे राक्षसश्रेष्ठ, यदि तुम्हें उस पर जरा भी विश्वास है क्योंकि वह ब्रह्मांड का आध्यात्मिक गुरु है, तो बिना देर किए अपने सिर पर हाथ रखो और देखो क्या होता है।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "હે રાક્ષસોમાંના શ્રેષ્ઠ, જો તમને તેમનામાં વિશ્વાસ છે કારણ કે તે બ્રહ્માંડના આધ્યાત્મિક ગુરુ છે, તો વિલંબ કર્યા વિના તમારા માથા પર હાથ મૂકો અને જુઓ કે શું થાય છે."
+            }
+        }
+    },
+    {
+        "id": 108834,
+        "sloka": "10.88.34",
+        "verse_id": 108834,
+        "verseNumber": 34,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "If the words of Lord Śambhu prove untrue in any way, O best of the demons, then kill the liar so he may never lie again."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "यदि भगवान शम्भू के वचन किसी भी तरह से असत्य साबित हों, तो हे राक्षसों में श्रेष्ठ, झूठ बोलने वाले को मार डालो ताकि वह फिर कभी झूठ न बोल सके।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "જો ભગવાન શંભુના શબ્દો કોઈપણ રીતે અસત્ય સાબિત થાય છે, હે રાક્ષસોમાંના શ્રેષ્ઠ, તો પછી જૂઠને મારી નાખો જેથી તે ફરી ક્યારેય જૂઠું ન બોલી શકે."
+            }
+        }
+    },
+    {
+        "id": 108835,
+        "sloka": "10.88.35",
+        "verse_id": 108835,
+        "verseNumber": 35,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "[Śukadeva Gosvāmī continued:] Thus bewildered by the Personality of Godhead’s enchanting, artful words, foolish Vṛka, without realizing what he was doing, placed his hand on his head."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "[शुकदेव गोस्वामी ने आगे कहा:] इस प्रकार भगवान के मंत्रमुग्ध, कलात्मक शब्दों से हतप्रभ होकर, मूर्ख वृक ने यह जाने बिना कि वह क्या कर रहा है, अपना हाथ अपने सिर पर रख लिया।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "[શુકદેવ ગોસ્વામીએ ચાલુ રાખ્યું:] આ રીતે ભગવાનના મંત્રમુગ્ધ, કલાત્મક શબ્દોના વ્યક્તિત્વથી આશ્ચર્યચકિત થઈને, મૂર્ખ વ્રક, તે શું કરી રહ્યો હતો તે સમજ્યા વિના, તેના માથા પર હાથ મૂક્યો."
+            }
+        }
+    },
+    {
+        "id": 108836,
+        "sloka": "10.88.36",
+        "verse_id": 108836,
+        "verseNumber": 36,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Instantly his head shattered as if struck by a lightning bolt, and the demon fell down dead. From the sky were heard cries of “Victory!” “Obeisances!” and “Well done!”"
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "तुरन्त उसका सिर टूट गया, मानो बिजली का झटका लगा हो, और राक्षस मरकर गिर पड़ा। आकाश से \"विजय!\" के नारे सुनाई दे रहे थे। “प्रणाम!” और \"बहुत बढ़िया!\""
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "તરત જ તેનું માથું વિખેરાઈ ગયું જાણે વીજળીના ઝટકાથી અથડાઈ, અને રાક્ષસ મૃત્યુ પામ્યો. આકાશમાંથી \"વિજય!\" ની બૂમો સંભળાઈ. \"પ્રણામ!\" અને \"સારું કર્યું!\""
+            }
+        }
+    },
+    {
+        "id": 108837,
+        "sloka": "10.88.37",
+        "verse_id": 108837,
+        "verseNumber": 37,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "The celestial sages, Pitās and Gandharvas rained down flowers to celebrate the killing of sinful Vṛkāsura. Now Lord Śiva was out of danger."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "पापी वृकासुर के वध का जश्न मनाने के लिए दिव्य ऋषियों, पिताओं और गंधर्वों ने फूलों की वर्षा की। अब भगवान शिव खतरे से बाहर थे।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "આકાશી ઋષિઓ, પિતા અને ગંધર્વોએ પાપી વૃકાસુરના વધની ઉજવણી કરવા માટે પુષ્પોનો વરસાદ કર્યો. હવે ભગવાન શિવ ખતરાની બહાર હતા."
+            }
+        }
+    },
+    {
+        "id": 108838,
+        "sloka": "10.88.38-39",
+        "verse_id": 108838,
+        "verseNumber": 38,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "The Supreme Personality of Godhead then addressed Lord Giriśa, who was now out of danger: “Just see, O Mahādeva, My lord, how this wicked man has been killed by his own sinful reactions. Indeed, what living being can hope for good fortune if he offends exalted saints, what to speak of offending the lord and spiritual master of the universe?”"
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "भगवान के सर्वोच्च व्यक्तित्व ने तब भगवान गिरीश को संबोधित किया, जो अब खतरे से बाहर थे: \"बस देखो, हे महादेव, मेरे प्रभु, यह दुष्ट व्यक्ति अपने ही पापी प्रतिक्रियाओं से कैसे मारा गया है। वास्तव में, कौन सा जीवित प्राणी अच्छे भाग्य की आशा कर सकता है यदि वह श्रेष्ठ संतों को अपमानित करता है, ब्रह्मांड के स्वामी और आध्यात्मिक गुरु को अपमानित करने की तो बात ही क्या है?\""
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "ભગવાન ગીરીશને સંબોધન કર્યું, જે હવે ભયમાંથી બહાર હતા: \"જરા જુઓ, હે મહાદેવ, મારા સ્વામી, આ દુષ્ટ માણસ તેના પોતાના પાપી પ્રત્યાઘાતોથી કેવી રીતે માર્યો ગયો. ખરેખર, જો તે ઉચ્ચ સંતોને નારાજ કરે તો કયા જીવ સારા નસીબની આશા રાખી શકે, ભગવાન અને આધ્યાત્મિક બ્રહ્માંડને નારાજ કરવાની શું વાત કરવી?\""
+            }
+        }
+    },
+    {
+        "id": 108840,
+        "sloka": "10.88.40",
+        "verse_id": 108840,
+        "verseNumber": 40,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Lord Hari is the directly manifest Absolute Truth, the Supreme Soul and unlimited ocean of inconceivable energies. Anyone who recites or hears this pastime of His saving Lord Śiva will be freed from all enemies and the repetition of birth and death."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "भगवान हरि प्रत्यक्ष रूप से व्यक्त पूर्ण सत्य, परमात्मा और अकल्पनीय ऊर्जाओं के असीमित महासागर हैं। जो कोई भी भगवान शिव को बचाने की उनकी इस लीला का पाठ या श्रवण करेगा, वह सभी शत्रुओं और जन्म और मृत्यु की पुनरावृत्ति से मुक्त हो जाएगा।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "ભગવાન હરિ પ્રત્યક્ષ રીતે પ્રગટ સંપૂર્ણ સત્ય, પરમાત્મા અને અકલ્પ્ય શક્તિઓનો અમર્યાદિત સમુદ્ર છે. જે કોઈ પણ તેમના રક્ષક ભગવાન શિવના આ મનોરથનો પાઠ કરશે અથવા સાંભળશે તે બધા શત્રુઓ અને જન્મ અને મૃત્યુના પુનરાવર્તનથી મુક્ત થશે."
+            }
+        }
+    }
+]

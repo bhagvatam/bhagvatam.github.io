@@ -1,0 +1,485 @@
+[
+    {
+        "id": 100901,
+        "sloka": "10.9.1-2",
+        "verse_id": 100901,
+        "verseNumber": 1,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "One day, when all the housemaids were engaged in other duties, Mother Yaśodā, the queen of Nanda Mahārāja, personally began to churn the yogurt."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "एक दिन जब घर की सभी दासियां अन्य कार्यों में व्यस्त थीं, तब नन्द महाराज की पत्नी यशोदा माता स्वयं दही मथने लगीं।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "એક દિવસ જ્યારે ઘરની તમામ દાસીઓ અન્ય કાર્યોમાં વ્યસ્ત હતી, ત્યારે નંદ મહારાજની પત્ની યશોદા માતા પોતે દહીં મંથન કરવા લાગ્યા."
+            }
+        }
+    },
+    {
+        "id": 100903,
+        "sloka": "10.9.3",
+        "verse_id": 100903,
+        "verseNumber": 3,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Wearing a silk sari bound by a belt around her broad hips, with her breasts wet with milk out of love for her son, she churned the yogurt. Her arms were tired and her bangles and earrings shook, her face perspired, and jasmine flowers fell from her hair."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "अपने चौड़े नितंबों पर मेखला से बंधी रेशमी साड़ी पहने, पुत्र-स्नेह से स्तनों से दूध टपकते हुए वे मथने लगीं। मथने के परिश्रम से उनकी भुजाओं के कंगन और कुंडल हिल रहे थे, मुंह पर पसीना आ गया था और बालों से मालती के फूल गिर रहे थे।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "પોતાના પહોળા નિતંબો પર કંદોરાથી બાંધેલી રેશમી સાડી પહેરીને, પુત્ર-સ્નેહથી સ્તનોમાંથી દૂધ ટપકતું હતું ત્યારે તેઓ મંથન કરવા લાગ્યા. મંથનના પરિશ્રમથી તેમના હાથના કંગન અને કુંડળ હલી રહ્યા હતા, મોં પર પરસેવો વળી ગયો હતો અને વાળમાંથી માલતીના ફૂલો ખરી રહ્યા હતા."
+            }
+        }
+    },
+    {
+        "id": 100904,
+        "sloka": "10.9.4",
+        "verse_id": 100904,
+        "verseNumber": 4,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Desiring to drink milk, infant Kṛṣṇa approached His churning mother, caught hold of the churning rod, and stopped her from churning, bringing her great delight."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "दूध पीने की लालसा से, बाल कृष्ण मथती हुई अपनी माता के पास आए और मथनी को पकड़कर उन्हें मथने से रोक दिया, जिससे माता को अत्यंत आनंद मिला।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "દૂધ પીવાની લાલસાથી, બાળ કૃષ્ણ મંથન કરતી પોતાની માતા પાસે આવ્યા અને મંથની પકડીને તેમને મંથન કરતા રોકી દીધા, જેનાથી માતાને અત્યંત આનંદ મળ્યો."
+            }
+        }
+    },
+    {
+        "id": 100905,
+        "sloka": "10.9.5",
+        "verse_id": 100905,
+        "verseNumber": 5,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Mother Yaśodā placed Him on her lap and fed Him her breast milk with great joy, gazing at His smiling face. Although she was fully satisfied, she behaved as if she were still hungry for His love."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "यशोदा माता ने उन्हें अपनी गोद में बिठाया और बड़े प्रेम से स्तनपान कराने लगीं, उनके मुस्कुराते मुखड़े को निहारती रहीं। पूरी तरह संतुष्ट होने पर भी, वे ऐसी लग रही थीं मानो उनके प्रेम की प्यास अभी शांत नहीं हुई हो।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "યશોદા માતાએ તેમને પોતાના ખોળામાં બેસાડ્યા અને ખૂબ જ પ્રેમથી સ્તનપાન કરાવવા લાગ્યા, તેમના હસતા મુખડાને નિહાળી રહ્યા. પૂરી રીતે સંતુષ્ટ હોવા છતાં, તેઓ એવા લાગતા હતા જાણે તેમના પ્રેમની તરસ હજી શાંત ન થઈ હોય."
+            }
+        }
+    },
+    {
+        "id": 100906,
+        "sloka": "10.9.6",
+        "verse_id": 100906,
+        "verseNumber": 6,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Being very angry and biting His reddish lips with His teeth, Kṛṣṇa, with false tears in His eyes, broke the container of yogurt with a piece of stone. Then He entered a room and began to eat the freshly churned butter in a solitary place."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "अत्यंत क्रोधित होकर और अपने लाल होठों को दांतों से काटते हुए, कृष्ण ने आंखों में नकली आंसू भरकर, पत्थर के टुकड़े से दही के कंटेनर को तोड़ दिया। फिर वह एक कमरे में घुस गया और एकांत स्थान पर ताजा मथा हुआ मक्खन खाने लगा।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "ખૂબ જ ક્રોધિત થઈને અને તેમના લાલ થઈ ગયેલા હોઠને તેમના દાંત વડે કરડતા, કૃષ્ણએ, તેમની આંખોમાં ખોટા આંસુ સાથે, દહીંના પાત્રને પથ્થરના ટુકડાથી તોડી નાખ્યા. પછી તે એક ઓરડામાં ગયો અને એકાંત જગ્યાએ તાજું મંથેલું માખણ ખાવા લાગ્યો."
+            }
+        }
+    },
+    {
+        "id": 100907,
+        "sloka": "10.9.7",
+        "verse_id": 100907,
+        "verseNumber": 7,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Mother Yaśodā, after taking down the hot milk from the oven, returned to the churning spot, and when she saw that the container of yogurt was broken and that Kṛṣṇa was not present, she concluded that the breaking of the pot was the work of Kṛṣṇa."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "माता यशोदा, ओवन से गर्म दूध उतारने के बाद, मंथन स्थल पर लौट आईं, और जब उन्होंने देखा कि दही का कंटेनर टूटा हुआ था और कृष्ण मौजूद नहीं थे, तो उन्होंने निष्कर्ष निकाला कि बर्तन को तोड़ना कृष्ण का काम था।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "માતા યશોદા, પકાવવાની નાની ભઠ્ઠીમાંથી ગરમ દૂધ ઉતાર્યા પછી, મંથન સ્થળ પર પાછા ફર્યા, અને જ્યારે તેમણે જોયું કે દહીંનું પાત્ર તૂટી ગયું હતું અને કૃષ્ણ હાજર નથી, ત્યારે તેણીએ તારણ કાઢ્યું કે વાસણ તોડવું એ કૃષ્ણનું કામ હતું."
+            }
+        }
+    },
+    {
+        "id": 100908,
+        "sloka": "10.9.8",
+        "verse_id": 100908,
+        "verseNumber": 8,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Kṛṣṇa, at that time, was sitting on an upside-down wooden mortar for grinding spices and was distributing milk preparations such as yogurt and butter to the monkeys as He liked. Because of having stolen, He was looking all around with great anxiety, suspecting that He might be chastised by His mother. Mother Yaśodā, upon seeing Him, very cautiously approached Him from behind."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "कृष्ण, उस समय, मसाले पीसने के लिए एक उलटे लकड़ी के ओखली पर बैठे थे और अपनी पसंद के अनुसार बंदरों को दही और मक्खन जैसी दूध की चीज़ें वितरित कर रहे थे। चोरी करने के कारण वह बड़ी चिंता से इधर-उधर देख रहा था, उसे संदेह था कि कहीं उसकी माँ उसे ताड़ना न दे दे। उन्हें देखकर माता यशोदा बहुत सावधानी से पीछे से उनके पास आईं।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "કૃષ્ણ, તે સમયે, મસાલા પીસવા માટે લાકડાના ઉંધા મોર્ટાર પર બેઠા હતા અને તેમને ગમતા વાંદરાઓને દૂધની તૈયારીઓ જેમ કે દહીં અને માખણ વહેંચી રહ્યા હતા. ચોરી કરવાને કારણે, તે ખૂબ જ ચિંતા સાથે ચારે બાજુ જોઈ રહ્યો હતો, એવી શંકા હતી કે તેની માતા તેને શિક્ષા કરશે. માતા યશોદા, તેમને જોઈને, ખૂબ જ સાવધાનીપૂર્વક પાછળથી તેમની પાસે આવી."
+            }
+        }
+    },
+    {
+        "id": 100909,
+        "sloka": "10.9.9",
+        "verse_id": 100909,
+        "verseNumber": 9,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "When Lord Śrī Kṛṣṇa saw His mother, stick in hand, He very quickly got down from the top of the mortar and began to flee as if very much afraid. Although yogīs try to capture Him as Paramātmā by meditation, desiring to enter into the effulgence of the Lord with great austerities and penances, they fail to reach Him. But mother Yaśodā, thinking that same Personality of Godhead, Kṛṣṇa, to be her son, began following Kṛṣṇa to catch Him."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "जब भगवान श्रीकृष्ण ने अपनी माँ को हाथ में छड़ी लिए देखा, तो वे बहुत तेजी से ओखली के ऊपर से उतरे और भागने लगे जैसे कि बहुत डर गए हों। हालाँकि योगी ध्यान द्वारा उन्हें परमात्मा के रूप में पकड़ने की कोशिश करते हैं, लेकिन बड़ी तपस्या और तपस्या के साथ भगवान की चमक में प्रवेश करने की इच्छा रखते हैं, लेकिन वे उन तक पहुँचने में असफल होते हैं। लेकिन माता यशोदा, उन्हीं भगवान कृष्ण को अपना पुत्र मानकर, उन्हें पकड़ने के लिए कृष्ण का पीछा करने लगीं।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "જ્યારે ભગવાન શ્રી કૃષ્ણએ તેમની માતાને હાથમાં લાકડી જોયા, ત્યારે તેઓ ખૂબ જ ઝડપથી મોર્ટારની ટોચ પરથી નીચે ઉતર્યા અને ખૂબ જ ડરેલા હોય તેમ ભાગવા લાગ્યા. જો કે યોગીઓ તેમને ધ્યાન દ્વારા પરમાત્મા તરીકે પકડવાનો પ્રયાસ કરે છે, મહાન તપસ્યા અને તપસ્યા સાથે ભગવાનના પ્રકાશમાં પ્રવેશવાની ઇચ્છા રાખે છે, તેઓ તેમના સુધી પહોંચવામાં નિષ્ફળ જાય છે. પરંતુ માતા યશોદાએ, તે જ પરમેશ્વર, કૃષ્ણને પોતાનો પુત્ર માનીને, તેમને પકડવા માટે કૃષ્ણને અનુસરવાનું શરૂ કર્યું."
+            }
+        }
+    },
+    {
+        "id": 100910,
+        "sloka": "10.9.10",
+        "verse_id": 100910,
+        "verseNumber": 10,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "While following Kṛṣṇa, mother Yaśodā, her thin waist overburdened by her heavy breasts, naturally had to reduce her speed. Because of following Kṛṣṇa very swiftly, her hair became loose, and the flowers in her hair were falling after her. Yet she did not fail to capture her son, Kṛṣṇa."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "कृष्ण का अनुसरण करते समय माता यशोदा को, जिनकी पतली कमर उनके भारी स्तनों के बोझ से दबी हुई थी, स्वाभाविक रूप से अपनी गति कम करनी पड़ी। बहुत तेजी से कृष्ण का अनुसरण करने के कारण, उसके बाल ढीले हो गए और उसके बालों में लगे फूल उसके पीछे गिर रहे थे। फिर भी वह अपने पुत्र कृष्ण को पकड़ने में असफल नहीं हुई।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "કૃષ્ણ, માતા યશોદાનું અનુસરણ કરતી વખતે, તેની પાતળી કમર તેના ભારે સ્તનોથી દબાયેલી હતી, સ્વાભાવિક રીતે તેની ગતિ ઓછી કરવી પડી હતી. કૃષ્ણને ખૂબ જ ઝડપથી અનુસરવાને કારણે, તેના વાળ છૂટા થઈ ગયા, અને તેના વાળમાં ફૂલો તેની પાછળ પડી રહ્યા હતા. તેમ છતાં તેણી તેના પુત્ર, કૃષ્ણને પકડવામાં નિષ્ફળ ન હતી."
+            }
+        }
+    },
+    {
+        "id": 100911,
+        "sloka": "10.9.11",
+        "verse_id": 100911,
+        "verseNumber": 11,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "When caught by mother Yaśodā, Kṛṣṇa became more and more afraid and admitted to being an offender. As she looked upon Him, she saw that He was crying, His tears mixing with the black ointment around His eyes, and as He rubbed His eyes with His hands, He smeared the ointment all over His face. Mother Yaśodā, catching her beautiful son by the hand, mildly began to chastise Him."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "माता यशोदा द्वारा पकड़े जाने पर कृष्ण और अधिक भयभीत हो गए और उन्होंने अपराधी होना स्वीकार कर लिया। जैसे ही उसने उस पर नज़र डाली, उसने देखा कि वह रो रहा था, उसके आँसू उसकी आँखों के चारों ओर काले मरहम के साथ मिल रहे थे, और जैसे ही उसने अपनी आँखों को अपने हाथों से रगड़ा, उसने अपने पूरे चेहरे पर मलहम लगा लिया। माता यशोदा अपने सुन्दर पुत्र का हाथ पकड़कर उसे धीरे-धीरे डांटने लगीं।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "જ્યારે માતા યશોદા દ્વારા પકડાયો, ત્યારે કૃષ્ણ વધુ ને વધુ ડરતા ગયા અને ગુનેગાર હોવાનું સ્વીકાર્યું. જ્યારે તેણીએ તેની તરફ જોયું, તેણીએ જોયું કે તે રડતો હતો, તેના આંસુ તેની આંખોની આસપાસ કાળા મલમ સાથે ભળી રહ્યા હતા, અને જ્યારે તેણે તેની આંખોને તેના હાથથી ઘસ્યો, ત્યારે તેણે તેના આખા ચહેરા પર મલમ લગાવ્યું. માતા યશોદા, તેના સુંદર પુત્રને હાથથી પકડીને, હળવાશથી તેને શિક્ષા કરવા લાગી."
+            }
+        }
+    },
+    {
+        "id": 100912,
+        "sloka": "10.9.12",
+        "verse_id": 100912,
+        "verseNumber": 12,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Mother Yaśodā was always overwhelmed by intense love for Kṛṣṇa, not knowing who Kṛṣṇa was or how powerful He was. Because of maternal affection for Kṛṣṇa, she never even cared to know who He was. Therefore, when she saw that her son had become excessively afraid, she threw the stick away and desired to bind Him so that He would not commit any further naughty activities."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "माता यशोदा हमेशा कृष्ण के प्रति गहन प्रेम से अभिभूत रहती थीं, यह नहीं जानती थीं कि कृष्ण कौन थे या कितने शक्तिशाली थे। कृष्ण के प्रति मातृ स्नेह के कारण, उसने कभी यह जानने की भी परवाह नहीं की कि वह कौन थे। इसलिए, जब उसने देखा कि उसका बेटा अत्यधिक भयभीत हो गया है, तो उसने छड़ी फेंक दी और उसे बाँधना चाहा ताकि वह आगे कोई शरारत न करे।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "માતા યશોદા હંમેશા કૃષ્ણ પ્રત્યેના તીવ્ર પ્રેમથી અભિભૂત હતી, તે જાણતી ન હતી કે કૃષ્ણ કોણ છે અથવા તે કેટલા શક્તિશાળી છે. કૃષ્ણ માટે માતૃત્વના સ્નેહને કારણે, તેણીએ ક્યારેય તે જાણવાની પણ પરવા કરી ન હતી કે તે કોણ છે. તેથી, જ્યારે તેણીએ જોયું કે તેનો પુત્ર અતિશય ભયભીત થઈ ગયો છે, ત્યારે તેણીએ લાકડી ફેંકી દીધી અને તેને બાંધવાની ઇચ્છા કરી જેથી તે આગળ કોઈ તોફાની પ્રવૃત્તિઓ ન કરે."
+            }
+        }
+    },
+    {
+        "id": 100913,
+        "sloka": "10.9.13-14",
+        "verse_id": 100913,
+        "verseNumber": 13,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "The Supreme Personality of Godhead has no beginning and no end, no exterior and no interior, no front and no rear. In other words, He is all-pervading. Because He is not under the influence of the element of time, for Him there is no difference between past, present and future; He exists in His own transcendental form at all times. Being absolute, beyond relativity, He is free from distinctions between cause and effect, although He is the cause and effect of everything. That unmanifested person, who is beyond the perception of the senses, had now appeared as a human child, and mother Yaśodā, considering Him her own ordinary child, bound Him to the wooden mortar with a rope."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "भगवान के परम व्यक्तित्व का न कोई आरंभ है और न कोई अंत, न कोई बाहरी और न भीतरी भाग, न कोई आगे और न कोई पीछे। दूसरे शब्दों में, वह सर्वव्यापी है। क्योंकि वह काल तत्व के प्रभाव में नहीं है, उसके लिए भूत, वर्तमान और भविष्य में कोई अंतर नहीं है; वह हर समय अपने दिव्य रूप में मौजूद रहता है। निरपेक्ष होने के कारण, सापेक्षता से परे, वह कारण और प्रभाव के बीच भेद से मुक्त है, हालाँकि वह हर चीज़ का कारण और प्रभाव है। वह अव्यक्त व्यक्ति, जो इंद्रियों की धारणा से परे है, अब एक मानव बच्चे के रूप में प्रकट हुआ था और माता यशोदा ने उसे अपना साधारण बच्चा समझकर रस्सी से लकड़ी के ओखली से बांध दिया।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "પરમપુરુષ ભગવાનની કોઈ શરૂઆત નથી અને કોઈ અંત નથી, કોઈ બાહ્ય અને આંતરિક નથી, આગળ અને પાછળ નથી. બીજા શબ્દોમાં કહીએ તો, તે સર્વવ્યાપી છે. કારણ કે તે સમયના તત્વના પ્રભાવ હેઠળ નથી, તેના માટે ભૂતકાળ, વર્તમાન અને ભવિષ્ય વચ્ચે કોઈ તફાવત નથી; તે દરેક સમયે પોતાના દિવ્ય સ્વરૂપમાં અસ્તિત્વ ધરાવે છે. નિરપેક્ષ હોવાથી, સાપેક્ષતાની બહાર, તે કારણ અને અસર વચ્ચેના ભેદથી મુક્ત છે, જો કે તે દરેક વસ્તુનું કારણ અને અસર છે. તે અપ્રગટ વ્યક્તિ, જે ઇન્દ્રિયોની ધારણાની બહાર છે, તે હવે માનવ બાળકના રૂપમાં પ્રગટ થયો હતો, અને માતા યશોદાએ, તેને પોતાનું સામાન્ય બાળક માનીને, તેને દોરડા વડે લાકડાના મોર્ટાર સાથે બાંધ્યો હતો."
+            }
+        }
+    },
+    {
+        "id": 100915,
+        "sloka": "10.9.15",
+        "verse_id": 100915,
+        "verseNumber": 15,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "When mother Yaśodā was trying to bind the offending child, she saw that the binding rope was short by a distance the width of two fingers. Thus she brought another rope to join to it."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "जब यशोदा माता उस बालक को बाँधने का प्रयत्न कर रही थीं, तब उन्होंने देखा कि बाँधने वाली रस्सी दो अंगुल चौड़ी छोटी थी। इस प्रकार वह उसे जोड़ने के लिए एक और रस्सी ले आई।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "જ્યારે માતા યશોદા વાંધાજનક બાળકને બાંધવાનો પ્રયાસ કરી રહી હતી, ત્યારે તેણે જોયું કે બંધનનું દોરડું બે આંગળીઓની પહોળાઈથી થોડે દૂર હતું. આમ તે તેની સાથે જોડાવા માટે બીજો દોર લાવ્યો."
+            }
+        }
+    },
+    {
+        "id": 100916,
+        "sloka": "10.9.16",
+        "verse_id": 100916,
+        "verseNumber": 16,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "This new rope also was short by a measurement of two fingers, and when another rope was joined to it, it was still two fingers too short. As many ropes as she joined, all of them failed; their shortness could not be overcome."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "यह नई रस्सी भी दो अंगुल छोटी थी और जब इसमें दूसरी रस्सी जोड़ी गई, तब भी वह दो अंगुल छोटी थी। उसने जितनी रस्सियाँ जोड़ीं, वे सब विफल हो गईं; उनकी लघुता को दूर नहीं किया जा सका।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "આ નવો દોરડો પણ બે આંગળીઓના માપથી ટૂંકો હતો, અને જ્યારે તેની સાથે બીજો દોરડો જોડાયો હતો, ત્યારે તે હજી પણ બે આંગળીઓ ખૂબ ટૂંકો હતો. તેણીએ જેટલા દોરડાં જોડ્યા, તે બધા નિષ્ફળ ગયા; તેમની તંગી દૂર કરી શકાઈ નથી."
+            }
+        }
+    },
+    {
+        "id": 100917,
+        "sloka": "10.9.17",
+        "verse_id": 100917,
+        "verseNumber": 17,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Thus mother Yaśodā joined whatever ropes were available in the household, but still she failed in her attempt to bind Kṛṣṇa. Mother Yaśodā’s friends, the elderly gopīs in the neighborhood, were smiling and enjoying the fun. Similarly, mother Yaśodā, although laboring in that way, was also smiling. All of them were struck with wonder."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "इस प्रकार माता यशोदा ने घर में जो भी रस्सियाँ उपलब्ध थीं, उन्हें जोड़ दिया, लेकिन फिर भी वह कृष्ण को बाँधने के अपने प्रयास में विफल रहीं। माँ यशोदा की सखियाँ, पड़ोस की बुजुर्ग गोपियाँ, मुस्कुरा रही थीं और आनंद ले रही थीं। इसी प्रकार माता यशोदा भी परिश्रम करते हुए भी मुस्कुरा रही थीं। वे सभी आश्चर्यचकित रह गये।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "આમ માતા યશોદા ઘરમાં જે પણ દોરડાં ઉપલબ્ધ હતા તેમાં જોડાઈ, પરંતુ તેમ છતાં તે કૃષ્ણને બાંધવાના પ્રયત્નમાં નિષ્ફળ ગઈ. માતા યશોદાના મિત્રો, પડોશની વૃદ્ધ ગોપીઓ, હસતા અને આનંદ માણી રહ્યા હતા. તેવી જ રીતે, માતા યશોદા, જો કે તે રીતે શ્રમ કરતી હતી, તે પણ હસતી હતી. સૌ આશ્ચર્યચકિત થઈ ગયા."
+            }
+        }
+    },
+    {
+        "id": 100918,
+        "sloka": "10.9.18",
+        "verse_id": 100918,
+        "verseNumber": 18,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Because of mother Yaśodā’s hard labor, her whole body became covered with perspiration, and the flowers and comb were falling from her hair. When child Kṛṣṇa saw His mother thus fatigued, He became merciful to her and agreed to be bound."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "माता यशोदा के कठिन परिश्रम के कारण उनका पूरा शरीर पसीने से लथपथ हो गया और उनके बालों से फूल और कंघी झड़ने लगी। जब बालक कृष्ण ने अपनी माँ को इस प्रकार थका हुआ देखा, तो वह उन पर दयालु हो गये और बंधन में बंधने को तैयार हो गये।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "માતા યશોદાના સખત પરિશ્રમને કારણે, તેમનું આખું શરીર પરસેવાથી ઢંકાયેલું હતું, અને તેના વાળમાંથી ફૂલો અને કાંસકો ખરી રહ્યા હતા. જ્યારે બાળક કૃષ્ણે તેમની માતાને આ રીતે થાકેલી જોઈ, ત્યારે તેઓ તેમના પર દયાળુ બન્યા અને બંધનમાં આવવા સંમત થયા."
+            }
+        }
+    },
+    {
+        "id": 100919,
+        "sloka": "10.9.19",
+        "verse_id": 100919,
+        "verseNumber": 19,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "O Mahārāja Parīkṣit, this entire universe, with its great, exalted demigods like Lord Śiva, Lord Brahmā and Lord Indra, is under the control of the Supreme Personality of Godhead. Yet the Supreme Lord has one transcendental attribute: He comes under the control of His devotees. This was now exhibited by Kṛṣṇa in this pastime."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "हे महाराज परीक्षित, यह संपूर्ण ब्रह्मांड, भगवान शिव, भगवान ब्रह्मा और भगवान इंद्र जैसे महान, श्रेष्ठ देवताओं के साथ, भगवान के नियंत्रण में है। फिर भी सर्वोच्च भगवान का एक दिव्य गुण है: वह अपने भक्तों के नियंत्रण में आते हैं। यह अब कृष्ण द्वारा इस लीला में प्रदर्शित किया गया था।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "હે મહારાજ પરિક્ષિત, આ સમગ્ર બ્રહ્માંડ, તેના મહાન, સર્વોત્તમ દેવતાઓ જેવા કે ભગવાન શિવ, ભગવાન બ્રહ્મા અને ભગવાન ઇન્દ્ર, પરમપુરુષ ભગવાનના નિયંત્રણમાં છે. છતાં સર્વોચ્ચ ભગવાનનું એક દિવ્ય લક્ષણ છે: તેઓ તેમના ભક્તોના નિયંત્રણ હેઠળ આવે છે. હવે આ મનોરંજનમાં કૃષ્ણ દ્વારા પ્રદર્શિત કરવામાં આવ્યું હતું."
+            }
+        }
+    },
+    {
+        "id": 100920,
+        "sloka": "10.9.20",
+        "verse_id": 100920,
+        "verseNumber": 20,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Neither Lord Brahmā, nor Lord Śiva, nor even the goddess of fortune, who is always the better half of the Supreme Lord, can obtain from the Supreme Personality of Godhead, the deliverer from this material world, such mercy as received by mother Yaśodā."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "न तो भगवान ब्रह्मा, न ही भगवान शिव, और न ही भाग्य की देवी, जो हमेशा परम भगवान की अर्धांगिनी हैं, इस भौतिक संसार से मुक्ति दिलाने वाले भगवान के परम व्यक्तित्व से ऐसी दया प्राप्त कर सकती हैं जैसी माता यशोदा को प्राप्त हुई थी।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "ન તો ભગવાન બ્રહ્મા, ન ભગવાન શિવ, ન તો સૌભાગ્યની દેવી, જે હંમેશા સર્વશ્રેષ્ઠ ભગવાનના અર્ધભાગ છે, તે ભગવાનના પરમ પુરૂષ, આ ભૌતિક જગતમાંથી મુક્તિ આપનાર, માતા યશોદા દ્વારા પ્રાપ્ત થયેલી દયા પાસેથી મેળવી શકે છે."
+            }
+        }
+    },
+    {
+        "id": 100921,
+        "sloka": "10.9.21",
+        "verse_id": 100921,
+        "verseNumber": 21,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "The Supreme Personality of Godhead, Kṛṣṇa, the son of mother Yaśodā, is accessible to devotees engaged in spontaneous loving service, but He is not as easily accessible to mental speculators, to those striving for self-realization by severe austerities and penances, or to those who consider the body the same as the self."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "माता यशोदा के पुत्र भगवान कृष्ण, सहज प्रेमपूर्ण सेवा में लगे भक्तों के लिए सुलभ हैं, लेकिन वे मानसिक अटकलों के लिए, गंभीर तपस्या और तपस्या द्वारा आत्म-प्राप्ति के लिए प्रयास करने वालों के लिए, या उन लोगों के लिए इतनी आसानी से सुलभ नहीं हैं जो शरीर को स्वयं के समान मानते हैं।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "ભગવાનના પરમ પુરૂષ, કૃષ્ણ, માતા યશોદાના પુત્ર, સ્વયંસ્ફુરિત પ્રેમાળ સેવામાં રોકાયેલા ભક્તો માટે સુલભ છે, પરંતુ તે માનસિક સટ્ટાખોરો માટે, ગંભીર તપ અને તપસ્યા દ્વારા આત્મ-સાક્ષાત્કાર માટે પ્રયત્નશીલ લોકો માટે, અથવા જેઓ શરીરને સમાન માને છે તેમના માટે તે સરળતાથી સુલભ નથી."
+            }
+        }
+    },
+    {
+        "id": 100922,
+        "sloka": "10.9.22",
+        "verse_id": 100922,
+        "verseNumber": 22,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "While mother Yaśodā was very busy with household affairs, the Supreme Lord, Kṛṣṇa, observed twin trees known as yamala-arjuna, which in a former millennium had been the demigod sons of Kuvera."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "जब माता यशोदा घरेलू मामलों में बहुत व्यस्त थीं, परम भगवान कृष्ण ने यमला-अर्जुन नामक जुड़वां पेड़ों को देखा, जो पूर्व सहस्राब्दी में कुवेरा के देवता पुत्र थे।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "જ્યારે માતા યશોદા ઘરગથ્થુ બાબતોમાં ખૂબ જ વ્યસ્ત હતી, ત્યારે પરમ ભગવાન, કૃષ્ણે, યમલા-અર્જુન તરીકે ઓળખાતા જોડિયા વૃક્ષોનું અવલોકન કર્યું, જે પૂર્વ સહસ્ત્રાબ્દીમાં કુવેરના અર્ધદેવ પુત્રો હતા."
+            }
+        }
+    },
+    {
+        "id": 100923,
+        "sloka": "10.9.23",
+        "verse_id": 100923,
+        "verseNumber": 23,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "In their former birth, these two sons, known as Nalakūvara and Maṇigrīva, were extremely opulent and fortunate. But because of pride and false prestige, they did not care about anyone, and thus Nārada Muni cursed them to become trees."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "अपने पूर्व जन्म में, ये दोनों पुत्र, जिन्हें नलकुवर और मणिग्रीव के नाम से जाना जाता था, अत्यंत ऐश्वर्यशाली और भाग्यशाली थे। लेकिन घमंड और झूठी शान के कारण उन्हें किसी की परवाह नहीं थी, इसलिए नारद मुनि ने उन्हें पेड़ बन जाने का श्राप दे दिया।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "તેમના પૂર્વ જન્મમાં, આ બે પુત્રો, જેઓ નલકુવર અને મણિગ્રીવ તરીકે ઓળખાય છે, અત્યંત સમૃદ્ધ અને ભાગ્યશાળી હતા. પરંતુ અભિમાન અને ખોટી પ્રતિષ્ઠાને લીધે, તેઓએ કોઈની પરવા કરી નહીં, અને આ રીતે નારદ મુનિએ તેમને વૃક્ષ બનવાનો શ્રાપ આપ્યો."
+            }
+        }
+    }
+]

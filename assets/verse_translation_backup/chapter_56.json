@@ -1,0 +1,968 @@
+[
+    {
+        "id": 105601,
+        "sloka": "10.56.1",
+        "verse_id": 105601,
+        "verseNumber": 1,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Śukadeva Gosvāmī said: Having offended Lord Kṛṣṇa, Satrājit tried as best he could to atone by presenting Him with his daughter and the Syamantaka jewel."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "शुकदेव गोस्वामी ने कहा: भगवान कृष्ण को नाराज करने के बाद, सत्राजित ने उन्हें अपनी बेटी और स्यमंतक मणि भेंट करके प्रायश्चित करने की पूरी कोशिश की।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "શુકદેવ ગોસ્વામીએ કહ્યું: ભગવાન કૃષ્ણને નારાજ કર્યા પછી, સત્રાજિતે તેમને તેમની પુત્રી અને શ્યામંતક રત્ન સાથે પ્રસ્તુત કરીને પ્રાયશ્ચિત કરવાનો શ્રેષ્ઠ પ્રયાસ કર્યો."
+            }
+        }
+    },
+    {
+        "id": 105602,
+        "sloka": "10.56.2",
+        "verse_id": 105602,
+        "verseNumber": 2,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Mahārāja Parīkṣit inquired: O brāhmaṇa, what did King Satrājit do to offend Lord Kṛṣṇa? Where did he get the Syamantaka jewel, and why did he give his daughter to the Supreme Lord?"
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "महाराज परीक्षित ने पूछा: हे ब्राह्मण, राजा सत्राजित ने भगवान कृष्ण को अपमानित करने के लिए क्या किया? उन्हें स्यमन्तक मणि कहाँ से मिली और उन्होंने अपनी पुत्री भगवान को क्यों दे दी?"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "મહારાજ પરીક્ષિતે પૂછ્યું: હે બ્રાહ્મણ, રાજા સત્રાજીતે ભગવાન કૃષ્ણને નારાજ કરવા શું કર્યું? તેને સ્યામંતક રત્ન ક્યાંથી મળ્યું અને તેણે તેની પુત્રી પરમ ભગવાનને શા માટે આપી?"
+            }
+        }
+    },
+    {
+        "id": 105603,
+        "sloka": "10.56.3",
+        "verse_id": 105603,
+        "verseNumber": 3,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Śukadeva Gosvāmī said: Sūrya, the sun-god, felt great affection for his devotee Satrājit. Acting as his greatest friend, the demigod gave him the jewel called Syamantaka as a token of his satisfaction."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "शुकदेव गोस्वामी ने कहा: सूर्यदेव, अपने भक्त सत्राजित के प्रति बहुत स्नेह महसूस करते थे। उनके सबसे अच्छे मित्र के रूप में कार्य करते हुए, देवता ने उनकी संतुष्टि के प्रतीक के रूप में उन्हें स्यमंतक नामक रत्न दिया।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "શુકદેવ ગોસ્વામીએ કહ્યું: સૂર્ય, સૂર્યદેવ, તેમના ભક્ત સત્રાજિત માટે ખૂબ જ સ્નેહ અનુભવતા હતા. તેમના સૌથી મોટા મિત્ર તરીકે અભિનય કરતા, દેવતાએ તેમને તેમના સંતોષના પ્રતીક તરીકે સ્યામંતક નામનું રત્ન આપ્યું."
+            }
+        }
+    },
+    {
+        "id": 105604,
+        "sloka": "10.56.4",
+        "verse_id": 105604,
+        "verseNumber": 4,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Wearing the jewel on his neck, Satrājit entered Dvārakā. He shone as brightly as the sun itself, O King, and thus he went unrecognized because of the jewel’s effulgence."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "सत्राजित ने मणि गले में धारण करके द्वारका में प्रवेश किया। हे राजा, वह सूर्य के समान ही चमक रहा था, और इस प्रकार मणि की चमक के कारण वह पहचाना नहीं जा सका।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "પોતાના ગળામાં રત્ન પહેરીને, સત્રાજીત દ્વારકામાં પ્રવેશ્યા. હે રાજા, તે સૂર્યની જેમ જ ચમકતો હતો અને આ રીતે તે રત્નનાં તેજને કારણે અજાણ્યો હતો."
+            }
+        }
+    },
+    {
+        "id": 105605,
+        "sloka": "10.56.5",
+        "verse_id": 105605,
+        "verseNumber": 5,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "As the people looked at Satrājit from a distance, his brilliance blinded them. They presumed he was the sun-god, Sūrya, and went to tell Lord Kṛṣṇa, who was at that time playing at dice."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "जैसे ही लोगों ने सत्राजित को दूर से देखा, उसकी चमक ने उन्हें अंधा कर दिया। उन्होंने मान लिया कि वह सूर्यदेव हैं, और भगवान कृष्ण को बताने गए, जो उस समय पासा खेल रहे थे।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "જેમ જેમ લોકોએ દૂરથી સત્રાજીતને જોયો, ત્યારે તેની તેજસ્વીતાએ તેમને આંધળા કરી દીધા. તેઓએ ધાર્યું કે તે સૂર્ય-દેવ, સૂર્ય છે, અને ભગવાન કૃષ્ણને કહેવા ગયા, જે તે સમયે પાસા પર રમતા હતા."
+            }
+        }
+    },
+    {
+        "id": 105606,
+        "sloka": "10.56.6",
+        "verse_id": 105606,
+        "verseNumber": 6,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "[The residents of Dvārakā said:] Obeisances unto You, O Nārāyaṇa, O holder of the conch, disc and club, O lotus-eyed Dāmodara, O Govinda, O cherished descendant of Yadu!"
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "[द्वारका के निवासियों ने कहा:] हे नारायण, हे शंख, चक्र और गदा धारक, हे कमल-नयन दामोदर, हे गोविंद, हे यदु के प्रिय वंशज, आपको नमस्कार है!"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "[દ્વારકાના રહેવાસીઓએ કહ્યું:] હે નારાયણ, હે શંખ, ચકલી અને ક્લબ ધારણ કરનાર, હે કમળવાળા દામોદરા, હે ગોવિંદ, હે યદુના પ્રિય વંશજ, તમને પ્રણામ!"
+            }
+        }
+    },
+    {
+        "id": 105607,
+        "sloka": "10.56.7",
+        "verse_id": 105607,
+        "verseNumber": 7,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Lord Savitā has come to see You, O Lord of the universe. He is blinding everyone’s eyes with his intensely effulgent rays."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "हे ब्रह्मांड के भगवान, भगवान सविता आपसे मिलने आए हैं। वह अपनी तीव्र दैदीप्यमान किरणों से सबकी आँखों को अँधेरा कर रहा है।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "હે સૃષ્ટિના ભગવાન, ભગવાન સવિતા તમને જોવા આવ્યા છે. તે તેના તીવ્ર પ્રખર કિરણોથી દરેકની આંખો આંજી નાખે છે."
+            }
+        }
+    },
+    {
+        "id": 105608,
+        "sloka": "10.56.8",
+        "verse_id": 105608,
+        "verseNumber": 8,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "The most exalted demigods in the three worlds are certainly anxious to seek You out, O Lord, now that You have hidden Yourself among the Yadu dynasty. Thus the unborn sun-god has come to see You here."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "हे भगवान, अब जब आपने स्वयं को यदुवंशियों के बीच छिपा रखा है, तो तीनों लोकों में सबसे श्रेष्ठ देवता निश्चित रूप से आपको ढूंढने के लिए उत्सुक हैं। इस प्रकार अजन्मा सूर्यदेव यहाँ आपको देखने आये हैं।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "હે ભગવાન, હવે તમે યદુ વંશની વચ્ચે તમારી જાતને છુપાવી દીધી છે તે ત્રણેય લોકના સર્વોત્તમ દેવતાઓ ચોક્કસપણે તમને શોધવા માટે બેચેન છે. આમ અજન્મા સૂર્યદેવ અહીં તમારા દર્શન કરવા આવ્યા છે."
+            }
+        }
+    },
+    {
+        "id": 105609,
+        "sloka": "10.56.9",
+        "verse_id": 105609,
+        "verseNumber": 9,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Śukadeva Gosvāmī continued: Hearing these innocent words, the lotus-eyed Lord smiled broadly and said, “This is not the sun-god, Ravi, but rather Satrājit, who is glowing because of his jewel.”"
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "शुकदेव गोस्वामी ने आगे कहा: इन मासूम शब्दों को सुनकर, कमल-नयन भगवान व्यापक रूप से मुस्कुराए और कहा, \"यह सूर्य-देवता रवि नहीं हैं, बल्कि सत्राजित हैं, जो अपने रत्न के कारण चमक रहे हैं।\""
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "શુકદેવ ગોસ્વામીએ ચાલુ રાખ્યું: આ નિર્દોષ શબ્દો સાંભળીને, કમળની આંખોવાળા ભગવાન વ્યાપકપણે હસ્યા અને કહ્યું, \"આ સૂર્યદેવ રવિ નથી, પરંતુ સત્રાજિત છે, જે તેના રત્નને કારણે ચમકે છે.\""
+            }
+        }
+    },
+    {
+        "id": 105610,
+        "sloka": "10.56.10",
+        "verse_id": 105610,
+        "verseNumber": 10,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "King Satrājit entered his opulent home, festively executing auspicious rituals. He had qualified brāhmaṇas install the Syamantaka jewel in the house’s temple room."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "राजा सत्राजित ने उत्सवपूर्वक शुभ अनुष्ठान करते हुए अपने वैभवशाली घर में प्रवेश किया। उन्होंने योग्य ब्राह्मणों से घर के मंदिर कक्ष में स्यमंतक रत्न स्थापित करवाया।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "રાજા સત્રાજીત તેમના ભવ્ય ઘરમાં પ્રવેશ્યા, ઉત્સવપૂર્વક શુભ વિધિઓ ચલાવતા. તેણે લાયકાત ધરાવતા બ્રાહ્મણોને ઘરના મંદિરના રૂમમાં સ્યામંતક રત્ન સ્થાપિત કર્યા હતા."
+            }
+        }
+    },
+    {
+        "id": 105611,
+        "sloka": "10.56.11",
+        "verse_id": 105611,
+        "verseNumber": 11,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Each day the gem would produce eight bhāras of gold, my dear Prabhu, and the place in which it was kept and properly worshiped would be free of calamities such as famine or untimely death, and also of evils like snake bites, mental and physical disorders and the presence of deceitful persons."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "मेरे प्रिय प्रभु, हर दिन मणि आठ भार सोना पैदा करती थी, और जिस स्थान पर इसे रखा जाता था और उचित तरीके से पूजा की जाती थी, वह अकाल या असामयिक मृत्यु जैसी आपदाओं से मुक्त हो जाता था, और साँप के काटने, मानसिक और शारीरिक विकारों और धोखेबाज व्यक्तियों की उपस्थिति जैसी बुराइयों से भी मुक्त हो जाता था।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "મારા વ્હાલા પ્રભુ, રત્ન દરરોજ આઠ ભાર સોનાનું ઉત્પાદન કરશે, અને જે સ્થાનમાં તેને રાખવામાં આવે છે અને તેની યોગ્ય રીતે પૂજા કરવામાં આવે છે તે દુષ્કાળ અથવા અકાળ મૃત્યુ જેવી આફતો, તેમજ સાપ કરડવાથી, માનસિક અને શારીરિક વિકૃતિઓ અને કપટી વ્યક્તિઓની હાજરી જેવી આફતોથી મુક્ત રહેશે."
+            }
+        }
+    },
+    {
+        "id": 105612,
+        "sloka": "10.56.12",
+        "verse_id": 105612,
+        "verseNumber": 12,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "On one occasion Lord Kṛṣṇa requested Satrājit to give the jewel to the Yadu king, Ugrasena, but Satrājit was so greedy that he refused. He gave no thought to the seriousness of the offense he committed by denying the Lord’s request."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "एक अवसर पर भगवान कृष्ण ने सत्राजित से यदु राजा उग्रसेन को मणि देने का अनुरोध किया, लेकिन सत्राजित इतना लालची था कि उसने इनकार कर दिया। उसने प्रभु के अनुरोध को अस्वीकार करके किए गए अपराध की गंभीरता के बारे में कोई विचार नहीं किया।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "એક પ્રસંગે ભગવાન કૃષ્ણે સત્રાજીતને યદુ રાજા ઉગ્રસેનને રત્ન આપવા વિનંતી કરી, પરંતુ સત્રાજિત એટલો લોભી હતો કે તેણે ના પાડી. ભગવાનની વિનંતીને નકારીને તેણે કરેલા અપરાધની ગંભીરતા વિશે તેણે કોઈ વિચાર કર્યો નહીં."
+            }
+        }
+    },
+    {
+        "id": 105613,
+        "sloka": "10.56.13",
+        "verse_id": 105613,
+        "verseNumber": 13,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Once Satrājit’s brother, Prasena, having hung the brilliant jewel about his neck, mounted a horse and went hunting in the forest."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "एक बार सत्राजित का भाई प्रसेन गले में मणि लटकाकर घोड़े पर सवार होकर जंगल में शिकार करने गया।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "એકવાર સત્રાજીતના ભાઈ, પ્રસેના, તેના ગળામાં તેજસ્વી રત્ન લટકાવીને, ઘોડા પર બેસીને જંગલમાં શિકાર કરવા ગયા."
+            }
+        }
+    },
+    {
+        "id": 105614,
+        "sloka": "10.56.14",
+        "verse_id": 105614,
+        "verseNumber": 14,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "A lion killed Prasena and his horse and took the jewel. But when the lion entered a mountain cave he was killed by Jāmbavān, who wanted the jewel."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "एक सिंह ने प्रसेन और उसके घोड़े को मार डाला और मणि ले ली। लेकिन जब शेर एक पहाड़ी गुफा में घुसा तो मणि चाहने वाले जाम्बवान ने उसे मार डाला।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "સિંહે પ્રસેના અને તેના ઘોડાને મારી નાખ્યા અને રત્ન લઈ લીધું. પરંતુ જ્યારે સિંહ પર્વતની ગુફામાં પ્રવેશ્યો ત્યારે તેને જામ્બવાન દ્વારા મારી નાખવામાં આવ્યો, જે રત્ન માંગતો હતો."
+            }
+        }
+    },
+    {
+        "id": 105615,
+        "sloka": "10.56.15",
+        "verse_id": 105615,
+        "verseNumber": 15,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Within the cave Jāmbavān let his young son have the Syamantaka jewel as a toy to play with. Meanwhile Satrājit, not seeing his brother return, became deeply troubled."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "गुफा के भीतर जाम्बवान ने अपने छोटे बेटे को स्यमंतक मणि को खिलौने के रूप में खेलने के लिए दिया। इस बीच अपने भाई को वापस न देखकर सत्राजित बहुत परेशान हो गया।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "ગુફાની અંદર જાંબાવનને તેના નાના પુત્રને રમકડા તરીકે સ્યામંતક રત્ન રાખવા દો. દરમિયાન, સત્રાજીત, તેના ભાઈને પાછો ન જોતાં, ખૂબ જ પરેશાન થઈ ગયો."
+            }
+        }
+    },
+    {
+        "id": 105616,
+        "sloka": "10.56.16",
+        "verse_id": 105616,
+        "verseNumber": 16,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "He said, “Kṛṣṇa probably killed my brother, who went to the forest wearing the jewel on his neck.” The general populace heard this accusation and began whispering it in one another’s ears."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "उन्होंने कहा, \"कृष्ण ने संभवतः मेरे भाई को मार डाला, जो गले में मणि पहनकर जंगल में गया था।\" आम जनता ने यह आरोप सुना और एक-दूसरे के कान में फुसफुसाने लगे।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "તેણે કહ્યું, \"કદાચ કૃષ્ણે મારા ભાઈને મારી નાખ્યો હતો, જે તેના ગળામાં રત્ન પહેરીને જંગલમાં ગયો હતો.\" સામાન્ય જનતાએ આ આરોપ સાંભળ્યો અને એકબીજાના કાનમાં સૂસવા લાગ્યા."
+            }
+        }
+    },
+    {
+        "id": 105617,
+        "sloka": "10.56.17",
+        "verse_id": 105617,
+        "verseNumber": 17,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "When Lord Kṛṣṇa heard this rumor, He wanted to remove the stain on His reputation. So He took some of Dvārakā’s citizens with Him and set out to retrace Prasena’s path."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "जब भगवान कृष्ण ने यह अफवाह सुनी, तो उन्होंने अपनी प्रतिष्ठा पर लगे दाग को हटाना चाहा। इसलिए उन्होंने द्वारका के कुछ नागरिकों को अपने साथ लिया और प्रसेन के रास्ते पर वापस जाने के लिए निकल पड़े।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "જ્યારે ભગવાન કૃષ્ણએ આ અફવા સાંભળી, ત્યારે તેઓ તેમની પ્રતિષ્ઠા પરનો ડાઘ દૂર કરવા માંગતા હતા. તેથી તે દ્વારકાના કેટલાક નાગરિકોને પોતાની સાથે લઈ ગયો અને પ્રસેનનો માર્ગ પાછો ખેંચવા નીકળ્યો."
+            }
+        }
+    },
+    {
+        "id": 105618,
+        "sloka": "10.56.18",
+        "verse_id": 105618,
+        "verseNumber": 18,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "In the forest they found Prasena and his horse, both killed by the lion. Further on they found the lion dead on a mountainside, slain by Ṛkṣa [Jāmbavān]."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "जंगल में उन्हें प्रसेन और उसका घोड़ा मिला, दोनों को शेर ने मार डाला था। आगे चलकर उन्हें एक पहाड़ी पर सिंह मृत मिला, जिसे अक्ष [जाम्बवान] ने मार डाला था।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "જંગલમાં તેમને પ્રસેના અને તેનો ઘોડો મળ્યો, બંને સિંહ દ્વારા માર્યા ગયા. આગળ તેઓએ એક પર્વત પર સિંહને મૃત જોયો, જે ક્ષ [જાંબવન] દ્વારા માર્યો ગયો."
+            }
+        }
+    },
+    {
+        "id": 105619,
+        "sloka": "10.56.19",
+        "verse_id": 105619,
+        "verseNumber": 19,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "The Lord stationed His subjects outside the terrifying, pitch-dark cave of the king of the bears, and then He entered alone."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "भगवान ने अपनी प्रजा को भालुओं के राजा की भयानक, घोर अँधेरी गुफा के बाहर तैनात किया, और फिर वे अकेले ही उसमें प्रवेश कर गये।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "ભગવાને તેની પ્રજાને રીંછના રાજાની ભયાનક, અંધકારમય ગુફાની બહાર મૂક્યા અને પછી તે એકલા પ્રવેશ્યા."
+            }
+        }
+    },
+    {
+        "id": 105620,
+        "sloka": "10.56.20",
+        "verse_id": 105620,
+        "verseNumber": 20,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "There Lord Kṛṣṇa saw that the most precious of jewels had been made into a child’s plaything. Determined to take it away, He approached the child."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "वहाँ भगवान कृष्ण ने देखा कि सबसे कीमती रत्नों को एक बच्चे के खेलने की वस्तु बना दिया गया है। वह इसे दूर ले जाने के लिए दृढ़ संकल्पित होकर बच्चे के पास पहुंचा।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "ત્યાં ભગવાન કૃષ્ણે જોયું કે સૌથી કિંમતી ઝવેરાત એક બાળકની રમતમાં બની ગયા હતા. તેને લઈ જવાનું નક્કી કરીને તે બાળક પાસે ગયો."
+            }
+        }
+    },
+    {
+        "id": 105621,
+        "sloka": "10.56.21",
+        "verse_id": 105621,
+        "verseNumber": 21,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "The child’s nurse cried out in fear upon seeing that extraordinary person standing before them. Jāmbavān, strongest of the strong, heard her cries and angrily ran toward the Lord."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "उस असाधारण व्यक्ति को अपने सामने खड़ा देखकर बच्चे की नर्स डर के मारे चिल्लाने लगी। बलवानों में सबसे शक्तिशाली जाम्बवान ने उसकी पुकार सुनी और क्रोधपूर्वक भगवान की ओर दौड़ा।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "બાળકની નર્સ એ અસાધારણ વ્યક્તિને તેમની સામે ઊભેલી જોઈને ડરીને બૂમો પાડી. જાંબવન, સૌથી મજબૂત, તેણીની રડતી સાંભળી અને ગુસ્સાથી ભગવાન તરફ દોડી."
+            }
+        }
+    },
+    {
+        "id": 105622,
+        "sloka": "10.56.22",
+        "verse_id": 105622,
+        "verseNumber": 22,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Unaware of His true position and thinking Him an ordinary man, Jāmbavān angrily began fighting with the Supreme Lord, his master."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "अपनी वास्तविक स्थिति से अनभिज्ञ और उन्हें एक साधारण मनुष्य समझकर, जाम्बवान ने क्रोधपूर्वक अपने स्वामी, परम भगवान से युद्ध करना शुरू कर दिया।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "તેમની સાચી સ્થિતિથી અજાણ અને તેમને એક સામાન્ય માણસ માનીને, જાંબવાન ગુસ્સાથી પરમ ભગવાન, તેમના ગુરુ સાથે લડવા લાગ્યો."
+            }
+        }
+    },
+    {
+        "id": 105623,
+        "sloka": "10.56.23",
+        "verse_id": 105623,
+        "verseNumber": 23,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "The two fought furiously in single combat, each determined to win. Contending against each other with various weapons and then with stones, tree trunks and finally their bare arms, they struggled like two hawks battling over a piece of flesh."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "दोनों एक ही लड़ाई में जमकर लड़े, प्रत्येक ने जीत का संकल्प लिया। विभिन्न हथियारों और फिर पत्थरों, पेड़ों के तने और अंत में अपनी नंगी भुजाओं के साथ एक-दूसरे से प्रतिस्पर्धा करते हुए, वे दो बाजों की तरह मांस के टुकड़े के लिए लड़ते हुए संघर्ष कर रहे थे।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "બંને એકલ લડાઇમાં ઉગ્રતાથી લડ્યા, દરેક જીતવા માટે નિર્ધારિત. વિવિધ શસ્ત્રો સાથે અને પછી પથ્થરો, ઝાડના થડ અને અંતે તેમના ખુલ્લા હાથ વડે એકબીજા સામે લડતા, તેઓ માંસના ટુકડા પર લડતા બે બાજની જેમ સંઘર્ષ કરતા હતા."
+            }
+        }
+    },
+    {
+        "id": 105624,
+        "sloka": "10.56.24",
+        "verse_id": 105624,
+        "verseNumber": 24,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "The fight went on without rest for twenty-eight days, the two opponents striking each other with their fists, which fell like the cracking blows of lightning."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "लड़ाई अट्ठाईस दिनों तक बिना आराम के चलती रही, दोनों प्रतिद्वंद्वी एक-दूसरे पर मुक्कों से वार कर रहे थे, जो बिजली की कड़कड़ाती मार की तरह गिर रहे थे।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "લડાઈ અઠ્ઠાવીસ દિવસ સુધી આરામ કર્યા વિના ચાલતી રહી, બે વિરોધીઓ એકબીજાને મુઠ્ઠીઓ વડે મારતા હતા, જે વીજળીના કડાકાની જેમ પડી ગયા હતા."
+            }
+        }
+    },
+    {
+        "id": 105625,
+        "sloka": "10.56.25",
+        "verse_id": 105625,
+        "verseNumber": 25,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "His bulging muscles pummeled by the blows of Lord Kṛṣṇa’s fists, his strength faltering and his limbs perspiring, Jāmbavān, greatly astonished, finally spoke to the Lord."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "भगवान कृष्ण की मुट्ठियों की मार से उसकी उभरी हुई मांसपेशियाँ लड़खड़ाने लगीं, उसकी ताकत लड़खड़ा गई और उसके अंगों से पसीना बहने लगा, बहुत आश्चर्यचकित होकर, जाम्बवान ने अंततः भगवान से बात की।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "ભગવાન કૃષ્ણની મુઠ્ઠીઓના પ્રહારથી તેમના ફૂંકાતા સ્નાયુઓ, તેમની શક્તિ ક્ષીણ થઈ ગઈ અને તેમના અંગો પરસેવો પાડતા, જાંબવન, ખૂબ જ આશ્ચર્યચકિત થઈને, અંતે ભગવાન સાથે વાત કરી."
+            }
+        }
+    },
+    {
+        "id": 105626,
+        "sloka": "10.56.26",
+        "verse_id": 105626,
+        "verseNumber": 26,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "[Jāmbavān said:] I know now that You are the life air and the sensory, mental and bodily strength of all living beings. You are Lord Viṣṇu, the original person, the supreme, all-powerful controller."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "[जाम्बवान ने कहा:] मैं अब जानता हूं कि आप सभी जीवित प्राणियों की जीवन वायु और संवेदी, मानसिक और शारीरिक शक्ति हैं। आप भगवान विष्णु, आदि पुरुष, सर्वोच्च, सर्वशक्तिमान नियंत्रक हैं।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "[જાંબવાને કહ્યું:] હવે હું જાણું છું કે તમે જીવન વાયુ છો અને તમામ જીવોની સંવેદનાત્મક, માનસિક અને શારીરિક શક્તિ છો. તમે ભગવાન વિષ્ણુ છો, મૂળ વ્યક્તિ, સર્વોચ્ચ, સર્વશક્તિમાન નિયંત્રક."
+            }
+        }
+    },
+    {
+        "id": 105627,
+        "sloka": "10.56.27",
+        "verse_id": 105627,
+        "verseNumber": 27,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "You are the ultimate creator of all creators of the universe, and of everything created You are the underlying substance. You are the subduer of all subduers, the Supreme Lord and Supreme Soul of all souls."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "आप ब्रह्मांड के सभी रचनाकारों के अंतिम निर्माता हैं, और बनाई गई हर चीज़ का अंतर्निहित पदार्थ आप हैं। आप सभी वश में करने वाले, सभी आत्माओं के परमेश्वर और परमात्मा हैं।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "તમે બ્રહ્માંડના તમામ સર્જકોના અંતિમ નિર્માતા છો, અને સર્જાયેલી દરેક વસ્તુના તમે અંતર્ગત પદાર્થ છો. તમે બધા વશના વશમાં છો, સર્વ આત્માઓના પરમ ભગવાન અને પરમાત્મા છો."
+            }
+        }
+    },
+    {
+        "id": 105628,
+        "sloka": "10.56.28",
+        "verse_id": 105628,
+        "verseNumber": 28,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "You are He who impelled the ocean to give way when His sidelong glances, slightly manifesting His anger, disturbed the crocodiles and timiṅgila fish within the watery depths. You are He who built a great bridge to establish His fame, who burned down the city of Laṅkā, and whose arrows severed the heads of Rāvaṇa, which then fell to the ground."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "आप ही वह हैं जिसने समुद्र को रास्ता देने के लिए प्रेरित किया जब उसकी तिरछी निगाहों ने, अपने क्रोध को थोड़ा सा प्रकट करते हुए, पानी की गहराई में मगरमच्छों और तिमंगिला मछलियों को परेशान कर दिया। आप वही हैं जिसने अपनी प्रसिद्धि स्थापित करने के लिए एक महान पुल का निर्माण किया, जिसने लंका शहर को जला दिया, और जिसके तीरों ने रावण के सिर को काट दिया, जो फिर जमीन पर गिर गया।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "તમે જ છો જેમણે સમુદ્રને માર્ગ આપવા માટે પ્રેરિત કર્યા હતા જ્યારે તેમની બાજુની નજરે, સહેજ તેમના ક્રોધને પ્રગટ કરીને, પાણીની ઊંડાઈમાં રહેલા મગર અને તિમિંગીલા માછલીઓને ખલેલ પહોંચાડી હતી. તમે તે છો જેમણે તેમની કીર્તિ સ્થાપિત કરવા માટે એક મહાન પુલ બનાવ્યો, જેણે લંકા શહેરને બાળી નાખ્યું, અને જેના તીરોએ રાવણના માથા કાપી નાખ્યા, જે પછી જમીન પર પડ્યા."
+            }
+        }
+    },
+    {
+        "id": 105629,
+        "sloka": "10.56.29-30",
+        "verse_id": 105629,
+        "verseNumber": 29,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "[Śukadeva Gosvāmī continued:] O King, Lord Kṛṣṇa then addressed the king of the bears, who had understood the truth. The lotus-eyed Personality of Godhead, the son of Devakī, touched Jāmbavān with His hand, which bestows all blessings, and spoke to His devotee with sublime compassion, His grave voice deeply resounding like a cloud."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "[शुकदेव गोस्वामी ने आगे कहा:] हे राजन, तब भगवान कृष्ण ने भालूओं के राजा को संबोधित किया, जिसने सत्य को समझ लिया था। देवकी के पुत्र, कमल-नेत्र भगवान ने, जाम्बवान को अपने हाथ से छुआ, जो सभी आशीर्वाद प्रदान करता है, और अपने भक्त से अत्यंत करुणा के साथ बात की, उनकी गंभीर आवाज बादल की तरह गहराई से गूंज रही थी।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "[શુકદેવ ગોસ્વામીએ ચાલુ રાખ્યું:] હે રાજા, ભગવાન કૃષ્ણએ પછી રીંછના રાજાને સંબોધન કર્યું, જેણે સત્ય સમજી લીધું હતું. દેવકીના પુત્ર, ભગવાનના કમળ-આંખવાળા વ્યક્તિત્વે, તેમના હાથથી જાંબાવનને સ્પર્શ કર્યો, જે તમામ આશીર્વાદ આપે છે, અને તેમના ભક્ત સાથે ઉત્કૃષ્ટ કરુણા સાથે વાત કરી, તેમનો ગંભીર અવાજ વાદળની જેમ ગૂંજતો હતો."
+            }
+        }
+    },
+    {
+        "id": 105631,
+        "sloka": "10.56.31",
+        "verse_id": 105631,
+        "verseNumber": 31,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "[Lord Kṛṣṇa said:] It is for this jewel, O lord of the bears, that we have come to your cave. I intend to use the jewel to disprove the false accusations against Me."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "[भगवान कृष्ण ने कहा:] हे रीछों के स्वामी, इसी रत्न के लिए हम आपकी गुफा में आए हैं। मैं अपने ऊपर लगे झूठे आरोपों को गलत साबित करने के लिए इस आभूषण का उपयोग करना चाहता हूं।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "[ભગવાન કૃષ્ણએ કહ્યું:] આ રત્ન માટે, હે રીંછના સ્વામી, અમે તમારી ગુફામાં આવ્યા છીએ. મારી સામેના ખોટા આરોપોને ખોટા સાબિત કરવા માટે હું રત્નનો ઉપયોગ કરવા માગું છું."
+            }
+        }
+    },
+    {
+        "id": 105632,
+        "sloka": "10.56.32",
+        "verse_id": 105632,
+        "verseNumber": 32,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Thus addressed, Jāmbavān happily honored Lord Kṛṣṇa by offering Him his maiden daughter, Jāmbavatī, together with the jewel."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "इस प्रकार संबोधित करते हुए, जाम्बवान ने खुशी-खुशी भगवान कृष्ण को अपनी कुंवारी बेटी, जाम्बवती, मणि सहित भेंट करके उनका सम्मान किया।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "આ રીતે સંબોધન કરીને, જાંબવાને ખુશીથી ભગવાન કૃષ્ણને તેમની પ્રથમ પુત્રી, જાંબવતી, રત્ન સાથે અર્પણ કરીને સન્માન કર્યું."
+            }
+        }
+    },
+    {
+        "id": 105633,
+        "sloka": "10.56.33",
+        "verse_id": 105633,
+        "verseNumber": 33,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "After Lord Śauri had entered the cave, the people of Dvārakā who had accompanied Him had waited twelve days without seeing Him come out again. Finally they had given up and returned to their city in great sorrow."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "भगवान शौरी के गुफा में प्रवेश करने के बाद, उनके साथ आए द्वारका के लोगों ने बारह दिनों तक प्रतीक्षा की और उन्हें दोबारा बाहर आते नहीं देखा। आख़िरकार उन्होंने हार मान ली और बड़े दुःख के साथ अपने शहर लौट आये।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "ભગવાન શૌરી ગુફામાં પ્રવેશ્યા પછી, દ્વારકાના લોકો કે જેઓ તેમની સાથે હતા તેઓએ તેમને ફરીથી બહાર આવતા જોયા વિના બાર દિવસ રાહ જોવી. છેવટે તેઓએ હાર માની લીધી અને ભારે દુ:ખમાં પોતાના શહેરમાં પાછા ફર્યા."
+            }
+        }
+    },
+    {
+        "id": 105634,
+        "sloka": "10.56.34",
+        "verse_id": 105634,
+        "verseNumber": 34,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "When Devakī, Rukmiṇī-devī, Vasudeva and the Lord’s other relatives and friends heard that He had not come out of the cave, they all lamented."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "जब देवकी, रुक्मिणी-देवी, वासुदेव और भगवान के अन्य रिश्तेदारों और दोस्तों ने सुना कि वह गुफा से बाहर नहीं आए हैं, तो वे सभी विलाप करने लगे।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "જ્યારે દેવકી, રુક્મિણી-દેવી, વાસુદેવ અને ભગવાનના અન્ય સંબંધીઓ અને મિત્રોએ સાંભળ્યું કે તેઓ ગુફામાંથી બહાર આવ્યા નથી, ત્યારે તેઓ બધાએ વિલાપ કર્યો."
+            }
+        }
+    },
+    {
+        "id": 105635,
+        "sloka": "10.56.35",
+        "verse_id": 105635,
+        "verseNumber": 35,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Cursing Satrājit, the sorrowful residents of Dvārakā approached the Durgā deity named Candrabhāgā and prayed to her for Kṛṣṇa’s return."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "सत्राजित को श्राप देते हुए, द्वारका के दुखी निवासी चंद्रभागा नामक दुर्गा देवता के पास गए और उनसे कृष्ण की वापसी के लिए प्रार्थना की।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "સત્રાજીતને શ્રાપ આપતા, દ્વારકાના દુઃખી રહેવાસીઓ ચંદ્રભાગા નામની દુર્ગા દેવતા પાસે ગયા અને તેમને કૃષ્ણના પરત આવવા માટે પ્રાર્થના કરી."
+            }
+        }
+    },
+    {
+        "id": 105636,
+        "sloka": "10.56.36",
+        "verse_id": 105636,
+        "verseNumber": 36,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "When the citizens had finished worshiping the demigoddess, she spoke to them in response, promising to grant their request. Just then Lord Kṛṣṇa, who had achieved His purpose, appeared before them in the company of His new wife, filling them with joy."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "जब नागरिकों ने देवी की पूजा पूरी कर ली, तो उसने जवाब में उनसे बात की और उनका अनुरोध स्वीकार करने का वादा किया। तभी भगवान कृष्ण, जिन्होंने अपना उद्देश्य प्राप्त कर लिया था, अपनी नई पत्नी के साथ उनके सामने प्रकट हुए, और उन्हें खुशी से भर दिया।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "જ્યારે નાગરિકોએ દેવીની પૂજા કરવાનું સમાપ્ત કર્યું, ત્યારે તેણીએ તેમની વિનંતીને સ્વીકારવાનું વચન આપતા જવાબમાં તેમની સાથે વાત કરી. ત્યારે જ ભગવાન કૃષ્ણ, જેમણે તેમનો હેતુ સિદ્ધ કર્યો હતો, તેમની સામે તેમની નવી પત્નીના સંગતમાં પ્રગટ થયા, તેમને આનંદથી ભરી દીધા."
+            }
+        }
+    },
+    {
+        "id": 105637,
+        "sloka": "10.56.37",
+        "verse_id": 105637,
+        "verseNumber": 37,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Seeing Lord Hṛṣīkeśa return as if from death, accompanied by His new wife and wearing the Syamantaka jewel on His neck, all the people were roused to jubilation."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "भगवान हृषिकेश को अपनी नई पत्नी के साथ और गले में स्यमंतक मणि पहने हुए, मानो मृत्यु से वापस लौटते हुए देखकर, सभी लोग खुशी से झूम उठे।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "ભગવાન હૃષિકેશને મૃત્યુમાંથી પાછા ફરતા જોઈને, તેમની નવી પત્ની સાથે અને તેમના ગળામાં સ્યામંતક રત્ન પહેર્યા હતા, બધા લોકો આનંદથી ઉભરાઈ ગયા હતા."
+            }
+        }
+    },
+    {
+        "id": 105638,
+        "sloka": "10.56.38",
+        "verse_id": 105638,
+        "verseNumber": 38,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Lord Kṛṣṇa summoned Satrājit to the royal assembly. There, in the presence of King Ugrasena, Kṛṣṇa announced the recovery of the jewel and then formally presented it to Satrājit."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "भगवान कृष्ण ने सत्राजित को राजसभा में बुलाया। वहाँ, राजा उग्रसेन की उपस्थिति में, कृष्ण ने मणि की बरामदगी की घोषणा की और फिर उसे औपचारिक रूप से सत्राजित को सौंप दिया।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "ભગવાન કૃષ્ણએ સત્રાજીતને રાજસભામાં બોલાવ્યા. ત્યાં, રાજા ઉગ્રસેનની હાજરીમાં, કૃષ્ણએ રત્ન પરત મેળવવાની જાહેરાત કરી અને પછી તેને ઔપચારિક રીતે સત્રાજીતને સોંપી."
+            }
+        }
+    },
+    {
+        "id": 105639,
+        "sloka": "10.56.39",
+        "verse_id": 105639,
+        "verseNumber": 39,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Hanging his head in great shame, Satrājit took the gem and returned home, all the while feeling remorse for his sinful behavior."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "सत्राजित ने बड़ी लज्जा से अपना सिर झुकाकर मणि ले ली और अपने पापपूर्ण व्यवहार पर पश्चाताप करते हुए घर लौट आया।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "અત્યંત શરમમાં માથું લટકાવીને, સત્રાજીતે મણિ લીધો અને ઘરે પાછો ફર્યો, તે સમયે તેના પાપી વર્તન માટે પસ્તાવો થયો."
+            }
+        }
+    },
+    {
+        "id": 105640,
+        "sloka": "10.56.40-42",
+        "verse_id": 105640,
+        "verseNumber": 40,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Pondering over his grievous offense and worried about the possibility of conflict with the Lord’s mighty devotees, King Satrājit thought, “How can I cleanse myself of my contamination, and how may Lord Acyuta become satisfied with me? What can I do to regain my good fortune and avoid being cursed by the populace for being so short-sighted, miserly, foolish and avaricious? I shall give my daughter, the jewel of all women, to the Lord, together with the Syamantaka jewel. That, indeed, is the only proper way to pacify Him.”"
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "अपने गंभीर अपराध पर विचार करते हुए और भगवान के शक्तिशाली भक्तों के साथ संघर्ष की संभावना के बारे में चिंतित होकर, राजा सत्राजित ने सोचा, \"मैं खुद को अपने प्रदूषण से कैसे मुक्त कर सकता हूं, और भगवान अच्युता मुझसे कैसे संतुष्ट हो सकते हैं? मैं अपना सौभाग्य वापस पाने के लिए क्या कर सकता हूं और इतनी अदूरदर्शी, कंजूस, मूर्ख और लालची होने के कारण जनता द्वारा शापित होने से बच सकता हूं? मैं अपनी बेटी, सभी महिलाओं का गहना, भगवान को स्यमंतका के साथ दे दूंगा।\" गहना, वास्तव में, उसे शांत करने का यही एकमात्र उचित तरीका है।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "તેના ગંભીર ગુના અંગે વિચારીને અને ભગવાનના શક્તિશાળી ભક્તો સાથે સંઘર્ષની સંભાવના વિશે ચિંતિત, રાજા સત્રાજિતે વિચાર્યું, \"હું મારી જાતને મારા દૂષણથી કેવી રીતે શુદ્ધ કરી શકું, અને ભગવાન અચ્યુત મારાથી કેવી રીતે સંતુષ્ટ થઈ શકે? હું મારું સૌભાગ્ય પાછું મેળવવા અને આટલા દુરાચારી, દુરાચારી લોકો દ્વારા શાપિત થવાથી બચવા માટે શું કરી શકું? લોભી?"
+            }
+        }
+    },
+    {
+        "id": 105643,
+        "sloka": "10.56.43",
+        "verse_id": 105643,
+        "verseNumber": 43,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Having thus intelligently made up his mind, King Satrājit personally arranged to present Lord Kṛṣṇa with his fair daughter and the Syamantaka jewel."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "इस प्रकार बुद्धिमानी से अपना मन बना लेने के बाद, राजा सत्राजित ने व्यक्तिगत रूप से भगवान कृष्ण को अपनी गोरी बेटी और स्यमंतक मणि भेंट करने की व्यवस्था की।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "આ રીતે બુદ્ધિપૂર્વક પોતાનું મન બનાવી લીધા પછી, રાજા સત્રાજિતે વ્યક્તિગત રીતે ભગવાન કૃષ્ણને તેમની સુંદર પુત્રી અને સ્યામંતક રત્ન સાથે પ્રસ્તુત કરવાની ગોઠવણ કરી."
+            }
+        }
+    },
+    {
+        "id": 105644,
+        "sloka": "10.56.44",
+        "verse_id": 105644,
+        "verseNumber": 44,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "The Lord married Satyabhāmā in proper religious fashion. Possessed of excellent behavior, along with beauty, broad-mindedness and all other good qualities, she had been sought by many men."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "भगवान ने उचित धार्मिक रीति से सत्यभामा से विवाह किया। सुंदरता, व्यापक सोच और अन्य सभी अच्छे गुणों के साथ-साथ उत्कृष्ट व्यवहार की धनी, वह कई पुरुषों द्वारा चाही गई थी।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "ભગવાને સત્યભામા સાથે યોગ્ય ધાર્મિક રીતે લગ્ન કર્યા. સુંદરતા, વ્યાપક માનસિકતા અને અન્ય તમામ સારા ગુણોની સાથે ઉત્તમ વર્તન ધરાવતી, તેણી ઘણા પુરુષો દ્વારા માંગવામાં આવી હતી."
+            }
+        }
+    },
+    {
+        "id": 105645,
+        "sloka": "10.56.45",
+        "verse_id": 105645,
+        "verseNumber": 45,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "The Supreme Personality of Godhead told Satrājit: We do not care to take this jewel back, O King. You are the sun-god’s devotee, so let it stay in your possession. Thus We will also enjoy its benefits."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "भगवान के परम व्यक्तित्व ने सत्राजित से कहा: हे राजा, हमें इस रत्न को वापस लेने की कोई परवाह नहीं है। आप सूर्यदेव के भक्त हैं, अत: इसे अपने अधिकार में ही रहने दीजिये। इस प्रकार हम भी इसका लाभ उठा सकेंगे।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "પરમપુરુષ પરમાત્માએ સત્રાજિતને કહ્યું: હે રાજા, આ રત્ન પાછું લેવાની અમને ચિંતા નથી. તમે સૂર્યદેવના ભક્ત છો, તેથી તેને તમારા કબજામાં રહેવા દો. આમ આપણે તેના ફાયદા પણ માણીશું."
+            }
+        }
+    }
+]

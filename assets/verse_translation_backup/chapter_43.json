@@ -1,0 +1,876 @@
+[
+    {
+        "id": 104301,
+        "sloka": "10.43.1",
+        "verse_id": 104301,
+        "verseNumber": 1,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Śukadeva Gosvāmī said: O chastiser of enemies, Kṛṣṇa and Balarāma, having executed all necessary purification, then heard the kettledrums resounding at the wrestling arena, and They went there to see what was happening."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "शुकदेव गोस्वामी ने कहा: हे शत्रुओं को दंडित करने वाले, कृष्ण और बलराम, सभी आवश्यक शुद्धि करने के बाद, कुश्ती के मैदान में नगाड़ों की गूंज सुनी, और वे यह देखने के लिए वहां गए कि क्या हो रहा था।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "શુકદેવ ગોસ્વામીએ કહ્યું: હે શત્રુઓને સજા આપનાર, કૃષ્ણ અને બલરામ, તમામ જરૂરી શુદ્ધિકરણ કર્યા પછી, પછી કુસ્તીના અખાડામાં કેટલડ્રમનો અવાજ સાંભળ્યો, અને તેઓ શું થઈ રહ્યું છે તે જોવા માટે ત્યાં ગયા."
+            }
+        }
+    },
+    {
+        "id": 104302,
+        "sloka": "10.43.2",
+        "verse_id": 104302,
+        "verseNumber": 2,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "When Lord Kṛṣṇa reached the entrance to the arena, He saw the elephant Kuvalayāpīḍa blocking His way at the urging of his keeper."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "जब भगवान कृष्ण अखाड़े के प्रवेश द्वार पर पहुंचे, तो उन्होंने देखा कि हाथी कुवलयापीड उनके रक्षक के आग्रह पर उनका रास्ता रोक रहा है।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "જ્યારે ભગવાન કૃષ્ણ અખાડાના પ્રવેશદ્વાર પર પહોંચ્યા, ત્યારે તેમણે કુવલયાપીડ હાથીને તેમના રખેવાળની ​​વિનંતીથી તેમનો રસ્તો રોકતો જોયો."
+            }
+        }
+    },
+    {
+        "id": 104303,
+        "sloka": "10.43.3",
+        "verse_id": 104303,
+        "verseNumber": 3,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Securely binding up His clothes and tying back His curly locks, Lord Kṛṣṇa addressed the elephant-keeper with words as grave as the rumbling of a cloud."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "अपने वस्त्रों को सुरक्षित रूप से बाँधते हुए और अपनी घुँघराले बालों को वापस बाँधते हुए, भगवान कृष्ण ने हाथी-पालक को बादल की गड़गड़ाहट के समान गंभीर शब्दों के साथ संबोधित किया।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "તેમના વસ્ત્રોને સુરક્ષિત રીતે બાંધીને અને તેમના વાંકડિયા તાળાઓ બાંધીને, ભગવાન કૃષ્ણએ હાથી-પાલકને વાદળના ગડગડાટ જેવા ગંભીર શબ્દો સાથે સંબોધન કર્યું."
+            }
+        }
+    },
+    {
+        "id": 104304,
+        "sloka": "10.43.4",
+        "verse_id": 104304,
+        "verseNumber": 4,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "[Lord Kṛṣṇa said:] O driver, driver, move aside at once and let Us pass! If you don’t, this very day I will send both you and your elephant to the abode of Yamarāja!"
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "[भगवान कृष्ण ने कहा:] हे ड्राइवर, ड्राइवर, तुरंत एक तरफ हटो और हमें जाने दो! यदि तुम ऐसा नहीं करोगे, तो आज ही मैं तुम्हें और तुम्हारे हाथी दोनों को यमराज के निवास भेज दूँगा!"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "[ભગવાન કૃષ્ણએ કહ્યું:] હે ડ્રાઈવર, ડ્રાઈવર, એક જ વારમાં એક બાજુ ખસી જાઓ અને અમને પસાર થવા દો! જો તમે નહિ કરો, તો આ જ દિવસે હું તમને અને તમારા હાથી બંનેને યમરાજના ધામમાં મોકલીશ!"
+            }
+        }
+    },
+    {
+        "id": 104305,
+        "sloka": "10.43.5",
+        "verse_id": 104305,
+        "verseNumber": 5,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Thus threatened, the elephant-keeper became angry. He goaded his furious elephant, who appeared equal to time, death and Yamarāja, into attacking Lord Kṛṣṇa."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "इस प्रकार की धमकी से हाथी-पालक क्रोधित हो गया। उसने अपने क्रोधित हाथी को, जो समय, मृत्यु और यमराज के समान दिखाई देता था, भगवान कृष्ण पर हमला करने के लिए उकसाया।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "આમ ધમકી આપીને હાથી-પાલક ગુસ્સે થઈ ગયો. તેણે તેના ક્રોધિત હાથીને, જે સમય, મૃત્યુ અને યમરાજા સમાન દેખાયા હતા, ભગવાન કૃષ્ણ પર હુમલો કરવા માટે ઉશ્કેર્યા."
+            }
+        }
+    },
+    {
+        "id": 104306,
+        "sloka": "10.43.6",
+        "verse_id": 104306,
+        "verseNumber": 6,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "The lord of the elephants charged Kṛṣṇa and violently seized Him with his trunk. But Kṛṣṇa slipped away, struck him a blow and disappeared from his view among his legs."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "हाथियों के स्वामी ने कृष्ण पर आक्रमण किया और हिंसक रूप से उन्हें अपनी सूंड से पकड़ लिया। लेकिन कृष्ण खिसक गए, उस पर जोरदार प्रहार किया और उसके पैरों के बीच से उसकी दृष्टि से ओझल हो गए।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "હાથીઓના સ્વામીએ કૃષ્ણ પર આરોપ મૂક્યો અને હિંસક રીતે તેમને તેમની થડથી પકડી લીધા. પરંતુ કૃષ્ણ ત્યાંથી સરકી ગયા, તેમને એક ફટકો માર્યો અને તેમના પગ વચ્ચેથી તેમના દૃષ્ટિકોણથી અદૃશ્ય થઈ ગયા."
+            }
+        }
+    },
+    {
+        "id": 104307,
+        "sloka": "10.43.7",
+        "verse_id": 104307,
+        "verseNumber": 7,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Infuriated at being unable to see Lord Keśava, the elephant sought Him out with his sense of smell. Once again Kuvalayāpīḍa seized the Lord with the end of his trunk, only to have the Lord forcefully free Himself."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "भगवान केशव को न देख पाने से क्रोधित हाथी ने अपनी सूंघने की शक्ति से उन्हें ढूंढ़ा। एक बार फिर कुवलयापीड ने भगवान को अपनी सूंड के सिरे से पकड़ लिया, लेकिन भगवान ने खुद को बलपूर्वक मुक्त कर लिया।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "ભગવાન કેશવને જોવામાં અસમર્થ હોવાના કારણે ગુસ્સે થઈને, હાથીએ તેની ગંધની ભાવનાથી તેને શોધ્યો. ફરી એક વાર કુવલયાપીડએ ભગવાનને તેના થડના છેડાથી પકડ્યો, માત્ર ભગવાનને બળપૂર્વક પોતાને મુક્ત કરાવવા માટે."
+            }
+        }
+    },
+    {
+        "id": 104308,
+        "sloka": "10.43.8",
+        "verse_id": 104308,
+        "verseNumber": 8,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Lord Kṛṣṇa then grabbed the powerful Kuvalayāpīḍa by the tail and playfully dragged him twenty-five bow-lengths as easily as Garuḍa might drag a snake."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "तब भगवान कृष्ण ने शक्तिशाली कुवलयापीड को पूंछ से पकड़ लिया और खेल-खेल में उसे पच्चीस धनुष-लंबाई तक इतनी आसानी से खींच लिया, जितनी आसानी से गरुड़ एक साँप को खींच सकता है।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "ભગવાન કૃષ્ણએ પછી શક્તિશાળી કુવલયાપીડને પૂંછડીથી પકડ્યો અને ગરુડ સાપને ખેંચી શકે એટલી સરળતાથી તેને પચીસ ધનુષ્ય-લંબાઈ સુધી ખેંચી ગયો."
+            }
+        }
+    },
+    {
+        "id": 104309,
+        "sloka": "10.43.9",
+        "verse_id": 104309,
+        "verseNumber": 9,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "As Lord Acyuta held on to the elephant’s tail, the animal tried to twist away to the left and to the right, making the Lord swerve in the opposite direction, as a young boy would swerve when pulling a calf by the tail."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "जैसे ही भगवान अच्युत ने हाथी की पूंछ पकड़ी, जानवर ने बाईं और दाईं ओर मुड़ने की कोशिश की, जिससे भगवान विपरीत दिशा में घूम गए, जैसे एक युवा लड़का बछड़े को पूंछ से खींचते समय मुड़ जाता है।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "ભગવાન અચ્યુતાએ હાથીની પૂંછડીને પકડી રાખતાં, પ્રાણીએ ડાબી અને જમણી તરફ વળવાનો પ્રયાસ કર્યો, જેથી ભગવાનને વિરુદ્ધ દિશામાં વળે, જેમ કે એક નાનો છોકરો જ્યારે વાછરડાને પૂંછડીથી ખેંચે છે ત્યારે તે ભટકતો હતો."
+            }
+        }
+    },
+    {
+        "id": 104310,
+        "sloka": "10.43.10",
+        "verse_id": 104310,
+        "verseNumber": 10,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Kṛṣṇa then came face to face with the elephant and slapped him and ran away. Kuvalayāpīḍa pursued the Lord, managing to touch Him again and again with each step, but Kṛṣṇa outmaneuvered the elephant and made him trip and fall."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "तभी कृष्ण हाथी के सामने आ गए और उसे थप्पड़ मारा और भाग गए। कुवलयापीड ने भगवान का पीछा किया, हर कदम पर उन्हें बार-बार छूने का प्रयास किया, लेकिन कृष्ण ने हाथी को मात दे दी और उन्हें ठोकर मारकर गिरा दिया।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "કૃષ્ણ પછી હાથી સાથે સામસામે આવ્યા અને તેને થપ્પડ મારીને ભાગી ગયા. કુવલયાપીડએ ભગવાનનો પીછો કર્યો, દરેક પગલા સાથે તેને વારંવાર સ્પર્શ કરવાની વ્યવસ્થા કરી, પરંતુ કૃષ્ણએ હાથીને પાછળ છોડી દીધો અને તેને સફર અને પડી ગયો."
+            }
+        }
+    },
+    {
+        "id": 104311,
+        "sloka": "10.43.11",
+        "verse_id": 104311,
+        "verseNumber": 11,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "As Kṛṣṇa dodged about, He playfully fell on the ground and quickly got up again. The raging elephant, thinking Kṛṣṇa was down, tried to gore Him with his tusks but struck the earth instead."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "जैसे ही कृष्ण चकमा खा गए, वह खेल-खेल में जमीन पर गिर गए और जल्दी से फिर उठ गए। क्रोधित हाथी ने, यह सोचकर कि कृष्ण नीचे गिर गए हैं, अपने दाँतों से उन्हें घायल करने का प्रयास किया, लेकिन इसके बजाय वे पृथ्वी पर जा गिरे।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "જેમ કૃષ્ણ છટકી ગયા, તેઓ રમતિયાળ રીતે જમીન પર પડ્યા અને ઝડપથી ફરી ઉભા થયા. ગુસ્સે ભરાયેલા હાથીએ, કૃષ્ણને નીચે છે એમ વિચારીને, તેમના દાંડી વડે તેમને મારવાનો પ્રયાસ કર્યો પરંતુ તેના બદલે પૃથ્વી પર પ્રહાર કર્યો."
+            }
+        }
+    },
+    {
+        "id": 104312,
+        "sloka": "10.43.12",
+        "verse_id": 104312,
+        "verseNumber": 12,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "His prowess foiled, the lordly elephant Kuvalayāpīḍa went into a frenzied rage out of frustration. But the elephant-keepers goaded him on, and he furiously charged Kṛṣṇa once again."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "उसका पराक्रम विफल हो गया, स्वामी हाथी कुवलयापीड हताशा के कारण उन्मत्त क्रोध में आ गया। लेकिन हाथी-पालकों ने उसे उकसाया, और उसने गुस्से में एक बार फिर कृष्ण पर हमला किया।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "તેનું પરાક્રમ નિષ્ફળ ગયું, ભગવાનનો હાથી કુવલયાપીડ હતાશાથી ઉગ્ર ક્રોધમાં ગયો. પરંતુ હાથીઓના રખેવાળોએ તેને ઉશ્કેર્યો, અને તેણે ગુસ્સે થઈને ફરી એકવાર કૃષ્ણ પર આરોપ લગાવ્યો."
+            }
+        }
+    },
+    {
+        "id": 104313,
+        "sloka": "10.43.13",
+        "verse_id": 104313,
+        "verseNumber": 13,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "The Supreme Lord, killer of the demon Madhu, confronted the elephant as he attacked. Seizing his trunk with one hand, Kṛṣṇa threw him to the ground."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "राक्षस मधु के हत्यारे भगवान ने हाथी पर हमला करते हुए उसका सामना किया। कृष्ण ने एक हाथ से उसकी सूंड पकड़कर उसे जमीन पर पटक दिया।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "પરમ ભગવાન, રાક્ષસ મધુના સંહારક, જેમણે હાથી પર હુમલો કર્યો ત્યારે તેનો સામનો કર્યો. એક હાથથી તેની થડ પકડીને, કૃષ્ણે તેને જમીન પર પછાડી દીધો."
+            }
+        }
+    },
+    {
+        "id": 104314,
+        "sloka": "10.43.14",
+        "verse_id": 104314,
+        "verseNumber": 14,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Lord Hari then climbed onto the elephant with the ease of a mighty lion, pulled out a tusk, and with it killed the beast and his keepers."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "तब भगवान हरि एक शक्तिशाली शेर की तरह हाथी पर चढ़ गए, एक दांत निकाला और उसके साथ जानवर और उसके रखवालों को मार डाला।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "પછી ભગવાન હરિ એક બળવાન સિંહની સહજતાથી હાથી પર ચઢી ગયા, એક ટસ્ક બહાર કાઢ્યું અને તેની સાથે પશુ અને તેના રખેવાળોને મારી નાખ્યો."
+            }
+        }
+    },
+    {
+        "id": 104315,
+        "sloka": "10.43.15",
+        "verse_id": 104315,
+        "verseNumber": 15,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Leaving the dead elephant aside, Lord Kṛṣṇa held on to the tusk and entered the wrestling arena. With the tusk resting on His shoulder, drops of the elephant’s blood and sweat sprinkled all over Him, and His lotus face covered with fine drops of His own perspiration, the Lord shone with great beauty."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "मृत हाथी को एक तरफ छोड़कर, भगवान कृष्ण ने उसके दांत को पकड़ लिया और कुश्ती के मैदान में प्रवेश किया। अपने दाँत को अपने कंधे पर रखकर, हाथी के रक्त और पसीने की बूँदें उनके ऊपर बिखरी हुई थीं, और उनका कमल चेहरा उनके स्वयं के पसीने की बूंदों से ढका हुआ था, भगवान महान सुंदरता के साथ चमक रहे थे।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "મૃત હાથીને બાજુ પર છોડીને, ભગવાન કૃષ્ણએ દાંડી પકડીને કુસ્તીના અખાડામાં પ્રવેશ કર્યો. તેમના ખભા પર ટસ્ક વિસ્તરેલું, હાથીના લોહી અને પરસેવાના ટીપાં તેમના પર છાંટી ગયા, અને તેમના કમળનું મુખ તેમના પોતાના પરસેવાના સૂક્ષ્મ ટીપાઓથી ઢંકાયેલું, ભગવાન ખૂબ જ સુંદરતાથી ચમક્યા."
+            }
+        }
+    },
+    {
+        "id": 104316,
+        "sloka": "10.43.16",
+        "verse_id": 104316,
+        "verseNumber": 16,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "My dear King, Lord Baladeva and Lord Janārdana, each carrying one of the elephant’s tusks as His chosen weapon, entered the arena with several cowherd boys."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "मेरे प्रिय राजा, भगवान बलदेव और भगवान जनार्दन, प्रत्येक अपने पसंदीदा हथियार के रूप में हाथी के दांतों में से एक को लेकर, कई चरवाहे लड़कों के साथ मैदान में प्रवेश किया।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "મારા વહાલા રાજા, ભગવાન બલદેવ અને ભગવાન જનાર્દન, દરેક હાથીનું એક એક ટસ્ક પોતાના પસંદ કરેલા શસ્ત્ર તરીકે લઈને, કેટલાક ગોવાળો છોકરાઓ સાથે મેદાનમાં પ્રવેશ્યા."
+            }
+        }
+    },
+    {
+        "id": 104317,
+        "sloka": "10.43.17",
+        "verse_id": 104317,
+        "verseNumber": 17,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "The various groups of people in the arena regarded Kṛṣṇa in different ways when He entered it with His elder brother. The wrestlers saw Kṛṣṇa as a lightning bolt, the men of Mathurā as the best of males, the women as Cupid in person, the cowherd men as their relative, the impious rulers as a chastiser, His parents as their child, the King of the Bhojas as death, the unintelligent as the Supreme Lord’s universal form, the yogīs as the Absolute Truth and the Vṛṣṇis as their supreme worshipable Deity."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "जब कृष्ण ने अपने बड़े भाई के साथ अखाड़े में प्रवेश किया तो लोगों के विभिन्न समूहों ने उन्हें अलग-अलग तरीकों से देखा। पहलवानों ने कृष्ण को बिजली के समान, मथुरा के पुरुषों को सर्वश्रेष्ठ पुरुषों के रूप में, महिलाओं को साक्षात् कामदेव के रूप में, ग्वालों को अपने रिश्तेदार के रूप में, अधर्मी शासकों को दण्ड देने वाले के रूप में, उनके माता-पिता को अपने बच्चे के रूप में, भोज के राजा को मृत्यु के रूप में, मूर्खों को परम भगवान के सार्वभौमिक रूप के रूप में, योगियों को पूर्ण सत्य के रूप में और वृष्णियों को परम सत्य के रूप में देखा। उनके परम पूजनीय देवता."
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "અખાડામાં લોકોના વિવિધ જૂથો કૃષ્ણને અલગ અલગ રીતે માનતા હતા જ્યારે તેઓ તેમના મોટા ભાઈ સાથે તેમાં પ્રવેશ્યા હતા. કુસ્તીબાજોએ કૃષ્ણને વીજળીના કડાકાના રૂપમાં, મથુરાના પુરૂષોને શ્રેષ્ઠ પુરૂષો તરીકે, સ્ત્રીઓને કામદેવના રૂપમાં, ગોવાળોને તેમના સંબંધી તરીકે, અશુદ્ધ શાસકોને શિક્ષાના રૂપમાં, તેમના માતાપિતાને તેમના બાળક તરીકે, ભોજના રાજાને મૃત્યુના રૂપમાં, બુદ્ધિહીનને સર્વોચ્ચ ભગવાનના રૂપ તરીકે, અબુધને સર્વોત્તમ ભગવાનના રૂપમાં અને અવિશ્વસનીય રૂપના રૂપમાં જોયા હતા. તેમના સર્વોચ્ચ પૂજનીય દેવતા તરીકે વૃષ્ણ."
+            }
+        }
+    },
+    {
+        "id": 104318,
+        "sloka": "10.43.18",
+        "verse_id": 104318,
+        "verseNumber": 18,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "When Kaṁsa saw that Kuvalayāpīḍa was dead and the two brothers were invincible, he was overwhelmed with anxiety, O King."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "हे राजन, जब कंस ने देखा कि कुवलयापीड मर चुका है और दोनों भाई अजेय हैं, तो वह चिंता से अभिभूत हो गया।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "જ્યારે કંસે જોયું કે કુવલયાપીડ મરી ગયો છે અને બંને ભાઈઓ અજેય છે, ત્યારે હે રાજા, તે ચિંતામાં ડૂબી ગયો."
+            }
+        }
+    },
+    {
+        "id": 104319,
+        "sloka": "10.43.19",
+        "verse_id": 104319,
+        "verseNumber": 19,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Arrayed with variegated ornaments, garlands and garments, just like a pair of excellently costumed actors, the two mighty-armed Lords shone splendidly in the arena. Indeed, They overpowered the minds of all onlookers with Their effulgences."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "विभिन्न प्रकार के आभूषणों, मालाओं और वस्त्रों से सुसज्जित, उत्कृष्ट वेशभूषा वाले अभिनेताओं की जोड़ी की तरह, दोनों शक्तिशाली भुजाओं वाले भगवान अखाड़े में शानदार ढंग से चमक रहे थे। सचमुच, उन्होंने अपने तेज से सभी दर्शकों के मन को वश में कर लिया।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "વૈવિધ્યસભર આભૂષણો, માળા અને વસ્ત્રોથી સજ્જ, ઉત્કૃષ્ટ પોશાક પહેરેલા કલાકારોની જોડીની જેમ, બે શકિતશાળી સશસ્ત્ર ભગવાન અખાડામાં ભવ્ય રીતે ચમકતા હતા. ખરેખર, તેઓએ તેમની જોશથી તમામ દર્શકોના મન પર વિજય મેળવ્યો."
+            }
+        }
+    },
+    {
+        "id": 104320,
+        "sloka": "10.43.20",
+        "verse_id": 104320,
+        "verseNumber": 20,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "O King, as the citizens of the city and the people from outlying districts gazed upon those two Supreme Personalities from their seats in the galleries, the force of the people’s happiness caused their eyes to open wide and their faces to blossom. They drank in the vision of the Lords’ faces without becoming satiated."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "हे राजा, जब शहर के नागरिक और दूर-दराज के जिलों के लोगों ने दीर्घाओं में अपनी सीटों से उन दो सर्वोच्च व्यक्तित्वों को देखा, तो लोगों की खुशी की ताकत से उनकी आंखें चौड़ी हो गईं और उनके चेहरे खिल गए। उन्होंने तृप्त हुए बिना प्रभु के मुखों के दर्शन का पान किया।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "હે રાજા, જ્યારે શહેરના નાગરિકો અને બહારના જિલ્લાના લોકો ગેલેરીઓમાં તેમની બેઠકો પરથી તે બે સર્વોચ્ચ વ્યક્તિઓને જોતા હતા, ત્યારે લોકોના આનંદના બળથી તેમની આંખો પહોળી થઈ ગઈ અને તેમના ચહેરા ખીલ્યા. તેઓએ તૃપ્ત થયા વિના ભગવાનના ચહેરાના દર્શનમાં પીધું."
+            }
+        }
+    },
+    {
+        "id": 104321,
+        "sloka": "10.43.21-22",
+        "verse_id": 104321,
+        "verseNumber": 21,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "The people seemed to be drinking Kṛṣṇa and Balarāma with their eyes, licking Them with their tongues, smelling Them with their nostrils and embracing Them with their arms. Reminded of the Lords’ beauty, character, charm and bravery, the members of the audience began describing these features to one another according to what they had seen and heard."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "लोग अपनी आँखों से कृष्ण और बलराम को पी रहे थे, अपनी जीभ से उन्हें चाट रहे थे, अपनी नाक से उन्हें सूंघ रहे थे और अपनी भुजाओं से उन्हें गले लगा रहे थे। भगवान की सुंदरता, चरित्र, आकर्षण और बहादुरी की याद दिलाते हुए, दर्शकों के सदस्यों ने जो देखा और सुना था उसके अनुसार एक-दूसरे को इन विशेषताओं का वर्णन करना शुरू कर दिया।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "લોકો કૃષ્ણ અને બલરામને તેમની આંખોથી પીતા હોય તેવું લાગતું હતું, તેઓને તેમની જીભથી ચાટતા હતા, તેમના નસકોરા વડે તેમને સૂંઘી રહ્યા હતા અને તેમના હાથ વડે તેમને ભેટી રહ્યા હતા. લોર્ડ્સની સુંદરતા, ચારિત્ર્ય, વશીકરણ અને બહાદુરીની યાદ અપાવીને, પ્રેક્ષકોના સભ્યોએ જે જોયું અને સાંભળ્યું હતું તે મુજબ આ લક્ષણો એકબીજાને વર્ણવવાનું શરૂ કર્યું."
+            }
+        }
+    },
+    {
+        "id": 104323,
+        "sloka": "10.43.23",
+        "verse_id": 104323,
+        "verseNumber": 23,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "[The people said:] These two boys are certainly expansions of the Supreme Lord Nārāyaṇa who have descended to this world in the home of Vasudeva."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "[लोगों ने कहा:] ये दोनों लड़के निश्चित रूप से परम भगवान नारायण के अंश हैं जो वासुदेव के घर इस दुनिया में अवतरित हुए हैं।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "[લોકોએ કહ્યું:] આ બે છોકરાઓ ચોક્કસપણે પરમ ભગવાન નારાયણના વિસ્તરણ છે જેઓ વાસુદેવના ઘરે આ દુનિયામાં ઉતર્યા છે."
+            }
+        }
+    },
+    {
+        "id": 104324,
+        "sloka": "10.43.24",
+        "verse_id": 104324,
+        "verseNumber": 24,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "This one [Kṛṣṇa] took birth from mother Devakī and was brought to Gokula, where He has remained concealed all this time, growing up in the house of King Nanda."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "इस [कृष्ण] ने माता देवकी से जन्म लिया और उन्हें गोकुल लाया गया, जहां वे राजा नंद के घर में पले-बढ़े और इतने समय तक छिपे रहे।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "આ [કૃષ્ણ] માતા દેવકી પાસેથી જન્મ લીધો હતો અને તેને ગોકુળમાં લાવવામાં આવ્યો હતો, જ્યાં તે રાજા નંદના ઘરે ઉછર્યા બાદ આટલા સમય સુધી છુપાયેલો રહ્યો હતો."
+            }
+        }
+    },
+    {
+        "id": 104325,
+        "sloka": "10.43.25",
+        "verse_id": 104325,
+        "verseNumber": 25,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "He made Pūtanā and the whirlwind demon meet with death, pulled down the twin Arjuna trees, and killed Śaṅkhacūḍa, Keśī, Dhenuka and similar demons."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "उन्होंने पूतना और बवंडर राक्षस को मौत के घाट उतार दिया, अर्जुन के दो वृक्षों को गिरा दिया, और शंखचूड़, केशी, धेनुका और इसी तरह के राक्षसों को मार डाला।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "તેણે પૂતના અને વંટોળિયા રાક્ષસને મૃત્યુ સાથે મિલન કરાવ્યું, અર્જુનનાં જોડિયા વૃક્ષો તોડી નાખ્યાં, અને શંખચૂડ, કેશી, ધેનુકા અને સમાન રાક્ષસોનો વધ કર્યો."
+            }
+        }
+    },
+    {
+        "id": 104326,
+        "sloka": "10.43.26-27",
+        "verse_id": 104326,
+        "verseNumber": 26,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "He saved the cows and the cowherds from a forest fire and subdued the serpent Kāliya. He removed Lord Indra’s false pride by holding up the best of mountains with one hand for an entire week, thus protecting the inhabitants of Gokula from rain, wind and hail."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "उन्होंने जंगल की आग से गायों और ग्वालों को बचाया और कालिया नाग को वश में किया। उन्होंने पूरे एक सप्ताह तक सर्वोत्तम पर्वतों को एक हाथ से पकड़कर भगवान इंद्र के झूठे अभिमान को दूर किया, इस प्रकार गोकुल के निवासियों को बारिश, हवा और ओलों से बचाया।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "તેણે ગાયો અને ગોવાળિયાઓને જંગલની આગમાંથી બચાવ્યા અને કાલીયા નાગને વશ કર્યો. તેણે આખા અઠવાડિયા સુધી શ્રેષ્ઠ પર્વતોને એક હાથે પકડીને ભગવાન ઇન્દ્રના ખોટા અભિમાનને દૂર કર્યા, આમ ગોકુળના રહેવાસીઓને વરસાદ, પવન અને કરાથી બચાવ્યા."
+            }
+        }
+    },
+    {
+        "id": 104328,
+        "sloka": "10.43.28",
+        "verse_id": 104328,
+        "verseNumber": 28,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "The gopīs overcame all kinds of distress and experienced great happiness by seeing His face, which is always cheerful with smiling glances and ever free of fatigue."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "गोपियों ने सभी प्रकार के संकटों पर विजय प्राप्त की और उनके चेहरे को देखकर बहुत खुशी का अनुभव किया, जो मुस्कुराती हुई आँखों से हमेशा प्रसन्न रहता है और हमेशा थकान से मुक्त रहता है।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "ગોપીઓએ તમામ પ્રકારની તકલીફો પર વિજય મેળવ્યો અને તેમના ચહેરાને જોઈને ખૂબ જ આનંદનો અનુભવ કર્યો, જે હંમેશા હસતી નજરે ખુશખુશાલ અને થાકથી મુક્ત રહે છે."
+            }
+        }
+    },
+    {
+        "id": 104329,
+        "sloka": "10.43.29",
+        "verse_id": 104329,
+        "verseNumber": 29,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "It is said that under His full protection the Yadu dynasty will become extremely famous and attain wealth, glory and power."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "ऐसा कहा जाता है कि उनके पूर्ण संरक्षण में यदु वंश अत्यंत प्रसिद्ध हो जाएगा और धन, वैभव और शक्ति प्राप्त करेगा।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "એવું કહેવાય છે કે તેમના સંપૂર્ણ રક્ષણ હેઠળ યદુ વંશ અત્યંત પ્રખ્યાત બનશે અને સંપત્તિ, કીર્તિ અને શક્તિ પ્રાપ્ત કરશે."
+            }
+        }
+    },
+    {
+        "id": 104330,
+        "sloka": "10.43.30",
+        "verse_id": 104330,
+        "verseNumber": 30,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "This lotus-eyed elder brother of His, Lord Balarāma, is the proprietor of all transcendental opulences. He has killed Pralamba, Vatsaka, Baka and other demons."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "उनके कमल-नेत्र बड़े भाई, भगवान बलराम, सभी दिव्य ऐश्वर्यों के स्वामी हैं। उन्होंने प्रलंब, वत्सक, बक और अन्य राक्षसों को मार डाला है।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "તેમના, ભગવાન બલરામના આ કમળની આંખોવાળા મોટા ભાઈ, તમામ દિવ્ય ઐશ્વર્યના માલિક છે. તેણે પ્રલંબા, વત્સક, બકા અને અન્ય રાક્ષસોનો વધ કર્યો છે."
+            }
+        }
+    },
+    {
+        "id": 104331,
+        "sloka": "10.43.31",
+        "verse_id": 104331,
+        "verseNumber": 31,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "While the people talked in this way and the musical instruments resounded, the wrestler Cāṇūra addressed Kṛṣṇa and Balarāma with the following words."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "जब लोग इस प्रकार बात कर रहे थे और संगीत वाद्ययंत्र गूंज रहे थे, पहलवान चाणूर ने कृष्ण और बलराम को निम्नलिखित शब्दों से संबोधित किया।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "જ્યારે લોકો આ રીતે વાત કરી રહ્યા હતા અને સંગીતનાં સાધનો ગુંજી રહ્યાં હતાં, ત્યારે કુસ્તીબાજ કાનુરએ નીચેના શબ્દોથી કૃષ્ણ અને બલરામને સંબોધ્યા."
+            }
+        }
+    },
+    {
+        "id": 104332,
+        "sloka": "10.43.32",
+        "verse_id": 104332,
+        "verseNumber": 32,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "[Cāṇūra said:] O son of Nanda, O Rāma, You two are well respected by courageous men and are both skillful at wrestling. Having heard of Your prowess, the King has called You here, wanting to see for himself."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "[चाणूर ने कहा:] हे नंद के पुत्र, हे राम, आप दोनों साहसी पुरुषों द्वारा सम्मानित हैं और दोनों कुश्ती में कुशल हैं। आपकी वीरता के बारे में सुनकर राजा ने स्वयं देखने की इच्छा से आपको यहाँ बुलाया है।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "[કાનુરાએ કહ્યું:] હે નંદના પુત્ર, હે રામ, તમે બંને બહાદુર પુરુષો દ્વારા આદરણીય છો અને બંને કુસ્તીમાં કુશળ છો. તમારા પરાક્રમ વિશે સાંભળીને, રાજાએ તમને અહીં બોલાવ્યા છે, પોતાને જોવાની ઇચ્છા છે."
+            }
+        }
+    },
+    {
+        "id": 104333,
+        "sloka": "10.43.33",
+        "verse_id": 104333,
+        "verseNumber": 33,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Subjects of the King who try to please him with their thoughts, acts and words are sure to achieve good fortune, but those who fail to do so will suffer the opposite fate."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "राजा की प्रजा जो अपने विचारों, कार्यों और शब्दों से उसे प्रसन्न करने का प्रयास करती है, उसे निश्चित रूप से सौभाग्य प्राप्त होता है, लेकिन जो ऐसा करने में विफल रहते हैं, उन्हें विपरीत भाग्य भुगतना पड़ता है।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "રાજાના વિષયો જેઓ તેમના વિચારો, કૃત્યો અને શબ્દો દ્વારા તેમને ખુશ કરવાનો પ્રયાસ કરે છે તેઓ ચોક્કસપણે સારા નસીબની પ્રાપ્તિ કરે છે, પરંતુ જેઓ તેમ કરવામાં નિષ્ફળ જાય છે તેઓ વિપરીત ભાગ્ય ભોગવે છે."
+            }
+        }
+    },
+    {
+        "id": 104334,
+        "sloka": "10.43.34",
+        "verse_id": 104334,
+        "verseNumber": 34,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "It is well known that cowherd boys are always joyful as they tend their calves, and that the boys playfully wrestle with each other while grazing their animals in the various forests."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "यह सर्वविदित है कि चरवाहे लड़के अपने बछड़ों की देखभाल करते समय हमेशा खुश रहते हैं, और विभिन्न जंगलों में अपने जानवरों को चराते समय लड़के एक-दूसरे के साथ कुश्ती लड़ते हैं।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "તે જાણીતું છે કે ગોવાળના છોકરાઓ હંમેશા આનંદી હોય છે કારણ કે તેઓ તેમના વાછરડાને સંભાળે છે, અને છોકરાઓ વિવિધ જંગલોમાં તેમના પ્રાણીઓને ચરતી વખતે રમતિયાળ રીતે એકબીજા સાથે કુસ્તી કરે છે."
+            }
+        }
+    },
+    {
+        "id": 104335,
+        "sloka": "10.43.35",
+        "verse_id": 104335,
+        "verseNumber": 35,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Therefore let’s do what the King wants. Everyone will be pleased with us, for the king embodies all living beings."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "इसलिए चलो वही करें जो राजा चाहते हैं। हर कोई हमसे प्रसन्न होगा, क्योंकि राजा सभी जीवित प्राणियों का अवतार है।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "તેથી રાજાની ઈચ્છા પ્રમાણે કરીએ. દરેક જણ આપણાથી પ્રસન્ન થશે, કારણ કે રાજા તમામ જીવોને મૂર્તિમંત કરે છે."
+            }
+        }
+    },
+    {
+        "id": 104336,
+        "sloka": "10.43.36",
+        "verse_id": 104336,
+        "verseNumber": 36,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Hearing this, Lord Kṛṣṇa, who liked to wrestle and welcomed the challenge, replied with words appropriate to the time and place."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "यह सुनकर, भगवान कृष्ण, जो कुश्ती पसंद करते थे और चुनौती का स्वागत करते थे, ने समय और स्थान के अनुसार उपयुक्त शब्दों के साथ उत्तर दिया।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "આ સાંભળીને, ભગવાન કૃષ્ણ, જેમને કુસ્તી કરવી ગમતી હતી અને પડકારનું સ્વાગત કર્યું હતું, તેમણે સમય અને સ્થળને અનુરૂપ શબ્દો સાથે જવાબ આપ્યો."
+            }
+        }
+    },
+    {
+        "id": 104337,
+        "sloka": "10.43.37",
+        "verse_id": 104337,
+        "verseNumber": 37,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "[Lord Kṛṣṇa said:] Although forest-dwellers, We are also subjects of the Bhoja king. We must gratify his desires, for such behavior will confer upon Us the greatest benefit."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "[भगवान कृष्ण ने कहा:] यद्यपि हम वनवासी हैं, फिर भी हम भोज राजा की प्रजा हैं। हमें उसकी इच्छाओं को संतुष्ट करना चाहिए, क्योंकि इस तरह के व्यवहार से हमें सबसे बड़ा लाभ होगा।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "[ભગવાન કૃષ્ણે કહ્યું:] વનવાસી હોવા છતાં, અમે ભોજ રાજાના પણ આધીન છીએ. આપણે તેની ઈચ્છાઓને સંતોષવી જોઈએ, કારણ કે આવી વર્તણૂક આપણને સૌથી મોટો લાભ આપશે."
+            }
+        }
+    },
+    {
+        "id": 104338,
+        "sloka": "10.43.38",
+        "verse_id": 104338,
+        "verseNumber": 38,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "We are just young boys and should play with those of equal strength. The wrestling match must go on properly so that irreligion does not taint the respectable members of the audience."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "हम सिर्फ युवा लड़के हैं और हमें समान ताकत वाले खिलाड़ियों के साथ खेलना चाहिए। कुश्ती मैच ठीक से चलना चाहिए ताकि दर्शकों के सम्मानित सदस्यों पर अधर्म का दाग न लगे।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "અમે માત્ર યુવાન છોકરાઓ છીએ અને સમાન તાકાતવાળાઓ સાથે રમવું જોઈએ. કુસ્તીની મેચ યોગ્ય રીતે ચાલવી જોઈએ જેથી કરીને અધર્મ પ્રેક્ષકોના આદરણીય સભ્યોને કલંકિત ન કરે."
+            }
+        }
+    },
+    {
+        "id": 104339,
+        "sloka": "10.43.39",
+        "verse_id": 104339,
+        "verseNumber": 39,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Cāṇūra said: You aren’t really a child or even a young man, and neither is Balarāma, the strongest of the strong. After all, You playfully killed an elephant who had the strength of a thousand other elephants."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "चाणूर ने कहा: आप वास्तव में एक बच्चे या एक जवान आदमी भी नहीं हैं, और न ही सबसे शक्तिशाली बलराम हैं। आख़िरकार, आपने खेल-खेल में एक ऐसे हाथी को मार डाला जिसमें हज़ारों हाथियों की ताकत थी।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "કાનુરે કહ્યું: તમે ખરેખર બાળક નથી કે યુવાન પણ નથી, અને બલરામ પણ નથી, બળવાનમાં સૌથી મજબૂત. છેવટે, તમે રમતિયાળ રીતે એક હાથીને મારી નાખ્યો જેની પાસે બીજા હજાર હાથીઓની તાકાત હતી."
+            }
+        }
+    },
+    {
+        "id": 104340,
+        "sloka": "10.43.40",
+        "verse_id": 104340,
+        "verseNumber": 40,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Therefore You two should fight powerful wrestlers. There’s certainly nothing unfair about that. You, O descendant of Vṛṣṇi, can show Your prowess against me, and Balarāma can fight with Muṣṭika."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "इसलिये तुम दोनों को शक्तिशाली पहलवानों से युद्ध करना चाहिये। इसमें निश्चित रूप से कुछ भी अनुचित नहीं है। हे वृष्णि के वंशज, तुम मेरे विरुद्ध अपना पराक्रम दिखा सकते हो, और बलराम मुष्टिक के साथ युद्ध कर सकते हैं।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "તેથી તમારે બંનેએ શક્તિશાળી કુસ્તીબાજો સામે લડવું જોઈએ. તે વિશે ચોક્કસપણે કંઈ અયોગ્ય નથી. તું, હે વૃષ્ણિના વંશજ, મારી સામે તારું પરાક્રમ બતાવી શકે છે, અને બલરામ મુષ્ટિક સાથે યુદ્ધ કરી શકે છે."
+            }
+        }
+    }
+]
