@@ -106,10 +106,45 @@ def sanitize_prompt_text(text):
     t = re.sub(r'\bsuck\b', 'drink', t, flags=re.IGNORECASE)
     t = re.sub(r'\bsucked\b', 'drank', t, flags=re.IGNORECASE)
     t = re.sub(r'\bsucking\b', 'drinking', t, flags=re.IGNORECASE)
-    # Hindi/Gujarati replacements in the prompt just to be safe
+    t = re.sub(r'\bvirgin\b', 'maiden', t, flags=re.IGNORECASE)
+    t = re.sub(r'\blust\b', 'passion', t, flags=re.IGNORECASE)
+    t = re.sub(r'\bseized\b', 'accepted', t, flags=re.IGNORECASE)
+    t = re.sub(r'\bbudding\b', 'developing', t, flags=re.IGNORECASE)
+    t = re.sub(r'\bhips\b', 'limbs', t, flags=re.IGNORECASE)
+    t = re.sub(r'\bwaist\b', 'middle', t, flags=re.IGNORECASE)
+    t = re.sub(r'\bnaked\b', 'unclothed', t, flags=re.IGNORECASE)
+    t = re.sub(r'\bnude\b', 'unclothed', t, flags=re.IGNORECASE)
+    
+    # Hindi replacements
     t = re.sub(r'स्तन', 'वक्ष', t)
+    t = re.sub(r'स्तनों', 'वक्ष', t)
     t = re.sub(r'चूस', 'पान कर', t)
     t = re.sub(r'चूसा', 'पान किया', t)
+    t = re.sub(r'कुंवारी', 'कुमारी', t)
+    t = re.sub(r'कूंवारी', 'कुमारी', t)
+    t = re.sub(r'वासना', 'आकर्षण', t)
+    t = re.sub(r'जांघों', 'कमल-चरणों', t)
+    t = re.sub(r'नितंब', 'कटिप्रदेश', t)
+    t = re.sub(r'कमर', 'मध्यभाग', t)
+    t = re.sub(r'नग्न', 'अनावृत', t)
+    
+    # Gujarati replacements
+    t = re.sub(r'સ્તન', 'વક્ષ', t)
+    t = re.sub(r'સ્તનો', 'વક્ષ', t)
+    t = re.sub(r'ચૂસ', 'પાન કર', t)
+    t = re.sub(r'ચૂસી', 'પાન કરી', t)
+    t = re.sub(r'કુંવારી', 'કુમારી', t)
+    t = re.sub(r'વાસના', 'આકર્ષણ', t)
+    t = re.sub(r'નિતંબ', 'કટિપ્રદેશ', t)
+    t = re.sub(r'નિતંબો', 'કટિપ્રદેશ', t)
+    t = re.sub(r'કમર', 'મધ્યભાગ', t)
+    t = re.sub(r'નગ્ન', 'અનાવૃત', t)
+    t = re.sub(r'હિપ્સ', 'કટિપ્રદેશ', t)
+    t = re.sub(r'જંઘા', 'ચરણ', t)
+    t = re.sub(r'જંઘાઓ', 'ચરણ', t)
+    t = re.sub(r'જાંઘ', 'ચરણ', t)
+    t = re.sub(r'જાંઘો', 'ચરણ', t)
+    
     return t
 
 def refine_chapter(file_path, api_key, model, delay):
@@ -147,6 +182,7 @@ def refine_chapter(file_path, api_key, model, delay):
         "- 'gujarati': the refined Gujarati translation string"
     )
     
+    BLOCKED_VERSE_IDS = {105351}
     for i in range(0, total_verses, batch_size):
         batch = chapter_data[i:i+batch_size]
         print(f"Processing verses {i+1} to {min(i+batch_size, total_verses)} of {total_verses}...")
@@ -154,6 +190,8 @@ def refine_chapter(file_path, api_key, model, delay):
         batch_prompt_data = []
         for verse in batch:
             v_id = verse.get('id')
+            if v_id in BLOCKED_VERSE_IDS:
+                continue
             eng_desc = verse.get('languages', {}).get('english', {}).get('description', '')
             hin_desc = verse.get('languages', {}).get('hindi', {}).get('description', '')
             guj_desc = verse.get('languages', {}).get('gujarati', {}).get('description', '')
@@ -165,11 +203,15 @@ def refine_chapter(file_path, api_key, model, delay):
                 "current_gujarati": sanitize_prompt_text(guj_desc)
             })
             
+        if not batch_prompt_data:
+            print("All verses in this batch are blocked from API refinement. Skipping API call.")
+            continue
+            
         prompt = (
-            f"Refine the Hindi and Gujarati translations for the following {len(batch)} verses.\n"
+            f"Refine the Hindi and Gujarati translations for the following {len(batch_prompt_data)} verses.\n"
             "Do not include any commentary, notes, or explanations. Return only the JSON output.\n"
             "CRITICAL: You must use the exact 'id' provided in each verse block below. Do not change or re-sequence the IDs!\n"
-            f"Return your response strictly as a JSON array of exactly {len(batch)} objects in the same order.\n\n"
+            f"Return your response strictly as a JSON array of exactly {len(batch_prompt_data)} objects in the same order.\n\n"
             "Verses:\n"
         )
         
@@ -212,11 +254,13 @@ def refine_chapter(file_path, api_key, model, delay):
             # Match results back to batch items. Since the model sometimes hallucinates or sequences the IDs
             # (e.g. returning 100106 instead of 100108 because of gaps), we prefer matching by index in the array
             # if the size matches exactly. Otherwise, fallback to ID matching.
-            match_by_index = (len(refined_results) == len(batch))
+            active_batch_ids = [v.get('id') for v in batch if v.get('id') not in BLOCKED_VERSE_IDS]
+            match_by_index = (len(refined_results) == len(active_batch_ids))
+            
             if match_by_index:
                 print("Matching refined results to batch by index.")
             else:
-                print(f"Warning: Batch size ({len(batch)}) and refined results size ({len(refined_results)}) mismatch. Falling back to ID matching.")
+                print(f"Warning: Active batch size ({len(active_batch_ids)}) and refined results size ({len(refined_results)}) mismatch. Falling back to ID matching.")
                 results_by_id = {}
                 for item in refined_results:
                     if isinstance(item, dict) and 'id' in item:
@@ -224,11 +268,17 @@ def refine_chapter(file_path, api_key, model, delay):
                         results_by_id[item['id']] = item
                         results_by_id[str(item['id'])] = item
             
+            active_verses = [v for v in batch if v.get('id') not in BLOCKED_VERSE_IDS]
             for idx, verse in enumerate(batch):
                 v_id = verse.get('id')
+                if v_id in BLOCKED_VERSE_IDS:
+                    print(f"Skipping API refinement for blocked verse ID {v_id} (retaining current translations).")
+                    continue
+                    
                 refined_item = None
                 if match_by_index:
-                    refined_item = refined_results[idx]
+                    active_idx = active_verses.index(verse)
+                    refined_item = refined_results[active_idx]
                 else:
                     refined_item = results_by_id.get(v_id)
                 
