@@ -1319,21 +1319,38 @@ footer p {
 /* Chapter Reader Mode & Controls */
 .reader-sticky-header {
     position: sticky;
-    top: 0; /* Sticks to top of scroll container (main's padding handles header clearance) */
+    top: -2px; /* Pull up by 2px to eliminate subpixel gap between sticky header and navbar */
+    height: 48px;
+    box-sizing: border-box;
     z-index: 99;
-    background: #E6A623; /* Same color as header */
+    background: transparent;
     border: none;
-    border-bottom: 1px solid rgba(165, 37, 44, 0.18);
+    border-bottom: 1.5px solid transparent;
     border-radius: 0 !important; /* Flat edges to blend naturally */
-    padding: 8px 15px;
+    padding: 12px 15px;
     margin: -1px -15px 15px -15px !important; /* Negative margins to span full screen width, -1px top to eliminate gap */
     width: calc(100% + 30px) !important;
     max-width: 100vw;
     display: flex;
     justify-content: space-between;
     align-items: center;
-    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.05);
-    transition: var(--transition-smooth);
+    box-shadow: none;
+    transition: background-color 0.25s ease, border-color 0.25s ease, box-shadow 0.25s ease, backdrop-filter 0.25s ease;
+}
+
+.reader-sticky-header.stuck {
+    background: #E6A623; /* Solid golden yellow to match the header */
+    border-bottom: 1.5px solid rgba(165, 37, 44, 0.18); /* Red theme border to separate stuck bar from scrolling verses */
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.06); /* Soft shadow when stuck */
+}
+
+#timeline-sticky-controls {
+    margin-bottom: 0 !important;
+}
+
+#timeline-sticky-controls.stuck {
+    border-bottom: none !important;
+    box-shadow: none !important;
 }
 
 @media (min-width: 830px) {
@@ -1341,7 +1358,7 @@ footer p {
         margin: -1px calc(-50vw + 50%) 15px calc(-50vw + 50%) !important;
         width: 100vw !important;
         max-width: 100vw;
-        padding: 8px calc(50vw - 400px + 20px) !important;
+        padding: 12px calc(50vw - 400px + 20px) !important;
     }
 }
 
@@ -1358,6 +1375,21 @@ footer p {
 
 .reader-sticky-title i {
     font-size: 0.95rem;
+}
+
+.reader-sticky-header .language-dropdown {
+    background-color: rgba(255, 255, 255, 0.55) !important;
+    border: 1px solid rgba(255, 255, 255, 0.45) !important;
+    color: var(--color-royal-blue) !important;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.04) !important;
+    backdrop-filter: blur(8px) !important;
+    -webkit-backdrop-filter: blur(8px) !important;
+}
+
+.reader-sticky-header .language-dropdown:hover {
+    background-color: rgba(255, 255, 255, 0.75) !important;
+    border-color: rgba(255, 255, 255, 0.65) !important;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08) !important;
 }
 
 .view-toggle-group {
@@ -1494,7 +1526,9 @@ footer p {
 /* Reader view mobile adjustments */
 @media (max-width: 600px) {
     .reader-sticky-header {
-        top: 0; /* Sticks to top of scroll container */
+        top: -2px; /* Pull up by 2px on mobile as well to eliminate subpixel gap */
+        height: 38px;
+        box-sizing: border-box;
         padding: 6px 15px;
         margin: -1px -10px 10px -10px !important;
         width: calc(100% + 20px) !important;
@@ -1561,7 +1595,7 @@ footer p {
 }
 .timeline-header {
     text-align: center;
-    padding: 18px 16px 26px;
+    padding: 18px 16px 14px; /* Reduced bottom padding to fit controls nicely */
 }
 .timeline-header h2 {
     color: var(--color-royal-blue);
@@ -1574,46 +1608,238 @@ footer p {
     font-size: 0.95rem;
 }
 
-.tl-phase {
-    margin-bottom: 36px;
+/* Timeline Controls and Search Bar styling */
+.timeline-search-wrapper input:focus {
+    border-color: var(--color-royal-blue) !important;
+    background: rgba(255, 255, 255, 0.7) !important;
+    box-shadow: 0 4px 20px rgba(165, 37, 44, 0.08) !important;
 }
-.tl-phase-header {
+
+/* Merged Sticky Header: Title + Scrollbar Ribbon */
+.timeline-merged-header {
     position: sticky;
-    top: 76px;
-    z-index: 50;
-    display: flex;
+    top: 45px; /* Overlap by 1px to close any subpixel gaps */
+    z-index: 99;
+    background: transparent;
+    border-bottom: 1.5px solid transparent;
+    border-radius: 0 !important;
+    padding: 6px 15px;
+    margin: -1px -15px 15px -15px !important;
+    width: calc(100% + 30px) !important;
+    max-width: 100vw;
+    display: none; /* Hide scrollbar when not sticky */
     align-items: center;
-    gap: 14px;
-    padding: 12px 18px;
-    margin: 0 12px 14px;
-    background: rgba(255, 255, 255, 0.78);
-    backdrop-filter: blur(8px);
-    -webkit-backdrop-filter: blur(8px);
-    border-left: 5px solid var(--phase-tint, var(--color-royal-blue));
-    border-radius: 10px;
-    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.08);
+    justify-content: space-between;
+    gap: 8px;
+    transition: background-color 0.25s ease, border-color 0.25s ease, box-shadow 0.25s ease;
 }
-.tl-phase-icon {
-    font-size: 1.8rem;
-    line-height: 1;
+
+.timeline-merged-header.stuck {
+    display: flex !important; /* Show scrollbar ribbon when stuck/scrolled */
+    background: #E6A623; /* Same color as navbar header to blend seamlessly */
+    border-bottom: 1.5px solid rgba(165, 37, 44, 0.18);
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.06);
 }
-.tl-phase-text h3 {
-    color: var(--phase-tint, var(--color-royal-blue));
-    font-size: 1.1rem;
+
+@media (min-width: 830px) {
+    .timeline-merged-header {
+        margin: -1px calc(-50vw + 50%) 15px calc(-50vw + 50%) !important;
+        width: 100vw !important;
+        max-width: 100vw;
+        padding: 6px calc(50vw - 400px + 20px) !important;
+    }
+}
+
+@media (max-width: 600px) {
+    .timeline-merged-header {
+        top: 35px; /* Overlap by 1px to close any subpixel gaps on mobile */
+        padding: 4px 10px;
+        margin: -1px -10px 10px -10px !important;
+        width: calc(100% + 20px) !important;
+        gap: 8px;
+    }
+}
+
+.timeline-active-phase-title {
+    flex: 0 0 auto;
+    max-width: 45%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    border-left: 3.5px solid var(--phase-tint, var(--color-royal-blue));
+    padding-left: 8px;
+    transition: border-color 0.3s ease;
+}
+
+.timeline-active-phase-title h3 {
+    font-size: 0.82rem;
     font-weight: 700;
+    color: var(--color-royal-blue);
     margin: 0;
     line-height: 1.2;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.timeline-active-phase-title span {
+    font-size: 0.68rem;
+    font-weight: 600;
+    color: var(--color-text-muted);
+    line-height: 1.1;
+    transition: color 0.25s ease;
+}
+
+.timeline-merged-header.stuck .timeline-active-phase-title span {
+    color: rgba(165, 37, 44, 0.8);
+}
+
+.timeline-ribbon-wrapper {
+    position: relative;
+    flex: 1;
+    min-width: 0;
+    display: flex;
+    align-items: center;
+}
+
+.timeline-ribbon-fade-left {
+    position: absolute;
+    top: 0;
+    left: -2px;
+    bottom: 0;
+    width: 20px;
+    pointer-events: none;
+    background: linear-gradient(to left, transparent, rgba(255, 255, 255, 0.85));
+    transition: background 0.25s ease;
+    z-index: 2;
+}
+
+.timeline-merged-header.stuck .timeline-ribbon-fade-left {
+    background: linear-gradient(to left, transparent, #E6A623);
+}
+
+.timeline-ribbon-fade-right {
+    position: absolute;
+    top: 0;
+    right: -2px;
+    bottom: 0;
+    width: 20px;
+    pointer-events: none;
+    background: linear-gradient(to right, transparent, rgba(255, 255, 255, 0.85));
+    transition: background 0.25s ease;
+    z-index: 2;
+}
+
+.timeline-merged-header.stuck .timeline-ribbon-fade-right {
+    background: linear-gradient(to right, transparent, #E6A623);
+}
+
+/* Timeline navigation ribbon styling */
+.timeline-nav-ribbon {
+    background: transparent;
+    border: none;
+    padding: 0 20px; /* Padding for smooth scrolling under left/right fades */
+    margin: 0 !important;
+    width: 100% !important;
+    max-width: 100%;
+    display: flex;
+    gap: 8px;
+    overflow-x: auto;
+    scrollbar-width: none; /* Hide scrollbar for Firefox */
+    -ms-overflow-style: none; /* Hide scrollbar for IE/Edge */
+    box-shadow: none;
+}
+.timeline-nav-ribbon::-webkit-scrollbar {
+    display: none; /* Hide scrollbar for Chrome/Safari */
+}
+
+/* Timeline Navigation Pills */
+.timeline-nav-pill {
+    background: rgba(255, 255, 255, 0.45);
+    border: 1px solid var(--glass-border);
+    color: var(--color-royal-blue);
+    border-radius: 12px;
+    padding: 4px 10px;
+    font-size: 0.7rem;
+    font-weight: 700;
+    cursor: pointer;
+    white-space: nowrap;
+    text-transform: uppercase;
+    letter-spacing: 0.3px;
+    transition: var(--transition-smooth);
+    display: flex;
+    align-items: center;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.02);
+}
+
+.timeline-nav-pill:hover {
+    background: rgba(255, 255, 255, 0.75);
+    border-color: rgba(165, 37, 44, 0.35);
+}
+
+.timeline-nav-pill.active {
+    background: var(--color-royal-blue) !important;
+    color: white !important;
+    border-color: var(--color-royal-blue) !important;
+    box-shadow: 0 4px 12px rgba(165, 37, 44, 0.2) !important;
+}
+
+/* Ambient glow backgrounds for timeline phases */
+.tl-phase-glow {
+    position: absolute;
+    top: 5%;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 280px;
+    height: 280px;
+    background: radial-gradient(circle, var(--phase-tint-glow) 0%, transparent 70%);
+    filter: blur(65px);
+    opacity: 0.28;
+    pointer-events: none;
+    z-index: 1;
+}
+
+.tl-phase {
+    position: relative;
+    margin-bottom: 40px;
+}
+
+/* Static phase header - no emojis and clean red/yellow styling */
+.tl-phase-header {
+    position: relative; /* Normal non-sticky flow */
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 4px;
+    padding: 10px 16px;
+    margin: 0 12px 14px;
+    background: rgba(255, 255, 255, 0.85); /* Highly readable */
+    border: none;
+    border-left: 5px solid var(--phase-tint, var(--color-royal-blue));
+    border-radius: 10px;
+    box-shadow: 0 3px 12px rgba(0, 0, 0, 0.05);
+    transition: background-color 0.25s ease, border-color 0.25s ease, box-shadow 0.25s ease, border-radius 0.25s ease;
+}
+
+.tl-phase-text h3 {
+    color: var(--phase-tint, var(--color-royal-blue));
+    font-size: 1.05rem;
+    font-weight: 700;
+    margin: 0;
+    line-height: 1.25;
 }
 .tl-phase-range {
-    font-size: 0.78rem;
+    font-size: 0.72rem;
     color: var(--color-text-muted);
     text-transform: uppercase;
     letter-spacing: 0.6px;
+    font-weight: 600;
 }
 
 .tl-nodes {
     position: relative;
     padding: 8px 0;
+    z-index: 2; /* Sits above the ambient background glow */
 }
 .tl-spine {
     position: absolute;
@@ -1622,7 +1848,7 @@ footer p {
     left: 50%;
     width: 3px;
     margin-left: -1.5px;
-    opacity: 0.35;
+    opacity: 0.25;
     border-radius: 2px;
 }
 .tl-node {
@@ -1645,83 +1871,158 @@ footer p {
     box-shadow: 0 0 0 2px var(--phase-tint, var(--color-royal-blue));
     z-index: 2;
 }
+
+/* Premium glowing glassmorphic card design */
 .tl-card {
-    width: 46%;
+    position: relative;
+    overflow: hidden; /* clip the background emoji */
+    width: 47%;
     padding: 14px 16px;
-    border-left: 4px solid;
-    cursor: pointer;
-    transition: var(--transition-smooth);
+    border-left: 4px solid var(--phase-tint);
+    cursor: default; /* no longer expandable */
+    background: var(--glass-bg);
+    border-top: 1px solid rgba(255, 255, 255, 0.4);
+    border-right: 1px solid rgba(255, 255, 255, 0.2);
+    border-bottom: 1px solid rgba(255, 255, 255, 0.2);
+    border-radius: 16px;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.03);
+    backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(10px);
+    transition: transform 0.3s cubic-bezier(0.34, 1.56, 0.64, 1), box-shadow 0.3s ease, background-color 0.3s ease;
 }
 .tl-card:hover {
-    transform: translateY(-2px);
-    box-shadow: 0 6px 18px rgba(0, 0, 0, 0.12);
+    transform: translateY(-3px) scale(1.02);
+    box-shadow: 0 10px 25px var(--phase-tint-shadow);
+    background: rgba(255, 255, 255, 0.58);
+}
+.tl-card-bg-emoji {
+    position: absolute;
+    right: -10px;
+    bottom: -15px;
+    font-size: 8rem;
+    opacity: 0.16;
+    pointer-events: none;
+    z-index: 1;
+    line-height: 1;
+    user-select: none;
+    transition: transform 0.4s ease, opacity 0.4s ease;
+}
+.tl-card:hover .tl-card-bg-emoji {
+    transform: scale(1.15) rotate(-8deg);
+    opacity: 0.24;
+}
+.tl-card-head,
+.tl-sanskrit,
+.tl-summary-text {
+    position: relative;
+    z-index: 2;
 }
 .tl-card-head {
     display: flex;
+    justify-content: space-between;
     align-items: center;
-    gap: 10px;
-    margin-bottom: 6px;
+    gap: 12px;
+    margin-bottom: 8px;
+    width: 100%;
+    position: relative;
+    z-index: 2;
+}
+.tl-card-title-area {
+    display: flex;
+    align-items: center;
+    gap: 8px;
     flex-wrap: wrap;
+    flex: 1;
 }
 .tl-chapter-pill {
     color: #fff;
-    font-size: 0.72rem;
+    font-size: 0.68rem;
     font-weight: 700;
-    padding: 3px 10px;
+    padding: 3px 8px;
     border-radius: 999px;
     letter-spacing: 0.5px;
 }
 .tl-title {
-    font-size: 0.98rem;
+    font-size: 0.95rem;
     font-weight: 600;
     color: var(--color-royal-blue);
     line-height: 1.25;
 }
 .tl-sanskrit {
-    font-size: 0.85rem;
+    font-size: 0.8rem;
     color: var(--color-text-main);
-    margin-bottom: 6px;
+    margin-bottom: 8px;
     font-weight: 500;
+    opacity: 0.85;
 }
 .tl-meaning {
     color: var(--color-text-muted);
-    font-size: 0.78rem;
-    font-weight: 400;
+    font-size: 0.74rem;
+    font-weight: 500;
 }
-.tl-hook {
-    font-size: 0.88rem;
+.tl-summary-text {
+    font-size: 0.86rem;
     line-height: 1.5;
     color: var(--color-text-main);
-    margin: 0;
+    margin-bottom: 8px;
+    text-align: justify;
+}
+.tl-read-btn {
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    background: var(--color-royal-blue);
+    color: white;
+    border: none;
+    border-radius: 20px;
+    padding: 5px 12px;
+    font-size: 0.72rem;
+    font-weight: 700;
+    cursor: pointer;
+    transition: var(--transition-smooth);
+    box-shadow: 0 4px 10px rgba(165, 37, 44, 0.15);
+    white-space: nowrap;
+    flex-shrink: 0;
+}
+.tl-read-btn:hover {
+    background: var(--color-electric-blue);
+    box-shadow: 0 4px 12px rgba(230, 81, 0, 0.25);
+    transform: translateY(-1px);
 }
 
 /* Mobile: single column, spine on the left */
 @media (max-width: 720px) {
-    .tl-phase-header {
-        top: 76px;
-        padding: 10px 14px;
-        margin: 0 8px 12px;
-        gap: 10px;
+    .tl-phase-glow {
+        width: 220px;
+        height: 220px;
+        filter: blur(50px);
+        opacity: 0.22;
     }
-    .tl-phase-icon { font-size: 1.5rem; }
-    .tl-phase-text h3 { font-size: 1rem; }
     .tl-spine {
-        left: 22px;
+        left: 10px;
         margin-left: 0;
     }
     .tl-node {
         justify-content: flex-start !important;
-        padding: 8px 0 8px 44px;
+        padding: 8px 0 8px 22px;
     }
     .tl-dot {
-        left: 22px;
+        left: 10px;
         margin-left: -7px;
         top: 18px;
     }
     .tl-card {
-        width: calc(100% - 60px);
-        margin-right: 14px;
+        width: 100%;
+        margin-right: 0px;
+        padding: 12px 14px;
     }
-    .tl-title { font-size: 0.92rem; }
-    .tl-hook { font-size: 0.84rem; }
+    .tl-title { font-size: 0.9rem; }
+    .tl-summary-text { font-size: 0.82rem; }
+}
+
+@media (max-width: 600px) {
+    body.timeline-active main {
+        padding-left: 8px;
+        padding-right: 8px;
+    }
 }

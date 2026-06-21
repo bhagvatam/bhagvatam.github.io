@@ -1,4 +1,4 @@
-const CACHE_NAME = '2.9.0';
+const CACHE_NAME = '2.25.0';
 const urlsToCache = [
     './',
     './index.html',
@@ -20,6 +20,7 @@ for (let i = 1; i <= 90; i++) {
 
 // Install Service Worker
 self.addEventListener('install', event => {
+    self.skipWaiting(); // Force active service worker to update instantly
     event.waitUntil(
         caches.open(CACHE_NAME)
             .then(cache => {
@@ -50,6 +51,6 @@ self.addEventListener('activate', event => {
                     }
                 })
             );
-        })
+        }).then(() => self.clients.claim()) // Immediately take control of all open clients
     );
 });

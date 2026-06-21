@@ -1,113 +1,744 @@
 {
     "phases": [
-        { "id": "advent",      "title": "Advent & Infancy",            "icon": "✨", "range": [1, 7],   "tint": "#5B3A8C" },
-        { "id": "gokula",      "title": "Gokula Childhood",            "icon": "🍼", "range": [8, 11],  "tint": "#C77A2B" },
-        { "id": "vrindavana",  "title": "Vrindavana — Boyhood Wonders","icon": "🌳", "range": [12, 20], "tint": "#2F7D4F" },
-        { "id": "govardhana",  "title": "Awakening of Love & Govardhana","icon": "🪈", "range": [21, 27], "tint": "#1E7C8C" },
-        { "id": "rasa",        "title": "The Rasa-Lila",                "icon": "🌕", "range": [28, 35], "tint": "#7E4FA8" },
-        { "id": "mathura",     "title": "To Mathura — End of Kamsa",    "icon": "⚔️", "range": [36, 45], "tint": "#A5252C" },
-        { "id": "dwarka",      "title": "Dwarka — Founding, Queens, Family","icon": "🏛️", "range": [46, 69], "tint": "#B8860B" },
-        { "id": "world",       "title": "World Stage & Devotees",       "icon": "🌟", "range": [70, 84], "tint": "#1F4E8C" },
-        { "id": "closing",     "title": "Closing Wonders & Summary",    "icon": "🕉️", "range": [85, 90], "tint": "#E65100" }
+        {
+            "id": "advent",
+            "title": "Advent & Infancy",
+            "icon": "✨",
+            "range": [
+                1,
+                7
+            ],
+            "tint": "#5B3A8C",
+            "title_hindi": "प्राकट्य और बाल्यकाल",
+            "title_gujarati": "પ્રાગટ્ય અને બાલ્યકાળ"
+        },
+        {
+            "id": "gokula",
+            "title": "Gokula Childhood",
+            "icon": "🍼",
+            "range": [
+                8,
+                11
+            ],
+            "tint": "#C77A2B",
+            "title_hindi": "गोकुल की बाल-लीलाएं",
+            "title_gujarati": "ગોકુળની બાળલીલા"
+        },
+        {
+            "id": "vrindavana",
+            "title": "Vrindavana — Boyhood Wonders",
+            "icon": "🌳",
+            "range": [
+                12,
+                20
+            ],
+            "tint": "#2F7D4F",
+            "title_hindi": "वृंदावन — बालपन के चमत्कार",
+            "title_gujarati": "વૃંદાવન — બાળપણના ચમત્કારો"
+        },
+        {
+            "id": "govardhana",
+            "title": "Awakening of Love & Govardhana",
+            "icon": "🪈",
+            "range": [
+                21,
+                27
+            ],
+            "tint": "#1E7C8C",
+            "title_hindi": "प्रेम का उदय और गोवर्धन लीला",
+            "title_gujarati": "પ્રેમનો ઉદય અને ગોવર્ધન લીલા"
+        },
+        {
+            "id": "rasa",
+            "title": "The Rasa-Lila",
+            "icon": "🌕",
+            "range": [
+                28,
+                35
+            ],
+            "tint": "#7E4FA8",
+            "title_hindi": "महारस लीला",
+            "title_gujarati": "મહારાસ લીલા"
+        },
+        {
+            "id": "mathura",
+            "title": "To Mathura — End of Kamsa",
+            "icon": "⚔️",
+            "range": [
+                36,
+                45
+            ],
+            "tint": "#A5252C",
+            "title_hindi": "मथुरा गमन — कंस वध",
+            "title_gujarati": "મથુરા ગમન — કંસ વધ"
+        },
+        {
+            "id": "dwarka",
+            "title": "Dwarka — Founding, Queens, Family",
+            "icon": "🏛️",
+            "range": [
+                46,
+                69
+            ],
+            "tint": "#B8860B",
+            "title_hindi": "द्वारका — स्थापना, रानियाँ और परिवार",
+            "title_gujarati": "દ્વારકા — સ્થાપના, રાણીઓ અને પરિવાર"
+        },
+        {
+            "id": "world",
+            "title": "World Stage & Devotees",
+            "icon": "🌟",
+            "range": [
+                70,
+                84
+            ],
+            "tint": "#1F4E8C",
+            "title_hindi": "विश्व मंच और भक्त",
+            "title_gujarati": "વિશ્વ મંચ અને ભક્તો"
+        },
+        {
+            "id": "closing",
+            "title": "Closing Wonders & Summary",
+            "icon": "🕉️",
+            "range": [
+                85,
+                90
+            ],
+            "tint": "#E65100",
+            "title_hindi": "अंतिम लीलाएं और सारांश",
+            "title_gujarati": "અંતિમ લીલાઓ અને સારાંશ"
+        }
     ],
     "nodes": [
-        { "chapter": 1,  "phase": "advent",     "hook": "Brahma and the demigods petition Vishnu to relieve Earth; Vasudeva weds Devaki; Kamsa hears the prophecy." },
-        { "chapter": 2,  "phase": "advent",     "hook": "Kamsa kills six newborns; the demigods praise Krishna already present in Devaki's womb." },
-        { "chapter": 3,  "phase": "advent",     "hook": "At midnight on Janmashtami, Krishna appears in four-armed form; Vasudeva carries Him across the Yamuna to Gokula." },
-        { "chapter": 4,  "phase": "advent",     "hook": "Yogamaya slips from Kamsa's grasp and reveals his killer is already born elsewhere." },
-        { "chapter": 5,  "phase": "advent",     "hook": "Nanda celebrates the birth-festival in Gokula and meets Vasudeva while paying taxes in Mathura." },
-        { "chapter": 6,  "phase": "advent",     "hook": "The poison-breasted demoness Putana is killed at infant Krishna's nursing." },
-        { "chapter": 7,  "phase": "advent",     "hook": "Baby Krishna kicks over the cart-demon Shakatasura and strangles the whirlwind-demon Trinavarta." },
-
-        { "chapter": 8,  "phase": "gokula",     "hook": "Garga Muni names Krishna and Balarama; Yashoda sees the entire cosmos inside Krishna's mouth." },
-        { "chapter": 9,  "phase": "gokula",     "hook": "Yashoda binds the butter-thief to a mortar — the Damodara lila." },
-        { "chapter": 10, "phase": "gokula",     "hook": "Krishna drags the mortar between two trees, liberating Kuvera's cursed sons." },
-        { "chapter": 11, "phase": "gokula",     "hook": "The cowherds move to Vrindavana; Krishna kills the calf-demon Vatsasura and the crane-demon Bakasura." },
-
-        { "chapter": 12, "phase": "vrindavana", "hook": "Krishna and the boys are swallowed by the python-demon Aghasura, who dies from within." },
-        { "chapter": 13, "phase": "vrindavana", "hook": "Brahma steals the boys and calves; Krishna expands Himself as every one of them for a year." },
-        { "chapter": 14, "phase": "vrindavana", "hook": "Humbled Brahma offers his celebrated prayers to the cowherd boy." },
-        { "chapter": 15, "phase": "vrindavana", "hook": "Balarama slays the donkey-demon Dhenuka in the Talavana grove." },
-        { "chapter": 16, "phase": "vrindavana", "hook": "Krishna leaps into the Yamuna and dances on the hoods of the serpent Kaliya." },
-        { "chapter": 17, "phase": "vrindavana", "hook": "Kaliya's history is told; Krishna swallows a raging forest fire to save the cowherds." },
-        { "chapter": 18, "phase": "vrindavana", "hook": "In the rainy-season games, Balarama destroys the demon Pralamba." },
-        { "chapter": 19, "phase": "vrindavana", "hook": "Krishna again swallows a forest fire that engulfs the sleeping cowherds." },
-        { "chapter": 20, "phase": "vrindavana", "hook": "The rainy season and autumn in Vrindavana are described in poetic detail." },
-
-        { "chapter": 21, "phase": "govardhana", "hook": "The gopis glorify the song of Krishna's flute that steals their hearts." },
-        { "chapter": 22, "phase": "govardhana", "hook": "Krishna steals the bathing gopis' garments, teaching them surrender." },
-        { "chapter": 23, "phase": "govardhana", "hook": "The wives of ritualistic brahmins feed Krishna and are blessed; their husbands repent." },
-        { "chapter": 24, "phase": "govardhana", "hook": "On Krishna's advice, the Vrajavasis worship Govardhana Hill instead of Indra." },
-        { "chapter": 25, "phase": "govardhana", "hook": "Enraged Indra floods Vraja; Krishna lifts Govardhana as an umbrella for seven days." },
-        { "chapter": 26, "phase": "govardhana", "hook": "The elders marvel at Krishna's deeds; Nanda recalls Garga's prophecies." },
-        { "chapter": 27, "phase": "govardhana", "hook": "Indra and mother Surabhi crown Krishna as \"Govinda.\"" },
-
-        { "chapter": 28, "phase": "rasa",       "hook": "Krishna rescues Nanda from Varuna's realm and shows the cowherds His spiritual abode." },
-        { "chapter": 29, "phase": "rasa",       "hook": "On a full-moon autumn night, Krishna's flute calls the gopis to the rasa dance." },
-        { "chapter": 30, "phase": "rasa",       "hook": "Abandoned by Krishna mid-dance, the gopis search the forest singing of Him." },
-        { "chapter": 31, "phase": "rasa",       "hook": "The gopis sing the celebrated Gopi-gita in separation." },
-        { "chapter": 32, "phase": "rasa",       "hook": "Krishna returns to the gopis and explains why He had hidden." },
-        { "chapter": 33, "phase": "rasa",       "hook": "The rasa dance unfolds — Krishna multiplies Himself between every two gopis." },
-        { "chapter": 34, "phase": "rasa",       "hook": "A Yaksha kidnaps a gopi; Krishna slays him (Shankhachuda) and rescues Nanda from a serpent." },
-        { "chapter": 35, "phase": "rasa",       "hook": "The gopis sing of Krishna throughout day and night as He grazes the cows." },
-
-        { "chapter": 36, "phase": "mathura",    "hook": "The bull-demon Aristasura attacks Vraja and is slain." },
-        { "chapter": 37, "phase": "mathura",    "hook": "Krishna kills the horse-demon Keshi and Vyomasura the cave-demon." },
-        { "chapter": 38, "phase": "mathura",    "hook": "Sent by Kamsa, Akrura arrives in Vrindavana to fetch Krishna and Balarama." },
-        { "chapter": 39, "phase": "mathura",    "hook": "The brothers depart with Akrura; the gopis collapse in grief." },
-        { "chapter": 40, "phase": "mathura",    "hook": "Bathing in the Yamuna, Akrura beholds Krishna's Vaikuntha form and offers prayers." },
-        { "chapter": 41, "phase": "mathura",    "hook": "Entering Mathura, Krishna blesses Trivakra and the garland-maker Sudama." },
-        { "chapter": 42, "phase": "mathura",    "hook": "Krishna straightens Trivakra and breaks Kamsa's sacrificial bow." },
-        { "chapter": 43, "phase": "mathura",    "hook": "The brothers kill the elephant Kuvalayapida guarding Kamsa's arena." },
-        { "chapter": 44, "phase": "mathura",    "hook": "In the arena, Krishna dispatches Chanura and Mushtika and drags Kamsa from his throne — slain at last." },
-        { "chapter": 45, "phase": "mathura",    "hook": "After freeing Devaki and Vasudeva, Krishna studies under Sandipani and brings back his guru's son from Yamaloka." },
-
-        { "chapter": 46, "phase": "dwarka",     "hook": "Krishna sends Uddhava to Vrindavana to console Nanda, Yashoda, and the gopis." },
-        { "chapter": 47, "phase": "dwarka",     "hook": "Uddhava delivers Krishna's message; a bee becomes the gopis' audience in the Bhramara-gita." },
-        { "chapter": 48, "phase": "dwarka",     "hook": "Back in Mathura, Krishna visits Trivakra and Akrura and plans the next moves." },
-        { "chapter": 49, "phase": "dwarka",     "hook": "Krishna sends Akrura to Hastinapura to learn of the Pandavas' welfare." },
-        { "chapter": 50, "phase": "dwarka",     "hook": "Attacked seventeen times by Jarasandha, Krishna builds the sea-fortress Dwarka and shifts the Yadavas." },
-        { "chapter": 51, "phase": "dwarka",     "hook": "The yavana king Kalayavana pursues Krishna into a cave; Mucukunda's glance burns him to ash." },
-        { "chapter": 52, "phase": "dwarka",     "hook": "Princess Rukmini sends a secret letter pleading to be rescued from marriage to Shishupala." },
-        { "chapter": 53, "phase": "dwarka",     "hook": "Krishna abducts Rukmini from her wedding procession and defeats the assembled kings." },
-        { "chapter": 54, "phase": "dwarka",     "hook": "Balarama spares Rukmini's brother Rukmi but disfigures him; Krishna weds Rukmini in Dwarka." },
-        { "chapter": 55, "phase": "dwarka",     "hook": "Pradyumna is born, kidnapped by Shambara, returns to slay him and marries Mayavati." },
-        { "chapter": 56, "phase": "dwarka",     "hook": "Satrajit's Syamantaka jewel is lost; Krishna recovers it from Jambavan after a long combat." },
-        { "chapter": 57, "phase": "dwarka",     "hook": "Satrajit is murdered; Krishna recovers the jewel and clears His name." },
-        { "chapter": 58, "phase": "dwarka",     "hook": "Krishna marries Kalindi, Mitravinda, Satya, Bhadra, and Lakshmana — five more queens." },
-        { "chapter": 59, "phase": "dwarka",     "hook": "Krishna kills Narakasura, frees 16,100 captive princesses, and accepts them as wives." },
-        { "chapter": 60, "phase": "dwarka",     "hook": "In the inner chambers, Krishna playfully teases Rukmini until she faints in love." },
-        { "chapter": 61, "phase": "dwarka",     "hook": "Krishna's many sons and Rukmi's descendants are described." },
-        { "chapter": 62, "phase": "dwarka",     "hook": "Aniruddha is captured by Banasura after a secret love-affair with princess Usha." },
-        { "chapter": 63, "phase": "dwarka",     "hook": "Krishna defeats Banasura — Shiva himself yields — and frees Aniruddha." },
-        { "chapter": 64, "phase": "dwarka",     "hook": "King Nriga, cursed to be a lizard for a brahmana's cow, is liberated by Krishna's touch." },
-        { "chapter": 65, "phase": "dwarka",     "hook": "Balarama visits Vrindavana, sports with the gopis, and drags the Yamuna with His plough." },
-        { "chapter": 66, "phase": "dwarka",     "hook": "The imposter Paundraka, who claims to be Vasudeva, is killed along with his Kashi ally." },
-        { "chapter": 67, "phase": "dwarka",     "hook": "Balarama slays the gorilla-demon Dvivida who terrorized Anarta." },
-        { "chapter": 68, "phase": "dwarka",     "hook": "Samba abducts Duryodhana's daughter; Balarama drags Hastinapura with His plough until peace is made." },
-        { "chapter": 69, "phase": "dwarka",     "hook": "Narada visits each of Krishna's 16,108 palaces and finds Him present in every one." },
-
-        { "chapter": 70, "phase": "world",      "hook": "Krishna's daily royal duties; messengers arrive from kings imprisoned by Jarasandha." },
-        { "chapter": 71, "phase": "world",      "hook": "On Narada's counsel, Krishna travels to Indraprastha to assist Yudhishthira's Rajasuya." },
-        { "chapter": 72, "phase": "world",      "hook": "Krishna, Bhima, and Arjuna confront Jarasandha; Bhima kills him in single combat." },
-        { "chapter": 73, "phase": "world",      "hook": "The 20,800 freed kings glorify Krishna and return to their kingdoms." },
-        { "chapter": 74, "phase": "world",      "hook": "At the Rajasuya, Krishna receives the first worship; Shishupala insults Him and is beheaded." },
-        { "chapter": 75, "phase": "world",      "hook": "The completed Rajasuya leaves Duryodhana humiliated in the illusory palace of Maya." },
-        { "chapter": 76, "phase": "world",      "hook": "Shalva attacks Dwarka with his magical airship Saubha." },
-        { "chapter": 77, "phase": "world",      "hook": "Krishna pursues Shalva, shatters the Saubha, and kills him." },
-        { "chapter": 78, "phase": "world",      "hook": "Shishupala's brother Dantavakra is slain; Vidura's pilgrimage is mentioned." },
-        { "chapter": 79, "phase": "world",      "hook": "Balarama tours the holy places during the Kurukshetra war, avoiding combat." },
-        { "chapter": 80, "phase": "world",      "hook": "The poor brahmana Sudama, Krishna's classmate, visits Dwarka with a humble offering of flat rice." },
-        { "chapter": 81, "phase": "world",      "hook": "Krishna welcomes Sudama royally; Sudama returns home to find his hut transformed into a palace." },
-        { "chapter": 82, "phase": "world",      "hook": "During a solar eclipse, all the Yadavas meet the Vrajavasis at Kurukshetra — the long-awaited reunion." },
-        { "chapter": 83, "phase": "world",      "hook": "The queens of Krishna gather with Draupadi and share how each was won." },
-        { "chapter": 84, "phase": "world",      "hook": "Sages assemble at Kurukshetra; Krishna instructs Nanda and the Vrajavasis before they part." },
-
-        { "chapter": 85, "phase": "closing",    "hook": "Krishna instructs Vasudeva on the Supreme Truth and recovers Devaki's six sons killed by Kamsa." },
-        { "chapter": 86, "phase": "closing",    "hook": "Arjuna abducts Subhadra with Krishna's blessing; the sage Shrutadeva and King Bahulashva are honoured." },
-        { "chapter": 87, "phase": "closing",    "hook": "The personified Vedas offer profound prayers describing the Absolute Truth." },
-        { "chapter": 88, "phase": "closing",    "hook": "The demon Vrikasura tries to behead Shiva; Vishnu tricks him into destroying himself." },
-        { "chapter": 89, "phase": "closing",    "hook": "After a dispute among the gods, Krishna and Arjuna travel beyond material creation to recover a brahmana's lost sons." },
-        { "chapter": 90, "phase": "closing",    "hook": "Sukadeva summarises Krishna's pastimes, wives, sons — and the supreme glories of the Lord." }
+        {
+            "chapter": 1,
+            "phase": "advent",
+            "hook": "Brahma and the demigods petition Vishnu to relieve Earth; Vasudeva weds Devaki; Kamsa hears the prophecy.",
+            "hook_hindi": "ब्रह्मा और देवता पृथ्वी को राहत दिलाने के लिए विष्णु से प्रार्थना करते हैं; वसुदेव और देवकी का विवाह; कंस ने भविष्यवाणी सुनी।",
+            "hook_gujarati": "બ્રહ્મા અને દેવતાઓ પૃથ્વીને મુક્ત કરવા માટે વિષ્ણુને વિનંતી કરે છે; વસુદેવ અને દેવકીના લગ્ન; કંસ ભવિષ્યવાણી સાંભળે છે."
+        },
+        {
+            "chapter": 2,
+            "phase": "advent",
+            "hook": "Kamsa kills six newborns; the demigods praise Krishna already present in Devaki's womb.",
+            "hook_hindi": "कंस छह नवजातों को मारता है; देवता देवकी के गर्भ में पहले से उपस्थित कृष्ण की स्तुति करते हैं।",
+            "hook_gujarati": "કંસ છ નવજાત શિશુઓને મારી નાખે છે; દેવતાઓ દેવકીના ગર્ભમાં પહેલેથી જ બિરાજમાન શ્રીકૃષ્ણની સ્તુતિ કરે છે."
+        },
+        {
+            "chapter": 3,
+            "phase": "advent",
+            "hook": "At midnight on Janmashtami, Krishna appears in four-armed form; Vasudeva carries Him across the Yamuna to Gokula.",
+            "hook_hindi": "जन्माष्टमी की आधी रात को, कृष्ण चार भुजाओं वाले रूप में प्रकट होते हैं; वासुदेव उन्हें यमुना पार करके गोकुल ले जाते हैं।",
+            "hook_gujarati": "જન્માષ્ટમીની મધ્યરાત્રિએ, કૃષ્ણ ચતુર્ભુજ સ્વરૂપે પ્રગટ થાય છે; વાસુદેવ તેમને યમુના પાર કરીને ગોકુળ લઈ જાય છે."
+        },
+        {
+            "chapter": 4,
+            "phase": "advent",
+            "hook": "Yogamaya slips from Kamsa's grasp and reveals his killer is already born elsewhere.",
+            "hook_hindi": "योगमाया कंस की पकड़ से छूटकर आकाशवाणी करती हैं कि उसका वध करने वाला कहीं और जन्म ले चुका है।",
+            "hook_gujarati": "યોગમાયા કંસની પકડમાંથી છૂટીને આકાશવાણી કરે છે કે તેનો વધ કરનાર બાળક બીજે ક્યાંક જન્મ લઈ ચૂક્યો છે."
+        },
+        {
+            "chapter": 5,
+            "phase": "advent",
+            "hook": "Nanda celebrates the birth-festival in Gokula and meets Vasudeva while paying taxes in Mathura.",
+            "hook_hindi": "नन्द महाराज गोकुल में कृष्ण के जन्म का उत्सव मनाते हैं और मथुरा में कर चुकाते समय वसुदेव से मिलते हैं।",
+            "hook_gujarati": "નંદ મહારાજ ગોકુળમાં કૃષ્ણના જન્મનો ઉત્સવ ઉજવે છે અને મથુરામાં કર ભરતી વખતે વસુદેવને મળે છે."
+        },
+        {
+            "chapter": 6,
+            "phase": "advent",
+            "hook": "The poison-breasted demoness Putana is killed at infant Krishna's nursing.",
+            "hook_hindi": "विषाक्त स्तनों वाली राक्षसी पूतना शिशु कृष्ण को दूध पिलाते समय मारी जाती है।",
+            "hook_gujarati": "ઝેરી સ્તનો ધરાવતી રાક્ષસી પૂતના શિશુ કૃષ્ણને સ્તનપાન કરાવતી વખતે મૃત્યુ પામે છે."
+        },
+        {
+            "chapter": 7,
+            "phase": "advent",
+            "hook": "Baby Krishna kicks over the cart-demon Shakatasura and strangles the whirlwind-demon Trinavarta.",
+            "hook_hindi": "बाल कृष्ण ने शकटासुर (गाडा) को लात मारकर उलट दिया और बवंडर रूपी राक्षस तृणावर्त का गला घोंटकर उसका वध कर दिया।",
+            "hook_gujarati": "બાલ કૃષ્ણે શકાસુર (ગાડા) ને લાત મારીને ઉલટાવી દીધું અને વંટોળિયા રૂપી રાક્ષસ તૃણાવર્તનું ગળું દબાવીને તેનો વધ કર્યો."
+        },
+        {
+            "chapter": 8,
+            "phase": "gokula",
+            "hook": "Garga Muni names Krishna and Balarama; Yashoda sees the entire cosmos inside Krishna's mouth.",
+            "hook_hindi": "गर्ग मुनि कृष्ण और बलराम का नामकरण करते हैं; यशोदा कृष्ण के मुख में संपूर्ण ब्रह्मांड देखती हैं।",
+            "hook_gujarati": "ગર્ગ મુનિ કૃષ્ણ અને બલરામનું નામકરણ કરે છે; યશોદા કૃષ્ણના મુખમાં સમગ્ર બ્રહ્માંડ જુએ છે."
+        },
+        {
+            "chapter": 9,
+            "phase": "gokula",
+            "hook": "Yashoda binds the butter-thief to a mortar — the Damodara lila.",
+            "hook_hindi": "यशोदा ने मक्खन चुराने वाले को ओखल से बांधा — दामोदर लीला।",
+            "hook_gujarati": "યશોદાએ માખણ ચોરનારને ઓખલ સાથે બાંધ્યા — દામોદર લીલા।"
+        },
+        {
+            "chapter": 10,
+            "phase": "gokula",
+            "hook": "Krishna drags the mortar between two trees, liberating Kuvera's cursed sons.",
+            "hook_hindi": "कृष्ण ओखल को दो पेड़ों के बीच खींचते हैं, जिससे कुबेर के शापित पुत्रों को मुक्ति मिलती है।",
+            "hook_gujarati": "કૃષ્ણ ઓખળને બે વૃક્ષોની વચ્ચે ખેંચી જાય છે, જેનાથી કુબેરના શાપિત પુત્રો મુક્ત થાય છે."
+        },
+        {
+            "chapter": 11,
+            "phase": "gokula",
+            "hook": "The cowherds move to Vrindavana; Krishna kills the calf-demon Vatsasura and the crane-demon Bakasura.",
+            "hook_hindi": "गोप वृंदावन चले जाते हैं; कृष्ण वत्सासुर और बकासुर नामक राक्षसों का वध करते हैं।",
+            "hook_gujarati": "ગોપ વૃંદાવન જાય છે; કૃષ્ણ વત્સાસુર અને બકાસુર નામના રાક્ષસોનો વધ કરે છે."
+        },
+        {
+            "chapter": 12,
+            "phase": "vrindavana",
+            "hook": "Krishna and the boys are swallowed by the python-demon Aghasura, who dies from within.",
+            "hook_hindi": "कृष्ण और ग्वाल-बाल अघासुर नामक अजगर राक्षस के पेट में निगल लिए जाते हैं, जो भीतर से ही मारा जाता है।",
+            "hook_gujarati": "કૃષ્ણ અને ગોવાળિયાઓ અઘાસુર નામના અજગર રાક્ષસ દ્વારા ગળી જવામાં આવે છે, જે અંદરથી જ મૃત્યુ પામે છે."
+        },
+        {
+            "chapter": 13,
+            "phase": "vrindavana",
+            "hook": "Brahma steals the boys and calves; Krishna expands Himself as every one of them for a year.",
+            "hook_hindi": "ब्रह्मा ने लड़कों और बछड़ों को चुरा लिया; कृष्ण ने एक वर्ष के लिए हर एक के रूप में अपना विस्तार किया।",
+            "hook_gujarati": "બ્રહ્મા છોકરાઓ અને વાછરડાઓને ચોરી જાય છે; કૃષ્ણ એક વર્ષ માટે તે દરેકના રૂપમાં પોતાનો વિસ્તાર કરે છે."
+        },
+        {
+            "chapter": 14,
+            "phase": "vrindavana",
+            "hook": "Humbled Brahma offers his celebrated prayers to the cowherd boy.",
+            "hook_hindi": "विनम्र ब्रह्मा ग्वाल बाल रूपी भगवान के समक्ष अपनी प्रसिद्ध प्रार्थनाएँ अर्पित करते हैं।",
+            "hook_gujarati": "નમ્ર બ્રહ્મા ગોવાળિયા બાળકના રૂપમાં રહેલા ભગવાન સમક્ષ પોતાની પ્રખ્યાત સ્તુતિ અર્પણ કરે છે."
+        },
+        {
+            "chapter": 15,
+            "phase": "vrindavana",
+            "hook": "Balarama slays the donkey-demon Dhenuka in the Talavana grove.",
+            "hook_hindi": "बलराम तालवन के उपवन में गधे के रूप वाले राक्षस धेनुकासुर का वध करते हैं।",
+            "hook_gujarati": "બલરામ તાલવનના ઉપવનમાં ગધેડાના રૂપમાં રહેલા અસુર ધેનુકાસુરનો વધ કરે છે."
+        },
+        {
+            "chapter": 16,
+            "phase": "vrindavana",
+            "hook": "Krishna leaps into the Yamuna and dances on the hoods of the serpent Kaliya.",
+            "hook_hindi": "कृष्ण यमुना में कूद जाते हैं और कालिया नाग के फणों पर नृत्य करते हैं।",
+            "hook_gujarati": "કૃષ્ણ યમુનામાં કૂદી પડે છે અને કાલિય નાગના ફણા પર નૃત્ય કરે છે."
+        },
+        {
+            "chapter": 17,
+            "phase": "vrindavana",
+            "hook": "Kaliya's history is told; Krishna swallows a raging forest fire to save the cowherds.",
+            "hook_hindi": "कालिय के इतिहास का वर्णन; गोप-बालकों की रक्षा के लिए कृष्ण द्वारा भीषण वन-अग्नि को निगलना।",
+            "hook_gujarati": "કાલિયના ઇતિહાસનું વર્ણન; ગોપ-બાળકોનું રક્ષણ કરવા માટે કૃષ્ણ દ્વારા ભીષણ વન-અગ્નિને ગળી જવું."
+        },
+        {
+            "chapter": 18,
+            "phase": "vrindavana",
+            "hook": "In the rainy-season games, Balarama destroys the demon Pralamba.",
+            "hook_hindi": "वृंदावन के खेलों में, भगवान बलराम प्रलम्बासुर नामक असुर का वध करते हैं।",
+            "hook_gujarati": "વૃંદાવનના ખેલકૂદ દરમિયાન, ભગવાન બલરામ પ્રલમ્બાસુર નામના અસુરનો વધ કરે છે."
+        },
+        {
+            "chapter": 19,
+            "phase": "vrindavana",
+            "hook": "Krishna again swallows a forest fire that engulfs the sleeping cowherds.",
+            "hook_hindi": "कृष्ण फिर से एक जंगल की आग को निगल लेते हैं जो सोए हुए ग्वाल-बालों को घेर लेती है।",
+            "hook_gujarati": "કૃષ્ણ ફરીથી જંગલની આગને ગળી જાય છે જે સૂતેલા ગોવાળોને ઘેરી લે છે."
+        },
+        {
+            "chapter": 20,
+            "phase": "vrindavana",
+            "hook": "The rainy season and autumn in Vrindavana are described in poetic detail.",
+            "hook_hindi": "वृंदावन में वर्षा और शरद ऋतुओं का काव्यात्मक वर्णन किया गया है।",
+            "hook_gujarati": "વૃંદાવનમાં વર્ષા અને શરદ ઋતુઓનું કાવ્યાત્મક વર્ણન કરવામાં આવ્યું છે."
+        },
+        {
+            "chapter": 21,
+            "phase": "govardhana",
+            "hook": "The gopis glorify the song of Krishna's flute that steals their hearts.",
+            "hook_hindi": "गोपियाँ कृष्ण की उस बांसुरी के गीत का महिमागान करती हैं जो उनके हृदयों को चुरा लेता है।",
+            "hook_gujarati": "ગોપીઓ કૃષ્ણની તે વાંસળીના ગીતનો મહિમા ગાય છે જે તેમના હૃદયને ચોરી લે છે."
+        },
+        {
+            "chapter": 22,
+            "phase": "govardhana",
+            "hook": "Krishna steals the bathing gopis' garments, teaching them surrender.",
+            "hook_hindi": "कृष्ण स्नान करती गोपियों के वस्त्र चुराकर उन्हें पूर्ण शरणागति का पाठ पढ़ाते हैं।",
+            "hook_gujarati": "કૃષ્ણ સ્નાન કરતી ગોપીઓના વસ્ત્રો ચોરીને તેમને સંપૂર્ણ શરણાગતિનો પાઠ ભણાવે છે."
+        },
+        {
+            "chapter": 23,
+            "phase": "govardhana",
+            "hook": "The wives of ritualistic brahmins feed Krishna and are blessed; their husbands repent.",
+            "hook_hindi": "ऋतुवादी ब्राह्मणों की पत्नियाँ कृष्ण को भोजन कराकर धन्य हो जाती हैं; उनके पति बाद में पश्चाताप करते हैं।",
+            "hook_gujarati": "કર્મકાંડી બ્રાહ્મણોની પત્નીઓ કૃષ્ણને ભોજન કરાવીને આશીર્વાદ મેળવે છે; તેમના પતિઓ પશ્ચાતાપ કરે છે."
+        },
+        {
+            "chapter": 24,
+            "phase": "govardhana",
+            "hook": "On Krishna's advice, the Vrajavasis worship Govardhana Hill instead of Indra.",
+            "hook_hindi": "कृष्ण की सलाह पर, ब्रजवासी इंद्र के स्थान पर गोवर्धन पर्वत की पूजा करते हैं।",
+            "hook_gujarati": "કૃષ્ણની સલાહ પર, વ્રજવાસીઓ ઇન્દ્રને બદલે ગોવર્ધન પર્વતની પૂજા કરે છે."
+        },
+        {
+            "chapter": 25,
+            "phase": "govardhana",
+            "hook": "Enraged Indra floods Vraja; Krishna lifts Govardhana as an umbrella for seven days.",
+            "hook_hindi": "क्रोधित इंद्र ने ब्रज में बाढ़ ला दी; कृष्ण ने सात दिनों तक छाते की तरह गोवर्धन पर्वत को उठा लिया।",
+            "hook_gujarati": "ક્રોધિત ઇન્દ્રએ વ્રજમાં પૂર લાવ્યું; કૃષ્ણએ સાત દિવસ સુધી છત્રીની જેમ ગોવર્ધન પર્વતને ઉઠાવી લીધો."
+        },
+        {
+            "chapter": 26,
+            "phase": "govardhana",
+            "hook": "The elders marvel at Krishna's deeds; Nanda recalls Garga's prophecies.",
+            "hook_hindi": "वृद्धजन कृष्ण के कार्यों पर आश्चर्य करते हैं; नंद बाबा गर्ग मुनि की भविष्यवाणियों को याद करते हैं।",
+            "hook_gujarati": "વડીલો કૃષ્ણના કાર્યો પર આશ્ચર્ય કરે છે; નંદ બાબા ગર્ગ મુનિની ભવિષ્યવાણીઓને યાદ કરે છે."
+        },
+        {
+            "chapter": 27,
+            "phase": "govardhana",
+            "hook": "Indra and mother Surabhi crown Krishna as \"Govinda.\"",
+            "hook_hindi": "इन्द्र और माता सुरभि ने कृष्ण का 'गोविन्द' के रूप में अभिषेक किया।",
+            "hook_gujarati": "ઇન્દ્ર અને માતા સુરભિએ કૃષ્ણનો 'ગોવિંદ' તરીકે અભિષેક કર્યો."
+        },
+        {
+            "chapter": 28,
+            "phase": "rasa",
+            "hook": "Krishna rescues Nanda from Varuna's realm and shows the cowherds His spiritual abode.",
+            "hook_hindi": "कृष्ण नंद महाराज को वरुण के लोक से बचाते हैं और ग्वालों को अपना आध्यात्मिक धाम दिखाते हैं।",
+            "hook_gujarati": "કૃષ્ણ નંદ મહારાજને વરુણના લોકમાંથી બચાવે છે અને ગોવાળોને પોતાનું આધ્યાત્મિક ધામ દર્શાવે છે."
+        },
+        {
+            "chapter": 29,
+            "phase": "rasa",
+            "hook": "On a full-moon autumn night, Krishna's flute calls the gopis to the rasa dance.",
+            "hook_hindi": "शरद ऋतु की पूर्णिमा की रात को, कृष्ण की बांसुरी गोपियों को रास नृत्य के लिए बुलाती है।",
+            "hook_gujarati": "શરદ પૂર્ણિમાની એક રાત્રે, કૃષ્ણની વાંસળી ગોપીઓને રાસ નૃત્ય માટે બોલાવે છે."
+        },
+        {
+            "chapter": 30,
+            "phase": "rasa",
+            "hook": "Abandoned by Krishna mid-dance, the gopis search the forest singing of Him.",
+            "hook_hindi": "रासलीला के बीच कृष्ण के अचानक अंतर्धान हो जाने पर, व्याकुल गोपियाँ वन में उनके विरह में गीत गाते हुए उन्हें खोजने लगती हैं।",
+            "hook_gujarati": "રાસલીલાની મધ્યમાં કૃષ્ણના અચાનક અંતર્ધાન થઈ જવાથી, વ્યાકુળ ગોપીઓ વનમાં તેમના વિરહમાં ગીતો ગાતા તેમની શોધ કરવા લાગે છે."
+        },
+        {
+            "chapter": 31,
+            "phase": "rasa",
+            "hook": "The gopis sing the celebrated Gopi-gita in separation.",
+            "hook_hindi": "गोपियाँ विरह की अवस्था में प्रसिद्ध गोपी-गीत गाती हैं।",
+            "hook_gujarati": "ગોપીઓ વિરહની અવસ્થામાં પ્રસિદ્ધ ગોપી-ગીત ગાય છે."
+        },
+        {
+            "chapter": 32,
+            "phase": "rasa",
+            "hook": "Krishna returns to the gopis and explains why He had hidden.",
+            "hook_hindi": "कृष्ण गोपियों के पास लौटते हैं और समझाते हैं कि वे क्यों छिप गए थे।",
+            "hook_gujarati": "કૃષ્ણ ગોપીઓ પાસે પાછા ફરે છે અને સમજાવે છે કે તેઓ શા માટે છુપાઈ ગયા હતા."
+        },
+        {
+            "chapter": 33,
+            "phase": "rasa",
+            "hook": "The rasa dance unfolds — Krishna multiplies Himself between every two gopis.",
+            "hook_hindi": "रास नृत्य का शुभारंभ होता है — कृष्ण प्रत्येक दो गोपियों के बीच स्वयं को विस्तारित कर लेते हैं।",
+            "hook_gujarati": "રાસ નૃત્યનો પ્રારંભ થાય છે — કૃષ્ણ દરેક બે ગોપીઓની વચ્ચે પોતાનું સ્વરૂપ વિસ્તારે છે."
+        },
+        {
+            "chapter": 34,
+            "phase": "rasa",
+            "hook": "A Yaksha kidnaps a gopi; Krishna slays him (Shankhachuda) and rescues Nanda from a serpent.",
+            "hook_hindi": "एक यक्ष एक गोपी का अपहरण करता है; कृष्ण उसका (शंखचूड़) वध करते हैं और नन्द महाराज को एक सर्प से बचाते हैं।",
+            "hook_gujarati": "એક યક્ષ એક ગોપીનું અપહરણ કરે છે; કૃષ્ણ તેનો (શંખચૂડનો) વધ કરે છે અને નંદ મહારાજને એક સર્પથી બચાવે છે."
+        },
+        {
+            "chapter": 35,
+            "phase": "rasa",
+            "hook": "The gopis sing of Krishna throughout day and night as He grazes the cows.",
+            "hook_hindi": "जब कृष्ण गायों को चराने जाते हैं, तो गोपियाँ दिन-रात उनके लीलाओं का गान करती हैं।",
+            "hook_gujarati": "જ્યારે કૃષ્ણ ગાયો ચરાવવા જાય છે, ત્યારે ગોપીઓ દિવસ-રાત તેમની લીલાઓનું ગાન કરે છે."
+        },
+        {
+            "chapter": 36,
+            "phase": "mathura",
+            "hook": "The bull-demon Aristasura attacks Vraja and is slain.",
+            "hook_hindi": "वृषभ-दानव अरिष्टासुर ब्रज पर आक्रमण करता है और मारा जाता है।",
+            "hook_gujarati": "વૃષભ-રાક્ષસ અરિષ્ટાસુર વ્રજ પર આક્રમણ કરે છે અને માર્યો જાય છે."
+        },
+        {
+            "chapter": 37,
+            "phase": "mathura",
+            "hook": "Krishna kills the horse-demon Keshi and Vyomasura the cave-demon.",
+            "hook_hindi": "कृष्ण ने घोड़े के रूप में आए राक्षस केशी और गुफा में छिपकर बच्चों को उठाने वाले राक्षस व्योमासुर का वध किया।",
+            "hook_gujarati": "કૃષ્ણે ઘોડાના રૂપમાં આવેલા કેશી અને ગુફામાં બાળકોને બંધક બનાવનાર વ્યોમાસુર નામના રાક્ષસનો વધ કર્યો."
+        },
+        {
+            "chapter": 38,
+            "phase": "mathura",
+            "hook": "Sent by Kamsa, Akrura arrives in Vrindavana to fetch Krishna and Balarama.",
+            "hook_hindi": "कंस द्वारा भेजे गए अक्रूर, कृष्ण और बलराम को लेने के लिए वृंदावन पहुँचते हैं।",
+            "hook_gujarati": "કંસ દ્વારા મોકલેલા અક્રૂર, કૃષ્ણ અને બલરામને તેડવા માટે વૃંદાવન પહોંચે છે."
+        },
+        {
+            "chapter": 39,
+            "phase": "mathura",
+            "hook": "The brothers depart with Akrura; the gopis collapse in grief.",
+            "hook_hindi": "भाई अक्रूर के साथ प्रस्थान करते हैं; गोपियाँ शोक में विह्वल हो जाती हैं।",
+            "hook_gujarati": "ભાઈઓ અક્રૂર સાથે પ્રસ્થાન કરે છે; ગોપીઓ શોકમાં વિહ્વળ થઈ જાય છે."
+        },
+        {
+            "chapter": 40,
+            "phase": "mathura",
+            "hook": "Bathing in the Yamuna, Akrura beholds Krishna's Vaikuntha form and offers prayers.",
+            "hook_hindi": "यमुना में स्नान करते समय, अक्रूर कृष्ण के वैकुंठ रूप का दर्शन करते हैं और प्रार्थना करते हैं।",
+            "hook_gujarati": "યમુનામાં સ્નાન કરતી વખતે, અક્રૂર કૃષ્ણના વૈકુંઠ સ્વરૂપના દર્શન કરે છે અને પ્રાર્થના કરે છે."
+        },
+        {
+            "chapter": 41,
+            "phase": "mathura",
+            "hook": "Entering Mathura, Krishna blesses Trivakra and the garland-maker Sudama.",
+            "hook_hindi": "मथुरा में प्रवेश करते ही, कृष्ण ने त्रिवक्रा को आशीर्वाद दिया और मालाकार सुदामा को अनुग्रहित किया।",
+            "hook_gujarati": "મથુરામાં પ્રવેશતાની સાથે જ, કૃષ્ણે ત્રિવક્રાને આશીર્વાદ આપ્યા અને માલાકાર સુદામાને કૃપાદાન આપ્યું."
+        },
+        {
+            "chapter": 42,
+            "phase": "mathura",
+            "hook": "Krishna straightens Trivakra and breaks Kamsa's sacrificial bow.",
+            "hook_hindi": "कृष्ण त्रिवक्रा को सीधा करते हैं और कंस के यज्ञीय धनुष को तोड़ देते हैं।",
+            "hook_gujarati": "કૃષ્ણ ત્રિવક્રાને સીધી કરે છે અને કંસનું યજ્ઞીય ધનુષ તોડી નાખે છે."
+        },
+        {
+            "chapter": 43,
+            "phase": "mathura",
+            "hook": "The brothers kill the elephant Kuvalayapida guarding Kamsa's arena.",
+            "hook_hindi": "दोनों भाई कंस के अखाड़े की रखवाली करने वाले कुवलयापीड हाथी का वध करते हैं।",
+            "hook_gujarati": "બંને ભાઈઓ કંસના અખાડાની રખેવાળી કરતા હાથી કુવલયાપીડનો વધ કરે છે."
+        },
+        {
+            "chapter": 44,
+            "phase": "mathura",
+            "hook": "In the arena, Krishna dispatches Chanura and Mushtika and drags Kamsa from his throne — slain at last.",
+            "hook_hindi": "मल्ल-युद्ध के अखाड़े में, कृष्ण ने चाणूर और मुष्टिक का संहार किया और कंस को उसके सिंहासन से घसीटकर उसका अंत कर दिया।",
+            "hook_gujarati": "મલ્લ-યુદ્ધના મેદાનમાં, કૃષ્ણે ચાણૂર અને મુષ્ટિકનો સંહાર કર્યો અને કંસને તેના સિંહાસન પરથી ખેંચીને તેનો અંત આણ્યો."
+        },
+        {
+            "chapter": 45,
+            "phase": "mathura",
+            "hook": "After freeing Devaki and Vasudeva, Krishna studies under Sandipani and brings back his guru's son from Yamaloka.",
+            "hook_hindi": "देवकी और वासुदेव को मुक्त करने के बाद, कृष्ण सांदीपनि मुनि के आश्रम में शिक्षा ग्रहण करते हैं और यमलोक से अपने गुरु के पुत्र को पुनर्जीवित कर ले आते हैं।",
+            "hook_gujarati": "દેવકી અને વાસુદેવને મુક્ત કર્યા પછી, કૃષ્ણ સાંદીપનિ મુનિ પાસે અભ્યાસ કરે છે અને યમલોકમાંથી તેમના ગુરુના પુત્રને પાછો લાવે છે."
+        },
+        {
+            "chapter": 46,
+            "phase": "dwarka",
+            "hook": "Krishna sends Uddhava to Vrindavana to console Nanda, Yashoda, and the gopis.",
+            "hook_hindi": "कृष्ण उद्धव को वृंदावन भेजते हैं ताकि वे नंद, यशोदा और गोपियों को सांत्वना दे सकें।",
+            "hook_gujarati": "કૃષ્ણ ઉદ્ધવને વૃંદાવન મોકલે છે જેથી તેઓ નંદ, યશોદા અને ગોપીઓને સાંત્વના આપી શકે."
+        },
+        {
+            "chapter": 47,
+            "phase": "dwarka",
+            "hook": "Uddhava delivers Krishna's message; a bee becomes the gopis' audience in the Bhramara-gita.",
+            "hook_hindi": "उद्धव कृष्ण का संदेश लेकर आते हैं; भ्रामर-गीत में एक भँवरा गोपियों का श्रोता बन जाता है।",
+            "hook_gujarati": "ઉદ્ધવ કૃષ્ણનો સંદેશ લઈને આવે છે; ભ્રમર-ગીતમાં એક ભમરો ગોપીઓનો શ્રોતા બની જાય છે."
+        },
+        {
+            "chapter": 48,
+            "phase": "dwarka",
+            "hook": "Back in Mathura, Krishna visits Trivakra and Akrura and plans the next moves.",
+            "hook_hindi": "मथुरा वापस आकर, कृष्ण त्रिवक्रा और अक्रूर से मिलते हैं और आगे की योजनाओं पर चर्चा करते हैं।",
+            "hook_gujarati": "મથુરા પાછા આવીને, કૃષ્ણ ત્રિવકરા અને અક્રૂરને મળે છે અને આગળની યોજનાઓ વિશે ચર્ચા કરે છે."
+        },
+        {
+            "chapter": 49,
+            "phase": "dwarka",
+            "hook": "Krishna sends Akrura to Hastinapura to learn of the Pandavas' welfare.",
+            "hook_hindi": "कृष्ण अक्रूर को पांडवों के कल्याण के बारे में जानने के लिए हस्तिनापुर भेजते हैं।",
+            "hook_gujarati": "પાંડવોની સુખાકારી જાણવા માટે કૃષ્ણ અક્રૂરને હસ્તિનાપુર મોકલે છે."
+        },
+        {
+            "chapter": 50,
+            "phase": "dwarka",
+            "hook": "Attacked seventeen times by Jarasandha, Krishna builds the sea-fortress Dwarka and shifts the Yadavas.",
+            "hook_hindi": "जरासंध द्वारा सत्रह बार आक्रमण किए जाने पर, कृष्ण समुद्र के भीतर द्वारका के दुर्ग का निर्माण करते हैं और यादवों को वहाँ स्थानांतरित करते हैं।",
+            "hook_gujarati": "જરાસંધ દ્વારા સત્તર વાર આક્રમણ કરાયા બાદ, કૃષ્ણ સમુદ્રની અંદર દ્વારકાનો કિલ્લો બનાવે છે અને યાદવોને ત્યાં સ્થળાંતર કરાવે છે."
+        },
+        {
+            "chapter": 51,
+            "phase": "dwarka",
+            "hook": "The yavana king Kalayavana pursues Krishna into a cave; Mucukunda's glance burns him to ash.",
+            "hook_hindi": "यवन राजा कालयवन कृष्ण का पीछा करते हुए एक गुफा में प्रवेश करता है; मुचुकुन्द की दृष्टि उसे भस्म कर देती है।",
+            "hook_gujarati": "યવન રાજા કાલયવન કૃષ્ણનો પીછો કરીને એક ગુફામાં પ્રવેશે છે; મુચુકુંદની દ્રષ્ટિ તેને ભસ્મ કરી દે છે."
+        },
+        {
+            "chapter": 52,
+            "phase": "dwarka",
+            "hook": "Princess Rukmini sends a secret letter pleading to be rescued from marriage to Shishupala.",
+            "hook_hindi": "राजकुमारी रुक्मिणी ने शिशुपाल से विवाह से बचाने के लिए भगवान कृष्ण को एक गुप्त पत्र भेजा।",
+            "hook_gujarati": "રાજકુમારી રુક્મિણીએ શિશુપાલ સાથેના લગ્નમાંથી બચાવવા માટે ભગવાન કૃષ્ણને એક ગુપ્ત પત્ર મોકલ્યો."
+        },
+        {
+            "chapter": 53,
+            "phase": "dwarka",
+            "hook": "Krishna abducts Rukmini from her wedding procession and defeats the assembled kings.",
+            "hook_hindi": "श्रीकृष्ण रुक्मिणी को उनके विवाह समारोह से हर ले जाते हैं और उपस्थित राजाओं को पराजित करते हैं।",
+            "hook_gujarati": "શ્રીકૃષ્ણ રુક્મિણીને તેમના વિવાહ સમારોહમાંથી હરી જાય છે અને ઉપસ્થિત રાજાઓને પરાજિત કરે છે."
+        },
+        {
+            "chapter": 54,
+            "phase": "dwarka",
+            "hook": "Balarama spares Rukmini's brother Rukmi but disfigures him; Krishna weds Rukmini in Dwarka.",
+            "hook_hindi": "बलराम रुक्मिणी के भाई रुक्मी को मारते नहीं हैं, बल्कि उसे अपमानित कर विकृत कर देते हैं; कृष्ण द्वारका में रुक्मिणी के साथ विवाह करते हैं।",
+            "hook_gujarati": "બલરામ રુકમિણીના ભાઈ રુકમીને મારી નાખતા નથી પરંતુ તેને અપમાનિત કરીને વિરૂપ કરી દે છે; કૃષ્ણ દ્વારકામાં રુકમિણી સાથે લગ્ન કરે છે."
+        },
+        {
+            "chapter": 55,
+            "phase": "dwarka",
+            "hook": "Pradyumna is born, kidnapped by Shambara, returns to slay him and marries Mayavati.",
+            "hook_hindi": "प्रद्युम्न का जन्म, शंभासुर द्वारा अपहरण, उनका वापस आकर वध करना और मायावती से विवाह करना।",
+            "hook_gujarati": "પ્રદ્યુમ્નનો જન્મ, શંબર દ્વારા અપહરણ, તેમનું પરત આવીને શંબરનો વધ કરવો અને માયાવતી સાથે લગ્ન કરવા."
+        },
+        {
+            "chapter": 56,
+            "phase": "dwarka",
+            "hook": "Satrajit's Syamantaka jewel is lost; Krishna recovers it from Jambavan after a long combat.",
+            "hook_hindi": "सत्राजित की स्यमंतक मणि खो जाती है; श्रीकृष्ण जाम्बवान से लंबे युद्ध के बाद इसे पुनः प्राप्त करते हैं।",
+            "hook_gujarati": "સત્રાજિતની સ્યમંતક મણિ ખોવાઈ જાય છે; શ્રીકૃષ્ણ જામ્બવાન સાથેના લાંબા યુદ્ધ પછી તેને પાછી મેળવે છે."
+        },
+        {
+            "chapter": 57,
+            "phase": "dwarka",
+            "hook": "Satrajit is murdered; Krishna recovers the jewel and clears His name.",
+            "hook_hindi": "सत्राजित की हत्या हो जाती है; कृष्ण मणि को पुनः प्राप्त करते हैं और अपने ऊपर लगे आरोपों को दूर करते हैं।",
+            "hook_gujarati": "સત્રાજિતની હત્યા થાય છે; કૃષ્ણ મણિ પાછો મેળવે છે અને પોતાનું નામ નિર્દોષ સાબિત કરે છે."
+        },
+        {
+            "chapter": 58,
+            "phase": "dwarka",
+            "hook": "Krishna marries Kalindi, Mitravinda, Satya, Bhadra, and Lakshmana — five more queens.",
+            "hook_hindi": "कृष्ण का कालिंदी, मित्रविंदा, सत्या, भद्रा और लक्ष्मणा — पाँच और रानियों से विवाह।",
+            "hook_gujarati": "કૃષ્ણ કાલિંદી, મિત્રવિંદા, સત્યા, ભદ્રા અને લક્ષ્મણા સાથે લગ્ન કરે છે - વધુ પાંચ રાણીઓ."
+        },
+        {
+            "chapter": 59,
+            "phase": "dwarka",
+            "hook": "Krishna kills Narakasura, frees 16,100 captive princesses, and accepts them as wives.",
+            "hook_hindi": "कृष्ण नरकासुर का वध करते हैं, 16,100 बंदी राजकुमारियों को मुक्त करते हैं और उन्हें अपनी पत्नियों के रूप में स्वीकार करते हैं।",
+            "hook_gujarati": "કૃષ્ણ નરકાસુરનો વધ કરે છે, 16,100 કેદી રાજકુમારીઓને મુક્ત કરે છે અને તેમને પોતાની પત્ની તરીકે સ્વીકારે છે."
+        },
+        {
+            "chapter": 60,
+            "phase": "dwarka",
+            "hook": "In the inner chambers, Krishna playfully teases Rukmini until she faints in love.",
+            "hook_hindi": "अन्तःपुर में, कृष्ण प्रेमवश रुक्मिणी को तब तक छेड़ते हैं जब तक कि वे मूर्छित नहीं हो जातीं।",
+            "hook_gujarati": "અંતઃપુરમાં, કૃષ્ણ રુક્મિણી સાથે પ્રેમપૂર્વક મજાક કરે છે જ્યાં સુધી તે પ્રેમમાં મૂર્છિત ન થઈ જાય."
+        },
+        {
+            "chapter": 61,
+            "phase": "dwarka",
+            "hook": "Krishna's many sons and Rukmi's descendants are described.",
+            "hook_hindi": "कृष्ण के अनेक पुत्रों और रुक्मी के वंशजों का वर्णन है।",
+            "hook_gujarati": "કૃષ્ણના અનેક પુત્રો અને રુક્મીના વંશજોનું વર્ણન છે."
+        },
+        {
+            "chapter": 62,
+            "phase": "dwarka",
+            "hook": "Aniruddha is captured by Banasura after a secret love-affair with princess Usha.",
+            "hook_hindi": "राजकुमारी उषा के साथ गुप्त प्रेम-संबंध के बाद बाणासुर द्वारा अनिरुद्ध को बंदी बना लिया जाता है।",
+            "hook_gujarati": "રાજકુમારી ઉષા સાથેના ગુપ્ત પ્રેમ-સંબંધ પછી બાણાસુર દ્વારા અનिरુદ્ધને કેદ કરવામાં આવે છે."
+        },
+        {
+            "chapter": 63,
+            "phase": "dwarka",
+            "hook": "Krishna defeats Banasura — Shiva himself yields — and frees Aniruddha.",
+            "hook_hindi": "कृष्ण बाणासुर को हराते हैं — स्वयं शिवजी नतमस्तक होते हैं — और अनिरुद्ध को मुक्त कराते हैं।",
+            "hook_gujarati": "કૃષ્ણ બાણાસુરને હરાવે છે — સ્વયં શિવજી નતમસ્તક થાય છે — અને અનિરુદ્ધને મુક્ત કરાવે છે."
+        },
+        {
+            "chapter": 64,
+            "phase": "dwarka",
+            "hook": "King Nriga, cursed to be a lizard for a brahmana's cow, is liberated by Krishna's touch.",
+            "hook_hindi": "राजा नृग, जो एक ब्राह्मण की गाय को दान में देने के कारण छिपकली बन गए थे, कृष्ण के स्पर्श से मुक्त हो जाते हैं।",
+            "hook_gujarati": "રાજા નૃગ, જે એક બ્રાહ્મણની ગાય દાનમાં આપવાને કારણે ગરોળી બની ગયા હતા, તે કૃષ્ણના સ્પર્શથી મુક્ત થાય છે."
+        },
+        {
+            "chapter": 65,
+            "phase": "dwarka",
+            "hook": "Balarama visits Vrindavana, sports with the gopis, and drags the Yamuna with His plough.",
+            "hook_hindi": "बलराम वृंदावन आते हैं, गोपियों के साथ क्रीड़ा करते हैं और अपने हल से यमुना को खींचते हैं।",
+            "hook_gujarati": "બલરામ વૃંદાવન આવે છે, ગોપીઓ સાથે ક્રીડા કરે છે અને પોતાના હળ વડે યમુનાને ખેંચે છે."
+        },
+        {
+            "chapter": 66,
+            "phase": "dwarka",
+            "hook": "The imposter Paundraka, who claims to be Vasudeva, is killed along with his Kashi ally.",
+            "hook_hindi": "पाखंडी पौण्ड्रक, जो स्वयं को वासुदेव होने का दावा करता है, अपने काशी के सहयोगी के साथ मारा जाता है।",
+            "hook_gujarati": "પાખંડી પૌન્ડ્રક, જે પોતે વાસુદેવ હોવાનો દાવો કરે છે, તે તેના કાશીના સાથી સાથે માર્યો જાય છે."
+        },
+        {
+            "chapter": 67,
+            "phase": "dwarka",
+            "hook": "Balarama slays the gorilla-demon Dvivida who terrorized Anarta.",
+            "hook_hindi": "बलराम जी ने अनर्त क्षेत्र को आतंकित करने वाले द्विविद नामक वानर-राक्षस का वध किया।",
+            "hook_gujarati": "બલરામજીએ અનર્ત પ્રદેશને આતંકિત કરનાર દ્વિવિદ નામના વાનર-રાક્ષસનો વધ કર્યો."
+        },
+        {
+            "chapter": 68,
+            "phase": "dwarka",
+            "hook": "Samba abducts Duryodhana's daughter; Balarama drags Hastinapura with His plough until peace is made.",
+            "hook_hindi": "साम्ब दुर्योधन की पुत्री का अपहरण करता है; बलराम जी हस्तिनापुर को अपने हल से खींचकर तब तक हिलाते हैं जब तक शांति स्थापित नहीं हो जाती।",
+            "hook_gujarati": "સાંબ દુર્યોધનની પુત્રીનું અપહરણ કરે છે; બલરામજી હસ્તિનાપુરને પોતાના હળ વડે ખેંચીને ત્યાં સુધી હલાવે છે જ્યાં સુધી શાંતિ સ્થપાય નહીં."
+        },
+        {
+            "chapter": 69,
+            "phase": "dwarka",
+            "hook": "Narada visits each of Krishna's 16,108 palaces and finds Him present in every one.",
+            "hook_hindi": "नारद मुनि कृष्ण के सभी 16,108 महलों में भ्रमण करते हैं और हर महल में उन्हें भगवान कृष्ण को उपस्थित पाते हैं।",
+            "hook_gujarati": "નારદ મુનિ કૃષ્ણના તમામ ૧૬,૧૦૮ મહેલોમાં ભ્રમણ કરે છે અને દરેક મહેલમાં તેમને ભગવાન કૃષ્ણને ઉપસ્થિત જુએ છે."
+        },
+        {
+            "chapter": 70,
+            "phase": "world",
+            "hook": "Krishna's daily royal duties; messengers arrive from kings imprisoned by Jarasandha.",
+            "hook_hindi": "कृष्ण के दैनिक शाही कर्तव्य; जरासंध द्वारा बंदी बनाए गए राजाओं के दूत का आगमन।",
+            "hook_gujarati": "કૃષ્ણના દૈનિક રાજકીય કર્તવ્યો; જરાસંધ દ્વારા કેદ કરાયેલા રાજાઓનો દૂત આવે છે."
+        },
+        {
+            "chapter": 71,
+            "phase": "world",
+            "hook": "On Narada's counsel, Krishna travels to Indraprastha to assist Yudhishthira's Rajasuya.",
+            "hook_hindi": "नारद मुनि के परामर्श पर, कृष्ण युधिष्ठिर के राजसूय यज्ञ में सहायता करने के लिए इन्द्रप्रस्थ की यात्रा करते हैं।",
+            "hook_gujarati": "નારદ મુનિના પરામર્શ પર, કૃષ્ણ યુધિષ્ઠિરના રાજસૂય યજ્ઞમાં સહાય કરવા માટે ઇન્દ્રપ્રસ્થની યાત્રા કરે છે."
+        },
+        {
+            "chapter": 72,
+            "phase": "world",
+            "hook": "Krishna, Bhima, and Arjuna confront Jarasandha; Bhima kills him in single combat.",
+            "hook_hindi": "कृष्ण, भीम और अर्जुन जरासंध का सामना करते हैं; भीम द्वंद्वयुद्ध में उसका वध कर देते हैं।",
+            "hook_gujarati": "કૃષ્ણ, ભીમ અને અર્જુન જરાસંધનો સામનો કરે છે; ભીમ દ્વંદ્વયુદ્ધમાં તેનો વધ કરે છે."
+        },
+        {
+            "chapter": 73,
+            "phase": "world",
+            "hook": "The 20,800 freed kings glorify Krishna and return to their kingdoms.",
+            "hook_hindi": "जरासंध के कारागार से मुक्त हुए 20,800 राजाओं ने कृष्ण की स्तुति की और अपने-अपने राज्यों को लौट गए।",
+            "hook_gujarati": "જરાસંધના કારાગારમાંથી મુક્ત થયેલા 20,800 રાજાઓએ કૃષ્ણની સ્તુતિ કરી અને પોતાના રાજ્યોમાં પાછા ફર્યા."
+        },
+        {
+            "chapter": 74,
+            "phase": "world",
+            "hook": "At the Rajasuya, Krishna receives the first worship; Shishupala insults Him and is beheaded.",
+            "hook_hindi": "राजसूय यज्ञ के दौरान, कृष्ण को प्रथम पूजा प्राप्त होती है; शिशुपाल उनका अपमान करता है और उसका सिर काट दिया जाता है।",
+            "hook_gujarati": "રાજસૂય યજ્ઞ દરમિયાન, કૃષ્ણને પ્રથમ પૂજા પ્રાપ્ત થાય છે; શિશુપાલ તેમનું અપમાન કરે છે અને તેનું મસ્તક કાપી નાખવામાં આવે છે."
+        },
+        {
+            "chapter": 75,
+            "phase": "world",
+            "hook": "The completed Rajasuya leaves Duryodhana humiliated in the illusory palace of Maya.",
+            "hook_hindi": "संपन्न राजसूय यज्ञ के बाद माया के मायावी महल में दुर्योधन अपमानित अनुभव करता है।",
+            "hook_gujarati": "સંપન્ન થયેલા રાજસૂય યજ્ઞ બાદ માયાના માયાવી મહેલમાં દુર્યોધન અપમાનિત અનુભવે છે."
+        },
+        {
+            "chapter": 76,
+            "phase": "world",
+            "hook": "Shalva attacks Dwarka with his magical airship Saubha.",
+            "hook_hindi": "शाल्व अपने जादुई हवाई जहाज 'सौभ' के साथ द्वारका पर आक्रमण करता है।",
+            "hook_gujarati": "શાલ્વ તેના જાદુઈ વિમાન 'સૌભ' વડે દ્વારકા પર આક્રમણ કરે છે."
+        },
+        {
+            "chapter": 77,
+            "phase": "world",
+            "hook": "Krishna pursues Shalva, shatters the Saubha, and kills him.",
+            "hook_hindi": "कृष्ण शाल्व का पीछा करते हैं, सौभ विमान को नष्ट करते हैं और उसका वध कर देते हैं।",
+            "hook_gujarati": "કૃષ્ણ શાલ્વનો પીછો કરે છે, સૌભ વિમાનનો નાશ કરે છે અને તેનો વધ કરે છે."
+        },
+        {
+            "chapter": 78,
+            "phase": "world",
+            "hook": "Shishupala's brother Dantavakra is slain; Vidura's pilgrimage is mentioned.",
+            "hook_hindi": "शिशुपाल के भाई दंतवक्र का वध; विदुर की तीर्थयात्रा का उल्लेख।",
+            "hook_gujarati": "શિશુપાલના ભાઈ દંતવક્રનો વધ; વિદુરની તીર્થયાત્રાનો ઉલ્લેખ."
+        },
+        {
+            "chapter": 79,
+            "phase": "world",
+            "hook": "Balarama tours the holy places during the Kurukshetra war, avoiding combat.",
+            "hook_hindi": "कुरुक्षेत्र युद्ध के दौरान बलरामजी पवित्र स्थानों की तीर्थयात्रा पर निकलते हैं और युद्ध से दूर रहते हैं।",
+            "hook_gujarati": "કુરુક્ષેત્રના યુદ્ધ દરમિયાન બલરામજી પવિત્ર સ્થળોની તીર્થયાત્રાએ નીકળે છે અને યુદ્ધથી દૂર રહે છે."
+        },
+        {
+            "chapter": 80,
+            "phase": "world",
+            "hook": "The poor brahmana Sudama, Krishna's classmate, visits Dwarka with a humble offering of flat rice.",
+            "hook_hindi": "कृष्ण के सहपाठी निर्धन ब्राह्मण सुदामा, भेंट में थोड़े से चिवड़े लेकर द्वारका पहुँचते हैं।",
+            "hook_gujarati": "કૃષ્ણના સહાધ્યાયી ગરીબ બ્રાહ્મણ સુદામા ભેટમાં થોડા પૌઆ લઈને દ્વારકા પહોંચે છે."
+        },
+        {
+            "chapter": 81,
+            "phase": "world",
+            "hook": "Krishna welcomes Sudama royally; Sudama returns home to find his hut transformed into a palace.",
+            "hook_hindi": "कृष्ण सुदामा का राजसी स्वागत करते हैं; सुदामा घर लौटकर अपनी कुटिया को महल में परिवर्तित पाते हैं।",
+            "hook_gujarati": "કૃષ્ણ સુદામાનું શાહી સ્વાગત કરે છે; સુદામા ઘરે પાછા ફરીને પોતાની ઝૂંપડીને મહેલમાં પરિવર્તિત થયેલી જુએ છે."
+        },
+        {
+            "chapter": 82,
+            "phase": "world",
+            "hook": "During a solar eclipse, all the Yadavas meet the Vrajavasis at Kurukshetra — the long-awaited reunion.",
+            "hook_hindi": "सूर्य ग्रहण के दौरान, सभी यदुवंशी कुरुक्षेत्र में व्रजवासियों से मिलते हैं — यह एक बहुप्रतीक्षित मिलन है।",
+            "hook_gujarati": "સૂર્યગ્રહણ દરમિયાન, બધા યાદવો કુરુક્ષેત્રમાં વ્રજવાસીઓને મળે છે — આ એક લાંબા સમયથી પ્રતીક્ષિત મિલન છે."
+        },
+        {
+            "chapter": 83,
+            "phase": "world",
+            "hook": "The queens of Krishna gather with Draupadi and share how each was won.",
+            "hook_hindi": "कृष्ण की रानियां द्रौपदी के साथ एकत्र होती हैं और बताती हैं कि भगवान ने उन्हें किस प्रकार प्राप्त किया।",
+            "hook_gujarati": "કૃષ્ણની રાણીઓ દ્રૌપદી સાથે એકત્ર થાય છે અને જણાવે છે કે ભગવાને તેમને કેવી રીતે પ્રાપ્ત કર્યા."
+        },
+        {
+            "chapter": 84,
+            "phase": "world",
+            "hook": "Sages assemble at Kurukshetra; Krishna instructs Nanda and the Vrajavasis before they part.",
+            "hook_hindi": "ऋषि कुरुक्षेत्र में एकत्रित होते हैं; कृष्ण नंद और व्रजवासियों के जाने से पहले उन्हें उपदेश देते हैं।",
+            "hook_gujarati": "ઋષિઓ કુરુક્ષેત્રમાં એકઠા થાય છે; કૃષ્ણ નંદ અને વ્રજવાસીઓના પ્રસ્થાન પહેલાં તેમને ઉપદેશ આપે છે."
+        },
+        {
+            "chapter": 85,
+            "phase": "closing",
+            "hook": "Krishna instructs Vasudeva on the Supreme Truth and recovers Devaki's six sons killed by Kamsa.",
+            "hook_hindi": "कृष्ण वासुदेव को परम सत्य का निर्देश देते हैं और कंस द्वारा मारे गए देवकी के छह पुत्रों को वापस लाते हैं।",
+            "hook_gujarati": "કૃષ્ણ વાસુદેવને પરમ સત્યનો ઉપદેશ આપે છે અને કંસ દ્વારા માર્યા ગયેલા દેવકીના છ પુત્રોને પાછા લાવે છે."
+        },
+        {
+            "chapter": 86,
+            "phase": "closing",
+            "hook": "Arjuna abducts Subhadra with Krishna's blessing; the sage Shrutadeva and King Bahulashva are honoured.",
+            "hook_hindi": "श्रीकृष्ण के आशीर्वाद से अर्जुन सुभद्रा का अपहरण करते हैं; मुनि श्रुतदेव और राजा बहुलाश्व का सम्मान किया जाता है।",
+            "hook_gujarati": "શ્રીકૃષ્ણના આશીર્વાદથી અર્જુન સુભદ્રાનું અપહરણ કરે છે; મુનિ શ્રુતદેવ અને રાજા બહુલાશ્વનું સન્માન કરવામાં આવે છે."
+        },
+        {
+            "chapter": 87,
+            "phase": "closing",
+            "hook": "The personified Vedas offer profound prayers describing the Absolute Truth.",
+            "hook_hindi": "मूर्तिमान वेद परम सत्य का वर्णन करते हुए अत्यंत गहन प्रार्थनाएं अर्पित करते हैं।",
+            "hook_gujarati": "મૂર્તિમાન વેદો પરમ સત્યનું વર્ણન કરતી અત્યંત ગહન પ્રાર્થનાઓ અર્પણ કરે છે."
+        },
+        {
+            "chapter": 88,
+            "phase": "closing",
+            "hook": "The demon Vrikasura tries to behead Shiva; Vishnu tricks him into destroying himself.",
+            "hook_hindi": "राक्षस वृकासुर शिवजी को मारने का प्रयास करता है; विष्णुजी उसे छल से स्वयं को नष्ट करने के लिए प्रेरित करते हैं।",
+            "hook_gujarati": "રાક્ષસ વૃકાસુર શિવજીને મારવાનો પ્રયાસ કરે છે; વિષ્ણુજી તેને છળકપટથી સ્વયંને નષ્ટ કરવા માટે પ્રેરે છે."
+        },
+        {
+            "chapter": 89,
+            "phase": "closing",
+            "hook": "After a dispute among the gods, Krishna and Arjuna travel beyond material creation to recover a brahmana's lost sons.",
+            "hook_hindi": "देवताओं के बीच विवाद के बाद, कृष्ण और अर्जुन ब्राह्मण के खोए हुए पुत्रों को वापस लाने के लिए भौतिक सृष्टि से परे की यात्रा करते हैं।",
+            "hook_gujarati": "દેવતાઓ વચ્ચેના વિવાદ બાદ, કૃષ્ણ અને અર્જુન બ્રાહ્મણના ખોવાયેલા પુત્રોને પાછા લાવવા માટે ભૌતિક સૃષ્ટિની બહાર મુસાફરી કરે છે."
+        },
+        {
+            "chapter": 90,
+            "phase": "closing",
+            "hook": "Sukadeva summarises Krishna's pastimes, wives, sons — and the supreme glories of the Lord.",
+            "hook_hindi": "शुकदेव गोस्वामी कृष्ण की लीलाओं, पत्नियों, पुत्रों और भगवान की सर्वोच्च महिमा का सारांश प्रस्तुत करते हैं।",
+            "hook_gujarati": "શુકદેવ ગોસ્વામી શ્રીકૃષ્ણની લીલાઓ, પત્નીઓ, પુત્રો અને ભગવાનની સર્વોચ્ચ મહિમાનો સારાંશ આપે છે."
+        }
     ]
 }

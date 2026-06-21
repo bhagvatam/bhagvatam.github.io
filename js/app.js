@@ -103,7 +103,7 @@ function showChapter(chapter, viewModeOverride = null) {
         <div class="chapter-title-meaning">(${chapter.name_meaning})</div>
     `;
 
-    const viewMode = viewModeOverride || localStorage.getItem('defaultChapterView') || 'list';
+    const viewMode = viewModeOverride || localStorage.getItem('defaultChapterView') || 'scroll';
     updateChapterToggles(viewMode);
 
     const chapterVerses = verses.filter(v => v.chapter_number === chapter.chapter_number).sort((a, b) => a.verse_number - b.verse_number);
@@ -119,44 +119,31 @@ function showChapter(chapter, viewModeOverride = null) {
         item.className = 'glass-card';
         item.style.padding = '35px 25px';
         item.style.lineHeight = '1.7';
-        item.innerHTML = `
+        
+        let summaryHtml = `
             <div class="sloka-number-pill" style="margin-bottom: 20px;">Chapter Summary</div>
             <p style="margin-bottom: 20px; font-size: 1.05rem; color: var(--color-text-main); font-weight: 500; text-align: justify;">
                 ${chapter.chapter_summary}
             </p>
-            <p style="font-size: 1rem; color: var(--color-text-muted); text-align: justify;">
-                ${chapter.chapter_summary_hindi}
-            </p>
         `;
+        if (chapter.chapter_summary_hindi) {
+            summaryHtml += `
+                <p style="margin-bottom: 20px; font-size: 1rem; color: var(--color-text-muted); text-align: justify;">
+                    ${chapter.chapter_summary_hindi}
+                </p>
+            `;
+        }
+        if (chapter.chapter_summary_gujarati) {
+            summaryHtml += `
+                <p style="font-size: 1rem; color: var(--color-text-muted); text-align: justify;">
+                    ${chapter.chapter_summary_gujarati}
+                </p>
+            `;
+        }
+        item.innerHTML = summaryHtml;
         versesList.appendChild(item);
     } else {
-        if (summaryCard && summaryText && chapter.chapter_summary) {
-            let shortSummary = chapter.chapter_summary;
-            if (shortSummary.length > 220) {
-                shortSummary = shortSummary.substring(0, 210) + '...';
-                summaryText.innerHTML = `${shortSummary} <span class="read-more-toggle" style="color: var(--color-electric-blue); font-weight: 600; cursor: pointer; margin-left: 5px;">Read More</span>`;
-                
-                const toggle = summaryText.querySelector('.read-more-toggle');
-                if (toggle) {
-                    toggle.onclick = (e) => {
-                        e.stopPropagation();
-                        summaryText.innerHTML = `${chapter.chapter_summary} <span class="read-less-toggle" style="color: var(--color-electric-blue); font-weight: 600; cursor: pointer; margin-left: 5px;">Read Less</span>`;
-                        const lessToggle = summaryText.querySelector('.read-less-toggle');
-                        if (lessToggle) {
-                            lessToggle.onclick = (ev) => {
-                                ev.stopPropagation();
-                                showChapter(chapter, viewMode); // Reset
-                            };
-                        }
-                    };
-                }
-            } else {
-                summaryText.textContent = shortSummary;
-            }
-            summaryCard.style.display = 'block';
-        } else if (summaryCard) {
-            summaryCard.style.display = 'none';
-        }
+        updateChapterSummaryCard(chapter);
 
         if (viewMode === 'scroll') {
             renderScrollMode(chapter, chapterVerses);
@@ -185,6 +172,99 @@ function showChapter(chapter, viewModeOverride = null) {
             main.scrollTop = 0;
         }
     }, 0);
+}
+
+// Update the chapter summary card content dynamically for the active language
+function updateChapterSummaryCard(chapter) {
+    const summaryCard = document.getElementById('chapter-summary-card');
+    const summaryText = document.getElementById('chapter-summary-text');
+    if (!summaryCard || !summaryText || !chapter) return;
+
+    let activeSummary = chapter.chapter_summary;
+    if (currentLang === 'hindi' && chapter.chapter_summary_hindi) {
+        activeSummary = chapter.chapter_summary_hindi;
+    } else if (currentLang === 'gujarati' && chapter.chapter_summary_gujarati) {
+        activeSummary = chapter.chapter_summary_gujarati;
+    }
+
+    if (activeSummary) {
+        let shortSummary = activeSummary;
+        let readMoreText = 'Read More';
+        let readLessText = 'Read Less';
+        if (currentLang === 'hindi') {
+            readMoreText = 'और पढ़ें';
+            readLessText = 'कम दिखाएं';
+        } else if (currentLang === 'gujarati') {
+            readMoreText = 'વધુ વાંચો';
+            readLessText = 'ઓછું બતાવો';
+        }
+
+        if (shortSummary.length > 220) {
+            shortSummary = shortSummary.substring(0, 210) + '...';
+            summaryText.innerHTML = `${shortSummary} <span class="read-more-toggle" style="color: var(--color-electric-blue); font-weight: 600; cursor: pointer; margin-left: 5px;">${readMoreText}</span>`;
+            
+            const toggle = summaryText.querySelector('.read-more-toggle');
+            if (toggle) {
+                toggle.onclick = (e) => {
+                    e.stopPropagation();
+                    summaryText.innerHTML = `${activeSummary} <span class="read-less-toggle" style="color: var(--color-electric-blue); font-weight: 600; cursor: pointer; margin-left: 5px;">${readLessText}</span>`;
+                    const lessToggle = summaryText.querySelector('.read-less-toggle');
+                    if (lessToggle) {
+                        lessToggle.onclick = (ev) => {
+                            ev.stopPropagation();
+                            updateChapterSummaryCard(chapter); // Reset
+                        };
+                    }
+                };
+            }
+        } else {
+            summaryText.textContent = shortSummary;
+        }
+        summaryCard.style.display = 'block';
+    } else {
+        summaryCard.style.display = 'none';
+    }
+}
+
+// Centralized app language switcher
+function changeAppLanguage(newLang) {
+    if (currentLang === newLang) return;
+    currentLang = newLang;
+    localStorage.setItem('translationLanguage', newLang);
+
+    // Sync all dropdown elements in the DOM
+    const dropdownIds = ['language-dropdown', 'settings-language-dropdown', 'chapter-language-dropdown', 'timeline-language-dropdown'];
+    dropdownIds.forEach(id => {
+        const dropdown = document.getElementById(id);
+        if (dropdown) dropdown.value = newLang;
+    });
+
+    // Update active UI elements based on which screen is active
+    const verseScreen = document.getElementById('verse-detail-screen');
+    const versesScreen = document.getElementById('verses-screen');
+    const timelineScreen = document.getElementById('timeline-screen');
+
+    if (currentVerse && verseScreen && verseScreen.classList.contains('active')) {
+        updateVerseContent();
+    }
+    
+    if (currentChapter && versesScreen && versesScreen.classList.contains('active')) {
+        updateChapterSummaryCard(currentChapter);
+        // If scroll mode view is active, update scroll translations in-place
+        const isScroll = document.getElementById('view-mode-scroll')?.classList.contains('active');
+        if (isScroll) {
+            updateScrollModeTranslations(currentChapter.chapter_number);
+        }
+    }
+
+    // Reset timeline rendering flag so it redraws localized on next visit
+    const timelineContainer = document.getElementById('timeline-content');
+    if (timelineContainer) {
+        timelineContainer.dataset.rendered = 'false';
+        if (timelineScreen && timelineScreen.classList.contains('active')) {
+            renderTimeline();
+        }
+    }
 }
 
 // Update verse content based on current language
@@ -310,14 +390,7 @@ function setupLanguagePills() {
 }
 
 function handleLanguageChange(e) {
-    const newLang = e.target.value;
-    if (currentLang !== newLang) {
-        currentLang = newLang;
-        localStorage.setItem('translationLanguage', newLang);
-        if (currentVerse) {
-            updateVerseContent();
-        }
-    }
+    changeAppLanguage(e.target.value);
 }
 
 // Setup bookmark button
@@ -454,6 +527,55 @@ function setupTimelineButton() {
     });
 }
 
+function hexToRgba(hex, alpha) {
+    if (!hex) return `rgba(165, 37, 44, ${alpha})`;
+    let c = hex.substring(1);
+    if (c.length === 3) {
+        c = c[0] + c[0] + c[1] + c[1] + c[2] + c[2];
+    }
+    const r = parseInt(c.substring(0, 2), 16);
+    const g = parseInt(c.substring(2, 4), 16);
+    const b = parseInt(c.substring(4, 6), 16);
+    return `rgba(${r}, ${g}, ${b}, ${alpha})`;
+}
+
+function filterTimeline(query) {
+    const nodes = document.querySelectorAll('.tl-node');
+    const phases = document.querySelectorAll('.tl-phase');
+    
+    phases.forEach(phase => {
+        let hasVisibleNodes = false;
+        const phaseNodes = phase.querySelectorAll('.tl-node');
+        
+        phaseNodes.forEach(node => {
+            const chapterNum = node.getAttribute('data-chapter');
+            const title = node.querySelector('.tl-title').textContent.toLowerCase();
+            const meaningEl = node.querySelector('.tl-meaning');
+            const meaning = meaningEl ? meaningEl.textContent.toLowerCase() : '';
+            const summaryEl = node.querySelector('.tl-summary-text');
+            const summaryText = summaryEl ? summaryEl.textContent.toLowerCase() : '';
+            
+            const matches = chapterNum.includes(query) || 
+                            title.includes(query) || 
+                            meaning.includes(query) || 
+                            summaryText.includes(query);
+                            
+            if (matches || !query) {
+                node.style.display = 'flex';
+                hasVisibleNodes = true;
+            } else {
+                node.style.display = 'none';
+            }
+        });
+        
+        if (hasVisibleNodes || !query) {
+            phase.style.display = 'block';
+        } else {
+            phase.style.display = 'none';
+        }
+    });
+}
+
 function renderTimeline() {
     const container = document.getElementById('timeline-content');
     if (!container) return;
@@ -462,8 +584,109 @@ function renderTimeline() {
         return;
     }
 
-    // Skip re-render if already populated
-    if (container.dataset.rendered === 'true') return;
+    // Skip re-render if already populated in the active language
+    if (container.dataset.rendered === 'true' && container.dataset.lang === currentLang) return;
+
+    // Update timeline headers dynamically
+    const headerSec = document.querySelector('.timeline-header');
+    if (headerSec) {
+        if (currentLang === 'gujarati') {
+            headerSec.innerHTML = `
+                <h2>શ્રીકૃષ્ણ લીલા</h2>
+                <p>દશમ સ્કંધ — ૯ લીલા-ચરણ (૯૦ પ્રકરણ)</p>
+            `;
+        } else {
+            // For both English and Hindi, show Devanagari/Hindi as requested
+            headerSec.innerHTML = `
+                <h2>श्रीकृष्ण लीला</h2>
+                <p>दशम स्कंध — ९ लीला-चरण (९० अध्याय)</p>
+            `;
+        }
+    }
+
+    // Populate the horizontal navigation ribbon dynamically
+    const ribbon = document.getElementById('timeline-navigation-ribbon');
+    if (ribbon) {
+        ribbon.innerHTML = timelineData.phases.map(phase => {
+            let phaseTitle = phase.title;
+            if (currentLang === 'hindi' && phase.title_hindi) phaseTitle = phase.title_hindi;
+            else if (currentLang === 'gujarati' && phase.title_gujarati) phaseTitle = phase.title_gujarati;
+            
+            // Limit title length for the pills
+            let shortTitle = phaseTitle.split(' — ')[0].split(' - ')[0];
+            if (currentLang === 'english' && shortTitle.length > 20) {
+                shortTitle = shortTitle.substring(0, 18) + '...';
+            }
+            
+            return `
+                <button class="timeline-nav-pill" data-phase="${phase.id}">
+                    ${shortTitle}
+                </button>
+            `;
+        }).join('');
+
+        // Populate initial active phase text in the merged header
+        const firstPhase = timelineData.phases[0];
+        if (firstPhase) {
+            let phaseTitle = firstPhase.title;
+            if (currentLang === 'hindi' && firstPhase.title_hindi) phaseTitle = firstPhase.title_hindi;
+            else if (currentLang === 'gujarati' && firstPhase.title_gujarati) phaseTitle = firstPhase.title_gujarati;
+            
+            let rangeText = `Chapters ${firstPhase.range[0]}–${firstPhase.range[1]}`;
+            if (currentLang === 'hindi') rangeText = `अध्याय ${firstPhase.range[0]}–${firstPhase.range[1]}`;
+            else if (currentLang === 'gujarati') rangeText = `પ્રકરણ ${firstPhase.range[0]}–${firstPhase.range[1]}`;
+
+            const nameEl = document.getElementById('timeline-current-phase-name');
+            const rangeEl = document.getElementById('timeline-current-phase-range');
+            if (nameEl) nameEl.textContent = phaseTitle;
+            if (rangeEl) rangeEl.textContent = rangeText;
+
+            const headerSticky = document.getElementById('timeline-sticky-header');
+            if (headerSticky) {
+                headerSticky.style.setProperty('--phase-tint', firstPhase.tint);
+            }
+        }
+
+        // Smooth scroll navigation to phase headers
+        ribbon.querySelectorAll('.timeline-nav-pill').forEach(pill => {
+            pill.addEventListener('click', (e) => {
+                e.stopPropagation();
+                const phaseId = pill.getAttribute('data-phase');
+                const phaseSection = container.querySelector(`.tl-phase[data-phase="${phaseId}"]`);
+                if (phaseSection) {
+                    const main = document.querySelector('main');
+                    if (main) {
+                        const headerEl = document.getElementById('header');
+                        const controlsEl = document.getElementById('timeline-sticky-controls');
+                        const stickyHeaderEl = document.getElementById('timeline-sticky-header');
+                        
+                        let headerOffset = (headerEl ? headerEl.offsetHeight : 60);
+                        if (controlsEl && controlsEl.style.display !== 'none') {
+                            headerOffset += controlsEl.offsetHeight;
+                        }
+                        if (stickyHeaderEl) {
+                            headerOffset += (stickyHeaderEl.offsetHeight || (window.innerWidth <= 600 ? 32 : 40));
+                        }
+                        
+                        // Calculate absolute offset top by climbing offset parents
+                        let offsetTop = 0;
+                        let curr = phaseSection;
+                        while (curr && curr !== main) {
+                            offsetTop += curr.offsetTop;
+                            curr = curr.offsetParent;
+                        }
+                        
+                        const offsetPosition = offsetTop - headerOffset - 15; // 15px breathing room below header
+                        
+                        main.scrollTo({
+                            top: offsetPosition,
+                            behavior: 'smooth'
+                        });
+                    }
+                }
+            });
+        });
+    }
 
     const chapterMap = new Map(chapters.map(c => [c.chapter_number, c]));
     const nodesByPhase = new Map();
@@ -476,32 +699,87 @@ function renderTimeline() {
         const nodes = (nodesByPhase.get(phase.id) || []).sort((a, b) => a.chapter - b.chapter);
         const nodeHtml = nodes.map((node, idx) => {
             const ch = chapterMap.get(node.chapter);
-            const title = ch ? ch.name_translation : `Chapter ${node.chapter}`;
-            const meaning = ch ? ch.name_meaning : '';
+            
+            // Localized Title & Meaning
+            let title = ch ? ch.name_translation : `Chapter ${node.chapter}`;
+            let meaning = ch ? ch.name_meaning : '';
+            if (currentLang === 'hindi') {
+                title = ch ? ch.name : `अध्याय ${node.chapter}`;
+                meaning = ch ? (ch.name_meaning_hindi || ch.name_meaning) : '';
+            } else if (currentLang === 'gujarati') {
+                title = ch ? (ch.name_meaning_gujarati || ch.name_translation) : `પ્રકરણ ${node.chapter}`;
+                meaning = ch ? (ch.name_meaning_gujarati || ch.name_meaning) : '';
+            }
+
+            // Localized Hook
+            let hook = node.hook;
+            if (currentLang === 'hindi' && node.hook_hindi) {
+                hook = node.hook_hindi;
+            } else if (currentLang === 'gujarati' && node.hook_gujarati) {
+                hook = node.hook_gujarati;
+            }
+
+            // Localized Chapter Summary for expanded card view
+            let summaryText = ch ? ch.chapter_summary : '';
+            if (currentLang === 'hindi' && ch && ch.chapter_summary_hindi) {
+                summaryText = ch.chapter_summary_hindi;
+            } else if (currentLang === 'gujarati' && ch && ch.chapter_summary_gujarati) {
+                summaryText = ch.chapter_summary_gujarati;
+            }
+
+            let readPillText = 'Read Chapter';
+            if (currentLang === 'hindi') readPillText = 'अध्याय पढ़ें';
+            else if (currentLang === 'gujarati') readPillText = 'પ્રકરણ વાંચો';
+
             const sanskrit = ch ? ch.name : '';
             const side = idx % 2 === 0 ? 'left' : 'right';
+            
+            let pillText = `Ch ${node.chapter}`;
+            if (currentLang === 'hindi') pillText = `अध्याय ${node.chapter}`;
+            else if (currentLang === 'gujarati') pillText = `પ્રકરણ ${node.chapter}`;
+
             return `
                 <div class="tl-node tl-node-${side}" data-chapter="${node.chapter}">
                     <div class="tl-dot" style="background:${phase.tint};"></div>
-                    <div class="tl-card glass-card" style="border-left-color:${phase.tint};">
+                    <div class="tl-card" style="border-left-color:${phase.tint}; --phase-tint:${phase.tint}; --phase-tint-shadow:${hexToRgba(phase.tint, 0.12)};">
+                        <div class="tl-card-bg-emoji">${phase.icon}</div>
                         <div class="tl-card-head">
-                            <span class="tl-chapter-pill" style="background:${phase.tint};">Ch ${node.chapter}</span>
-                            <span class="tl-title">${title}</span>
+                            <div class="tl-card-title-area">
+                                <span class="tl-chapter-pill" style="background:${phase.tint};">${pillText}</span>
+                                <span class="tl-title">${title}</span>
+                            </div>
+                            <button class="tl-read-btn" data-chapter="${node.chapter}">
+                                <i class="fas fa-book-open"></i> ${readPillText}
+                            </button>
                         </div>
-                        ${sanskrit ? `<div class="tl-sanskrit">${sanskrit} <span class="tl-meaning">(${meaning})</span></div>` : ''}
-                        <p class="tl-hook">${node.hook}</p>
+                        ${sanskrit && currentLang !== 'hindi' ? `<div class="tl-sanskrit">${sanskrit} <span class="tl-meaning">(${meaning})</span></div>` : (meaning ? `<div class="tl-sanskrit"><span class="tl-meaning">${meaning}</span></div>` : '')}
+                        <p class="tl-summary-text">${summaryText}</p>
                     </div>
                 </div>
             `;
         }).join('');
 
+        // Localized Phase Title & Range
+        let phaseTitle = phase.title;
+        if (currentLang === 'hindi' && phase.title_hindi) phaseTitle = phase.title_hindi;
+        else if (currentLang === 'gujarati' && phase.title_gujarati) phaseTitle = phase.title_gujarati;
+        
+        let rangeText = `Chapters ${phase.range[0]}–${phase.range[1]}`;
+        if (currentLang === 'hindi') rangeText = `अध्याय ${phase.range[0]}–${phase.range[1]}`;
+        else if (currentLang === 'gujarati') rangeText = `પ્રકરણ ${phase.range[0]}–${phase.range[1]}`;
+
         return `
             <section class="tl-phase" data-phase="${phase.id}">
+                <!-- Ambient colored glow background -->
+                <div class="tl-phase-glow" style="--phase-tint-glow:${phase.tint};"></div>
+                
+                <!-- Sentinel for phase header sticky state -->
+                <div class="tl-phase-sentinel" style="height: 0; margin: 0; padding: 0; pointer-events: none; visibility: hidden;"></div>
+
                 <div class="tl-phase-header" style="--phase-tint:${phase.tint};">
-                    <span class="tl-phase-icon">${phase.icon}</span>
                     <div class="tl-phase-text">
-                        <h3>${phase.title}</h3>
-                        <span class="tl-phase-range">Chapters ${phase.range[0]}–${phase.range[1]}</span>
+                        <h3>${phaseTitle}</h3>
+                        <span class="tl-phase-range">${rangeText}</span>
                     </div>
                 </div>
                 <div class="tl-nodes" style="--phase-tint:${phase.tint};">
@@ -514,14 +792,113 @@ function renderTimeline() {
 
     container.innerHTML = html;
     container.dataset.rendered = 'true';
+    container.dataset.lang = currentLang;
 
-    container.querySelectorAll('.tl-node').forEach(el => {
-        el.addEventListener('click', () => {
-            const chNum = parseInt(el.getAttribute('data-chapter'), 10);
+
+
+    // Navigation buttons inside expanded summaries
+    container.querySelectorAll('.tl-read-btn').forEach(btn => {
+        btn.addEventListener('click', (e) => {
+            e.stopPropagation(); // Avoid collapsing the card
+            const chNum = parseInt(btn.getAttribute('data-chapter'), 10);
             const chapter = chapters.find(c => c.chapter_number === chNum);
             if (chapter) showChapter(chapter);
         });
     });
+
+    // Set up sticky state detection using IntersectionObservers
+    const mainContainer = document.querySelector('main');
+    
+    // 1. Ribbon/Header Observer
+    const ribbonSentinel = document.getElementById('timeline-ribbon-sentinel');
+    const headerSticky = document.getElementById('timeline-sticky-header');
+    if (ribbonSentinel && headerSticky && mainContainer) {
+        const ribbonObserver = new IntersectionObserver((entries) => {
+            entries.forEach(entry => {
+                const isStuck = !entry.isIntersecting && entry.boundingClientRect.top < (entry.rootBounds ? entry.rootBounds.top : 100);
+                headerSticky.classList.toggle('stuck', isStuck);
+            });
+        }, { root: mainContainer, threshold: [0] });
+        ribbonObserver.observe(ribbonSentinel);
+    }
+
+    // 2. Highlight active pill in ribbon during scroll and update title
+    if (mainContainer && ribbon) {
+        mainContainer.addEventListener('scroll', () => {
+            if (document.getElementById('timeline-screen').classList.contains('active')) {
+                const phases = container.querySelectorAll('.tl-phase');
+                let activePhaseId = null;
+                const scrollPortTop = mainContainer.getBoundingClientRect().top + 220;
+                
+                phases.forEach(phase => {
+                    const rect = phase.getBoundingClientRect();
+                    if (rect.top <= scrollPortTop && rect.bottom >= scrollPortTop) {
+                        activePhaseId = phase.getAttribute('data-phase');
+                    }
+                });
+                
+                if (activePhaseId) {
+                    ribbon.querySelectorAll('.timeline-nav-pill').forEach(pill => {
+                        if (pill.getAttribute('data-phase') === activePhaseId) {
+                            if (!pill.classList.contains('active')) {
+                                pill.classList.add('active');
+                                pill.scrollIntoView({ behavior: 'smooth', block: 'nearest', inline: 'center' });
+                            }
+                        } else {
+                            pill.classList.remove('active');
+                        }
+                    });
+
+                    // Update active phase title & range dynamically in sticky header
+                    const activePhase = timelineData.phases.find(p => p.id === activePhaseId);
+                    if (activePhase) {
+                        let phaseTitle = activePhase.title;
+                        if (currentLang === 'hindi' && activePhase.title_hindi) phaseTitle = activePhase.title_hindi;
+                        else if (currentLang === 'gujarati' && activePhase.title_gujarati) phaseTitle = activePhase.title_gujarati;
+                        
+                        let rangeText = `Chapters ${activePhase.range[0]}–${activePhase.range[1]}`;
+                        if (currentLang === 'hindi') rangeText = `अध्याय ${activePhase.range[0]}–${activePhase.range[1]}`;
+                        else if (currentLang === 'gujarati') rangeText = `પ્રકરણ ${activePhase.range[0]}–${activePhase.range[1]}`;
+
+                        const nameEl = document.getElementById('timeline-current-phase-name');
+                        const rangeEl = document.getElementById('timeline-current-phase-range');
+                        if (nameEl) nameEl.textContent = phaseTitle;
+                        if (rangeEl) rangeEl.textContent = rangeText;
+
+                        if (headerSticky) {
+                            headerSticky.style.setProperty('--phase-tint', activePhase.tint);
+                        }
+                    }
+                }
+            }
+        });
+    }
+
+    // 4. Setup search input behavior
+    const searchInput = document.getElementById('timeline-search');
+    const clearSearchBtn = document.getElementById('timeline-search-clear');
+    if (searchInput) {
+        // Clone to remove previous listeners and avoid duplicate bindings
+        const newSearchInput = searchInput.cloneNode(true);
+        searchInput.parentNode.replaceChild(newSearchInput, searchInput);
+        
+        newSearchInput.addEventListener('input', (e) => {
+            const query = e.target.value.toLowerCase().trim();
+            filterTimeline(query);
+            if (clearSearchBtn) {
+                clearSearchBtn.style.display = query ? 'block' : 'none';
+            }
+        });
+        
+        if (clearSearchBtn) {
+            clearSearchBtn.onclick = () => {
+                newSearchInput.value = '';
+                filterTimeline('');
+                clearSearchBtn.style.display = 'none';
+                newSearchInput.focus();
+            };
+        }
+    }
 }
 
 function handleTouchStart(e) {
@@ -594,6 +971,35 @@ function switchScreen(screen) {
     document.querySelectorAll('.screen').forEach(s => s.classList.remove('active'));
     screen.classList.add('active');
 
+    // Scroll main container to top for list/management screens
+    const mainEl = document.querySelector('main');
+    if (mainEl && (screen === chaptersScreen || screen === timelineScreen || screen === settingsScreen || screen === bookmarksScreen)) {
+        mainEl.scrollTop = 0;
+    }
+
+    // Reset sticky reader controls if NOT switching to versesScreen
+    if (screen !== versesScreen) {
+        const readerSticky = document.getElementById('reader-sticky-controls');
+        if (readerSticky) {
+            readerSticky.style.display = 'none';
+            readerSticky.classList.remove('stuck');
+        }
+    }
+
+    // Reset timeline sticky controls if NOT switching to timelineScreen
+    if (screen !== timelineScreen) {
+        const timelineSticky = document.getElementById('timeline-sticky-controls');
+        if (timelineSticky) {
+            timelineSticky.style.display = 'none';
+            timelineSticky.classList.remove('stuck');
+        }
+        const timelineHeader = document.getElementById('timeline-sticky-header');
+        if (timelineHeader) {
+            timelineHeader.style.display = 'none';
+            timelineHeader.classList.remove('stuck');
+        }
+    }
+
     // Add CSS classes for active state styling
     document.body.classList.remove('canto-active', 'verse-detail-active', 'chapters-active', 'verses-active', 'settings-active', 'bookmarks-active', 'timeline-active');
     
@@ -626,7 +1032,18 @@ function switchScreen(screen) {
         document.body.classList.add('timeline-active');
         document.getElementById('verse-navigation').style.display = 'none';
         document.getElementById('floating-settings-btn').style.display = 'none';
-        if (headerTitle) headerTitle.textContent = "Krishna's Lifetime";
+        if (headerTitle) headerTitle.innerHTML = '<img src="images/app-navbar-logo-yellow-transparent.png" alt="श्रीमद्भागवत पुराण" id="header-logo">';
+        
+        // Show sticky timeline controls and sync value
+        const tlStickyControls = document.getElementById('timeline-sticky-controls');
+        if (tlStickyControls) {
+            tlStickyControls.style.display = 'flex';
+            tlStickyControls.classList.remove('stuck');
+            const tlLangDropdown = document.getElementById('timeline-language-dropdown');
+            if (tlLangDropdown) {
+                tlLangDropdown.value = currentLang;
+            }
+        }
     }
 
     // Show timeline button only on home screen
@@ -1064,7 +1481,7 @@ function initSettings() {
     // Default view setting
     const defaultScrollToggle = document.getElementById('default-scroll-toggle');
     if (defaultScrollToggle) {
-        const isScrollDefault = localStorage.getItem('defaultChapterView') === 'scroll';
+        const isScrollDefault = localStorage.getItem('defaultChapterView') !== 'list';
         defaultScrollToggle.checked = isScrollDefault;
         
         defaultScrollToggle.addEventListener('change', (e) => {
@@ -1079,18 +1496,10 @@ function initSettings() {
     if (settingsLangDropdown) {
         settingsLangDropdown.value = currentLang;
         settingsLangDropdown.addEventListener('change', (e) => {
-            const newLang = e.target.value;
-            if (currentLang !== newLang) {
-                currentLang = newLang;
-                localStorage.setItem('translationLanguage', newLang);
-                
-                // Sync settings dropdown with chapter-level dropdown if active
-                const chapterLangDropdown = document.getElementById('chapter-language-dropdown');
-                if (chapterLangDropdown) {
-                    chapterLangDropdown.value = newLang;
-                }
-
-                showToast(`Translation Language: ${newLang === 'english' ? 'English' : newLang === 'hindi' ? 'Hindi' : 'Gujarati'}`);
+            const oldLang = currentLang;
+            changeAppLanguage(e.target.value);
+            if (oldLang !== currentLang) {
+                showToast(`Translation Language: ${currentLang === 'english' ? 'English' : currentLang === 'hindi' ? 'Hindi' : 'Gujarati'}`);
             }
         });
     }
@@ -1120,23 +1529,59 @@ function setupChapterControls() {
 
     if (chapterLangDropdown) {
         chapterLangDropdown.addEventListener('change', (e) => {
-            const newLang = e.target.value;
-            if (currentLang !== newLang) {
-                currentLang = newLang;
-                localStorage.setItem('translationLanguage', newLang);
-                
-                // Keep settings language dropdown in sync
-                const settingsLangDropdown = document.getElementById('settings-language-dropdown');
-                if (settingsLangDropdown) {
-                    settingsLangDropdown.value = newLang;
-                }
-
-                // Update translations in-place without re-rendering
-                if (currentChapter) {
-                    updateScrollModeTranslations(currentChapter.chapter_number);
-                }
-            }
+            changeAppLanguage(e.target.value);
         });
+    }
+
+    const tlLangDropdown = document.getElementById('timeline-language-dropdown');
+    if (tlLangDropdown) {
+        tlLangDropdown.addEventListener('change', (e) => {
+            changeAppLanguage(e.target.value);
+        });
+    }
+
+    // Set up sticky state detection using IntersectionObserver
+    const sentinel = document.getElementById('reader-sticky-sentinel');
+    const stickyControls = document.getElementById('reader-sticky-controls');
+    const scrollContainer = document.querySelector('main');
+
+    if (sentinel && stickyControls && scrollContainer) {
+        const observer = new IntersectionObserver((entries) => {
+            entries.forEach(entry => {
+                // If the sentinel is not intersecting and its top is above the scroll viewport top,
+                // the sticky element is considered stuck.
+                const isStuck = !entry.isIntersecting && entry.boundingClientRect.top < (entry.rootBounds ? entry.rootBounds.top : 100);
+                if (isStuck) {
+                    stickyControls.classList.add('stuck');
+                } else {
+                    stickyControls.classList.remove('stuck');
+                }
+            });
+        }, {
+            root: scrollContainer,
+            threshold: [0]
+        });
+        observer.observe(sentinel);
+    }
+
+    // Set up timeline sticky controls detection
+    const tlSentinel = document.getElementById('timeline-sticky-sentinel');
+    const tlStickyControls = document.getElementById('timeline-sticky-controls');
+    if (tlSentinel && tlStickyControls && scrollContainer) {
+        const tlObserver = new IntersectionObserver((entries) => {
+            entries.forEach(entry => {
+                const isStuck = !entry.isIntersecting && entry.boundingClientRect.top < (entry.rootBounds ? entry.rootBounds.top : 100);
+                if (isStuck) {
+                    tlStickyControls.classList.add('stuck');
+                } else {
+                    tlStickyControls.classList.remove('stuck');
+                }
+            });
+        }, {
+            root: scrollContainer,
+            threshold: [0]
+        });
+        tlObserver.observe(tlSentinel);
     }
 }
 
@@ -1158,6 +1603,7 @@ function updateChapterToggles(viewMode) {
         btnList.classList.add('active');
         btnScroll.classList.remove('active');
         stickyControls.style.display = 'none';
+        stickyControls.classList.remove('stuck');
     }
 }
 

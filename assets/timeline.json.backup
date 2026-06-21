@@ -1,0 +1,582 @@
+{
+    "phases": [
+        {
+            "id": "advent",
+            "title": "Advent & Infancy",
+            "icon": "✨",
+            "range": [
+                1,
+                7
+            ],
+            "tint": "#5B3A8C",
+            "title_hindi": "प्राकट्य और बाल्यकाल",
+            "title_gujarati": "પ્રાગટ્ય અને બાલ્યકાળ"
+        },
+        {
+            "id": "gokula",
+            "title": "Gokula Childhood",
+            "icon": "🍼",
+            "range": [
+                8,
+                11
+            ],
+            "tint": "#C77A2B",
+            "title_hindi": "गोकुल की बाल-लीलाएं",
+            "title_gujarati": "ગોકુળની બાળલીલા"
+        },
+        {
+            "id": "vrindavana",
+            "title": "Vrindavana — Boyhood Wonders",
+            "icon": "🌳",
+            "range": [
+                12,
+                20
+            ],
+            "tint": "#2F7D4F",
+            "title_hindi": "वृंदावन — बालपन के चमत्कार",
+            "title_gujarati": "વૃંદાવન — બાળપણના ચમત્કારો"
+        },
+        {
+            "id": "govardhana",
+            "title": "Awakening of Love & Govardhana",
+            "icon": "🪈",
+            "range": [
+                21,
+                27
+            ],
+            "tint": "#1E7C8C",
+            "title_hindi": "प्रेम का उदय और गोवर्धन लीला",
+            "title_gujarati": "પ્રેમનો ઉદય અને ગોવર્ધન લીલા"
+        },
+        {
+            "id": "rasa",
+            "title": "The Rasa-Lila",
+            "icon": "🌕",
+            "range": [
+                28,
+                35
+            ],
+            "tint": "#7E4FA8",
+            "title_hindi": "महारस लीला",
+            "title_gujarati": "મહારાસ લીલા"
+        },
+        {
+            "id": "mathura",
+            "title": "To Mathura — End of Kamsa",
+            "icon": "⚔️",
+            "range": [
+                36,
+                45
+            ],
+            "tint": "#A5252C",
+            "title_hindi": "मथुरा गमन — कंस वध",
+            "title_gujarati": "મથુરા ગમન — કંસ વધ"
+        },
+        {
+            "id": "dwarka",
+            "title": "Dwarka — Founding, Queens, Family",
+            "icon": "🏛️",
+            "range": [
+                46,
+                69
+            ],
+            "tint": "#B8860B",
+            "title_hindi": "द्वारका — स्थापना, रानियाँ और परिवार",
+            "title_gujarati": "દ્વારકા — સ્થાપના, રાણીઓ અને પરિવાર"
+        },
+        {
+            "id": "world",
+            "title": "World Stage & Devotees",
+            "icon": "🌟",
+            "range": [
+                70,
+                84
+            ],
+            "tint": "#1F4E8C",
+            "title_hindi": "विश्व मंच और भक्त",
+            "title_gujarati": "વિશ્વ મંચ અને ભક્તો"
+        },
+        {
+            "id": "closing",
+            "title": "Closing Wonders & Summary",
+            "icon": "🕉️",
+            "range": [
+                85,
+                90
+            ],
+            "tint": "#E65100",
+            "title_hindi": "अंतिम लीलाएं और सारांश",
+            "title_gujarati": "અંતિમ લીલાઓ અને સારાંશ"
+        }
+    ],
+    "nodes": [
+        {
+            "chapter": 1,
+            "phase": "advent",
+            "hook": "Brahma and the demigods petition Vishnu to relieve Earth; Vasudeva weds Devaki; Kamsa hears the prophecy.",
+            "hook_hindi": "ब्रह्मा और देवता पृथ्वी को राहत दिलाने के लिए विष्णु से प्रार्थना करते हैं; वसुदेव और देवकी का विवाह; कंस ने भविष्यवाणी सुनी।",
+            "hook_gujarati": "બ્રહ્મા અને દેવતાઓ પૃથ્વીને મુક્ત કરવા માટે વિષ્ણુને વિનંતી કરે છે; વસુદેવ અને દેવકીના લગ્ન; કંસ ભવિષ્યવાણી સાંભળે છે."
+        },
+        {
+            "chapter": 2,
+            "phase": "advent",
+            "hook": "Kamsa kills six newborns; the demigods praise Krishna already present in Devaki's womb.",
+            "hook_hindi": "कंस छह नवजातों को मारता है; देवता देवकी के गर्भ में पहले से उपस्थित कृष्ण की स्तुति करते हैं।",
+            "hook_gujarati": "કંસ છ નવજાત શિશુઓને મારી નાખે છે; દેવતાઓ દેવકીના ગર્ભમાં પહેલેથી જ બિરાજમાન શ્રીકૃષ્ણની સ્તુતિ કરે છે."
+        },
+        {
+            "chapter": 3,
+            "phase": "advent",
+            "hook": "At midnight on Janmashtami, Krishna appears in four-armed form; Vasudeva carries Him across the Yamuna to Gokula.",
+            "hook_hindi": "जन्माष्टमी की आधी रात को, कृष्ण चार भुजाओं वाले रूप में प्रकट होते हैं; वासुदेव उन्हें यमुना पार करके गोकुल ले जाते हैं।",
+            "hook_gujarati": "જન્માષ્ટમીની મધ્યરાત્રિએ, કૃષ્ણ ચતુર્ભુજ સ્વરૂપે પ્રગટ થાય છે; વાસુદેવ તેમને યમુના પાર કરીને ગોકુળ લઈ જાય છે."
+        },
+        {
+            "chapter": 4,
+            "phase": "advent",
+            "hook": "Yogamaya slips from Kamsa's grasp and reveals his killer is already born elsewhere.",
+            "hook_hindi": "योगमाया कंस की पकड़ से छूटकर आकाशवाणी करती हैं कि उसका वध करने वाला कहीं और जन्म ले चुका है।",
+            "hook_gujarati": "યોગમાયા કંસની પકડમાંથી છૂટીને આકાશવાણી કરે છે કે તેનો વધ કરનાર બાળક બીજે ક્યાંક જન્મ લઈ ચૂક્યો છે."
+        },
+        {
+            "chapter": 5,
+            "phase": "advent",
+            "hook": "Nanda celebrates the birth-festival in Gokula and meets Vasudeva while paying taxes in Mathura.",
+            "hook_hindi": "नन्द महाराज गोकुल में कृष्ण के जन्म का उत्सव मनाते हैं और मथुरा में कर चुकाते समय वसुदेव से मिलते हैं।",
+            "hook_gujarati": "નંદ મહારાજ ગોકુળમાં કૃષ્ણના જન્મનો ઉત્સવ ઉજવે છે અને મથુરામાં કર ભરતી વખતે વસુદેવને મળે છે."
+        },
+        {
+            "chapter": 6,
+            "phase": "advent",
+            "hook": "The poison-breasted demoness Putana is killed at infant Krishna's nursing.",
+            "hook_hindi": "विषाक्त स्तनों वाली राक्षसी पूतना शिशु कृष्ण को दूध पिलाते समय मारी जाती है।",
+            "hook_gujarati": "ઝેરી સ્તનો ધરાવતી રાક્ષસી પૂતના શિશુ કૃષ્ણને સ્તનપાન કરાવતી વખતે મૃત્યુ પામે છે."
+        },
+        {
+            "chapter": 7,
+            "phase": "advent",
+            "hook": "Baby Krishna kicks over the cart-demon Shakatasura and strangles the whirlwind-demon Trinavarta.",
+            "hook_hindi": "बाल कृष्ण ने शकटासुर (गाडा) को लात मारकर उलट दिया और बवंडर रूपी राक्षस तृणावर्त का गला घोंटकर उसका वध कर दिया।",
+            "hook_gujarati": "બાલ કૃષ્ણે શકાસુર (ગાડા) ને લાત મારીને ઉલટાવી દીધું અને વંટોળિયા રૂપી રાક્ષસ તૃણાવર્તનું ગળું દબાવીને તેનો વધ કર્યો."
+        },
+        {
+            "chapter": 8,
+            "phase": "gokula",
+            "hook": "Garga Muni names Krishna and Balarama; Yashoda sees the entire cosmos inside Krishna's mouth.",
+            "hook_hindi": "गर्ग मुनि कृष्ण और बलराम का नामकरण करते हैं; यशोदा कृष्ण के मुख में संपूर्ण ब्रह्मांड देखती हैं।",
+            "hook_gujarati": "ગર્ગ મુનિ કૃષ્ણ અને બલરામનું નામકરણ કરે છે; યશોદા કૃષ્ણના મુખમાં સમગ્ર બ્રહ્માંડ જુએ છે."
+        },
+        {
+            "chapter": 9,
+            "phase": "gokula",
+            "hook": "Yashoda binds the butter-thief to a mortar — the Damodara lila.",
+            "hook_hindi": "यशोदा ने मक्खन चुराने वाले को ओखल से बांधा — दामोदर लीला।",
+            "hook_gujarati": "યશોદાએ માખણ ચોરનારને ઓખલ સાથે બાંધ્યા — દામોદર લીલા।"
+        },
+        {
+            "chapter": 10,
+            "phase": "gokula",
+            "hook": "Krishna drags the mortar between two trees, liberating Kuvera's cursed sons."
+        },
+        {
+            "chapter": 11,
+            "phase": "gokula",
+            "hook": "The cowherds move to Vrindavana; Krishna kills the calf-demon Vatsasura and the crane-demon Bakasura."
+        },
+        {
+            "chapter": 12,
+            "phase": "vrindavana",
+            "hook": "Krishna and the boys are swallowed by the python-demon Aghasura, who dies from within."
+        },
+        {
+            "chapter": 13,
+            "phase": "vrindavana",
+            "hook": "Brahma steals the boys and calves; Krishna expands Himself as every one of them for a year."
+        },
+        {
+            "chapter": 14,
+            "phase": "vrindavana",
+            "hook": "Humbled Brahma offers his celebrated prayers to the cowherd boy."
+        },
+        {
+            "chapter": 15,
+            "phase": "vrindavana",
+            "hook": "Balarama slays the donkey-demon Dhenuka in the Talavana grove."
+        },
+        {
+            "chapter": 16,
+            "phase": "vrindavana",
+            "hook": "Krishna leaps into the Yamuna and dances on the hoods of the serpent Kaliya."
+        },
+        {
+            "chapter": 17,
+            "phase": "vrindavana",
+            "hook": "Kaliya's history is told; Krishna swallows a raging forest fire to save the cowherds."
+        },
+        {
+            "chapter": 18,
+            "phase": "vrindavana",
+            "hook": "In the rainy-season games, Balarama destroys the demon Pralamba."
+        },
+        {
+            "chapter": 19,
+            "phase": "vrindavana",
+            "hook": "Krishna again swallows a forest fire that engulfs the sleeping cowherds."
+        },
+        {
+            "chapter": 20,
+            "phase": "vrindavana",
+            "hook": "The rainy season and autumn in Vrindavana are described in poetic detail."
+        },
+        {
+            "chapter": 21,
+            "phase": "govardhana",
+            "hook": "The gopis glorify the song of Krishna's flute that steals their hearts."
+        },
+        {
+            "chapter": 22,
+            "phase": "govardhana",
+            "hook": "Krishna steals the bathing gopis' garments, teaching them surrender."
+        },
+        {
+            "chapter": 23,
+            "phase": "govardhana",
+            "hook": "The wives of ritualistic brahmins feed Krishna and are blessed; their husbands repent."
+        },
+        {
+            "chapter": 24,
+            "phase": "govardhana",
+            "hook": "On Krishna's advice, the Vrajavasis worship Govardhana Hill instead of Indra."
+        },
+        {
+            "chapter": 25,
+            "phase": "govardhana",
+            "hook": "Enraged Indra floods Vraja; Krishna lifts Govardhana as an umbrella for seven days."
+        },
+        {
+            "chapter": 26,
+            "phase": "govardhana",
+            "hook": "The elders marvel at Krishna's deeds; Nanda recalls Garga's prophecies."
+        },
+        {
+            "chapter": 27,
+            "phase": "govardhana",
+            "hook": "Indra and mother Surabhi crown Krishna as \"Govinda.\""
+        },
+        {
+            "chapter": 28,
+            "phase": "rasa",
+            "hook": "Krishna rescues Nanda from Varuna's realm and shows the cowherds His spiritual abode."
+        },
+        {
+            "chapter": 29,
+            "phase": "rasa",
+            "hook": "On a full-moon autumn night, Krishna's flute calls the gopis to the rasa dance."
+        },
+        {
+            "chapter": 30,
+            "phase": "rasa",
+            "hook": "Abandoned by Krishna mid-dance, the gopis search the forest singing of Him."
+        },
+        {
+            "chapter": 31,
+            "phase": "rasa",
+            "hook": "The gopis sing the celebrated Gopi-gita in separation."
+        },
+        {
+            "chapter": 32,
+            "phase": "rasa",
+            "hook": "Krishna returns to the gopis and explains why He had hidden."
+        },
+        {
+            "chapter": 33,
+            "phase": "rasa",
+            "hook": "The rasa dance unfolds — Krishna multiplies Himself between every two gopis."
+        },
+        {
+            "chapter": 34,
+            "phase": "rasa",
+            "hook": "A Yaksha kidnaps a gopi; Krishna slays him (Shankhachuda) and rescues Nanda from a serpent."
+        },
+        {
+            "chapter": 35,
+            "phase": "rasa",
+            "hook": "The gopis sing of Krishna throughout day and night as He grazes the cows."
+        },
+        {
+            "chapter": 36,
+            "phase": "mathura",
+            "hook": "The bull-demon Aristasura attacks Vraja and is slain."
+        },
+        {
+            "chapter": 37,
+            "phase": "mathura",
+            "hook": "Krishna kills the horse-demon Keshi and Vyomasura the cave-demon."
+        },
+        {
+            "chapter": 38,
+            "phase": "mathura",
+            "hook": "Sent by Kamsa, Akrura arrives in Vrindavana to fetch Krishna and Balarama."
+        },
+        {
+            "chapter": 39,
+            "phase": "mathura",
+            "hook": "The brothers depart with Akrura; the gopis collapse in grief."
+        },
+        {
+            "chapter": 40,
+            "phase": "mathura",
+            "hook": "Bathing in the Yamuna, Akrura beholds Krishna's Vaikuntha form and offers prayers."
+        },
+        {
+            "chapter": 41,
+            "phase": "mathura",
+            "hook": "Entering Mathura, Krishna blesses Trivakra and the garland-maker Sudama."
+        },
+        {
+            "chapter": 42,
+            "phase": "mathura",
+            "hook": "Krishna straightens Trivakra and breaks Kamsa's sacrificial bow."
+        },
+        {
+            "chapter": 43,
+            "phase": "mathura",
+            "hook": "The brothers kill the elephant Kuvalayapida guarding Kamsa's arena."
+        },
+        {
+            "chapter": 44,
+            "phase": "mathura",
+            "hook": "In the arena, Krishna dispatches Chanura and Mushtika and drags Kamsa from his throne — slain at last."
+        },
+        {
+            "chapter": 45,
+            "phase": "mathura",
+            "hook": "After freeing Devaki and Vasudeva, Krishna studies under Sandipani and brings back his guru's son from Yamaloka."
+        },
+        {
+            "chapter": 46,
+            "phase": "dwarka",
+            "hook": "Krishna sends Uddhava to Vrindavana to console Nanda, Yashoda, and the gopis."
+        },
+        {
+            "chapter": 47,
+            "phase": "dwarka",
+            "hook": "Uddhava delivers Krishna's message; a bee becomes the gopis' audience in the Bhramara-gita."
+        },
+        {
+            "chapter": 48,
+            "phase": "dwarka",
+            "hook": "Back in Mathura, Krishna visits Trivakra and Akrura and plans the next moves."
+        },
+        {
+            "chapter": 49,
+            "phase": "dwarka",
+            "hook": "Krishna sends Akrura to Hastinapura to learn of the Pandavas' welfare."
+        },
+        {
+            "chapter": 50,
+            "phase": "dwarka",
+            "hook": "Attacked seventeen times by Jarasandha, Krishna builds the sea-fortress Dwarka and shifts the Yadavas."
+        },
+        {
+            "chapter": 51,
+            "phase": "dwarka",
+            "hook": "The yavana king Kalayavana pursues Krishna into a cave; Mucukunda's glance burns him to ash."
+        },
+        {
+            "chapter": 52,
+            "phase": "dwarka",
+            "hook": "Princess Rukmini sends a secret letter pleading to be rescued from marriage to Shishupala."
+        },
+        {
+            "chapter": 53,
+            "phase": "dwarka",
+            "hook": "Krishna abducts Rukmini from her wedding procession and defeats the assembled kings."
+        },
+        {
+            "chapter": 54,
+            "phase": "dwarka",
+            "hook": "Balarama spares Rukmini's brother Rukmi but disfigures him; Krishna weds Rukmini in Dwarka."
+        },
+        {
+            "chapter": 55,
+            "phase": "dwarka",
+            "hook": "Pradyumna is born, kidnapped by Shambara, returns to slay him and marries Mayavati."
+        },
+        {
+            "chapter": 56,
+            "phase": "dwarka",
+            "hook": "Satrajit's Syamantaka jewel is lost; Krishna recovers it from Jambavan after a long combat."
+        },
+        {
+            "chapter": 57,
+            "phase": "dwarka",
+            "hook": "Satrajit is murdered; Krishna recovers the jewel and clears His name."
+        },
+        {
+            "chapter": 58,
+            "phase": "dwarka",
+            "hook": "Krishna marries Kalindi, Mitravinda, Satya, Bhadra, and Lakshmana — five more queens."
+        },
+        {
+            "chapter": 59,
+            "phase": "dwarka",
+            "hook": "Krishna kills Narakasura, frees 16,100 captive princesses, and accepts them as wives."
+        },
+        {
+            "chapter": 60,
+            "phase": "dwarka",
+            "hook": "In the inner chambers, Krishna playfully teases Rukmini until she faints in love."
+        },
+        {
+            "chapter": 61,
+            "phase": "dwarka",
+            "hook": "Krishna's many sons and Rukmi's descendants are described."
+        },
+        {
+            "chapter": 62,
+            "phase": "dwarka",
+            "hook": "Aniruddha is captured by Banasura after a secret love-affair with princess Usha."
+        },
+        {
+            "chapter": 63,
+            "phase": "dwarka",
+            "hook": "Krishna defeats Banasura — Shiva himself yields — and frees Aniruddha."
+        },
+        {
+            "chapter": 64,
+            "phase": "dwarka",
+            "hook": "King Nriga, cursed to be a lizard for a brahmana's cow, is liberated by Krishna's touch."
+        },
+        {
+            "chapter": 65,
+            "phase": "dwarka",
+            "hook": "Balarama visits Vrindavana, sports with the gopis, and drags the Yamuna with His plough."
+        },
+        {
+            "chapter": 66,
+            "phase": "dwarka",
+            "hook": "The imposter Paundraka, who claims to be Vasudeva, is killed along with his Kashi ally."
+        },
+        {
+            "chapter": 67,
+            "phase": "dwarka",
+            "hook": "Balarama slays the gorilla-demon Dvivida who terrorized Anarta."
+        },
+        {
+            "chapter": 68,
+            "phase": "dwarka",
+            "hook": "Samba abducts Duryodhana's daughter; Balarama drags Hastinapura with His plough until peace is made."
+        },
+        {
+            "chapter": 69,
+            "phase": "dwarka",
+            "hook": "Narada visits each of Krishna's 16,108 palaces and finds Him present in every one."
+        },
+        {
+            "chapter": 70,
+            "phase": "world",
+            "hook": "Krishna's daily royal duties; messengers arrive from kings imprisoned by Jarasandha."
+        },
+        {
+            "chapter": 71,
+            "phase": "world",
+            "hook": "On Narada's counsel, Krishna travels to Indraprastha to assist Yudhishthira's Rajasuya."
+        },
+        {
+            "chapter": 72,
+            "phase": "world",
+            "hook": "Krishna, Bhima, and Arjuna confront Jarasandha; Bhima kills him in single combat."
+        },
+        {
+            "chapter": 73,
+            "phase": "world",
+            "hook": "The 20,800 freed kings glorify Krishna and return to their kingdoms."
+        },
+        {
+            "chapter": 74,
+            "phase": "world",
+            "hook": "At the Rajasuya, Krishna receives the first worship; Shishupala insults Him and is beheaded."
+        },
+        {
+            "chapter": 75,
+            "phase": "world",
+            "hook": "The completed Rajasuya leaves Duryodhana humiliated in the illusory palace of Maya."
+        },
+        {
+            "chapter": 76,
+            "phase": "world",
+            "hook": "Shalva attacks Dwarka with his magical airship Saubha."
+        },
+        {
+            "chapter": 77,
+            "phase": "world",
+            "hook": "Krishna pursues Shalva, shatters the Saubha, and kills him."
+        },
+        {
+            "chapter": 78,
+            "phase": "world",
+            "hook": "Shishupala's brother Dantavakra is slain; Vidura's pilgrimage is mentioned."
+        },
+        {
+            "chapter": 79,
+            "phase": "world",
+            "hook": "Balarama tours the holy places during the Kurukshetra war, avoiding combat."
+        },
+        {
+            "chapter": 80,
+            "phase": "world",
+            "hook": "The poor brahmana Sudama, Krishna's classmate, visits Dwarka with a humble offering of flat rice."
+        },
+        {
+            "chapter": 81,
+            "phase": "world",
+            "hook": "Krishna welcomes Sudama royally; Sudama returns home to find his hut transformed into a palace."
+        },
+        {
+            "chapter": 82,
+            "phase": "world",
+            "hook": "During a solar eclipse, all the Yadavas meet the Vrajavasis at Kurukshetra — the long-awaited reunion."
+        },
+        {
+            "chapter": 83,
+            "phase": "world",
+            "hook": "The queens of Krishna gather with Draupadi and share how each was won."
+        },
+        {
+            "chapter": 84,
+            "phase": "world",
+            "hook": "Sages assemble at Kurukshetra; Krishna instructs Nanda and the Vrajavasis before they part."
+        },
+        {
+            "chapter": 85,
+            "phase": "closing",
+            "hook": "Krishna instructs Vasudeva on the Supreme Truth and recovers Devaki's six sons killed by Kamsa."
+        },
+        {
+            "chapter": 86,
+            "phase": "closing",
+            "hook": "Arjuna abducts Subhadra with Krishna's blessing; the sage Shrutadeva and King Bahulashva are honoured."
+        },
+        {
+            "chapter": 87,
+            "phase": "closing",
+            "hook": "The personified Vedas offer profound prayers describing the Absolute Truth."
+        },
+        {
+            "chapter": 88,
+            "phase": "closing",
+            "hook": "The demon Vrikasura tries to behead Shiva; Vishnu tricks him into destroying himself."
+        },
+        {
+            "chapter": 89,
+            "phase": "closing",
+            "hook": "After a dispute among the gods, Krishna and Arjuna travel beyond material creation to recover a brahmana's lost sons."
+        },
+        {
+            "chapter": 90,
+            "phase": "closing",
+            "hook": "Sukadeva summarises Krishna's pastimes, wives, sons — and the supreme glories of the Lord."
+        }
+    ]
+}

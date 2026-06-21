@@ -33,7 +33,7 @@
         <!-- Chapters List View (Home Screen) -->
         <div id="chapters-screen" class="screen active">
             <div class="chapters-header-section">
-                <h2>Canto 10: Krishna Lila</h2>
+                <h2>दशम स्कंध: श्रीकृष्ण लीला</h2>
                 <p>Canto 10: Krishna Lila • 90 Chapters</p>
             </div>
             <div id="bookmark-resume-banner" class="bookmark-resume-banner" style="display: none;">
@@ -53,29 +53,32 @@
         <div id="verses-screen" class="screen">
             <h2 id="chapter-title"></h2>
 
-            <div id="chapter-summary-card" class="glass-card" style="display: none; margin-bottom: 20px; padding: 16px 20px;">
-                <div class="chapter-summary-header" style="display: flex; justify-content: space-between; align-items: center; font-size: 0.8rem; font-weight: 700; color: var(--color-royal-blue); text-transform: uppercase; letter-spacing: 0.5px; margin-bottom: 8px;">
-                    <span><i class="fas fa-file-alt"></i> Chapter Summary</span>
-                    <div class="view-toggle-group">
-                        <button id="view-mode-list" class="view-mode-btn active" title="List View / सूची">
-                            <i class="fas fa-list-ul"></i> <span>List</span>
-                        </button>
-                        <button id="view-mode-scroll" class="view-mode-btn" title="Reader View">
-                            <i class="fas fa-book-open"></i> <span>Reader</span>
-                        </button>
-                    </div>
-                </div>
-                <p id="chapter-summary-text" style="font-size: 0.92rem; line-height: 1.55; color: var(--color-text-main); margin: 0; text-align: justify;"></p>
-            </div>
+            <!-- Sentinel to detect when sticky controls are stuck -->
+            <div id="reader-sticky-sentinel" style="height: 0; margin: 0; padding: 0; pointer-events: none; visibility: hidden;"></div>
 
             <!-- Sticky Reader Controls (Language Selector) -->
             <div id="reader-sticky-controls" class="reader-sticky-header" style="display: none;">
-                <span class="reader-sticky-title"><i class="fas fa-book-open"></i> Reader Mode</span>
+                <span class="reader-sticky-title"><i class="fas fa-language"></i> Translation</span>
                 <select id="chapter-language-dropdown" class="language-dropdown">
                     <option value="english">English</option>
                     <option value="hindi" selected>हिंदी</option>
                     <option value="gujarati">ગુજરાતી</option>
                 </select>
+            </div>
+
+            <div id="chapter-summary-card" class="glass-card" style="display: none; margin-bottom: 20px; padding: 16px 20px;">
+                <div class="chapter-summary-header" style="display: flex; justify-content: space-between; align-items: center; font-size: 0.8rem; font-weight: 700; color: var(--color-royal-blue); text-transform: uppercase; letter-spacing: 0.5px; margin-bottom: 8px;">
+                    <span><i class="fas fa-file-alt"></i> Chapter Summary</span>
+                    <div class="view-toggle-group">
+                        <button id="view-mode-scroll" class="view-mode-btn active" title="Reader View">
+                            <i class="fas fa-book-open"></i>
+                        </button>
+                        <button id="view-mode-list" class="view-mode-btn" title="List View / सूची">
+                            <i class="fas fa-list-ul"></i>
+                        </button>
+                    </div>
+                </div>
+                <p id="chapter-summary-text" style="font-size: 0.92rem; line-height: 1.55; color: var(--color-text-main); margin: 0; text-align: justify;"></p>
             </div>
 
             <div id="verses-list"></div>
@@ -160,10 +163,49 @@
         <!-- Krishna Timeline View -->
         <div id="timeline-screen" class="screen">
             <div class="timeline-header">
-                <h2>Krishna's Lifetime</h2>
-                <p>Canto 10 at a glance — 90 chapters across nine life-phases</p>
+                <h2>श्रीकृष्ण लीला</h2>
+                <p>दशम स्कंध — ९ लीला-चरण (९० अध्याय)</p>
             </div>
-            <div id="timeline-content"></div>
+            <!-- Sentinel for timeline language bar stuck state -->
+            <div id="timeline-sticky-sentinel" style="height: 0; margin: 0; padding: 0; pointer-events: none; visibility: hidden;"></div>
+
+            <!-- Sticky Timeline Controls (Language Selector) -->
+            <div id="timeline-sticky-controls" class="reader-sticky-header" style="display: none;">
+                <span class="reader-sticky-title"><i class="fas fa-stream"></i> Timeline View</span>
+                <select id="timeline-language-dropdown" class="language-dropdown">
+                    <option value="english">English</option>
+                    <option value="hindi" selected>हिंदी</option>
+                    <option value="gujarati">ગુજરાતી</option>
+                </select>
+            </div>
+            <!-- Timeline Controls (Search & Global controls) -->
+            <div class="timeline-controls" style="padding: 0 15px; margin-bottom: 15px;">
+                <div class="timeline-search-wrapper" style="position: relative; display: flex; align-items: center;">
+                    <i class="fas fa-search" style="position: absolute; left: 15px; color: var(--color-royal-blue); opacity: 0.7; font-size: 0.95rem;"></i>
+                    <input type="text" id="timeline-search" placeholder="Search chapters, meanings, or events..." style="width: 100%; padding: 12px 15px 12px 40px; border-radius: 12px; border: 1.5px solid var(--glass-border); background: var(--glass-bg); color: var(--color-text-main); font-weight: 500; font-size: 0.92rem; outline: none; transition: var(--transition-smooth); box-shadow: 0 4px 15px rgba(0, 0, 0, 0.02);">
+                    <button id="timeline-search-clear" style="position: absolute; right: 15px; background: transparent; border: none; color: var(--color-text-muted); cursor: pointer; display: none; font-size: 1rem;"><i class="fas fa-times"></i></button>
+                </div>
+            </div>
+
+            <!-- Sentinel to detect when timeline ribbon is stuck -->
+            <div id="timeline-ribbon-sentinel" style="height: 0; margin: 0; padding: 0; pointer-events: none; visibility: hidden;"></div>
+
+            <!-- Sticky Merged Ribbon & Phase Title Header -->
+            <div id="timeline-sticky-header" class="timeline-merged-header" style="display: none;">
+                <div class="timeline-active-phase-title">
+                    <h3 id="timeline-current-phase-name">Krishna Leela</h3>
+                    <span id="timeline-current-phase-range">Chapters 1-3</span>
+                </div>
+                <div class="timeline-ribbon-wrapper">
+                    <div id="timeline-navigation-ribbon" class="timeline-nav-ribbon">
+                        <!-- Populated dynamically via JS -->
+                    </div>
+                    <div class="timeline-ribbon-fade-left"></div>
+                    <div class="timeline-ribbon-fade-right"></div>
+                </div>
+            </div>
+
+            <div id="timeline-content" style="position: relative; z-index: 10;"></div>
         </div>
 
         <!-- Bookmarks (Favorites) View -->
