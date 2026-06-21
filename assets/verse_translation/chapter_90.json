@@ -1,1082 +1,990 @@
 [
     {
         "id": 109001,
-        "sloka": "10.90.01-7",
+        "sloka": "10.90.1-7",
         "verse_id": 109001,
         "verseNumber": 1,
         "languages": {
             "english": {
                 "language_id": 1,
                 "lang": "english",
-                "description": "Śukadeva Gosvamī said: The master of the goddess of fortune resided happily in His capital city, Dvārakā, which was endowed with all opulences and populated by the most eminent Vṛṣṇis and their gorgeously dressed wives. When these beautiful women in the bloom of youth would play on the city’s rooftops with balls and other toys, they shone like flashing lightning. The main streets of the city were always crowded with intoxicated elephants exuding mada, and also with cavalry, richly adorned infantrymen, and soldiers riding chariots brilliantly decorated with gold. Gracing the city were many gardens and parks with rows of flowering trees, where bees and birds would gather, filling all directions with their songs."
+                "description": "Śrī Śukadeva Gosvāmī said: O King, the most affectionate well-wisher of all living beings, Lord Hari, Lord Viṣṇu, had a son born to Him who was most dear to Him. This son, born of Rukmiṇī, was the famous Pradyumna, who was Cupid himself in form. Once, while the son of Rukmiṇī was playing on a slab of precious stone, the demon Śambara kidnapped him. The wicked-minded Śambara took him to the seashore and threw him into the water, where he was swallowed by a fish. A fisherman caught that fish, and when it was brought into Śambara’s courtyard and cut open, the boy was found inside. Śambara’s wife, Māyāvatī, was astonished to see the child. She was none other than Rati, the wife of Cupid. Seeing the boy, she was amazed, thinking him to be Cupid himself, and she arranged for the child, who was like the lord of the demigods, to live in her house."
             },
             "hindi": {
                 "language_id": 2,
                 "lang": "hindi",
-                "description": "शुकदेव गोस्वामी ने कहा: भाग्य की देवी के स्वामी अपनी राजधानी द्वारका में आनंदपूर्वक निवास करते थे, जो सभी प्रकार के ऐश्वर्यों से संपन्न थी और अत्यंत प्रतिष्ठित वृष्णियों तथा उनकी भव्य वेशभूषा वाली पत्नियों से आबाद थी। जब ये परम सुंदरी स्त्रियाँ यौवन के मद में भरकर नगर की अट्टालिकाओं पर गेंदों तथा अन्य खिलौनों से खेलती थीं, तो वे चमकती हुई बिजली के समान प्रतीत होती थीं। नगर के मुख्य मार्ग सदैव मदमस्त हाथियों, घुड़सवारों, सुसज्जित पैदल सैनिकों तथा स्वर्ण से सुसज्जित रथों पर सवार योद्धाओं से भरे रहते थे। नगर की शोभा बढ़ाते हुए वहाँ अनेक बगीचे और उपवन थे, जहाँ पुष्पित वृक्षों की पंक्तियों में मधुमक्खियाँ और पक्षी कलरव करते हुए समस्त दिशाओं को अपने संगीत से गुंजायमान कर देते थे।"
+                "description": "श्रीशुकदेवजी ने कहा: हे राजन्! समस्त प्राणियों के परम सुहृद् भगवान श्रीहरि विष्णु के रुक्मिणी के गर्भ से एक अत्यंत प्रिय पुत्र उत्पन्न हुआ। वह साक्षात् कामदेव का स्वरूप था और प्रद्युम्न नाम से विख्यात हुआ। एक बार जब वे खेल रहे थे, तो शम्बरासुर ने उनका अपहरण कर लिया। दुष्ट शम्बरासुर उन्हें समुद्र तट पर ले गया और जल में फेंक दिया। जल में उन्हें एक विशाल मछली ने निगल लिया। बाद में जब वह मछली पकड़ी गई और शम्बर के आंगन में लाकर काटी गई, तो उसके पेट से बालक निकला। शम्बर की पत्नी मायावती ने उस बालक को देखकर विस्मय किया। वह वास्तव में कामदेव की पत्नी रति ही थी। उस बालक को देखकर उसने उसे कामदेव समझ लिया और उसे अपने घर में रखकर उसका पालन-पोषण करने लगी।"
             },
             "gujarati": {
                 "language_id": 3,
                 "lang": "gujarati",
-                "description": "શુકદેવ ગોસ્વામીએ કહ્યું: સૌભાગ્યની દેવીના સ્વામી તેમની રાજધાની દ્વારકાપુરીમાં આનંદપૂર્વક નિવાસ કરતા હતા, જે તમામ ઐશ્વર્યોથી સંપન્ન હતી અને અત્યંત પ્રતિષ્ઠિત વૃષ્ણીઓ તથા તેમની ભવ્ય વેશભૂષાવાળી પત્નીઓથી શોભાયમાન હતી. જ્યારે આ રૂપવતી સ્ત્રીઓ યૌવનના મદમાં મસ્ત થઈને નગરની અટારીઓ પર દડા તથા અન્ય રમકડાંઓથી રમતી હતી, ત્યારે તેઓ ચમકતી વીજળીના સમાન પ્રતીત થતી હતી. નગરના મુખ્ય માર્ગો હંમેશા મદોન્મત્ત હાથીઓ, અશ્વદળ, સુસજ્જિત પાયદળ સૈનિકો અને સુવર્ણથી અલંકૃત રથો પર સવાર યોદ્ધાઓથી ભરપૂર રહેતા હતા. નગરની શોભા વધારતા ત્યાં અનેક બગીચાઓ અને ઉપવનો હતા, જ્યાં પુષ્પિત વૃક્ષોની હારમાળાઓમાં ભ્રમરો અને પક્ષીઓ કલરવ કરીને સમગ્ર દિશાઓને પોતાના સંગીતથી ગુંજતી કરી દેતા હતા."
+                "description": "શ્રી શુકદેવજીએ કહ્યું: હે રાજન! સર્વ જીવોના પરમ સુહૃદ ભગવાન શ્રીહરિ વિષ્ણુને રૂક્મિણીજીના ગર્ભથી એક અતિ પ્રિય પુત્ર થયો, જે સાક્ષાત્ કામદેવનું સ્વરૂપ હતો અને પ્રદ્યુમ્ન નામે વિખ્યાત થયો. એકવાર જ્યારે તે રમી રહ્યો હતો, ત્યારે શંબરાસુરે તેનું અપહરણ કર્યું. તે દુષ્ટ શમ્બર તેને સમુદ્ર તટ પર લઈ ગયો અને પાણીમાં ફેંકી દીધો, જ્યાં એક મોટી માછલીએ તેને ગળી લીધો. જ્યારે તે માછલી પકડાઈ અને શમ્બરના આંગણામાં કાપવામાં આવી, ત્યારે તેના પેટમાંથી તે બાળક નીકળ્યું. શમ્બરની પત્ની માયાવતી તે બાળકને જોઈને આશ્ચર્યચકિત થઈ ગઈ. તે ખરેખર કામદેવની પત્ની રતિ હતી. તે બાળકને જોઈને તેણે તેને કામદેવ સમજી લીધો અને તેને પોતાના ઘરે રાખી તેનો ઉછેર કરવા લાગી."
             }
         }
     },
     {
-        "id": 109001,
-        "sloka": "10.90.01-7",
-        "verse_id": 109001,
-        "verseNumber": 1,
+        "id": 109008,
+        "sloka": "10.90.8",
+        "verse_id": 109008,
+        "verseNumber": 8,
         "languages": {
             "english": {
                 "language_id": 1,
                 "lang": "english",
-                "description": "Śukadeva Gosvamī said: The master of the goddess of fortune resided happily in His capital city, Dvārakā, which was endowed with all opulences and populated by the most eminent Vṛṣṇis and their gorgeously dressed wives. When these beautiful women in the bloom of youth would play on the city’s rooftops with balls and other toys, they shone like flashing lightning. The main streets of the city were always crowded with intoxicated elephants exuding mada, and also with cavalry, richly adorned infantrymen, and soldiers riding chariots brilliantly decorated with gold. Gracing the city were many gardens and parks with rows of flowering trees, where bees and birds would gather, filling all directions with their songs."
+                "description": "Upon seeing that charming boy, who captivated the mind like Cupid, the highly fortunate Rati revealed her identity to him."
             },
             "hindi": {
                 "language_id": 2,
                 "lang": "hindi",
-                "description": "शुकदेव गोस्वामी ने कहा: भाग्य की देवी के स्वामी अपनी राजधानी द्वारका में आनंदपूर्वक निवास करते थे, जो सभी प्रकार के ऐश्वर्यों से संपन्न थी और अत्यंत प्रतिष्ठित वृष्णियों तथा उनकी भव्य वेशभूषा वाली पत्नियों से आबाद थी। जब ये परम सुंदरी स्त्रियाँ यौवन के मद में भरकर नगर की अट्टालिकाओं पर गेंदों तथा अन्य खिलौनों से खेलती थीं, तो वे चमकती हुई बिजली के समान प्रतीत होती थीं। नगर के मुख्य मार्ग सदैव मदमस्त हाथियों, घुड़सवारों, सुसज्जित पैदल सैनिकों तथा स्वर्ण से सुसज्जित रथों पर सवार योद्धाओं से भरे रहते थे। नगर की शोभा बढ़ाते हुए वहाँ अनेक बगीचे और उपवन थे, जहाँ पुष्पित वृक्षों की पंक्तियों में मधुमक्खियाँ और पक्षी कलरव करते हुए समस्त दिशाओं को अपने संगीत से गुंजायमान कर देते थे।"
+                "description": "कामदेव के समान मन को मोहने वाले उस बालक को देखकर महाभागा रति ने अपना परिचय उसे दिया।"
             },
             "gujarati": {
                 "language_id": 3,
                 "lang": "gujarati",
-                "description": "શુકદેવ ગોસ્વામીએ કહ્યું: સૌભાગ્યની દેવીના સ્વામી તેમની રાજધાની દ્વારકાપુરીમાં આનંદપૂર્વક નિવાસ કરતા હતા, જે તમામ ઐશ્વર્યોથી સંપન્ન હતી અને અત્યંત પ્રતિષ્ઠિત વૃષ્ણીઓ તથા તેમની ભવ્ય વેશભૂષાવાળી પત્નીઓથી શોભાયમાન હતી. જ્યારે આ રૂપવતી સ્ત્રીઓ યૌવનના મદમાં મસ્ત થઈને નગરની અટારીઓ પર દડા તથા અન્ય રમકડાંઓથી રમતી હતી, ત્યારે તેઓ ચમકતી વીજળીના સમાન પ્રતીત થતી હતી. નગરના મુખ્ય માર્ગો હંમેશા મદોન્મત્ત હાથીઓ, અશ્વદળ, સુસજ્જિત પાયદળ સૈનિકો અને સુવર્ણથી અલંકૃત રથો પર સવાર યોદ્ધાઓથી ભરપૂર રહેતા હતા. નગરની શોભા વધારતા ત્યાં અનેક બગીચાઓ અને ઉપવનો હતા, જ્યાં પુષ્પિત વૃક્ષોની હારમાળાઓમાં ભ્રમરો અને પક્ષીઓ કલરવ કરીને સમગ્ર દિશાઓને પોતાના સંગીતથી ગુંજતી કરી દેતા હતા."
+                "description": "કામદેવ જેવું મનને મોહિત કરનાર તે બાળકને જોઈને મહાભાગ્યશાળી રતિએ તેને પોતાનો પરિચય આપ્યો."
+            }
+        }
+    },
+    {
+        "id": 109009,
+        "sloka": "10.90.9",
+        "verse_id": 109009,
+        "verseNumber": 9,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "She said, 'My dear, I am your wife, Rati. You were kidnapped by Śambara and thrown into the belly of a fish.'"
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "उसने कहा: 'हे प्रिय! मैं तुम्हारी पत्नी रति हूँ। तुम्हें शम्बरासुर ने अपहृत कर लिया था और मछली के पेट में डाल दिया था।'"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "તેણે કહ્યું: 'હે પ્રિય! હું તારી પત્ની રતિ છું. તારું શંબરાસુરે અપહરણ કર્યું હતું અને માછલીના પેટમાં નાખી દીધો હતો.'"
+            }
+        }
+    },
+    {
+        "id": 109010,
+        "sloka": "10.90.10",
+        "verse_id": 109010,
+        "verseNumber": 10,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Then, O mighty-armed one, that expert in mystic arts, the great Māyāvatī, taught the divine Cupid how to overcome his enemy."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "तत्पश्चात, माया विद्या में निपुण उस महामाया ने कामदेव को अपने शत्रु का नाश करने की विद्या सिखाई।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "ત્યારબાદ, માયા વિદ્યામાં નિપુણ તે મહામાયાએ કામદેવને પોતાના શત્રુનો નાશ કરવાની વિદ્યા શીખવી."
+            }
+        }
+    },
+    {
+        "id": 109011,
+        "sloka": "10.90.11",
+        "verse_id": 109011,
+        "verseNumber": 11,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "She gave him the power of many mystic weapons, and thus Cupid himself became a master of illusion."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "उसने कामदेव को मायावी अस्त्रों का बल प्रदान किया और इस प्रकार वे स्वयं मायावी बन गए।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "તેણે કામદેવને માયાવી શસ્ત્રોનું બળ પ્રદાન કર્યું અને આ રીતે તેઓ પોતે માયાવી બની ગયા."
+            }
+        }
+    },
+    {
+        "id": 109012,
+        "sloka": "10.90.12",
+        "verse_id": 109012,
+        "verseNumber": 12,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Thus empowered by her mystic arts, the mighty-armed Pradyumna, filled with rage, attacked the invincible Śambara."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "उस माया-शक्ति से बलवान होकर महाबाहु प्रद्युम्न क्रोध में भर गए और उन्होंने दुर्जेय शम्बरासुर के साथ युद्ध किया।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "તે માયા-શક્તિથી બળવાન થઈને મહાબાહુ પ્રદ્યુમ્ન ક્રોધમાં ભરાઈ ગયા અને તેમણે દુર્જય શંબરાસુર સાથે યુદ્ધ કર્યું."
+            }
+        }
+    },
+    {
+        "id": 109013,
+        "sloka": "10.90.13",
+        "verse_id": 109013,
+        "verseNumber": 13,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Seeing him rushing forward in anger, the wicked-minded and arrogant demon grabbed his club and rushed toward him."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "उन्हें क्रोध में अपनी ओर आते देख, वह दुष्ट बुद्धि और अहंकारी असुर गदा लेकर उन पर टूट पड़ा।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "તેમને ક્રોધમાં પોતાની તરફ આવતા જોઈને, તે દુષ્ટ બુદ્ધિ અને અહંકારી અસુર ગદા લઈને તેમની પર તૂટી પડ્યો."
             }
         }
     },
     {
         "id": 109014,
-        "sloka": "10.90.014",
+        "sloka": "10.90.14",
         "verse_id": 109014,
         "verseNumber": 14,
         "languages": {
             "english": {
                 "language_id": 1,
                 "lang": "english",
-                "description": "The queens would become stunned in ecstatic trance, their minds absorbed in Kṛṣṇa alone. Then, thinking of their lotus-eyed Lord, they would speak as if insane. Please hear these words from me as I relate them."
+                "description": "When the angry demon struck at him with his club, Pradyumna drew his sword and severed the demon’s head."
             },
             "hindi": {
                 "language_id": 2,
                 "lang": "hindi",
-                "description": "भगवान श्रीकृष्ण की रानियाँ परमानंद की समाधि में स्तब्ध हो जाती थीं और उनका मन केवल कृष्ण में ही लीन रहता था। तत्पश्चात, अपने कमल-नयन प्रभु का चिंतन करते हुए वे उन्माद की अवस्था में बोलने लगती थीं। कृपया अब आप मेरे द्वारा सुनाए जा रहे इन वचनों को ध्यानपूर्वक सुनें।"
+                "description": "जब उस असुर ने गदा से प्रहार किया, तो प्रद्युम्न ने क्रोधित होकर अपनी तलवार निकाली और उसका मस्तक काट डाला।"
             },
             "gujarati": {
                 "language_id": 3,
                 "lang": "gujarati",
-                "description": "ભગવાન શ્રીકૃષ્ણની રાણીઓ પરમાનંદની સમાધિમાં સ્તબ્ધ થઈ જતી અને તેમનું મન કેવળ શ્રીકૃષ્ણમાં જ લીન રહેતું. તત્પશ્ચાત્, પોતાના કમળનયન પ્રભુનું ચિંતન કરતા તેઓ ઉન્માદની અવસ્થામાં બોલવા લાગતી. કૃપા કરીને હવે તમે મારા દ્વારા સંભળાવવામાં આવતા આ વચનોને ધ્યાનપૂર્વક સાંભળો."
-            }
-        }
-    },
-    {
-        "id": 109014,
-        "sloka": "10.90.014",
-        "verse_id": 109014,
-        "verseNumber": 14,
-        "languages": {
-            "english": {
-                "language_id": 1,
-                "lang": "english",
-                "description": "The queens would become stunned in ecstatic trance, their minds absorbed in Kṛṣṇa alone. Then, thinking of their lotus-eyed Lord, they would speak as if insane. Please hear these words from me as I relate them."
-            },
-            "hindi": {
-                "language_id": 2,
-                "lang": "hindi",
-                "description": "भगवान श्रीकृष्ण की रानियाँ परमानंद की समाधि में स्तब्ध हो जाती थीं और उनका मन केवल कृष्ण में ही लीन रहता था। तत्पश्चात, अपने कमल-नयन प्रभु का चिंतन करते हुए वे उन्माद की अवस्था में बोलने लगती थीं। कृपया अब आप मेरे द्वारा सुनाए जा रहे इन वचनों को ध्यानपूर्वक सुनें।"
-            },
-            "gujarati": {
-                "language_id": 3,
-                "lang": "gujarati",
-                "description": "ભગવાન શ્રીકૃષ્ણની રાણીઓ પરમાનંદની સમાધિમાં સ્તબ્ધ થઈ જતી અને તેમનું મન કેવળ શ્રીકૃષ્ણમાં જ લીન રહેતું. તત્પશ્ચાત્, પોતાના કમળનયન પ્રભુનું ચિંતન કરતા તેઓ ઉન્माદની અવસ્થામાં બોલવા લાગતી. કૃપા કરીને હવે તમે મારા દ્વારા સંભળાવવામાં આવતા આ વચનોને ધ્યાનપૂર્વક સાંભળો."
+                "description": "જ્યારે તે અસુરે ગદાથી પ્રહાર કર્યો, ત્યારે પ્રદ્યુમ્ને ક્રોધિત થઈને પોતાની તલવાર કાઢી અને તેનું મસ્તક કાપી નાખ્યું."
             }
         }
     },
     {
         "id": 109015,
-        "sloka": "10.90.015",
+        "sloka": "10.90.15",
         "verse_id": 109015,
         "verseNumber": 15,
         "languages": {
             "english": {
                 "language_id": 1,
                 "lang": "english",
-                "description": "The queens said: O kurarī bird, you are lamenting. Now it is night, and somewhere in this world the Supreme Lord is asleep in a hidden place. But you are wide awake, O friend, unable to fall asleep. Is it that, like us, you have had your heart pierced to the core by the lotus-eyed Lord’s munificent, playful smiling glances?"
+                "description": "Seeing their husband slain, the wives of the demon lamented. Pradyumna then traveled through the sky with Māyāvatī."
             },
             "hindi": {
                 "language_id": 2,
                 "lang": "hindi",
-                "description": "रानियों ने कहा: हे कुररी पक्षी, तुम क्यों विलाप कर रहे हो? अब रात्रि हो चुकी है और परमेश्वर इस संसार में कहीं गुप्त स्थान पर विश्राम कर रहे हैं। परन्तु हे मित्र, तुम जाग रहे हो और तुम्हें निद्रा नहीं आ रही है। क्या ऐसा है कि हमारी भाँति तुम्हारा हृदय भी कमल-नयन प्रभु की उदार और चंचल मुस्कान वाली चितवन से अंदर तक छलनी हो गया है?"
+                "description": "अपने पति को मृत देखकर असुर की पत्नियाँ विलाप करने लगीं। तब प्रद्युम्न मायावती के साथ आकाश मार्ग से अपने घर लौट आए।"
             },
             "gujarati": {
                 "language_id": 3,
                 "lang": "gujarati",
-                "description": "રાણીઓએ કહ્યું: હે કુરરી પક્ષી, તું કેમ વિલાપ કરી રહ્યો છે? હવે રાત્રિ થઈ ચૂકી છે અને પરમેશ્વર આ સંસારમાં ક્યાંક ગુપ્ત સ્થાને વિશ્રામ કરી રહ્યા છે. પરંતુ હે મિત્ર, તું જાગી રહ્યો છે અને તને નિદ્રા નથી આવી રહી. શું એવું છે કે અમારી ભાંતિ તારું હૃદય પણ કમળનયન પ્રભુની ઉદાર અને ચંચળ મુસ્કાનવાળી ચિતવનથી અંદર સુધી વીંધાઈ ગયું છે?"
+                "description": "પોતાના પતિને મૃત જોઈને અસુરની પત્નીઓ વિલાપ કરવા લાગી. ત્યારે પ્રદ્યુમ્ન માયાવતી સાથે આકાશ માર્ગે પોતાના ઘરે પાછા આવ્યા."
+            }
+        }
+    },
+    {
+        "id": 109016,
+        "sloka": "10.90.16",
+        "verse_id": 109016,
+        "verseNumber": 16,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "They arrived at the residence of his father, Lord Krishna, in Dvārakā and entered the beautiful palace, causing everyone to be filled with astonishment."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "वे द्वारका में भगवान श्रीकृष्ण के निवास पर पहुँचे। जब वे सुंदर प्रासाद में प्रविष्ट हुए, तो सभी उन्हें देखकर आश्चर्यचकित रह गए।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "તેઓ દ્વારકામાં ભગવાન શ્રીકૃષ્ણના નિવાસસ્થાને પહોંચ્યા. જ્યારે તેઓ સુંદર મહેલમાં પ્રવેશ્યા, ત્યારે સૌ તેમને જોઈને આશ્ચર્યચકિત થઈ ગયા."
             }
         }
     },
     {
         "id": 109017,
-        "sloka": "10.90.017",
+        "sloka": "10.90.17",
         "verse_id": 109017,
         "verseNumber": 17,
         "languages": {
             "english": {
                 "language_id": 1,
                 "lang": "english",
-                "description": "Dear ocean, you are always roaring, not sleeping at night. Are you suffering insomnia? Or is it that, as with us, Mukunda has taken your insignias and you are hopeless of retrieving them?"
+                "description": "Then Lord Krishna, the son of Devaki, mounted His single-chariot and, like Lord Vishnu entering the universe through His internal potency, joyfully entered His capital city."
             },
             "hindi": {
                 "language_id": 2,
                 "lang": "hindi",
-                "description": "हे प्रिय सागर, तुम सदैव गर्जना करते रहते हो और रात्रि में भी नहीं सोते। क्या तुम अनिद्रा से ग्रस्त हो? या फिर ऐसा है कि हमारी ही भाँति, मुकुंद ने तुम्हारी निधियाँ (ऐश्वर्य) छीन ली हैं और अब तुम उन्हें पुनः प्राप्त करने के प्रति निराश हो?"
+                "description": "तदनन्तर देवकीनन्दन भगवान श्रीकृष्ण एक रथ पर सवार हुए और जिस प्रकार भगवान विष्णु अपनी माया शक्ति के द्वारा विश्व में प्रवेश करते हैं, उसी प्रकार वे बड़े आनंद के साथ अपनी पुरी (द्वारका) में प्रविष्ट हुए।"
             },
             "gujarati": {
                 "language_id": 3,
                 "lang": "gujarati",
-                "description": "હે પ્રિય સાગર, તું હંમેશા ગર્જના કરતો રહે છે અને રાત્રિમાં પણ સૂતો નથી. શું તું અનિદ્રાથી ગ્રસ્ત છે? અથવા શું એવું છે કે અમારી જ ભાંતિ, મુકુન્દે તારી નિધિઓ (ઐશ્વર્યો) છીનવી લીધી છે અને હવે તું તેમને પુનઃ પ્રાપ્ત કરવા અંગે નિરાશ છે?"
+                "description": "ત્યારબાદ ભગવાન શ્રીકૃષ્ણ એક રથ પર સવાર થયા અને જેમ ભગવાન વિષ્ણુ પોતાની માયા શક્તિ દ્વારા વિશ્વમાં પ્રવેશ કરે છે, તેમ તેઓ મોટા આનંદ સાથે પોતાની નગરી દ્વારકામાં પ્રવેશ્યા."
+            }
+        }
+    },
+    {
+        "id": 109018,
+        "sloka": "10.90.18",
+        "verse_id": 109018,
+        "verseNumber": 18,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Entering that city, which was crowded with various types of palaces, the Lord moved through the streets while being worshipped by the citizens and accompanied by elephants."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "अनेक प्रकार के महलों से भरी हुई उस पुरी में प्रवेश करके, भगवान जब गलियों से होकर गुजरे, तो नागरिक उनकी पूजा करने लगे और वे हाथियों के समूह से घिरे हुए थे।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "અનેક પ્રકારના મહેલોથી ભરેલી તે નગરીમાં પ્રવેશ કરીને, ભગવાન જ્યારે ગલીઓમાંથી પસાર થયા, ત્યારે નગરજનો તેમની પૂજા કરવા લાગ્યા અને તેઓ હાથીઓના સમૂહથી ઘેરાયેલા હતા."
+            }
+        }
+    },
+    {
+        "id": 109019,
+        "sloka": "10.90.19",
+        "verse_id": 109019,
+        "verseNumber": 19,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Hearing of the victory [in the battle], the women of the city left their household chores and the cleaning of their homes and rushed outside."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "विजय का समाचार सुनकर नगर की स्त्रियाँ अपने घर के कार्यों और गलियों की सफाई आदि को छोड़कर घर से बाहर दौड़ पड़ीं।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "વિજયના સમાચાર સાંભળીને નગરની સ્ત્રીઓ પોતાના ઘરના કામકાજ અને રસ્તાની સફાઈ વગેરે છોડીને ઘરની બહાર દોડી આવી."
             }
         }
     },
     {
         "id": 109020,
-        "sloka": "10.90.020",
+        "sloka": "10.90.20",
         "verse_id": 109020,
         "verseNumber": 20,
         "languages": {
             "english": {
                 "language_id": 1,
                 "lang": "english",
-                "description": "O revered cloud, you are indeed very dear to the chief of the Yādavas, who bears the mark of Śrīvatsa. Like us, you are bound to Him by love and are meditating upon Him. Your heart is distraught with great eagerness, as our hearts are, and as you remember Him again and again you shed a torrent of tears. Association with Kṛṣṇa brings such misery!"
+                "description": "Seeing their beloved Lord arrived, their eyes blossoming with love, they all bowed to Him respectfully, along with their attendants."
             },
             "hindi": {
                 "language_id": 2,
                 "lang": "hindi",
-                "description": "हे श्रद्धेय मेघ, तुम वास्तव में श्रीवत्स का चिन्ह धारण करने वाले यादवों के अधिपति को अत्यंत प्रिय हो। हमारी ही भाँति, तुम भी प्रेम के कारण उनसे बंधे हुए हो और निरंतर उनका ध्यान कर रहे हो। हमारा हृदय जिस प्रकार अत्यधिक उत्सुकता से व्याकुल है, वैसे ही तुम्हारा हृदय भी व्याकुल है, और जब तुम उनका बार-बार स्मरण करते हो, तो अश्रुओं की धारा बहाने लगते हो। श्रीकृष्ण का संग ही ऐसा दुःखदायक होता है!"
+                "description": "अपने प्रियतम को आया हुआ देखकर, प्रेम से प्रफुल्लित नेत्रों वाली वे सभी स्त्रियाँ अपने सेवकों सहित अत्यंत आदर के साथ उन्हें नमन करने लगीं।"
             },
             "gujarati": {
                 "language_id": 3,
                 "lang": "gujarati",
-                "description": "હે આદરણીય મેઘ, તું વાસ્તવમાં શ્રીવત્સનું ચિહન ધારણ કરનાર યાદવોના અધિપતિને અત્યંત પ્રિય છે. અમારી જ ભાંતિ, તું પણ પ્રેમથી તેમનાથી બંધાયેલો છે અને નિરંતર તેમનું ધ્યાન કરી રહ્યો છે. અમારું હૃદય જે પ્રકારે અત્યંત ઉત્સુકતાથી વ્યાકુળ છે, તે જ રીતે તારું હૃદય પણ વ્યાકુળ છે, અને જ્યારે તું તેમનું વારંવાર સ્મરણ કરે છે, ત્યારે અશ્રુઓની ધારા વહેવડાવવા લાગે છે. શ્રીકૃષ્ણનો સંગ જ આવો દુઃખદાયક હોય છે!"
+                "description": "પોતાના પ્રિયતમને આવેલા જોઈને, પ્રેમથી પ્રફુલ્લિત નેત્રોવાળી તે સર્વ સ્ત્રીઓ પોતાના સેવકો સહિત અત્યંત આદર સાથે તેમને નમન કરવા લાગી."
             }
         }
     },
     {
         "id": 109021,
-        "sloka": "10.90.021",
+        "sloka": "10.90.21",
         "verse_id": 109021,
         "verseNumber": 21,
         "languages": {
             "english": {
                 "language_id": 1,
                 "lang": "english",
-                "description": "O sweet-throated cuckoo, in a voice that could revive the dead you are vibrating the same sounds we once heard from our beloved, the most pleasing of speakers. Please tell me what I can do today to please you."
+                "description": "They showered Him, the Lord who had reached the courtyards of their homes, with indranila gems, strings of pearls, and flowers."
             },
             "hindi": {
                 "language_id": 2,
                 "lang": "hindi",
-                "description": "हे मधुर कंठ वाली कोयल, अपनी उस वाणी से, जो मृतकों को भी पुनर्जीवित कर सकती है, तुम उन्हीं ध्वनियों को गुंजायमान कर रही हो जिन्हें हमने कभी अपने प्रियतम, जो सर्वोत्तम वक्ता हैं, से सुना था। कृपया मुझे बताओ कि मैं तुम्हें प्रसन्न करने के लिए आज क्या कर सकती हूँ।"
+                "description": "वे अपने घर के आँगन में पधारे हुए प्रभु श्रीकृष्ण पर इन्द्रनील मणियों, मोतियों की मालाओं और फूलों की वर्षा करने लगीं।"
             },
             "gujarati": {
                 "language_id": 3,
                 "lang": "gujarati",
-                "description": "હે મધુર કંઠવાળી કોયલ, તારી તે વાણીથી, જે મૃતકોને પણ પુનર્જીવિત કરી શકે છે, તું તે જ ધ્વનિઓને ગુંજાયમાન કરી રહી છે જે અમે ક્યારેક અમારા પ્રિયતમ, જે સર્વોત્તમ વક્તા છે, તેમના મુખે સાંભળી હતી. કૃપા કરીને મને જણાવ કે હું તને પ્રસન્ન કરવા માટે આજે શું કરી શકું?"
+                "description": "તેઓ પોતાના ઘરના આંગણે પધારેલા પ્રભુ શ્રીકૃષ્ણ પર ઇન્દ્રનીલ મણિઓ, મોતીઓની માળાઓ અને પુષ્પોની વર્ષા કરવા લાગી."
             }
         }
     },
     {
         "id": 109022,
-        "sloka": "10.90.022",
+        "sloka": "10.90.22",
         "verse_id": 109022,
         "verseNumber": 22,
         "languages": {
             "english": {
                 "language_id": 1,
                 "lang": "english",
-                "description": "O magnanimous mountain, you neither move nor speak. You must be pondering some matter of great importance. Or do you, like us, desire to hold on your breasts the feet of Vasudeva’s darling son?"
+                "description": "Everywhere the Kuru and Pandava princes were being praised, and as people cried out, \"May You be victorious!\" they offered Him auspicious respects in every home."
             },
             "hindi": {
                 "language_id": 2,
                 "lang": "hindi",
-                "description": "हे उदार पर्वत, तुम न तो हिलते हो और न ही बोलते हो। निश्चित ही तुम किसी अति महत्वपूर्ण विषय पर चिंतन कर रहे हो। या क्या तुम भी हमारी भाँति वासुदेव के प्रिय पुत्र के चरण-कमलों को अपने वक्षस्थल पर धारण करने की अभिलाषा रखते हो?"
+                "description": "हर स्थान पर कुरु और पाण्डव वंशीय राजकुमारों की प्रशंसा हो रही थी, और लोग \"आपकी जय हो\" कहते हुए प्रत्येक घर में प्रभु का मंगलमय सत्कार कर रहे थे।"
             },
             "gujarati": {
                 "language_id": 3,
                 "lang": "gujarati",
-                "description": "હે ઉદાર પર્વત, તું ન તો હાલે છે કે ન તો બોલે છે. નિશ્ચિત જ તું કોઈ અતિ મહત્વપૂર્ણ વિષય પર ચિંતન કરી રહ્યો છે. અથવા શું તું પણ અમારી ભાંતિ વાસુદેવના પ્રિય પુત્રના ચરણ-કમળોને તારા વક્ષઃસ્થળ પર ધારણ કરવાની અભિલાષા રાખે છે?"
+                "description": "દરેક સ્થળે કુરુ અને પાંડવ વંશીય રાજકુમારોની પ્રશંસા થઈ રહી હતી, અને લોકો \"તમારી જય હો\" બોલીને દરેક ઘરમાં પ્રભુનો મંગલમય સત્કાર કરી રહ્યા હતા."
             }
         }
     },
     {
         "id": 109023,
-        "sloka": "10.90.023",
+        "sloka": "10.90.23",
         "verse_id": 109023,
         "verseNumber": 23,
         "languages": {
             "english": {
                 "language_id": 1,
                 "lang": "english",
-                "description": "O rivers, wives of the ocean, your pools have now dried up. Alas, you have shriveled to nothing, and your wealth of lotuses has vanished. Are you, then, like us, who are withering away because of not receiving the affectionate glance of our dear husband, the Lord of Madhu, who has cheated our hearts?"
+                "description": "Entering the royal palace, which was endowed with every comfort, He bowed down to the lotus feet of His mother, Devaki."
             },
             "hindi": {
                 "language_id": 2,
                 "lang": "hindi",
-                "description": "हे नदियों, हे सागर की पत्नियों, तुम्हारे जल के स्रोत अब सूख गए हैं। हाय! तुम सूखकर क्षीण हो गई हो और तुम्हारे कमलों का ऐश्वर्य भी लुप्त हो गया है। तो क्या तुम भी हमारी ही भाँति हो, जो मधु के स्वामी, अपने प्रियतम की स्नेहभरी चितवन न प्राप्त होने के कारण, जिन्होंने हमारे हृदयों को छल लिया है, मुरझा रही हो?"
+                "description": "समस्त सुख-साधनों से युक्त राजभवन में प्रवेश करके उन्होंने अपनी माता देवकी के चरण-कमलों में वंदन किया।"
             },
             "gujarati": {
                 "language_id": 3,
                 "lang": "gujarati",
-                "description": "હે નદીઓ, હે સાગરની પત્નીઓ, તમારા જળના સ્ત્રોત હવે સુકાઈ ગયા છે. હાય! તમે સુકાઈને ક્ષીણ થઈ ગઈ છો અને તમારા કમળોનું ઐશ્વર્ય પણ લુપ્ત થઈ ગયું છે. તો શું તમે પણ અમારી જ ભાંતિ છો, જેઓ મધુના સ્વામી, પોતાના પ્રિયતમની સ્નેહભરી ચિતવન ન પ્રાપ્ત થવાને કારણે, જેમણે આપણા હૃદયોને છળી લીધા છે, તે કારણે મુરઝાઈ રહી છો?"
+                "description": "સમસ્ત સુખ-સાધનોથી યુક્ત રાજભવનમાં પ્રવેશ કરીને તેમણે પોતાની માતા દેવકીના ચરણ-કમળોમાં વંદન કર્યું."
             }
         }
     },
     {
         "id": 109024,
-        "sloka": "10.90.024",
+        "sloka": "10.90.24",
         "verse_id": 109024,
         "verseNumber": 24,
         "languages": {
             "english": {
                 "language_id": 1,
                 "lang": "english",
-                "description": "Welcome, swan. Please sit here and drink some milk. Give us some news of the descendant of Śūra, dear one. We know you are His messenger. Is that invincible Lord doing well, and does that unreliable friend of ours still remember the words He spoke to us long ago? Why should we go and worship Him? O servant of a petty master, go tell Him who fulfills our desires to come here without the goddess of fortune. Is she the only woman exclusively devoted to Him?"
+                "description": "Seeing her son, she was overwhelmed with joy, her eyes filled with tears; she embraced Him tightly, remembering her daughters."
             },
             "hindi": {
                 "language_id": 2,
                 "lang": "hindi",
-                "description": "हे हंस, तुम्हारा स्वागत है। कृपया यहाँ बैठें और थोड़ा दूध ग्रहण करें। हे प्रिय, हमें शूर के वंशज (भगवान श्रीकृष्ण) के विषय में कुछ समाचार दें। हम जानते हैं कि आप उन्हीं के दूत हैं। क्या वे अजेय प्रभु कुशलपूर्वक हैं? और क्या हमारे वे अविश्वसनीय मित्र को अभी भी वे वचन स्मरण हैं, जो उन्होंने बहुत पहले हमसे कहे थे? हमें क्यों जाकर उनकी पूजा करनी चाहिए? हे तुच्छ स्वामी के सेवक, जाकर उनसे, जो हमारी इच्छाओं को पूर्ण करते हैं, कहो कि वे लक्ष्मीजी के बिना यहाँ आएं। क्या केवल वही एक स्त्री है जो विशेष रूप से उनके प्रति समर्पित है?"
+                "description": "अपने पुत्र को देखकर उनकी आँखें आनंद के आँसुओं से भर गईं; उन्होंने अपने पुत्र को कसकर गले लगा लिया और अपनी पुत्रियों का स्मरण किया।"
             },
             "gujarati": {
                 "language_id": 3,
                 "lang": "gujarati",
-                "description": "હે હંસ, તમારું સ્વાગત છે. કૃપા કરીને અહીં બેસો અને થોડું દૂધ ગ્રહણ કરો. હે પ્રિય, અમને શૂરના વંશજ (શ્રીકૃષ્ણ) વિશે કંઈક સમાચાર આપો. અમે જાણીએ છીએ કે તમે તેમના જ દૂત છો. શું તે અદમ્ય પ્રભુ કુશળ છે? અને શું આપણા તે અવિશ્વસનીય મિત્રને હજુ પણ તે વચનો યાદ છે જે તેમણે ઘણા સમય પહેલા અમને કહ્યા હતા? આપણે શા માટે જઈને તેમની પૂજા કરવી જોઈએ? હે ક્ષુદ્ર માલિકના સેવક, જઈને તેમને, જે આપણી ઈચ્છાઓ પૂરી કરે છે, કહો કે તેઓ લક્ષ્મીજી વિના અહીં આવે. શું માત્ર તે એક જ સ્ત્રી છે જે સંપૂર્ણપણે તેમને સમર્પિત છે?"
-            }
-        }
-    },
-    {
-        "id": 109024,
-        "sloka": "10.90.024",
-        "verse_id": 109024,
-        "verseNumber": 24,
-        "languages": {
-            "english": {
-                "language_id": 1,
-                "lang": "english",
-                "description": "Welcome, swan. Please sit here and drink some milk. Give us some news of the descendant of Śūra, dear one. We know you are His messenger. Is that invincible Lord doing well, and does that unreliable friend of ours still remember the words He spoke to us long ago? Why should we go and worship Him? O servant of a petty master, go tell Him who fulfills our desires to come here without the goddess of fortune. Is she the only woman exclusively devoted to Him?"
-            },
-            "hindi": {
-                "language_id": 2,
-                "lang": "hindi",
-                "description": "हे हंस, तुम्हारा स्वागत है। कृपया यहाँ बैठें और थोड़ा दूध ग्रहण करें। हे प्रिय, हमें शूर के वंशज (भगवान श्रीकृष्ण) के विषय में कुछ समाचार दें। हम जानते हैं कि आप उन्हीं के दूत हैं। क्या वे अजेय प्रभु कुशलपूर्वक हैं? और क्या हमारे वे अविश्वसनीय मित्र को अभी भी वे वचन स्मरण हैं, जो उन्होंने बहुत पहले हमसे कहे थे? हमें क्यों जाकर उनकी पूजा करनी चाहिए? हे तुच्छ स्वामी के सेवक, जाकर उनसे, जो हमारी इच्छाओं को पूर्ण करते हैं, कहो कि वे लक्ष्मीजी के बिना यहाँ आएं। क्या केवल वही एक स्त्री है जो विशेष रूप से उनके प्रति समर्पित है?"
-            },
-            "gujarati": {
-                "language_id": 3,
-                "lang": "gujarati",
-                "description": "હે હંસ, તમારું સ્વાગત છે. કૃપા કરીને અહીં બેસો અને થોડું દૂધ ગ્રહણ કરો. હે પ્રિય, અમને શૂરના વંશજ (શ્રીકૃષ્ણ) વિશે કંઈક સમાચાર આપો. અમે જાણીએ છીએ કે તમે તેમના જ દૂત છો. શું તે અદમ્ય પ્રભુ કુશળ છે? અને શું આપણા તે અવિશ્વસનીય મિત્રને હજુ પણ તે વચનો યાદ છે જે તેમણે ઘણા સમય પહેલા અમને કહ્યા હતા? આપણે શા માટે જઈને તેમની પૂજા કરવી જોઈએ? હે ક્ષુદ્ર માલિકના સેવક, જઈને તેમને, જે આપણી ઈચ્છાઓ પૂરી કરે છે, કહો કે તેઓ લક્ષ્મીજી વિના અહીં આવે. શું માત્ર તે એક જ સ્ત્રી છે જે સંપૂર્ણપણે તેમને સમર્પિત છે?"
-            }
-        }
-    },
-    {
-        "id": 109024,
-        "sloka": "10.90.024",
-        "verse_id": 109024,
-        "verseNumber": 24,
-        "languages": {
-            "english": {
-                "language_id": 1,
-                "lang": "english",
-                "description": "Welcome, swan. Please sit here and drink some milk. Give us some news of the descendant of Śūra, dear one. We know you are His messenger. Is that invincible Lord doing well, and does that unreliable friend of ours still remember the words He spoke to us long ago? Why should we go and worship Him? O servant of a petty master, go tell Him who fulfills our desires to come here without the goddess of fortune. Is she the only woman exclusively devoted to Him?"
-            },
-            "hindi": {
-                "language_id": 2,
-                "lang": "hindi",
-                "description": "हे हंस, तुम्हारा स्वागत है। कृपया यहाँ बैठें और थोड़ा दूध ग्रहण करें। हे प्रिय, हमें शूर के वंशज (भगवान श्रीकृष्ण) के विषय में कुछ समाचार दें। हम जानते हैं कि आप उन्हीं के दूत हैं। क्या वे अजेय प्रभु कुशलपूर्वक हैं? और क्या हमारे वे अविश्वसनीय मित्र को अभी भी वे वचन स्मरण हैं, जो उन्होंने बहुत पहले हमसे कहे थे? हमें क्यों जाकर उनकी पूजा करनी चाहिए? हे तुच्छ स्वामी के सेवक, जाकर उनसे, जो हमारी इच्छाओं को पूर्ण करते हैं, कहो कि वे लक्ष्मीजी के बिना यहाँ आएं। क्या केवल वही एक स्त्री है जो विशेष रूप से उनके प्रति समर्पित है?"
-            },
-            "gujarati": {
-                "language_id": 3,
-                "lang": "gujarati",
-                "description": "હે હંસ, તમારું સ્વાગત છે. કૃપા કરીને અહીં બેસો અને થોડું દૂધ ગ્રહણ કરો. હે પ્રિય, અમને શૂરના વંશજ (શ્રીકૃષ્ણ) વિશે કંઈક સમાચાર આપો. અમે જાણીએ છીએ કે તમે તેમના જ દૂત છો. શું તે અદમ્ય પ્રભુ કુશળ છે? અને શું આપણા તે અવિશ્વસનીય મિત્રને હજુ પણ તે વચનો યાદ છે જે તેમણે ઘણા સમય પહેલા અમને કહ્યા હતા? આપણે શા માટે જઈને તેમની પૂજા કરવી જોઈએ? હે ક્ષુદ્ર માલિકના સેવક, જઈને તેમને, જે આપણી ઈચ્છાઓ પૂરી કરે છે, કહો કે તેઓ લક્ષ્મીજી વિના અહીં આવે. શું માત્ર તે એક જ સ્ત્રી છે જે સંપૂર્ણપણે તેમને સમર્પિત છે?"
-            }
-        }
-    },
-    {
-        "id": 109024,
-        "sloka": "10.90.024",
-        "verse_id": 109024,
-        "verseNumber": 24,
-        "languages": {
-            "english": {
-                "language_id": 1,
-                "lang": "english",
-                "description": "Welcome, swan. Please sit here and drink some milk. Give us some news of the descendant of Śūra, dear one. We know you are His messenger. Is that invincible Lord doing well, and does that unreliable friend of ours still remember the words He spoke to us long ago? Why should we go and worship Him? O servant of a petty master, go tell Him who fulfills our desires to come here without the goddess of fortune. Is she the only woman exclusively devoted to Him?"
-            },
-            "hindi": {
-                "language_id": 2,
-                "lang": "hindi",
-                "description": "हे हंस, तुम्हारा स्वागत है। कृपया यहाँ बैठें और थोड़ा दूध ग्रहण करें। हे प्रिय, हमें शूर के वंशज (भगवान श्रीकृष्ण) के विषय में कुछ समाचार दें। हम जानते हैं कि आप उन्हीं के दूत हैं। क्या वे अजेय प्रभु कुशलपूर्वक हैं? और क्या हमारे वे अविश्वसनीय मित्र को अभी भी वे वचन स्मरण हैं, जो उन्होंने बहुत पहले हमसे कहे थे? हमें क्यों जाकर उनकी पूजा करनी चाहिए? हे तुच्छ स्वामी के सेवक, जाकर उनसे, जो हमारी इच्छाओं को पूर्ण करते हैं, कहो कि वे लक्ष्मीजी के बिना यहाँ आएं। क्या केवल वही एक स्त्री है जो विशेष रूप से उनके प्रति समर्पित है?"
-            },
-            "gujarati": {
-                "language_id": 3,
-                "lang": "gujarati",
-                "description": "હે હંસ, તમારું સ્વાગત છે. કૃપા કરીને અહીં બેસો અને થોડું દૂધ ગ્રહણ કરો. હે પ્રિય, અમને શૂરના વંશજ (શ્રીકૃષ્ણ) વિશે કંઈક સમાચાર આપો. અમે જાણીએ છીએ કે તમે તેમના જ દૂત છો. શું તે અદમ્ય પ્રભુ કુશળ છે? અને શું આપણા તે અવિશ્વસનીય મિત્રને હજુ પણ તે વચનો યાદ છે જે તેમણે ઘણા સમય પહેલા અમને કહ્યા હતા? આપણે શા માટે જઈને તેમની પૂજા કરવી જોઈએ? હે ક્ષુદ્ર માલિકના સેવક, જઈને તેમને, જે આપણી ઈચ્છાઓ પૂરી કરે છે, કહો કે તેઓ લક્ષ્મીજી વિના અહીં આવે. શું માત્ર તે એક જ સ્ત્રી છે જે સંપૂર્ણપણે તેમને સમર્પિત છે?"
-            }
-        }
-    },
-    {
-        "id": 109024,
-        "sloka": "10.90.024",
-        "verse_id": 109024,
-        "verseNumber": 24,
-        "languages": {
-            "english": {
-                "language_id": 1,
-                "lang": "english",
-                "description": "Welcome, swan. Please sit here and drink some milk. Give us some news of the descendant of Śūra, dear one. We know you are His messenger. Is that invincible Lord doing well, and does that unreliable friend of ours still remember the words He spoke to us long ago? Why should we go and worship Him? O servant of a petty master, go tell Him who fulfills our desires to come here without the goddess of fortune. Is she the only woman exclusively devoted to Him?"
-            },
-            "hindi": {
-                "language_id": 2,
-                "lang": "hindi",
-                "description": "हे हंस, तुम्हारा स्वागत है। कृपया यहाँ बैठें और थोड़ा दूध ग्रहण करें। हे प्रिय, हमें शूर के वंशज (भगवान श्रीकृष्ण) के विषय में कुछ समाचार दें। हम जानते हैं कि आप उन्हीं के दूत हैं। क्या वे अजेय प्रभु कुशलपूर्वक हैं? और क्या हमारे वे अविश्वसनीय मित्र को अभी भी वे वचन स्मरण हैं, जो उन्होंने बहुत पहले हमसे कहे थे? हमें क्यों जाकर उनकी पूजा करनी चाहिए? हे तुच्छ स्वामी के सेवक, जाकर उनसे, जो हमारी इच्छाओं को पूर्ण करते हैं, कहो कि वे लक्ष्मीजी के बिना यहाँ आएं। क्या केवल वही एक स्त्री है जो विशेष रूप से उनके प्रति समर्पित है?"
-            },
-            "gujarati": {
-                "language_id": 3,
-                "lang": "gujarati",
-                "description": "હે હંસ, તમારું સ્વાગત છે. કૃપા કરીને અહીં બેસો અને થોડું દૂધ ગ્રહણ કરો. હે પ્રિય, અમને શૂરના વંશજ (શ્રીકૃષ્ણ) વિશે કંઈક સમાચાર આપો. અમે જાણીએ છીએ કે તમે તેમના જ દૂત છો. શું તે અદમ્ય પ્રભુ કુશળ છે? અને શું આપણા તે અવિશ્વસનીય મિત્રને હજુ પણ તે વચનો યાદ છે જે તેમણે ઘણા સમય પહેલા અમને કહ્યા હતા? આપણે શા માટે જઈને તેમની પૂજા કરવી જોઈએ? હે ક્ષુદ્ર માલિકના સેવક, જઈને તેમને, જે આપણી ઈચ્છાઓ પૂરી કરે છે, કહો કે તેઓ લક્ષ્મીજી વિના અહીં આવે. શું માત્ર તે એક જ સ્ત્રી છે જે સંપૂર્ણપણે તેમને સમર્પિત છે?"
-            }
-        }
-    },
-    {
-        "id": 109024,
-        "sloka": "10.90.024",
-        "verse_id": 109024,
-        "verseNumber": 24,
-        "languages": {
-            "english": {
-                "language_id": 1,
-                "lang": "english",
-                "description": "Welcome, swan. Please sit here and drink some milk. Give us some news of the descendant of Śūra, dear one. We know you are His messenger. Is that invincible Lord doing well, and does that unreliable friend of ours still remember the words He spoke to us long ago? Why should we go and worship Him? O servant of a petty master, go tell Him who fulfills our desires to come here without the goddess of fortune. Is she the only woman exclusively devoted to Him?"
-            },
-            "hindi": {
-                "language_id": 2,
-                "lang": "hindi",
-                "description": "हे हंस, तुम्हारा स्वागत है। कृपया यहाँ बैठें और थोड़ा दूध ग्रहण करें। हे प्रिय, हमें शूर के वंशज (भगवान श्रीकृष्ण) के विषय में कुछ समाचार दें। हम जानते हैं कि आप उन्हीं के दूत हैं। क्या वे अजेय प्रभु कुशलपूर्वक हैं? और क्या हमारे वे अविश्वसनीय मित्र को अभी भी वे वचन स्मरण हैं, जो उन्होंने बहुत पहले हमसे कहे थे? हमें क्यों जाकर उनकी पूजा करनी चाहिए? हे तुच्छ स्वामी के सेवक, जाकर उनसे, जो हमारी इच्छाओं को पूर्ण करते हैं, कहो कि वे लक्ष्मीजी के बिना यहाँ आएं। क्या केवल वही एक स्त्री है जो विशेष रूप से उनके प्रति समर्पित है?"
-            },
-            "gujarati": {
-                "language_id": 3,
-                "lang": "gujarati",
-                "description": "હે હંસ, તમારું સ્વાગત છે. કૃપા કરીને અહીં બેસો અને થોડું દૂધ ગ્રહણ કરો. હે પ્રિય, અમને શૂરના વંશજ (શ્રીકૃષ્ણ) વિશે કંઈક સમાચાર આપો. અમે જાણીએ છીએ કે તમે તેમના જ દૂત છો. શું તે અદમ્ય પ્રભુ કુશળ છે? અને શું આપણા તે અવિશ્વસનીય મિત્રને હજુ પણ તે વચનો યાદ છે જે તેમણે ઘણા સમય પહેલા અમને કહ્યા હતા? આપણે શા માટે જઈને તેમની પૂજા કરવી જોઈએ? હે ક્ષુદ્ર માલિકના સેવક, જઈને તેમને, જે આપણી ઈચ્છાઓ પૂરી કરે છે, કહો કે તેઓ લક્ષ્મીજી વિના અહીં આવે. શું માત્ર તે એક જ સ્ત્રી છે જે સંપૂર્ણપણે તેમને સમર્પિત છે?"
-            }
-        }
-    },
-    {
-        "id": 109024,
-        "sloka": "10.90.024",
-        "verse_id": 109024,
-        "verseNumber": 24,
-        "languages": {
-            "english": {
-                "language_id": 1,
-                "lang": "english",
-                "description": "Welcome, swan. Please sit here and drink some milk. Give us some news of the descendant of Śūra, dear one. We know you are His messenger. Is that invincible Lord doing well, and does that unreliable friend of ours still remember the words He spoke to us long ago? Why should we go and worship Him? O servant of a petty master, go tell Him who fulfills our desires to come here without the goddess of fortune. Is she the only woman exclusively devoted to Him?"
-            },
-            "hindi": {
-                "language_id": 2,
-                "lang": "hindi",
-                "description": "हे हंस, तुम्हारा स्वागत है। कृपया यहाँ बैठें और थोड़ा दूध ग्रहण करें। हे प्रिय, हमें शूर के वंशज (भगवान श्रीकृष्ण) के विषय में कुछ समाचार दें। हम जानते हैं कि आप उन्हीं के दूत हैं। क्या वे अजेय प्रभु कुशलपूर्वक हैं? और क्या हमारे वे अविश्वसनीय मित्र को अभी भी वे वचन स्मरण हैं, जो उन्होंने बहुत पहले हमसे कहे थे? हमें क्यों जाकर उनकी पूजा करनी चाहिए? हे तुच्छ स्वामी के सेवक, जाकर उनसे, जो हमारी इच्छाओं को पूर्ण करते हैं, कहो कि वे लक्ष्मीजी के बिना यहाँ आएं। क्या केवल वही एक स्त्री है जो विशेष रूप से उनके प्रति समर्पित है?"
-            },
-            "gujarati": {
-                "language_id": 3,
-                "lang": "gujarati",
-                "description": "હે હંસ, તમારું સ્વાગત છે. કૃપા કરીને અહીં બેસો અને થોડું દૂધ ગ્રહણ કરો. હે પ્રિય, અમને શૂરના વંશજ (શ્રીકૃષ્ણ) વિશે કંઈક સમાચાર આપો. અમે જાણીએ છીએ કે તમે તેમના જ દૂત છો. શું તે અદમ્ય પ્રભુ કુશળ છે? અને શું આપણા તે અવિશ્વસનીય મિત્રને હજુ પણ તે વચનો યાદ છે જે તેમણે ઘણા સમય પહેલા અમને કહ્યા હતા? આપણે શા માટે જઈને તેમની પૂજા કરવી જોઈએ? હે ક્ષુદ્ર માલિકના સેવક, જઈને તેમને, જે આપણી ઈચ્છાઓ પૂરી કરે છે, કહો કે તેઓ લક્ષ્મીજી વિના અહીં આવે. શું માત્ર તે એક જ સ્ત્રી છે જે સંપૂર્ણપણે તેમને સમર્પિત છે?"
-            }
-        }
-    },
-    {
-        "id": 109024,
-        "sloka": "10.90.024",
-        "verse_id": 109024,
-        "verseNumber": 24,
-        "languages": {
-            "english": {
-                "language_id": 1,
-                "lang": "english",
-                "description": "Welcome, swan. Please sit here and drink some milk. Give us some news of the descendant of Śūra, dear one. We know you are His messenger. Is that invincible Lord doing well, and does that unreliable friend of ours still remember the words He spoke to us long ago? Why should we go and worship Him? O servant of a petty master, go tell Him who fulfills our desires to come here without the goddess of fortune. Is she the only woman exclusively devoted to Him?"
-            },
-            "hindi": {
-                "language_id": 2,
-                "lang": "hindi",
-                "description": "हे हंस, तुम्हारा स्वागत है। कृपया यहाँ बैठें और थोड़ा दूध ग्रहण करें। हे प्रिय, हमें शूर के वंशज (भगवान श्रीकृष्ण) के विषय में कुछ समाचार दें। हम जानते हैं कि आप उन्हीं के दूत हैं। क्या वे अजेय प्रभु कुशलपूर्वक हैं? और क्या हमारे वे अविश्वसनीय मित्र को अभी भी वे वचन स्मरण हैं, जो उन्होंने बहुत पहले हमसे कहे थे? हमें क्यों जाकर उनकी पूजा करनी चाहिए? हे तुच्छ स्वामी के सेवक, जाकर उनसे, जो हमारी इच्छाओं को पूर्ण करते हैं, कहो कि वे लक्ष्मीजी के बिना यहाँ आएं। क्या केवल वही एक स्त्री है जो विशेष रूप से उनके प्रति समर्पित है?"
-            },
-            "gujarati": {
-                "language_id": 3,
-                "lang": "gujarati",
-                "description": "હે હંસ, તમારું સ્વાગત છે. કૃપા કરીને અહીં બેસો અને થોડું દૂધ ગ્રહણ કરો. હે પ્રિય, અમને શૂરના વંશજ (શ્રીકૃષ્ણ) વિશે કંઈક સમાચાર આપો. અમે જાણીએ છીએ કે તમે તેમના જ દૂત છો. શું તે અદમ્ય પ્રભુ કુશળ છે? અને શું આપણા તે અવિશ્વસનીય મિત્રને હજુ પણ તે વચનો યાદ છે જે તેમણે ઘણા સમય પહેલા અમને કહ્યા હતા? આપણે શા માટે જઈને તેમની પૂજા કરવી જોઈએ? હે ક્ષુદ્ર માલિકના સેવક, જઈને તેમને, જે આપણી ઈચ્છાઓ પૂરી કરે છે, કહો કે તેઓ લક્ષ્મીજી વિના અહીં આવે. શું માત્ર તે એક જ સ્ત્રી છે જે સંપૂર્ણપણે તેમને સમર્પિત છે?"
-            }
-        }
-    },
-    {
-        "id": 109024,
-        "sloka": "10.90.024",
-        "verse_id": 109024,
-        "verseNumber": 24,
-        "languages": {
-            "english": {
-                "language_id": 1,
-                "lang": "english",
-                "description": "Welcome, swan. Please sit here and drink some milk. Give us some news of the descendant of Śūra, dear one. We know you are His messenger. Is that invincible Lord doing well, and does that unreliable friend of ours still remember the words He spoke to us long ago? Why should we go and worship Him? O servant of a petty master, go tell Him who fulfills our desires to come here without the goddess of fortune. Is she the only woman exclusively devoted to Him?"
-            },
-            "hindi": {
-                "language_id": 2,
-                "lang": "hindi",
-                "description": "हे हंस, तुम्हारा स्वागत है। कृपया यहाँ बैठें और थोड़ा दूध ग्रहण करें। हे प्रिय, हमें शूर के वंशज (भगवान श्रीकृष्ण) के विषय में कुछ समाचार दें। हम जानते हैं कि आप उन्हीं के दूत हैं। क्या वे अजेय प्रभु कुशलपूर्वक हैं? और क्या हमारे वे अविश्वसनीय मित्र को अभी भी वे वचन स्मरण हैं, जो उन्होंने बहुत पहले हमसे कहे थे? हमें क्यों जाकर उनकी पूजा करनी चाहिए? हे तुच्छ स्वामी के सेवक, जाकर उनसे, जो हमारी इच्छाओं को पूर्ण करते हैं, कहो कि वे लक्ष्मीजी के बिना यहाँ आएं। क्या केवल वही एक स्त्री है जो विशेष रूप से उनके प्रति समर्पित है?"
-            },
-            "gujarati": {
-                "language_id": 3,
-                "lang": "gujarati",
-                "description": "હે હંસ, તમારું સ્વાગત છે. કૃપા કરીને અહીં બેસો અને થોડું દૂધ ગ્રહણ કરો. હે પ્રિય, અમને શૂરના વંશજ (શ્રીકૃષ્ણ) વિશે કંઈક સમાચાર આપો. અમે જાણીએ છીએ કે તમે તેમના જ દૂત છો. શું તે અદમ્ય પ્રભુ કુશળ છે? અને શું આપણા તે અવિશ્વસનીય મિત્રને હજુ પણ તે વચનો યાદ છે જે તેમણે ઘણા સમય પહેલા અમને કહ્યા હતા? આપણે શા માટે જઈને તેમની પૂજા કરવી જોઈએ? હે ક્ષુદ્ર માલિકના સેવક, જઈને તેમને, જે આપણી ઈચ્છાઓ પૂરી કરે છે, કહો કે તેઓ લક્ષ્મીજી વિના અહીં આવે. શું માત્ર તે એક જ સ્ત્રી છે જે સંપૂર્ણપણે તેમને સમર્પિત છે?"
-            }
-        }
-    },
-    {
-        "id": 109024,
-        "sloka": "10.90.024",
-        "verse_id": 109024,
-        "verseNumber": 24,
-        "languages": {
-            "english": {
-                "language_id": 1,
-                "lang": "english",
-                "description": "Welcome, swan. Please sit here and drink some milk. Give us some news of the descendant of Śūra, dear one. We know you are His messenger. Is that invincible Lord doing well, and does that unreliable friend of ours still remember the words He spoke to us long ago? Why should we go and worship Him? O servant of a petty master, go tell Him who fulfills our desires to come here without the goddess of fortune. Is she the only woman exclusively devoted to Him?"
-            },
-            "hindi": {
-                "language_id": 2,
-                "lang": "hindi",
-                "description": "हे हंस, तुम्हारा स्वागत है। कृपया यहाँ बैठें और थोड़ा दूध ग्रहण करें। हे प्रिय, हमें शूर के वंशज (भगवान श्रीकृष्ण) के विषय में कुछ समाचार दें। हम जानते हैं कि आप उन्हीं के दूत हैं। क्या वे अजेय प्रभु कुशलपूर्वक हैं? और क्या हमारे वे अविश्वसनीय मित्र को अभी भी वे वचन स्मरण हैं, जो उन्होंने बहुत पहले हमसे कहे थे? हमें क्यों जाकर उनकी पूजा करनी चाहिए? हे तुच्छ स्वामी के सेवक, जाकर उनसे, जो हमारी इच्छाओं को पूर्ण करते हैं, कहो कि वे लक्ष्मीजी के बिना यहाँ आएं। क्या केवल वही एक स्त्री है जो विशेष रूप से उनके प्रति समर्पित है?"
-            },
-            "gujarati": {
-                "language_id": 3,
-                "lang": "gujarati",
-                "description": "હે હંસ, તમારું સ્વાગત છે. કૃપા કરીને અહીં બેસો અને થોડું દૂધ ગ્રહણ કરો. હે પ્રિય, અમને શૂરના વંશજ (શ્રીકૃષ્ણ) વિશે કંઈક સમાચાર આપો. અમે જાણીએ છીએ કે તમે તેમના જ દૂત છો. શું તે અદમ્ય પ્રભુ કુશળ છે? અને શું આપણા તે અવિશ્વસનીય મિત્રને હજુ પણ તે વચનો યાદ છે જે તેમણે ઘણા સમય પહેલા અમને કહ્યા હતા? આપણે શા માટે જઈને તેમની પૂજા કરવી જોઈએ? હે ક્ષુદ્ર માલિકના સેવક, જઈને તેમને, જે આપણી ઈચ્છાઓ પૂરી કરે છે, કહો કે તેઓ લક્ષ્મીજી વિના અહીં આવે. શું માત્ર તે એક જ સ્ત્રી છે જે સંપૂર્ણપણે તેમને સમર્પિત છે?"
-            }
-        }
-    },
-    {
-        "id": 109024,
-        "sloka": "10.90.024",
-        "verse_id": 109024,
-        "verseNumber": 24,
-        "languages": {
-            "english": {
-                "language_id": 1,
-                "lang": "english",
-                "description": "Welcome, swan. Please sit here and drink some milk. Give us some news of the descendant of Śūra, dear one. We know you are His messenger. Is that invincible Lord doing well, and does that unreliable friend of ours still remember the words He spoke to us long ago? Why should we go and worship Him? O servant of a petty master, go tell Him who fulfills our desires to come here without the goddess of fortune. Is she the only woman exclusively devoted to Him?"
-            },
-            "hindi": {
-                "language_id": 2,
-                "lang": "hindi",
-                "description": "स्वागत है, हंस। कृपया यहाँ बैठें और थोड़ा दूध ग्रहण करें। हे प्रिय, हमें शूर के वंशज के विषय में कुछ समाचार दें। हम जानते हैं कि आप उन्हीं के दूत हैं। क्या वे अजेय भगवान कुशल हैं? क्या हमारा वह अविश्वसनीय मित्र अभी भी उन वचनों का स्मरण करता है जो उन्होंने बहुत पहले हमसे कहे थे? हम क्यों जाकर उनकी पूजा करें? हे क्षुद्र स्वामी के सेवक, जाइए और उनसे, जो हमारी सभी इच्छाओं को पूर्ण करने वाले हैं, कहिए कि वे लक्ष्मीजी के बिना यहाँ आएं। क्या वे (लक्ष्मीजी) ही एकमात्र ऐसी स्त्री हैं जो पूर्णतः उनके प्रति समर्पित हैं?"
-            },
-            "gujarati": {
-                "language_id": 3,
-                "lang": "gujarati",
-                "description": "સ્વાગત છે, હંસ. કૃપા કરીને અહીં બેસો અને થોડું દૂધ ગ્રહણ કરો. હે પ્રિય, અમને શૂરના વંશજ વિશે કંઈક સમાચાર આપો. અમે જાણીએ છીએ કે તમે તેમના જ દૂત છો. શું તે અદમ્ય ભગવાન શ્રીકૃષ્ણ કુશળ છે? શું આપણા તે અવિશ્વસનીય મિત્રને હજી પણ તે વચનો યાદ છે જે તેમણે ઘણા સમય પહેલા આપણને કહ્યા હતા? આપણે શા માટે જઈને તેમની પૂજા કરીએ? હે ક્ષુદ્ર સ્વામીના સેવક, જાવ અને તેમની પાસે—જે આપણી તમામ ઈચ્છાઓ પૂર્ણ કરનારા છે—કહો કે તેઓ લક્ષ્મીજી વિના અહીં પધારે. શું તેઓ (લક્ષ્મીજી) જ એકમાત્ર સ્ત્રી છે જે સંપૂર્ણપણે તેમના પ્રત્યે સમર્પિત છે?"
-            }
-        }
-    },
-    {
-        "id": 109024,
-        "sloka": "10.90.024",
-        "verse_id": 109024,
-        "verseNumber": 24,
-        "languages": {
-            "english": {
-                "language_id": 1,
-                "lang": "english",
-                "description": "Welcome, swan. Please sit here and drink some milk. Give us some news of the descendant of Śūra, dear one. We know you are His messenger. Is that invincible Lord doing well, and does that unreliable friend of ours still remember the words He spoke to us long ago? Why should we go and worship Him? O servant of a petty master, go tell Him who fulfills our desires to come here without the goddess of fortune. Is she the only woman exclusively devoted to Him?"
-            },
-            "hindi": {
-                "language_id": 2,
-                "lang": "hindi",
-                "description": "स्वागत है, हंस। कृपया यहाँ बैठें और थोड़ा दूध ग्रहण करें। हे प्रिय, हमें शूर के वंशज के विषय में कुछ समाचार दें। हम जानते हैं कि आप उन्हीं के दूत हैं। क्या वे अजेय भगवान कुशल हैं? क्या हमारा वह अविश्वसनीय मित्र अभी भी उन वचनों का स्मरण करता है जो उन्होंने बहुत पहले हमसे कहे थे? हम क्यों जाकर उनकी पूजा करें? हे क्षुद्र स्वामी के सेवक, जाइए और उनसे, जो हमारी सभी इच्छाओं को पूर्ण करने वाले हैं, कहिए कि वे लक्ष्मीजी के बिना यहाँ आएं। क्या वे (लक्ष्मीजी) ही एकमात्र ऐसी स्त्री हैं जो पूर्णतः उनके प्रति समर्पित हैं?"
-            },
-            "gujarati": {
-                "language_id": 3,
-                "lang": "gujarati",
-                "description": "સ્વાગત છે, હંસ. કૃપા કરીને અહીં બેસો અને થોડું દૂધ ગ્રહણ કરો. હે પ્રિય, અમને શૂરના વંશજ વિશે કંઈક સમાચાર આપો. અમે જાણીએ છીએ કે તમે તેમના જ દૂત છો. શું તે અદમ્ય ભગવાન શ્રીકૃષ્ણ કુશળ છે? શું આપણા તે અવિશ્વસનીય મિત્રને હજી પણ તે વચનો યાદ છે જે તેમણે ઘણા સમય પહેલા આપણને કહ્યા હતા? આપણે શા માટે જઈને તેમની પૂજા કરીએ? હે ક્ષુદ્ર સ્વામીના સેવક, જાવ અને તેમની પાસે—જે આપણી તમામ ઈચ્છાઓ પૂર્ણ કરનારા છે—કહો કે તેઓ લક્ષ્મીજી વિના અહીં પધારે. શું તેઓ (લક્ષ્મીજી) જ એકમાત્ર સ્ત્રી છે જે સંપૂર્ણપણે તેમના પ્રત્યે સમર્પિત છે?"
+                "description": "પોતાના પુત્રને જોઈને તેમની આંખો આનંદના આંસુઓથી ભરાઈ ગઈ; તેમણે પોતાના પુત્રને પ્રેમથી બાથમાં ભરી લીધો અને પોતાની પુત્રીઓનું સ્મરણ કર્યું."
             }
         }
     },
     {
         "id": 109025,
-        "sloka": "10.90.025",
+        "sloka": "10.90.25",
         "verse_id": 109025,
         "verseNumber": 25,
         "languages": {
             "english": {
                 "language_id": 1,
                 "lang": "english",
-                "description": "Śukadeva Gosvāmī said: By thus speaking and acting with such ecstatic love for Lord Kṛṣṇa, the master of all masters of mystic yoga, His loving wives attained the ultimate goal of life."
+                "description": "The Lord duly honored all the Vatsas, Andhras, Bhojas, and Vrishnis—His friends—and they, in turn, honored Him, the most worshipable Hari."
             },
             "hindi": {
                 "language_id": 2,
                 "lang": "hindi",
-                "description": "शुकदेव गोस्वामी ने कहा: रहस्यमय योग के समस्त गुरुओं के गुरु, भगवान श्रीकृष्ण के प्रति इस प्रकार के परम प्रेम के साथ बोलने और व्यवहार करने के द्वारा, उनकी प्रेममयी पत्नियों ने जीवन के परम लक्ष्य को प्राप्त कर लिया।"
+                "description": "प्रभु ने वत्स, आन्ध्र, भोज और वृष्णिवंशी अपने सभी मित्रों का यथोचित सत्कार किया, और उन्होंने भी भगवान हरि, जो कि स्वयं पूजनीय हैं, उनकी पूजा की।"
             },
             "gujarati": {
                 "language_id": 3,
                 "lang": "gujarati",
-                "description": "શુકદેવ ગોસ્વામીએ કહ્યું: રહસ્યમય યોગના તમામ ગુરુઓના ગુરુ, ભગવાન શ્રીકૃષ્ણ પ્રત્યે આ પ્રકારના પરમ પ્રેમ સાથે બોલીને અને વર્તીને, તેમની પ્રેમાળ પત્નીઓએ જીવનનું પરમ લક્ષ્ય પ્રાપ્ત કરી લીધું."
+                "description": "પ્રભુએ વત્સ, આંધ્ર, ભોજ અને વૃષ્ણિવંશી પોતાના તમામ મિત્રોનો યથોચિત સત્કાર કર્યો, અને તેમણે પણ ભગવાન હરિ, જેઓ સ્વયં પૂજનીય છે, તેમની પૂજા કરી."
             }
         }
     },
     {
-        "id": 109025,
-        "sloka": "10.90.025",
-        "verse_id": 109025,
-        "verseNumber": 25,
+        "id": 109026,
+        "sloka": "10.90.26",
+        "verse_id": 109026,
+        "verseNumber": 26,
         "languages": {
             "english": {
                 "language_id": 1,
                 "lang": "english",
-                "description": "Śukadeva Gosvāmī said: By thus speaking and acting with such ecstatic love for Lord Kṛṣṇa, the master of all masters of mystic yoga, His loving wives attained the ultimate goal of life."
+                "description": "Then, having worshipped His guru Sandipani with devotion and pleased him, He happily praised him for his sake."
             },
             "hindi": {
                 "language_id": 2,
                 "lang": "hindi",
-                "description": "शुकदेव गोस्वामी ने कहा: रहस्यमय योग के समस्त गुरुओं के गुरु, भगवान श्रीकृष्ण के प्रति इस प्रकार के परम प्रेम के साथ बोलने और व्यवहार करने के द्वारा, उनकी प्रेममयी पत्नियों ने जीवन के परम लक्ष्य को प्राप्त कर लिया।"
+                "description": "तदनन्तर, अपने गुरु सान्दीपनि मुनि की भक्तिपूर्वक पूजा करके और उन्हें प्रसन्न करके, भगवान ने बड़े आनंद के साथ उनके हित के लिए उनकी स्तुति की।"
             },
             "gujarati": {
                 "language_id": 3,
                 "lang": "gujarati",
-                "description": "શુકદેવ ગોસ્વામીએ કહ્યું: રહસ્યમય યોગના તમામ ગુરુઓના ગુરુ, ભગવાન શ્રીકૃષ્ણ પ્રત્યે આ પ્રકારના પરમ પ્રેમ સાથે બોલીને અને વર્તીને, તેમની પ્રેમાળ પત્નીઓએ જીવનનું પરમ લક્ષ્ય પ્રાપ્ત કરી લીધું."
+                "description": "ત્યારબાદ, પોતાના ગુરુ સાંદીપનિ મુનિની ભક્તિપૂર્વક પૂજા કરીને અને તેમને પ્રસન્ન કરીને, ભગવાને મોટા આનંદ સાથે તેમના હિત માટે તેમની સ્તુતિ કરી."
+            }
+        }
+    },
+    {
+        "id": 109027,
+        "sloka": "10.90.27",
+        "verse_id": 109027,
+        "verseNumber": 27,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Just as all rivers and streams find their final resting place in the ocean, O greatly fortunate one, we all find our shelter in You."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "जैसे सभी नदियाँ और झरने अंत में सागर में जाकर मिल जाते हैं, वैसे ही हे महाभाग! हम सब आपमें ही आश्रय प्राप्त करते हैं।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "જેમ બધી નદીઓ અને ઝરણાં અંતે સાગરમાં જઈને ભળી જાય છે, તેમ હે મહાભાગ! અમે બધા આપમાં જ આશ્રય પામીએ છીએ."
+            }
+        }
+    },
+    {
+        "id": 109028,
+        "sloka": "10.90.28",
+        "verse_id": 109028,
+        "verseNumber": 28,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "You alone are the original Supreme Person, the beginning and the end, the source of all and the imperishable one. You are He into whom You withdraw this entire universe."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "आप ही साक्षात् आदि पुरुष हैं, आप ही सबका आदि और अंत हैं, आप ही सबका कारण और अविनाशी हैं। आप ही वह हैं जिनमें यह संपूर्ण विश्व अंत में विलीन हो जाता है।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "આપ જ સાક્ષાત્ આદિ પુરુષ છો, આપ જ સૌના આદિ અને અંત છો, આપ જ સૌનું કારણ અને અવિનાશી છો. આપ જ તે છો જેમાં આ સંપૂર્ણ વિશ્વ અંતે વિલીન થઈ જાય છે."
+            }
+        }
+    },
+    {
+        "id": 109029,
+        "sloka": "10.90.29",
+        "verse_id": 109029,
+        "verseNumber": 29,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "You are the powerful controller of this entire universe, existing through the three phases of time as established by Your own law. You are the creator, the maintainer, and the supreme master; indeed, You are the Lord, for You are the husband of the Goddess of Fortune."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "आप ही इस संपूर्ण विश्व के शक्तिशाली नियंत्रक हैं, जो अपनी ही विधि से तीनों कालों में स्थित रहते हैं। आप ही सृष्टि करने वाले, पालन करने वाले और परमेश्वर हैं; वास्तव में आप ही वे प्रभु हैं क्योंकि आप लक्ष्मीपति हैं।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "આપ જ આ સંપૂર્ણ વિશ્વના શક્તિશાળી નિયંત્રક છો, જે પોતાની જ વિધિથી ત્રણેય કાળમાં સ્થિત રહો છો. આપ જ સૃષ્ટિ રચનાર, પાલન કરનાર અને પરમેશ્વર છો; વાસ્તવમાં આપ જ તે પ્રભુ છો કારણ કે આપ લક્ષ્મીપતિ છો."
+            }
+        }
+    },
+    {
+        "id": 109030,
+        "sloka": "10.90.30",
+        "verse_id": 109030,
+        "verseNumber": 30,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "You are Time, characterized by the activities of the material energy, which manifests these twenty categories of creation. The living beings are created by the material modes acting through time, but You alone remain unchanged, standing apart from all of this."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "आप ही वह काल हैं जो कर्मों से घिरे हुए हैं, जिससे यह बीस तत्वों वाली विचित्र सृष्टि उत्पन्न हुई है। प्राणी काल के प्रभाव और गुणों द्वारा रचे गए हैं, किन्तु आप एकमात्र ऐसे हैं जो अपरिवर्तनीय हैं और इस सबसे परे हैं।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "આપ જ તે કાળ છો જે કર્મોથી ઘેરાયેલા છે, જેનાથી આ વીસ તત્વોવાળી વિચિત્ર સૃષ્ટિ ઉત્પન્ન થઈ છે. પ્રાણીઓ કાળના પ્રભાવ અને ગુણો દ્વારા રચાયા છે, પરંતુ આપ એકમાત્ર એવા છો જે અપરિવર્તનીય છો અને આ સૌની પર છો."
             }
         }
     },
     {
         "id": 109031,
-        "sloka": "10.90.031",
+        "sloka": "10.90.31",
         "verse_id": 109031,
         "verseNumber": 31,
         "languages": {
             "english": {
                 "language_id": 1,
                 "lang": "english",
-                "description": "The Supreme Lord Kṛṣṇa, whose endeavor never fails, begot ten sons in each of His many wives."
+                "description": "Having thus submitted their prayers to the Lord of the demigods, the sages immediately returned to their hermitage, continuously meditating on Lord Krishna."
             },
             "hindi": {
                 "language_id": 2,
                 "lang": "hindi",
-                "description": "भगवान श्रीकृष्ण, जिनके प्रयास कभी विफल नहीं होते, उन्होंने अपनी प्रत्येक पत्नी से दस-दस पुत्र उत्पन्न किए।"
+                "description": "देवताओं के स्वामी भगवान श्रीकृष्ण से इस प्रकार प्रार्थना करके, वे मुनिगण तुरंत अपने आश्रम को लौट गए और निरंतर भगवान श्रीकृष्ण का ही ध्यान करते रहे।"
             },
             "gujarati": {
                 "language_id": 3,
                 "lang": "gujarati",
-                "description": "ભગવાન શ્રીકૃષ્ણ, જેમના પ્રયત્નો ક્યારેય નિષ્ફળ જતા નથી, તેમણે તેમની દરેક પત્નીથી દસ-દસ પુત્રો ઉત્પન્ન કર્યા."
+                "description": "દેવોના સ્વામી ભગવાન શ્રીકૃષ્ણને આ રીતે પ્રાર્થના કરીને, તે મુનિઓ તરત જ પોતાના આશ્રમે પાછા ફર્યા અને નિરંતર ભગવાન શ્રીકૃષ્ણનું જ ધ્યાન કરતા રહ્યા."
+            }
+        }
+    },
+    {
+        "id": 109032,
+        "sloka": "10.90.32",
+        "verse_id": 109032,
+        "verseNumber": 32,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Whenever and wherever there is a decline in religious practice, O descendant of Bharata, and a predominant rise of irreligion—at that time I descend Myself."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "जब-जब धर्म की हानि होती है और अधर्म की वृद्धि होती है, तब-तब मैं स्वयं को प्रकट करता हूँ, हे भरतवंशी!"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "જ્યારે જ્યારે ધર્મની ગ્લાનિ થાય છે અને અધર્મની વૃદ્ધિ થાય છે, ત્યારે ત્યારે હું સ્વયં પ્રગટ થાઉં છું, હે ભરતવંશી!"
             }
         }
     },
     {
         "id": 109033,
-        "sloka": "10.90.033-34",
+        "sloka": "10.90.33-34",
         "verse_id": 109033,
         "verseNumber": 33,
         "languages": {
             "english": {
                 "language_id": 1,
                 "lang": "english",
-                "description": "They were Pradyumna, Aniruddha, Dīptimān, Bhānu, Sāmba, Madhu, Bṛhadbhānu, Citrabhānu, Vṛka, Aruṇa, Puṣkara, Vedabāhu, Śrutadeva, Sunandana, Citrabāhu, Virūpa, Kavi and Nyagrodha."
+                "description": "To deliver the pious and to annihilate the miscreants, as well as to reestablish the principles of religion, I advent Myself age after age. Hearing this, the sages returned to their own hermitage, their hearts filled with the Lord's mercy and fully absorbed in meditation upon Lord Krishna."
             },
             "hindi": {
                 "language_id": 2,
                 "lang": "hindi",
-                "description": "वे थे—प्रद्युम्न, अनिरुद्ध, दीप्तिमान, भानु, साम्ब, मधु, बृहदभानु, चित्रभानु, वृक, अरुण, पुष्कर, वेदबाहु, श्रुतदेव, सुनंदन, चित्रबाहु, विरूप, कवि और न्यग्रोध।"
+                "description": "साधु पुरुषों का उद्धार करने के लिए, दुष्कर्मियों का विनाश करने के लिए और धर्म की स्थापना करने के लिए मैं युग-युग में प्रकट होता हूँ। यह सुनकर मुनिगण अपने आश्रम को लौट गए, वे भगवान श्रीकृष्ण की कृपा से भरे हुए थे और निरंतर उन्हीं का ध्यान कर रहे थे।"
             },
             "gujarati": {
                 "language_id": 3,
                 "lang": "gujarati",
-                "description": "તેઓ હતા—પ્રદ્યુમ્ન, અનिरુદ્ધ, દીપ્તિમાન, ભાનુ, સામ્બ, મધુ, બૃહદભાનુ, ચિત્રભાનુ, વૃક, અરુણ, પુષ્કર, વેદબાહુ, શ્રુતદેવ, સુનંદન, ચિત્રબાહુ, વિરૂપ, કવિ અને ન્યગ્રોધ."
+                "description": "સાધુ પુરુષોનો ઉદ્ધાર કરવા, દુષ્કર્મીઓનો વિનાશ કરવા અને ધર્મની સ્થાપના કરવા માટે હું યુગે યુગે પ્રગટ થાઉં છું. આ સાંભળીને મુનિઓ પોતાના આશ્રમે પાછા ફર્યા; તેઓ ભગવાન શ્રીકૃષ્ણની કૃપાથી ભરેલા હતા અને નિરંતર તેમનું જ ધ્યાન કરી રહ્યા હતા."
+            }
+        }
+    },
+    {
+        "id": 109035,
+        "sloka": "10.90.35",
+        "verse_id": 109035,
+        "verseNumber": 35,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Thus, praising the Supreme Lord with various songs, the sages entered their respective hermitages, remaining fully absorbed in meditation upon Him."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "इस प्रकार भगवान की अनेक प्रकार से स्तुति करते हुए, वे मुनि अपने-अपने आश्रमों में प्रविष्ट हुए और निरंतर उन्हीं का ध्यान करते रहे।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "આ રીતે ભગવાનની અનેક પ્રકારથી સ્તુતિ કરતા, તે મુનિઓ પોતાના આશ્રમોમાં પ્રવેશ્યા અને નિરંતર તેમનું જ ધ્યાન કરતા રહ્યા."
+            }
+        }
+    },
+    {
+        "id": 109036,
+        "sloka": "10.90.36",
+        "verse_id": 109036,
+        "verseNumber": 36,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Anyone who thus constantly remembers Lord Krishna with devotion becomes free from all sins and attains the abode of Lord Vishnu."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "जो कोई भी भक्तिपूर्वक नित्य भगवान श्रीकृष्ण का इस प्रकार स्मरण करता है, वह समस्त पापों से मुक्त होकर भगवान विष्णु के परम धाम को प्राप्त होता है।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "જે કોઈ પણ ભક્તિપૂર્વક નિત્ય ભગવાન શ્રીકૃષ્ણનું આ રીતે સ્મરણ કરે છે, તે સમસ્ત પાપોમાંથી મુક્ત થઈને ભગવાન વિષ્ણુના પરમ ધામને પ્રાપ્ત કરે છે."
+            }
+        }
+    },
+    {
+        "id": 109037,
+        "sloka": "10.90.37",
+        "verse_id": 109037,
+        "verseNumber": 37,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Thus ends the ninetieth chapter of the Tenth Canto of the Śrīmad-Bhāgavatam, the great Purāṇa, which is a poetic composition meant for paramahaṃsas."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "इस प्रकार श्रीमद्भागवत महापुराण के दशम स्कंध का नब्बेवाँ अध्याय संपन्न हुआ।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "આ પ્રકારે શ્રીમદ ભાગવત મહાપુરાણના દશમ સ્કંધનો નેવુંમો અધ્યાય સંપન્ન થયો."
+            }
+        }
+    },
+    {
+        "id": 109038,
+        "sloka": "10.90.38",
+        "verse_id": 109038,
+        "verseNumber": 38,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Having heard this from the sage, the King of Sāndīpani, having understood it, returned home with joy."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "मुनि के द्वारा गाए गए इस प्रसंग को सुनकर और उसे भलीभांति समझकर सान्दीपन मुनि के वे राजा (राजा सान्दीपन) प्रसन्न होकर अपने घर लौट गए।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "મુનિ દ્વારા ગવાયેલ આ પ્રસંગ સાંભળીને અને તેને ભલીભાંતિ સમજીને સાંદીપનિ મુનિના તે રાજા અત્યંત પ્રસન્ન થઈને પોતાના ઘરે પાછા ફર્યા."
+            }
+        }
+    },
+    {
+        "id": 109039,
+        "sloka": "10.90.39",
+        "verse_id": 109039,
+        "verseNumber": 39,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Thus ends the ninetieth chapter of the Tenth Canto of the Śrīmad-Bhāgavatam, the great Purāṇa, which is a compilation of topics meant for the topmost transcendentalists."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "इस प्रकार श्रीमद्भागवत महापुराण के दशम स्कन्ध का नब्बेवाँ अध्याय पूर्ण हुआ।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "આ પ્રકારે શ્રીમદ્ ભાગવત મહાપુરાણના દશમ સ્કંધનો નેવુંમો અધ્યાય પૂર્ણ થયો."
+            }
+        }
+    },
+    {
+        "id": 109040,
+        "sloka": "10.90.40",
+        "verse_id": 109040,
+        "verseNumber": 40,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Śukadeva Gosvāmī said: How can one who has previously taken shelter of Lord Krishna, the enhancer of the Yadu dynasty, be subject to birth and death in this material world again?"
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "श्रीशुकदेव जी ने कहा: जो भगवान श्रीकृष्ण के आश्रय में रहते हैं, जो यदुवंश के अभिवर्धक हैं, उनका जन्म और मृत्यु रूप संसार पुनः कैसे हो सकता है?"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "શ્રી શુકદેવજીએ કહ્યું: જેઓ ભગવાન શ્રીકૃષ્ણના આશ્રયમાં રહે છે, જેઓ યદુવંશના અભિવર્ધક છે, તેમનો જન્મ અને મૃત્યુરૂપ સંસાર ફરી કેવી રીતે હોઈ શકે?"
+            }
+        }
+    },
+    {
+        "id": 109041,
+        "sloka": "10.90.41",
+        "verse_id": 109041,
+        "verseNumber": 41,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "In Him, who is devoid of material objects and who sports in the hearts of those who have overcome ignorance, the sages are never bound by the ropes of affection."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "जिन भगवान में मन लगाकर मुनिजन सांसारिक विषयों का परित्याग कर देते हैं और अज्ञानता से मुक्त हो जाते हैं, वे मुनि कभी भी स्नेह-पाश में नहीं बंधते।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "જે ભગવાનમાં મન લગાવીને મુનિજન સાંસારિક વિષયોનો પરિત્યાગ કરી દે છે અને અજ્ઞાનતાથી મુક્ત થઈ જાય છે, તે મુનિ ક્યારેય સ્નેહ-પાશમાં બંધાતા નથી."
             }
         }
     },
     {
         "id": 109042,
-        "sloka": "10.90.042",
+        "sloka": "10.90.42",
         "verse_id": 109042,
         "verseNumber": 42,
         "languages": {
             "english": {
                 "language_id": 1,
                 "lang": "english",
-                "description": "Who can count all the great Yādavas, when among them King Ugrasena alone was accompanied by an entourage of thirty trillion attendants?"
+                "description": "When a person thus contemplates Lord Krishna's pastimes in his heart according to his own duty, he casts off delusion and illusion, gives up the body, and attains the abode of Krishna."
             },
             "hindi": {
                 "language_id": 2,
                 "lang": "hindi",
-                "description": "महान यादवों की गणना कौन कर सकता है, जबकि उनमें से अकेले राजा उग्रसेन के साथ तीस खरब परिचारकों का दल रहता था?"
+                "description": "जब मनुष्य इस प्रकार अपने धर्म का पालन करते हुए हृदय में भगवान श्रीकृष्ण की लीलाओं का स्मरण करता है, तब वह मोह और माया का त्याग कर, शरीर का अंत होने पर भगवान श्रीकृष्ण के परम पद को प्राप्त करता है।"
             },
             "gujarati": {
                 "language_id": 3,
                 "lang": "gujarati",
-                "description": "મહાન યાદવોની ગણતરી કોણ કરી શકે, જ્યારે તેમની વચ્ચે એકલા રાજા ઉગ્રસેન ત્રીસ ટ્રિલિયન સેવકોના સમૂહ સાથે રહેતા હતા?"
+                "description": "જ્યારે મનુષ્ય આ પ્રકારે પોતાના ધર્મનું પાલન કરતા હૃદયમાં ભગવાન શ્રીકૃષ્ણની લીલાઓનું સ્મરણ કરે છે, ત્યારે તે મોહ અને માયાનો ત્યાગ કરીને, શરીરનો અંત થતા ભગવાન શ્રીકૃષ્ણના પરમ પદને પ્રાપ્ત કરે છે."
+            }
+        }
+    },
+    {
+        "id": 109043,
+        "sloka": "10.90.43",
+        "verse_id": 109043,
+        "verseNumber": 43,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Worship that same imperishable Supreme Person—the best of the Yadus, the upholder of the Yadu dynasty, who possesses the universal form, who wears the pure Kaustubha jewel, who is the enemy of Kaṃsa, the lotus-eyed one, the beautifully formed one—and take refuge in Him."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "जो यदुवंशियों में श्रेष्ठ हैं, जो यदुवंश का भार धारण करने वाले हैं, जिनका विश्वरूप है, जो निर्मल कौस्तुभ मणि धारण करते हैं, जो कंस के शत्रु हैं, कमल नयन हैं और अत्यंत मनोहर रूप वाले हैं, उन अविनाशी भगवान श्रीकृष्ण की ही शरण लो और उनका भजन करो।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "જે યાદવોમાં શ્રેષ્ઠ છે, જે યદુવંશનો ભાર ધારણ કરનારા છે, જે વિશ્વરૂપ છે, જે નિર્મળ કૌસ્તુભ મણિ ધારણ કરે છે, જે કંસના શત્રુ છે, કમળ નયન છે અને અત્યંત મનોહર રૂપવાળા છે, તે અવિનાશી ભગવાન શ્રીકૃષ્ણની જ શરણ લો અને તેમનું ભજન કરો."
+            }
+        }
+    },
+    {
+        "id": 109044,
+        "sloka": "10.90.44",
+        "verse_id": 109044,
+        "verseNumber": 44,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "When will men remember Lord Krishna so that they will not take birth again? Without the cause of liberation, which is Krishna, the slow-minded cannot cross the ocean of material existence."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "मनुष्य कब उन भगवान श्रीकृष्ण का स्मरण करेंगे जिससे उनका पुनर्जन्म न हो? भगवान श्रीकृष्ण के बिना, जो मुक्ति के एकमात्र कारण हैं, मंदबुद्धि लोग इस संसार रूपी सागर को पार नहीं कर सकते।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "મનુષ્ય ક્યારે તે ભગવાન શ્રીકૃષ્ણનું સ્મરણ કરશે જેથી તેમનો પુનર્જન્મ ન થાય? ભગવાન શ્રીકૃષ્ણ વિના, જે મુક્તિના એકમાત્ર કારણ છે, મંદબુદ્ધિ લોકો આ સંસારરૂપી સાગરને પાર કરી શકતા નથી."
+            }
+        }
+    },
+    {
+        "id": 109045,
+        "sloka": "10.90.45",
+        "verse_id": 109045,
+        "verseNumber": 45,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Thus ends the eighty-ninth chapter of the Tenth Canto of the Śrīmad-Bhāgavatam, entitled 'The Prayer of Remembering Krishna'."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "इस प्रकार श्रीमद्भागवत महापुराण के दशम स्कन्ध में 'श्रीकृष्ण-स्मृति-स्तवन' नामक नवासीवाँ अध्याय पूर्ण हुआ।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "આ પ્રકારે શ્રીમદ્ ભાગવત મહાપુરાણના દશમ સ્કંધમાં 'શ્રીકૃષ્ણ-સ્મૃતિ-સ્તવન' નામનો નેવ્યાસીમો અધ્યાય પૂર્ણ થયો."
+            }
+        }
+    },
+    {
+        "id": 109046,
+        "sloka": "10.90.46",
+        "verse_id": 109046,
+        "verseNumber": 46,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Obeisances to that Supreme Lord Krishna, whose intelligence is never checked; by meditating upon His lotus feet, one is liberated from the bondage of material existence."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "उन भगवान श्रीकृष्ण को नमस्कार है, जिनकी बुद्धि कभी कुंठित नहीं होती; जिनके चरण-कमलों का ध्यान करके जीव संसार के बंधनों से मुक्त हो जाते हैं।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "તે ભગવાન શ્રીકૃષ્ણને નમસ્કાર છે, જેમની બુદ્ધિ ક્યારેય કુંઠિત થતી નથી; જેમના ચરણ-કમળોનું ધ્યાન કરીને જીવ સંસારના બંધનોમાંથી મુક્ત થઈ જાય છે."
             }
         }
     },
     {
         "id": 109047,
-        "sloka": "10.90.047",
+        "sloka": "10.90.47",
         "verse_id": 109047,
         "verseNumber": 47,
         "languages": {
             "english": {
                 "language_id": 1,
                 "lang": "english",
-                "description": "The heavenly Ganges is a holy place of pilgrimage because her waters wash Lord Kṛṣṇa’s feet. But when the Lord descended among the Yadus, His glories eclipsed the Ganges as a holy place. Both those who hated Kṛṣṇa and those who loved Him attained eternal forms like His in the spiritual world. The unattainable and supremely self-satisfied goddess of fortune, for the sake of whose favor everyone else struggles, belongs to Him alone. His name destroys all inauspiciousness when heard or chanted. He alone has set forth the principles of the various disciplic successions of sages. What wonder is it that He, whose personal weapon is the wheel of time, relieved the burden of the earth?"
+                "description": "The sages always worship the lotus feet of Lord Hari, the fruit of whose glorification, 'Krishna', gives eternal fame."
             },
             "hindi": {
                 "language_id": 2,
                 "lang": "hindi",
-                "description": "स्वर्गीय गंगा इसलिए पवित्र तीर्थ स्थान है क्योंकि उनका जल भगवान श्रीकृष्ण के चरणों को धोता है। किंतु जब भगवान यदुवंशियों के बीच अवतरित हुए, तो उनकी महिमा ने गंगा की पवित्रता को भी पीछे छोड़ दिया। जो भगवान श्रीकृष्ण से द्वेष करते थे और जो उनसे प्रेम करते थे, उन दोनों ने आध्यात्मिक जगत में उनके समान ही शाश्वत स्वरूप प्राप्त किया। भाग्य की अधिष्ठात्री देवी (लक्ष्मीजी), जिनकी कृपा के लिए सभी लालायित रहते हैं, वे केवल भगवान श्रीकृष्ण की ही हैं। उनका नाम सुनने या जपने मात्र से समस्त अमंगल नष्ट हो जाते हैं। उन्होंने ही ऋषियों की विभिन्न शिष्य-परम्पराओं के सिद्धांतों को स्थापित किया है। अतः यह क्या आश्चर्य है कि वे, जिनका निजी अस्त्र काल-चक्र है, उन्होंने पृथ्वी का भार हरण किया?"
+                "description": "भगवान के जो 'कृष्ण' नाम का कीर्तन फल देने वाला है, उस नाम को लेने वाले मुनिजन सदा भगवान हरि के चरणों की वंदना करते हैं।"
             },
             "gujarati": {
                 "language_id": 3,
                 "lang": "gujarati",
-                "description": "સ્વર્ગીય ગંગા એટલે પવિત્ર તીર્થસ્થાન છે કારણ કે તેમનું જળ ભગવાન શ્રીકૃષ્ણના ચરણોને ધુએ છે. પરંતુ જ્યારે ભગવાન શ્રીકૃષ્ણ યદુવંશમાં અવતરિત થયા, ત્યારે તેમની મહિમાએ ગંગાની પવિત્રતાને પણ પાછળ છોડી દીધી. જેઓ ભગવાન શ્રીકૃષ્ણ સાથે દ્વેષ કરતા હતા અને જેઓ તેમને પ્રેમ કરતા હતા, તે બંનેએ આધ્યાત્મિક જગતમાં તેમના સમાન જ શાશ્વત સ્વરૂપ પ્રાપ્ત કર્યું. ભાગ્યની અધિષ્ઠાત્રી દેવી (લક્ષ્મીજી), જેની કૃપા માટે બધા લાલયિત રહે છે, તેઓ માત્ર ભગવાન શ્રીકૃષ્ણની જ છે. તેમનું નામ સાંભળવા કે જપ કરવા માત્રથી તમામ અમંગળ નષ્ટ થઈ જાય છે. તેમણે જ ઋષિઓની વિવિધ શિષ્ય-પરંપરાઓના સિદ્ધાંતો સ્થાપિત કર્યા છે. અતઃ એમાં શું આશ્ચર્ય કે તેઓ, જેમનું અંગત અસ્ત્ર કાલ-ચક્ર છે, તેમણે પૃથ્વીનો ભાર હરણ કર્યો?"
-            }
-        }
-    },
-    {
-        "id": 109047,
-        "sloka": "10.90.047",
-        "verse_id": 109047,
-        "verseNumber": 47,
-        "languages": {
-            "english": {
-                "language_id": 1,
-                "lang": "english",
-                "description": "The heavenly Ganges is a holy place of pilgrimage because her waters wash Lord Kṛṣṇa’s feet. But when the Lord descended among the Yadus, His glories eclipsed the Ganges as a holy place. Both those who hated Kṛṣṇa and those who loved Him attained eternal forms like His in the spiritual world. The unattainable and supremely self-satisfied goddess of fortune, for the sake of whose favor everyone else struggles, belongs to Him alone. His name destroys all inauspiciousness when heard or chanted. He alone has set forth the principles of the various disciplic successions of sages. What wonder is it that He, whose personal weapon is the wheel of time, relieved the burden of the earth?"
-            },
-            "hindi": {
-                "language_id": 2,
-                "lang": "hindi",
-                "description": "स्वर्गीय गंगा इसलिए पवित्र तीर्थ स्थान है क्योंकि उनका जल भगवान श्रीकृष्ण के चरणों को धोता है। किंतु जब भगवान यदुवंशियों के बीच अवतरित हुए, तो उनकी महिमा ने गंगा की पवित्रता को भी पीछे छोड़ दिया। जो भगवान श्रीकृष्ण से द्वेष करते थे और जो उनसे प्रेम करते थे, उन दोनों ने आध्यात्मिक जगत में उनके समान ही शाश्वत स्वरूप प्राप्त किया। भाग्य की अधिष्ठात्री देवी (लक्ष्मीजी), जिनकी कृपा के लिए सभी लालायित रहते हैं, वे केवल भगवान श्रीकृष्ण की ही हैं। उनका नाम सुनने या जपने मात्र से समस्त अमंगल नष्ट हो जाते हैं। उन्होंने ही ऋषियों की विभिन्न शिष्य-परम्पराओं के सिद्धांतों को स्थापित किया है। अतः यह क्या आश्चर्य है कि वे, जिनका निजी अस्त्र काल-चक्र है, उन्होंने पृथ्वी का भार हरण किया?"
-            },
-            "gujarati": {
-                "language_id": 3,
-                "lang": "gujarati",
-                "description": "સ્વર્ગીય ગંગા એટલે પવિત્ર તીર્થસ્થાન છે કારણ કે તેમનું જળ ભગવાન શ્રીકૃષ્ણના ચરણોને ધુએ છે. પરંતુ જ્યારે ભગવાન શ્રીકૃષ્ણ યદુવંશમાં અવતરિત થયા, ત્યારે તેમની મહિમાએ ગંગાની પવિત્રતાને પણ પાછળ છોડી દીધી. જેઓ ભગવાન શ્રીકૃષ્ણ સાથે દ્વેષ કરતા હતા અને જેઓ તેમને પ્રેમ કરતા હતા, તે બંનેએ આધ્યાત્મિક જગતમાં તેમના સમાન જ શાશ્વત સ્વરૂપ પ્રાપ્ત કર્યું. ભાગ્યની અધિષ્ઠાત્રી દેવી (લક્ષ્મીજી), જેની કૃપા માટે બધા લાલયિત રહે છે, તેઓ માત્ર ભગવાન શ્રીકૃષ્ણની જ છે. તેમનું નામ સાંભળવા કે જપ કરવા માત્રથી તમામ અમંગળ નષ્ટ થઈ જાય છે. તેમણે જ ઋષિઓની વિવિધ શિષ્ય-પરંપરાઓના સિદ્ધાંતો સ્થાપિત કર્યા છે. અતઃ એમાં શું આશ્ચર્ય કે તેઓ, જેમનું અંગત અસ્ત્ર કાલ-ચક્ર છે, તેમણે પૃથ્વીનો ભાર હરણ કર્યો?"
-            }
-        }
-    },
-    {
-        "id": 109047,
-        "sloka": "10.90.047",
-        "verse_id": 109047,
-        "verseNumber": 47,
-        "languages": {
-            "english": {
-                "language_id": 1,
-                "lang": "english",
-                "description": "The heavenly Ganges is a holy place of pilgrimage because her waters wash Lord Kṛṣṇa’s feet. But when the Lord descended among the Yadus, His glories eclipsed the Ganges as a holy place. Both those who hated Kṛṣṇa and those who loved Him attained eternal forms like His in the spiritual world. The unattainable and supremely self-satisfied goddess of fortune, for the sake of whose favor everyone else struggles, belongs to Him alone. His name destroys all inauspiciousness when heard or chanted. He alone has set forth the principles of the various disciplic successions of sages. What wonder is it that He, whose personal weapon is the wheel of time, relieved the burden of the earth?"
-            },
-            "hindi": {
-                "language_id": 2,
-                "lang": "hindi",
-                "description": "स्वर्गीय गंगा इसलिए पवित्र तीर्थ स्थान है क्योंकि उनका जल भगवान श्रीकृष्ण के चरणों को धोता है। किंतु जब भगवान यदुवंशियों के बीच अवतरित हुए, तो उनकी महिमा ने गंगा की पवित्रता को भी पीछे छोड़ दिया। जो भगवान श्रीकृष्ण से द्वेष करते थे और जो उनसे प्रेम करते थे, उन दोनों ने आध्यात्मिक जगत में उनके समान ही शाश्वत स्वरूप प्राप्त किया। भाग्य की अधिष्ठात्री देवी (लक्ष्मीजी), जिनकी कृपा के लिए सभी लालायित रहते हैं, वे केवल भगवान श्रीकृष्ण की ही हैं। उनका नाम सुनने या जपने मात्र से समस्त अमंगल नष्ट हो जाते हैं। उन्होंने ही ऋषियों की विभिन्न शिष्य-परम्पराओं के सिद्धांतों को स्थापित किया है। अतः यह क्या आश्चर्य है कि वे, जिनका निजी अस्त्र काल-चक्र है, उन्होंने पृथ्वी का भार हरण किया?"
-            },
-            "gujarati": {
-                "language_id": 3,
-                "lang": "gujarati",
-                "description": "સ્વર્ગીય ગંગા એટલે પવિત્ર તીર્થસ્થાન છે કારણ કે તેમનું જળ ભગવાન શ્રીકૃષ્ણના ચરણોને ધુએ છે. પરંતુ જ્યારે ભગવાન શ્રીકૃષ્ણ યદુવંશમાં અવતરિત થયા, ત્યારે તેમની મહિમાએ ગંગાની પવિત્રતાને પણ પાછળ છોડી દીધી. જેઓ ભગવાન શ્રીકૃષ્ણ સાથે દ્વેષ કરતા હતા અને જેઓ તેમને પ્રેમ કરતા હતા, તે બંનેએ આધ્યાત્મિક જગતમાં તેમના સમાન જ શાશ્વત સ્વરૂપ પ્રાપ્ત કર્યું. ભાગ્યની અધિષ્ઠાત્રી દેવી (લક્ષ્મીજી), જેની કૃપા માટે બધા લાલયિત રહે છે, તેઓ માત્ર ભગવાન શ્રીકૃષ્ણની જ છે. તેમનું નામ સાંભળવા કે જપ કરવા માત્રથી તમામ અમંગળ નષ્ટ થઈ જાય છે. તેમણે જ ઋષિઓની વિવિધ શિષ્ય-પરંપરાઓના સિદ્ધાંતો સ્થાપિત કર્યા છે. અતઃ એમાં શું આશ્ચર્ય કે તેઓ, જેમનું અંગત અસ્ત્ર કાલ-ચક્ર છે, તેમણે પૃથ્વીનો ભાર હરણ કર્યો?"
-            }
-        }
-    },
-    {
-        "id": 109047,
-        "sloka": "10.90.047",
-        "verse_id": 109047,
-        "verseNumber": 47,
-        "languages": {
-            "english": {
-                "language_id": 1,
-                "lang": "english",
-                "description": "The heavenly Ganges is a holy place of pilgrimage because her waters wash Lord Kṛṣṇa’s feet. But when the Lord descended among the Yadus, His glories eclipsed the Ganges as a holy place. Both those who hated Kṛṣṇa and those who loved Him attained eternal forms like His in the spiritual world. The unattainable and supremely self-satisfied goddess of fortune, for the sake of whose favor everyone else struggles, belongs to Him alone. His name destroys all inauspiciousness when heard or chanted. He alone has set forth the principles of the various disciplic successions of sages. What wonder is it that He, whose personal weapon is the wheel of time, relieved the burden of the earth?"
-            },
-            "hindi": {
-                "language_id": 2,
-                "lang": "hindi",
-                "description": "स्वर्गीय गंगा एक पवित्र तीर्थस्थल है क्योंकि उनके जल से भगवान श्रीकृष्ण के चरण कमल प्रक्षालित होते हैं। किंतु जब भगवान यदुवंश में अवतरित हुए, तो उनकी महिमा ने पवित्र स्थान के रूप में गंगा की महिमा को भी गौण कर दिया। जो लोग भगवान श्रीकृष्ण से द्वेष करते थे और जो उनसे प्रेम करते थे, उन दोनों ने ही आध्यात्मिक जगत में भगवान के समान शाश्वत रूप प्राप्त किए। भाग्य की अधिष्ठात्री देवी, जिनकी कृपा प्राप्त करने के लिए अन्य सभी संघर्ष करते हैं और जो स्वयं अत्यंत आत्म-संतुष्ट हैं, वे एकमात्र भगवान श्रीकृष्ण की ही हैं। भगवान का नाम श्रवण करने या उसका जप करने से समस्त अशुभताएँ नष्ट हो जाती हैं। उन्होंने स्वयं ही ऋषियों की विभिन्न गुरु-परम्पराओं के सिद्धांतों को प्रतिपादित किया है। अतः इसमें क्या आश्चर्य है कि उन्होंने, जिनके निजी आयुध के रूप में कालचक्र विद्यमान है, पृथ्वी का भार हरण कर लिया?"
-            },
-            "gujarati": {
-                "language_id": 3,
-                "lang": "gujarati",
-                "description": "સ્વર્ગીય ગંગા એક પવિત્ર તીર્થસ્થળ છે કારણ કે તેના જળથી ભગવાન શ્રીકૃષ્ણના ચરણકમળ પ્રક્ષાલિત થાય છે. પરંતુ જ્યારે ભગવાન યદુવંશમાં અવતરિત થયા, ત્યારે તેમની મહિમાએ પવિત્ર સ્થાન તરીકે ગંગાની મહિમાને પણ ગૌણ કરી દીધી. જેઓ ભગવાન શ્રીકૃષ્ણ સાથે દ્વેષ રાખતા હતા અને જેઓ તેમનાથી પ્રેમ કરતા હતા, તે બંનેએ આધ્યાત્મિક જગતમાં ભગવાન સમાન શાશ્વત સ્વરૂપ પ્રાપ્ત કર્યા. ભાગ્યની અધિષ્ઠાત્રી દેવી, જેની કૃપા પ્રાપ્ત કરવા માટે અન્ય સૌ સંઘર્ષ કરે છે અને જે સ્વયં અત્યંત આત્મસંતુષ્ટ છે, તે એકમાત્ર ભગવાન શ્રીકૃષ્ણની જ છે. ભગવાનનું નામ શ્રવણ કરવાથી કે તેનો જપ કરવાથી સમસ્ત અશુભતાઓ નષ્ટ થઈ જાય છે. તેમણે સ્વયં જ ઋષિમુનિઓની વિવિધ ગુરુ-પરંપરાઓના સિદ્ધાંતો પ્રતિપાદિત કર્યા છે. અતઃ તેમાં શું આશ્ચર્ય છે કે તેમણે, જેમના નિજી આયુધ રૂપે કાળચક્ર વિદ્યમાન છે, પૃથ્વીનો ભાર હરણ કરી લીધો?"
-            }
-        }
-    },
-    {
-        "id": 109047,
-        "sloka": "10.90.047",
-        "verse_id": 109047,
-        "verseNumber": 47,
-        "languages": {
-            "english": {
-                "language_id": 1,
-                "lang": "english",
-                "description": "The heavenly Ganges is a holy place of pilgrimage because her waters wash Lord Kṛṣṇa’s feet. But when the Lord descended among the Yadus, His glories eclipsed the Ganges as a holy place. Both those who hated Kṛṣṇa and those who loved Him attained eternal forms like His in the spiritual world. The unattainable and supremely self-satisfied goddess of fortune, for the sake of whose favor everyone else struggles, belongs to Him alone. His name destroys all inauspiciousness when heard or chanted. He alone has set forth the principles of the various disciplic successions of sages. What wonder is it that He, whose personal weapon is the wheel of time, relieved the burden of the earth?"
-            },
-            "hindi": {
-                "language_id": 2,
-                "lang": "hindi",
-                "description": "स्वर्गीय गंगा एक पवित्र तीर्थस्थल है क्योंकि उनके जल से भगवान श्रीकृष्ण के चरण कमल प्रक्षालित होते हैं। किंतु जब भगवान यदुवंश में अवतरित हुए, तो उनकी महिमा ने पवित्र स्थान के रूप में गंगा की महिमा को भी गौण कर दिया। जो लोग भगवान श्रीकृष्ण से द्वेष करते थे और जो उनसे प्रेम करते थे, उन दोनों ने ही आध्यात्मिक जगत में भगवान के समान शाश्वत रूप प्राप्त किए। भाग्य की अधिष्ठात्री देवी, जिनकी कृपा प्राप्त करने के लिए अन्य सभी संघर्ष करते हैं और जो स्वयं अत्यंत आत्म-संतुष्ट हैं, वे एकमात्र भगवान श्रीकृष्ण की ही हैं। भगवान का नाम श्रवण करने या उसका जप करने से समस्त अशुभताएँ नष्ट हो जाती हैं। उन्होंने स्वयं ही ऋषियों की विभिन्न गुरु-परम्पराओं के सिद्धांतों को प्रतिपादित किया है। अतः इसमें क्या आश्चर्य है कि उन्होंने, जिनके निजी आयुध के रूप में कालचक्र विद्यमान है, पृथ्वी का भार हरण कर लिया?"
-            },
-            "gujarati": {
-                "language_id": 3,
-                "lang": "gujarati",
-                "description": "સ્વર્ગીય ગંગા એક પવિત્ર તીર્થસ્થળ છે કારણ કે તેના જળથી ભગવાન શ્રીકૃષ્ણના ચરણકમળ પ્રક્ષાલિત થાય છે. પરંતુ જ્યારે ભગવાન યદુવંશમાં અવતરિત થયા, ત્યારે તેમની મહિમાએ પવિત્ર સ્થાન તરીકે ગંગાની મહિમાને પણ ગૌણ કરી દીધી. જેઓ ભગવાન શ્રીકૃષ્ણ સાથે દ્વેષ રાખતા હતા અને જેઓ તેમનાથી પ્રેમ કરતા હતા, તે બંનેએ આધ્યાત્મિક જગતમાં ભગવાન સમાન શાશ્વત સ્વરૂપ પ્રાપ્ત કર્યા. ભાગ્યની અધિષ્ઠાત્રી દેવી, જેની કૃપા પ્રાપ્ત કરવા માટે અન્ય સૌ સંઘર્ષ કરે છે અને જે સ્વયં અત્યંત આત્મસંતુષ્ટ છે, તે એકમાત્ર ભગવાન શ્રીકૃષ્ણની જ છે. ભગવાનનું નામ શ્રવણ કરવાથી કે તેનો જપ કરવાથી સમસ્ત અશુભતાઓ નષ્ટ થઈ જાય છે. તેમણે સ્વયં જ ઋષિમુનિઓની વિવિધ ગુરુ-પરંપરાઓના સિદ્ધાંતો પ્રતિપાદિત કર્યા છે. અતઃ તેમાં શું આશ્ચર્ય છે કે તેમણે, જેમના નિજી આયુધ રૂપે કાળચક્ર વિદ્યમાન છે, પૃથ્વીનો ભાર હરણ કરી લીધો?"
-            }
-        }
-    },
-    {
-        "id": 109047,
-        "sloka": "10.90.047",
-        "verse_id": 109047,
-        "verseNumber": 47,
-        "languages": {
-            "english": {
-                "language_id": 1,
-                "lang": "english",
-                "description": "The heavenly Ganges is a holy place of pilgrimage because her waters wash Lord Kṛṣṇa’s feet. But when the Lord descended among the Yadus, His glories eclipsed the Ganges as a holy place. Both those who hated Kṛṣṇa and those who loved Him attained eternal forms like His in the spiritual world. The unattainable and supremely self-satisfied goddess of fortune, for the sake of whose favor everyone else struggles, belongs to Him alone. His name destroys all inauspiciousness when heard or chanted. He alone has set forth the principles of the various disciplic successions of sages. What wonder is it that He, whose personal weapon is the wheel of time, relieved the burden of the earth?"
-            },
-            "hindi": {
-                "language_id": 2,
-                "lang": "hindi",
-                "description": "स्वर्गीय गंगा एक पवित्र तीर्थस्थल है क्योंकि उनके जल से भगवान श्रीकृष्ण के चरण कमल प्रक्षालित होते हैं। किंतु जब भगवान यदुवंश में अवतरित हुए, तो उनकी महिमा ने पवित्र स्थान के रूप में गंगा की महिमा को भी गौण कर दिया। जो लोग भगवान श्रीकृष्ण से द्वेष करते थे और जो उनसे प्रेम करते थे, उन दोनों ने ही आध्यात्मिक जगत में भगवान के समान शाश्वत रूप प्राप्त किए। भाग्य की अधिष्ठात्री देवी, जिनकी कृपा प्राप्त करने के लिए अन्य सभी संघर्ष करते हैं और जो स्वयं अत्यंत आत्म-संतुष्ट हैं, वे एकमात्र भगवान श्रीकृष्ण की ही हैं। भगवान का नाम श्रवण करने या उसका जप करने से समस्त अशुभताएँ नष्ट हो जाती हैं। उन्होंने स्वयं ही ऋषियों की विभिन्न गुरु-परम्पराओं के सिद्धांतों को प्रतिपादित किया है। अतः इसमें क्या आश्चर्य है कि उन्होंने, जिनके निजी आयुध के रूप में कालचक्र विद्यमान है, पृथ्वी का भार हरण कर लिया?"
-            },
-            "gujarati": {
-                "language_id": 3,
-                "lang": "gujarati",
-                "description": "સ્વર્ગીય ગંગા એક પવિત્ર તીર્થસ્થળ છે કારણ કે તેના જળથી ભગવાન શ્રીકૃષ્ણના ચરણકમળ પ્રક્ષાલિત થાય છે. પરંતુ જ્યારે ભગવાન યદુવંશમાં અવતરિત થયા, ત્યારે તેમની મહિમાએ પવિત્ર સ્થાન તરીકે ગંગાની મહિમાને પણ ગૌણ કરી દીધી. જેઓ ભગવાન શ્રીકૃષ્ણ સાથે દ્વેષ રાખતા હતા અને જેઓ તેમનાથી પ્રેમ કરતા હતા, તે બંનેએ આધ્યાત્મિક જગતમાં ભગવાન સમાન શાશ્વત સ્વરૂપ પ્રાપ્ત કર્યા. ભાગ્યની અધિષ્ઠાત્રી દેવી, જેની કૃપા પ્રાપ્ત કરવા માટે અન્ય સૌ સંઘર્ષ કરે છે અને જે સ્વયં અત્યંત આત્મસંતુષ્ટ છે, તે એકમાત્ર ભગવાન શ્રીકૃષ્ણની જ છે. ભગવાનનું નામ શ્રવણ કરવાથી કે તેનો જપ કરવાથી સમસ્ત અશુભતાઓ નષ્ટ થઈ જાય છે. તેમણે સ્વયં જ ઋષિમુનિઓની વિવિધ ગુરુ-પરંપરાઓના સિદ્ધાંતો પ્રતિપાદિત કર્યા છે. અતઃ તેમાં શું આશ્ચર્ય છે કે તેમણે, જેમના નિજી આયુધ રૂપે કાળચક્ર વિદ્યમાન છે, પૃથ્વીનો ભાર હરણ કરી લીધો?"
-            }
-        }
-    },
-    {
-        "id": 109047,
-        "sloka": "10.90.047",
-        "verse_id": 109047,
-        "verseNumber": 47,
-        "languages": {
-            "english": {
-                "language_id": 1,
-                "lang": "english",
-                "description": "The heavenly Ganges is a holy place of pilgrimage because her waters wash Lord Kṛṣṇa’s feet. But when the Lord descended among the Yadus, His glories eclipsed the Ganges as a holy place. Both those who hated Kṛṣṇa and those who loved Him attained eternal forms like His in the spiritual world. The unattainable and supremely self-satisfied goddess of fortune, for the sake of whose favor everyone else struggles, belongs to Him alone. His name destroys all inauspiciousness when heard or chanted. He alone has set forth the principles of the various disciplic successions of sages. What wonder is it that He, whose personal weapon is the wheel of time, relieved the burden of the earth?"
-            },
-            "hindi": {
-                "language_id": 2,
-                "lang": "hindi",
-                "description": "स्वर्गीय गंगा एक पवित्र तीर्थस्थल है क्योंकि उनके जल से भगवान श्रीकृष्ण के चरण कमल प्रक्षालित होते हैं। किंतु जब भगवान यदुवंश में अवतरित हुए, तो उनकी महिमा ने पवित्र स्थान के रूप में गंगा की महिमा को भी गौण कर दिया। जो लोग भगवान श्रीकृष्ण से द्वेष करते थे और जो उनसे प्रेम करते थे, उन दोनों ने ही आध्यात्मिक जगत में भगवान के समान शाश्वत रूप प्राप्त किए। भाग्य की अधिष्ठात्री देवी, जिनकी कृपा प्राप्त करने के लिए अन्य सभी संघर्ष करते हैं और जो स्वयं अत्यंत आत्म-संतुष्ट हैं, वे एकमात्र भगवान श्रीकृष्ण की ही हैं। भगवान का नाम श्रवण करने या उसका जप करने से समस्त अशुभताएँ नष्ट हो जाती हैं। उन्होंने स्वयं ही ऋषियों की विभिन्न गुरु-परम्पराओं के सिद्धांतों को प्रतिपादित किया है। अतः इसमें क्या आश्चर्य है कि उन्होंने, जिनके निजी आयुध के रूप में कालचक्र विद्यमान है, पृथ्वी का भार हरण कर लिया?"
-            },
-            "gujarati": {
-                "language_id": 3,
-                "lang": "gujarati",
-                "description": "સ્વર્ગીય ગંગા એક પવિત્ર તીર્થસ્થળ છે કારણ કે તેના જળથી ભગવાન શ્રીકૃષ્ણના ચરણકમળ પ્રક્ષાલિત થાય છે. પરંતુ જ્યારે ભગવાન યદુવંશમાં અવતરિત થયા, ત્યારે તેમની મહિમાએ પવિત્ર સ્થાન તરીકે ગંગાની મહિમાને પણ ગૌણ કરી દીધી. જેઓ ભગવાન શ્રીકૃષ્ણ સાથે દ્વેષ રાખતા હતા અને જેઓ તેમનાથી પ્રેમ કરતા હતા, તે બંનેએ આધ્યાત્મિક જગતમાં ભગવાન સમાન શાશ્વત સ્વરૂપ પ્રાપ્ત કર્યા. ભાગ્યની અધિષ્ઠાત્રી દેવી, જેની કૃપા પ્રાપ્ત કરવા માટે અન્ય સૌ સંઘર્ષ કરે છે અને જે સ્વયં અત્યંત આત્મસંતુષ્ટ છે, તે એકમાત્ર ભગવાન શ્રીકૃષ્ણની જ છે. ભગવાનનું નામ શ્રવણ કરવાથી કે તેનો જપ કરવાથી સમસ્ત અશુભતાઓ નષ્ટ થઈ જાય છે. તેમણે સ્વયં જ ઋષિમુનિઓની વિવિધ ગુરુ-પરંપરાઓના સિદ્ધાંતો પ્રતિપાદિત કર્યા છે. અતઃ તેમાં શું આશ્ચર્ય છે કે તેમણે, જેમના નિજી આયુધ રૂપે કાળચક્ર વિદ્યમાન છે, પૃથ્વીનો ભાર હરણ કરી લીધો?"
-            }
-        }
-    },
-    {
-        "id": 109047,
-        "sloka": "10.90.047",
-        "verse_id": 109047,
-        "verseNumber": 47,
-        "languages": {
-            "english": {
-                "language_id": 1,
-                "lang": "english",
-                "description": "The heavenly Ganges is a holy place of pilgrimage because her waters wash Lord Kṛṣṇa’s feet. But when the Lord descended among the Yadus, His glories eclipsed the Ganges as a holy place. Both those who hated Kṛṣṇa and those who loved Him attained eternal forms like His in the spiritual world. The unattainable and supremely self-satisfied goddess of fortune, for the sake of whose favor everyone else struggles, belongs to Him alone. His name destroys all inauspiciousness when heard or chanted. He alone has set forth the principles of the various disciplic successions of sages. What wonder is it that He, whose personal weapon is the wheel of time, relieved the burden of the earth?"
-            },
-            "hindi": {
-                "language_id": 2,
-                "lang": "hindi",
-                "description": "स्वर्गीय गंगा एक पवित्र तीर्थस्थल है क्योंकि उनके जल से भगवान श्रीकृष्ण के चरण कमल प्रक्षालित होते हैं। किंतु जब भगवान यदुवंश में अवतरित हुए, तो उनकी महिमा ने पवित्र स्थान के रूप में गंगा की महिमा को भी गौण कर दिया। जो लोग भगवान श्रीकृष्ण से द्वेष करते थे और जो उनसे प्रेम करते थे, उन दोनों ने ही आध्यात्मिक जगत में भगवान के समान शाश्वत रूप प्राप्त किए। भाग्य की अधिष्ठात्री देवी, जिनकी कृपा प्राप्त करने के लिए अन्य सभी संघर्ष करते हैं और जो स्वयं अत्यंत आत्म-संतुष्ट हैं, वे एकमात्र भगवान श्रीकृष्ण की ही हैं। भगवान का नाम श्रवण करने या उसका जप करने से समस्त अशुभताएँ नष्ट हो जाती हैं। उन्होंने स्वयं ही ऋषियों की विभिन्न गुरु-परम्पराओं के सिद्धांतों को प्रतिपादित किया है। अतः इसमें क्या आश्चर्य है कि उन्होंने, जिनके निजी आयुध के रूप में कालचक्र विद्यमान है, पृथ्वी का भार हरण कर लिया?"
-            },
-            "gujarati": {
-                "language_id": 3,
-                "lang": "gujarati",
-                "description": "સ્વર્ગીય ગંગા એક પવિત્ર તીર્થસ્થળ છે કારણ કે તેના જળથી ભગવાન શ્રીકૃષ્ણના ચરણકમળ પ્રક્ષાલિત થાય છે. પરંતુ જ્યારે ભગવાન યદુવંશમાં અવતરિત થયા, ત્યારે તેમની મહિમાએ પવિત્ર સ્થાન તરીકે ગંગાની મહિમાને પણ ગૌણ કરી દીધી. જેઓ ભગવાન શ્રીકૃષ્ણ સાથે દ્વેષ રાખતા હતા અને જેઓ તેમનાથી પ્રેમ કરતા હતા, તે બંનેએ આધ્યાત્મિક જગતમાં ભગવાન સમાન શાશ્વત સ્વરૂપ પ્રાપ્ત કર્યા. ભાગ્યની અધિષ્ઠાત્રી દેવી, જેની કૃપા પ્રાપ્ત કરવા માટે અન્ય સૌ સંઘર્ષ કરે છે અને જે સ્વયં અત્યંત આત્મસંતુષ્ટ છે, તે એકમાત્ર ભગવાન શ્રીકૃષ્ણની જ છે. ભગવાનનું નામ શ્રવણ કરવાથી કે તેનો જપ કરવાથી સમસ્ત અશુભતાઓ નષ્ટ થઈ જાય છે. તેમણે સ્વયં જ ઋષિમુનિઓની વિવિધ ગુરુ-પરંપરાઓના સિદ્ધાંતો પ્રતિપાદિત કર્યા છે. અતઃ તેમાં શું આશ્ચર્ય છે કે તેમણે, જેમના નિજી આયુધ રૂપે કાળચક્ર વિદ્યમાન છે, પૃથ્વીનો ભાર હરણ કરી લીધો?"
-            }
-        }
-    },
-    {
-        "id": 109047,
-        "sloka": "10.90.047",
-        "verse_id": 109047,
-        "verseNumber": 47,
-        "languages": {
-            "english": {
-                "language_id": 1,
-                "lang": "english",
-                "description": "The heavenly Ganges is a holy place of pilgrimage because her waters wash Lord Kṛṣṇa’s feet. But when the Lord descended among the Yadus, His glories eclipsed the Ganges as a holy place. Both those who hated Kṛṣṇa and those who loved Him attained eternal forms like His in the spiritual world. The unattainable and supremely self-satisfied goddess of fortune, for the sake of whose favor everyone else struggles, belongs to Him alone. His name destroys all inauspiciousness when heard or chanted. He alone has set forth the principles of the various disciplic successions of sages. What wonder is it that He, whose personal weapon is the wheel of time, relieved the burden of the earth?"
-            },
-            "hindi": {
-                "language_id": 2,
-                "lang": "hindi",
-                "description": "स्वर्गीय गंगा एक पवित्र तीर्थस्थल है क्योंकि उनके जल से भगवान श्रीकृष्ण के चरण कमल प्रक्षालित होते हैं। किंतु जब भगवान यदुवंश में अवतरित हुए, तो उनकी महिमा ने पवित्र स्थान के रूप में गंगा की महिमा को भी गौण कर दिया। जो लोग भगवान श्रीकृष्ण से द्वेष करते थे और जो उनसे प्रेम करते थे, उन दोनों ने ही आध्यात्मिक जगत में भगवान के समान शाश्वत रूप प्राप्त किए। भाग्य की अधिष्ठात्री देवी, जिनकी कृपा प्राप्त करने के लिए अन्य सभी संघर्ष करते हैं और जो स्वयं अत्यंत आत्म-संतुष्ट हैं, वे एकमात्र भगवान श्रीकृष्ण की ही हैं। भगवान का नाम श्रवण करने या उसका जप करने से समस्त अशुभताएँ नष्ट हो जाती हैं। उन्होंने स्वयं ही ऋषियों की विभिन्न गुरु-परम्पराओं के सिद्धांतों को प्रतिपादित किया है। अतः इसमें क्या आश्चर्य है कि उन्होंने, जिनके निजी आयुध के रूप में कालचक्र विद्यमान है, पृथ्वी का भार हरण कर लिया?"
-            },
-            "gujarati": {
-                "language_id": 3,
-                "lang": "gujarati",
-                "description": "સ્વર્ગીય ગંગા એક પવિત્ર તીર્થસ્થળ છે કારણ કે તેના જળથી ભગવાન શ્રીકૃષ્ણના ચરણકમળ પ્રક્ષાલિત થાય છે. પરંતુ જ્યારે ભગવાન યદુવંશમાં અવતરિત થયા, ત્યારે તેમની મહિમાએ પવિત્ર સ્થાન તરીકે ગંગાની મહિમાને પણ ગૌણ કરી દીધી. જેઓ ભગવાન શ્રીકૃષ્ણ સાથે દ્વેષ રાખતા હતા અને જેઓ તેમનાથી પ્રેમ કરતા હતા, તે બંનેએ આધ્યાત્મિક જગતમાં ભગવાન સમાન શાશ્વત સ્વરૂપ પ્રાપ્ત કર્યા. ભાગ્યની અધિષ્ઠાત્રી દેવી, જેની કૃપા પ્રાપ્ત કરવા માટે અન્ય સૌ સંઘર્ષ કરે છે અને જે સ્વયં અત્યંત આત્મસંતુષ્ટ છે, તે એકમાત્ર ભગવાન શ્રીકૃષ્ણની જ છે. ભગવાનનું નામ શ્રવણ કરવાથી કે તેનો જપ કરવાથી સમસ્ત અશુભતાઓ નષ્ટ થઈ જાય છે. તેમણે સ્વયં જ ઋષિમુનિઓની વિવિધ ગુરુ-પરંપરાઓના સિદ્ધાંતો પ્રતિપાદિત કર્યા છે. અતઃ તેમાં શું આશ્ચર્ય છે કે તેમણે, જેમના નિજી આયુધ રૂપે કાળચક્ર વિદ્યમાન છે, પૃથ્વીનો ભાર હરણ કરી લીધો?"
-            }
-        }
-    },
-    {
-        "id": 109047,
-        "sloka": "10.90.047",
-        "verse_id": 109047,
-        "verseNumber": 47,
-        "languages": {
-            "english": {
-                "language_id": 1,
-                "lang": "english",
-                "description": "The heavenly Ganges is a holy place of pilgrimage because her waters wash Lord Kṛṣṇa’s feet. But when the Lord descended among the Yadus, His glories eclipsed the Ganges as a holy place. Both those who hated Kṛṣṇa and those who loved Him attained eternal forms like His in the spiritual world. The unattainable and supremely self-satisfied goddess of fortune, for the sake of whose favor everyone else struggles, belongs to Him alone. His name destroys all inauspiciousness when heard or chanted. He alone has set forth the principles of the various disciplic successions of sages. What wonder is it that He, whose personal weapon is the wheel of time, relieved the burden of the earth?"
-            },
-            "hindi": {
-                "language_id": 2,
-                "lang": "hindi",
-                "description": "स्वर्गीय गंगा एक पवित्र तीर्थस्थल है क्योंकि उनके जल से भगवान श्रीकृष्ण के चरण कमल प्रक्षालित होते हैं। किंतु जब भगवान यदुवंश में अवतरित हुए, तो उनकी महिमा ने पवित्र स्थान के रूप में गंगा की महिमा को भी गौण कर दिया। जो लोग भगवान श्रीकृष्ण से द्वेष करते थे और जो उनसे प्रेम करते थे, उन दोनों ने ही आध्यात्मिक जगत में भगवान के समान शाश्वत रूप प्राप्त किए। भाग्य की अधिष्ठात्री देवी, जिनकी कृपा प्राप्त करने के लिए अन्य सभी संघर्ष करते हैं और जो स्वयं अत्यंत आत्म-संतुष्ट हैं, वे एकमात्र भगवान श्रीकृष्ण की ही हैं। भगवान का नाम श्रवण करने या उसका जप करने से समस्त अशुभताएँ नष्ट हो जाती हैं। उन्होंने स्वयं ही ऋषियों की विभिन्न गुरु-परम्पराओं के सिद्धांतों को प्रतिपादित किया है। अतः इसमें क्या आश्चर्य है कि उन्होंने, जिनके निजी आयुध के रूप में कालचक्र विद्यमान है, पृथ्वी का भार हरण कर लिया?"
-            },
-            "gujarati": {
-                "language_id": 3,
-                "lang": "gujarati",
-                "description": "સ્વર્ગીય ગંગા એક પવિત્ર તીર્થસ્થળ છે કારણ કે તેના જળથી ભગવાન શ્રીકૃષ્ણના ચરણકમળ પ્રક્ષાલિત થાય છે. પરંતુ જ્યારે ભગવાન યદુવંશમાં અવતરિત થયા, ત્યારે તેમની મહિમાએ પવિત્ર સ્થાન તરીકે ગંગાની મહિમાને પણ ગૌણ કરી દીધી. જેઓ ભગવાન શ્રીકૃષ્ણ સાથે દ્વેષ રાખતા હતા અને જેઓ તેમનાથી પ્રેમ કરતા હતા, તે બંનેએ આધ્યાત્મિક જગતમાં ભગવાન સમાન શાશ્વત સ્વરૂપ પ્રાપ્ત કર્યા. ભાગ્યની અધિષ્ઠાત્રી દેવી, જેની કૃપા પ્રાપ્ત કરવા માટે અન્ય સૌ સંઘર્ષ કરે છે અને જે સ્વયં અત્યંત આત્મસંતુષ્ટ છે, તે એકમાત્ર ભગવાન શ્રીકૃષ્ણની જ છે. ભગવાનનું નામ શ્રવણ કરવાથી કે તેનો જપ કરવાથી સમસ્ત અશુભતાઓ નષ્ટ થઈ જાય છે. તેમણે સ્વયં જ ઋષિમુનિઓની વિવિધ ગુરુ-પરંપરાઓના સિદ્ધાંતો પ્રતિપાદિત કર્યા છે. અતઃ તેમાં શું આશ્ચર્ય છે કે તેમણે, જેમના નિજી આયુધ રૂપે કાળચક્ર વિદ્યમાન છે, પૃથ્વીનો ભાર હરણ કરી લીધો?"
+                "description": "ભગવાનના જે 'કૃષ્ણ' નામનું કીર્તન ફળ આપનારું છે, તે નામ લેનારા મુનિજન સદા ભગવાન હરિના ચરણોની વંદના કરે છે."
             }
         }
     },
     {
         "id": 109048,
-        "sloka": "10.90.048",
+        "sloka": "10.90.48",
         "verse_id": 109048,
         "verseNumber": 48,
         "languages": {
             "english": {
                 "language_id": 1,
                 "lang": "english",
-                "description": "Lord Śrī Kṛṣṇa is He who is known as jana-nivāsa, the ultimate resort of all living entities, and who is also known as Devakīnandana or Yaśodā-nandana, the son of Devakī and Yaśodā. He is the guide of the Yadu dynasty, and with His mighty arms He kills everything inauspicious, as well as every man who is impious. By His presence He destroys all things inauspicious for all living entities, moving and inert. His blissful smiling face always increases the lusty desires of the gopīs of Vṛndāvana. May He be all glorious and happy!"
+                "description": "Thus having traveled about, the Supreme Lord, who always fulfills the desires of His devotees, accompanied by Dvaipāyana Vyāsa and others, desired to return to Dvārakā. He arrived at that city, which is an ornament to the spiritual world and which is decorated with polished gems and magnificent public thoroughfares."
             },
             "hindi": {
                 "language_id": 2,
                 "lang": "hindi",
-                "description": "भगवान श्रीकृष्ण वे हैं जिन्हें 'जन-निवास' अर्थात् समस्त जीवों का अंतिम आश्रय कहा जाता है, और जो देवकी तथा यशोदा के पुत्र होने के कारण देवकीनंदन या यशोदानंदन के रूप में भी जाने जाते हैं। वे यदुवंश के मार्गदर्शक हैं और अपनी शक्तिशाली भुजाओं से वे प्रत्येक अशुभ वस्तु तथा प्रत्येक अधर्मी व्यक्ति का विनाश करते हैं। अपनी उपस्थिति मात्र से वे चर और अचर सभी जीवों के लिए अशुभता का विनाश करते हैं। उनका आनंदमयी मुस्कारता हुआ मुख सदैव वृंदावन की गोपियों की कामुक अभिलाषाओं को वर्धित करता है। भगवान श्रीकृष्ण सदैव यशस्वी और प्रसन्न रहें!"
+                "description": "इस प्रकार सर्वत्र विहार करके, भक्तवत्सल भगवान श्रीकृष्ण, जो अपने भक्तों की इच्छाओं के अनुसार चलते हैं, वेदव्यास आदि ऋषियों के साथ द्वारकापुरी लौट आए। वह पुरी साक्षात् वैकुण्ठ की शोभा थी और स्वच्छ रत्नों तथा सुंदर राजमार्गो से सुसज्जित थी।"
             },
             "gujarati": {
                 "language_id": 3,
                 "lang": "gujarati",
-                "description": "ભગવાન શ્રીકૃષ્ણ તે છે જે 'જન-નિવાસ' અર્થાત્ સમસ્ત જીવોના અંતિમ આશ્રય તરીકે ઓળખાય છે, અને જેઓ દેવકી તથા યશોદાના પુત્ર હોવાથી દેવકીનંદન કે યશોદાનંદન તરીકે પણ જાણીતા છે. તેઓ યદુવંશના માર્ગદર્શક છે અને પોતાની શક્તિશાળી ભુજાઓ વડે તેઓ દરેક અશુભ વસ્તુ તથા દરેક અધર્મી વ્યક્તિનો વિનાશ કરે છે. પોતાની ઉપસ્થિતિ માત્રથી તેઓ ચર અને અચર તમામ જીવો માટેની અશુભતાનો વિનાશ કરે છે. તેમનો આનંદમયી સ્મિત કરતો મુખારવિંદ સદાય વૃંદાવનની ગોપીઓની કામુક અભિલાષાઓને વૃદ્ધિગત કરે છે. ભગવાન શ્રીકૃષ્ણ સદાય યશસ્વી અને પ્રસન્ન રહે!"
+                "description": "આ રીતે સર્વત્ર વિહાર કરીને, ભક્તવત્સલ ભગવાન શ્રીકૃષ્ણ, જેઓ પોતાના ભક્તોની ઈચ્છા મુજબ વર્તે છે, તેઓ દ્વૈપાયન વ્યાસ વગેરે ઋષિઓ સાથે દ્વારકાપુરી પાછા ફર્યા. તે પુરી સાક્ષાત્ વૈકુંઠની શોભા જેવી હતી અને તે સ્વચ્છ રત્નો તથા સુંદર રાજમાર્ગોથી સુશોભિત હતી."
             }
         }
     },
     {
-        "id": 109048,
-        "sloka": "10.90.048",
-        "verse_id": 109048,
-        "verseNumber": 48,
+        "id": 109049,
+        "sloka": "10.90.49",
+        "verse_id": 109049,
+        "verseNumber": 49,
         "languages": {
             "english": {
                 "language_id": 1,
                 "lang": "english",
-                "description": "Lord Śrī Kṛṣṇa is He who is known as jana-nivāsa, the ultimate resort of all living entities, and who is also known as Devakīnandana or Yaśodā-nandana, the son of Devakī and Yaśodā. He is the guide of the Yadu dynasty, and with His mighty arms He kills everything inauspicious, as well as every man who is impious. By His presence He destroys all things inauspicious for all living entities, moving and inert. His blissful smiling face always increases the lusty desires of the gopīs of Vṛndāvana. May He be all glorious and happy!"
+                "description": "In that city were born many sons of highly pious kings, as is well known. While Lord Krishna resided there, He enjoyed various pastimes, just as He constantly enjoyed pastimes among the best of the Yadus."
             },
             "hindi": {
                 "language_id": 2,
                 "lang": "hindi",
-                "description": "भगवान श्रीकृष्ण वे हैं जिन्हें 'जन-निवास' अर्थात् समस्त जीवों का अंतिम आश्रय कहा जाता है, और जो देवकी तथा यशोदा के पुत्र होने के कारण देवकीनंदन या यशोदानंदन के रूप में भी जाने जाते हैं। वे यदुवंश के मार्गदर्शक हैं और अपनी शक्तिशाली भुजाओं से वे प्रत्येक अशुभ वस्तु तथा प्रत्येक अधर्मी व्यक्ति का विनाश करते हैं। अपनी उपस्थिति मात्र से वे चर और अचर सभी जीवों के लिए अशुभता का विनाश करते हैं। उनका आनंदमयी मुस्कारता हुआ मुख सदैव वृंदावन की गोपियों की कामुक अभिलाषाओं को वर्धित करता है। भगवान श्रीकृष्ण सदैव यशस्वी और प्रसन्न रहें!"
+                "description": "उस द्वारकापुरी में अत्यंत पुण्यवान राजाओं के अनेक पुत्रों का जन्म हुआ, यह सर्वविदित है। भगवान श्रीकृष्ण वहाँ निवास करते हुए उसी प्रकार विहार करते थे, जैसे वे नित्य ही यदुवंश के श्रेष्ठ वीरों के बीच विहार करते थे।"
             },
             "gujarati": {
                 "language_id": 3,
                 "lang": "gujarati",
-                "description": "ભગવાન શ્રીકૃષ્ણ તે છે જે 'જન-નિવાસ' અર્થાત્ સમસ્ત જીવોના અંતિમ આશ્રય તરીકે ઓળખાય છે, અને જેઓ દેવકી તથા યશોદાના પુત્ર હોવાથી દેવકીનંદન કે યશોદાનંદન તરીકે પણ જાણીતા છે. તેઓ યદુવંશના માર્ગદર્શક છે અને પોતાની શક્તિશાળી ભુજાઓ વડે તેઓ દરેક અશુભ વસ્તુ તથા દરેક અધર્મી વ્યક્તિનો વિનાશ કરે છે. પોતાની ઉપસ્થિતિ માત્રથી તેઓ ચર અને અચર તમામ જીવો માટેની અશુભતાનો વિનાશ કરે છે. તેમનો આનંદમયી સ્મિત કરતો મુખારવિંદ સદાય વૃંદાવનની ગોપીઓની કામુક અભિલાષાઓને વૃદ્ધિગત કરે છે. ભગવાન શ્રીકૃષ્ણ સદાય યશસ્વી અને પ્રસન્ન રહે!"
-            }
-        }
-    },
-    {
-        "id": 109048,
-        "sloka": "10.90.048",
-        "verse_id": 109048,
-        "verseNumber": 48,
-        "languages": {
-            "english": {
-                "language_id": 1,
-                "lang": "english",
-                "description": "Lord Śrī Kṛṣṇa is He who is known as jana-nivāsa, the ultimate resort of all living entities, and who is also known as Devakīnandana or Yaśodā-nandana, the son of Devakī and Yaśodā. He is the guide of the Yadu dynasty, and with His mighty arms He kills everything inauspicious, as well as every man who is impious. By His presence He destroys all things inauspicious for all living entities, moving and inert. His blissful smiling face always increases the lusty desires of the gopīs of Vṛndāvana. May He be all glorious and happy!"
-            },
-            "hindi": {
-                "language_id": 2,
-                "lang": "hindi",
-                "description": "भगवान श्रीकृष्ण वे हैं जिन्हें 'जन-निवास' अर्थात् समस्त जीवों का अंतिम आश्रय कहा जाता है, और जो देवकी तथा यशोदा के पुत्र होने के कारण देवकीनंदन या यशोदानंदन के रूप में भी जाने जाते हैं। वे यदुवंश के मार्गदर्शक हैं और अपनी शक्तिशाली भुजाओं से वे प्रत्येक अशुभ वस्तु तथा प्रत्येक अधर्मी व्यक्ति का विनाश करते हैं। अपनी उपस्थिति मात्र से वे चर और अचर सभी जीवों के लिए अशुभता का विनाश करते हैं। उनका आनंदमयी मुस्कारता हुआ मुख सदैव वृंदावन की गोपियों की कामुक अभिलाषाओं को वर्धित करता है। भगवान श्रीकृष्ण सदैव यशस्वी और प्रसन्न रहें!"
-            },
-            "gujarati": {
-                "language_id": 3,
-                "lang": "gujarati",
-                "description": "ભગવાન શ્રીકૃષ્ણ તે છે જે 'જન-નિવાસ' અર્થાત્ સમસ્ત જીવોના અંતિમ આશ્રય તરીકે ઓળખાય છે, અને જેઓ દેવકી તથા યશોદાના પુત્ર હોવાથી દેવકીનંદન કે યશોદાનંદન તરીકે પણ જાણીતા છે. તેઓ યદુવંશના માર્ગદર્શક છે અને પોતાની શક્તિશાળી ભુજાઓ વડે તેઓ દરેક અશુભ વસ્તુ તથા દરેક અધર્મી વ્યક્તિનો વિનાશ કરે છે. પોતાની ઉપસ્થિતિ માત્રથી તેઓ ચર અને અચર તમામ જીવો માટેની અશુભતાનો વિનાશ કરે છે. તેમનો આનંદમયી સ્મિત કરતો મુખારવિંદ સદાય વૃંદાવનની ગોપીઓની કામુક અભિલાષાઓને વૃદ્ધિગત કરે છે. ભગવાન શ્રીકૃષ્ણ સદાય યશસ્વી અને પ્રસન્ન રહે!"
-            }
-        }
-    },
-    {
-        "id": 109048,
-        "sloka": "10.90.048",
-        "verse_id": 109048,
-        "verseNumber": 48,
-        "languages": {
-            "english": {
-                "language_id": 1,
-                "lang": "english",
-                "description": "Lord Śrī Kṛṣṇa is He who is known as jana-nivāsa, the ultimate resort of all living entities, and who is also known as Devakīnandana or Yaśodā-nandana, the son of Devakī and Yaśodā. He is the guide of the Yadu dynasty, and with His mighty arms He kills everything inauspicious, as well as every man who is impious. By His presence He destroys all things inauspicious for all living entities, moving and inert. His blissful smiling face always increases the lusty desires of the gopīs of Vṛndāvana. May He be all glorious and happy!"
-            },
-            "hindi": {
-                "language_id": 2,
-                "lang": "hindi",
-                "description": "भगवान श्रीकृष्ण ही वे हैं जिन्हें 'जन-निवास' अर्थात् समस्त जीवों का अंतिम आश्रय कहा जाता है। उन्हें देवकीनंदन अथवा यशोदा-नंदन के रूप में भी जाना जाता है, क्योंकि वे माता देवकी और माता यशोदा के पुत्र हैं। वे यदु वंश के मार्गदर्शक हैं और अपनी शक्तिशाली भुजाओं से वे समस्त अशुभों तथा अधर्मी पुरुषों का विनाश करते हैं। अपनी उपस्थिति मात्र से वे चर और अचर, सभी जीवों के लिए अमंगलकारी वस्तुओं का नाश कर देते हैं। उनका आनंदमय मुस्कानयुक्त मुखारविंद सदा वृन्दावन की गोपियों की कामुक इच्छाओं को और अधिक प्रगाढ़ करता है। वे सर्वदा गौरवशाली और प्रसन्न रहें!"
-            },
-            "gujarati": {
-                "language_id": 3,
-                "lang": "gujarati",
-                "description": "ભગવાન શ્રીકૃષ્ણ જ તે છે જેમને 'જન-નિવાસ' એટલે કે તમામ જીવોનો અંતિમ આશ્રય કહેવામાં આવે છે. તેઓ દેવકીનંદન અથવા યશોદા-નંદન તરીકે પણ ઓળખાય છે, કારણ કે તેઓ માતા દેવકી અને માતા યશોદાના પુત્ર છે. તેઓ યદુ વંશના માર્ગદર્શક છે અને પોતાની શક્તિશાળી ભુજાઓ વડે તેઓ દરેક અશુભ વસ્તુનો તેમજ દરેક અધર્મી મનુષ્યનો વિનાશ કરે છે. પોતાની હાજરી માત્રથી તેઓ સ્થાવર અને જંગમ, તમામ જીવો માટે અશુભ એવી બધી જ વસ્તુઓનો નાશ કરે છે. તેમનો આનંદી મુખારવિંદ અને સ્મિત સદાય વૃંદાવનની ગોપીઓની કામનાઓને વધુ પ્રબળ કરે છે. તેઓ સર્વદા ગૌરવશાળી અને પ્રસન્ન રહે!"
-            }
-        }
-    },
-    {
-        "id": 109048,
-        "sloka": "10.90.048",
-        "verse_id": 109048,
-        "verseNumber": 48,
-        "languages": {
-            "english": {
-                "language_id": 1,
-                "lang": "english",
-                "description": "Lord Śrī Kṛṣṇa is He who is known as jana-nivāsa, the ultimate resort of all living entities, and who is also known as Devakīnandana or Yaśodā-nandana, the son of Devakī and Yaśodā. He is the guide of the Yadu dynasty, and with His mighty arms He kills everything inauspicious, as well as every man who is impious. By His presence He destroys all things inauspicious for all living entities, moving and inert. His blissful smiling face always increases the lusty desires of the gopīs of Vṛndāvana. May He be all glorious and happy!"
-            },
-            "hindi": {
-                "language_id": 2,
-                "lang": "hindi",
-                "description": "भगवान श्रीकृष्ण ही वे हैं जिन्हें 'जन-निवास' अर्थात् समस्त जीवों का अंतिम आश्रय कहा जाता है। उन्हें देवकीनंदन अथवा यशोदा-नंदन के रूप में भी जाना जाता है, क्योंकि वे माता देवकी और माता यशोदा के पुत्र हैं। वे यदु वंश के मार्गदर्शक हैं और अपनी शक्तिशाली भुजाओं से वे समस्त अशुभों तथा अधर्मी पुरुषों का विनाश करते हैं। अपनी उपस्थिति मात्र से वे चर और अचर, सभी जीवों के लिए अमंगलकारी वस्तुओं का नाश कर देते हैं। उनका आनंदमय मुस्कानयुक्त मुखारविंद सदा वृन्दावन की गोपियों की कामुक इच्छाओं को और अधिक प्रगाढ़ करता है। वे सर्वदा गौरवशाली और प्रसन्न रहें!"
-            },
-            "gujarati": {
-                "language_id": 3,
-                "lang": "gujarati",
-                "description": "ભગવાન શ્રીકૃષ્ણ જ તે છે જેમને 'જન-નિવાસ' એટલે કે તમામ જીવોનો અંતિમ આશ્રય કહેવામાં આવે છે. તેઓ દેવકીનંદન અથવા યશોદા-નંદન તરીકે પણ ઓળખાય છે, કારણ કે તેઓ માતા દેવકી અને માતા યશોદાના પુત્ર છે. તેઓ યદુ વંશના માર્ગદર્શક છે અને પોતાની શક્તિશાળી ભુજાઓ વડે તેઓ દરેક અશુભ વસ્તુનો તેમજ દરેક અધર્મી મનુષ્યનો વિનાશ કરે છે. પોતાની હાજરી માત્રથી તેઓ સ્થાવર અને જંગમ, તમામ જીવો માટે અશુભ એવી બધી જ વસ્તુઓનો નાશ કરે છે. તેમનો આનંદી મુખારવિંદ અને સ્મિત સદાય વૃંદાવનની ગોપીઓની કામનાઓને વધુ પ્રબળ કરે છે. તેઓ સર્વદા ગૌરવશાળી અને પ્રસન્ન રહે!"
-            }
-        }
-    },
-    {
-        "id": 109048,
-        "sloka": "10.90.048",
-        "verse_id": 109048,
-        "verseNumber": 48,
-        "languages": {
-            "english": {
-                "language_id": 1,
-                "lang": "english",
-                "description": "Lord Śrī Kṛṣṇa is He who is known as jana-nivāsa, the ultimate resort of all living entities, and who is also known as Devakīnandana or Yaśodā-nandana, the son of Devakī and Yaśodā. He is the guide of the Yadu dynasty, and with His mighty arms He kills everything inauspicious, as well as every man who is impious. By His presence He destroys all things inauspicious for all living entities, moving and inert. His blissful smiling face always increases the lusty desires of the gopīs of Vṛndāvana. May He be all glorious and happy!"
-            },
-            "hindi": {
-                "language_id": 2,
-                "lang": "hindi",
-                "description": "भगवान श्रीकृष्ण ही वे हैं जिन्हें 'जन-निवास' अर्थात् समस्त जीवों का अंतिम आश्रय कहा जाता है। उन्हें देवकीनंदन अथवा यशोदा-नंदन के रूप में भी जाना जाता है, क्योंकि वे माता देवकी और माता यशोदा के पुत्र हैं। वे यदु वंश के मार्गदर्शक हैं और अपनी शक्तिशाली भुजाओं से वे समस्त अशुभों तथा अधर्मी पुरुषों का विनाश करते हैं। अपनी उपस्थिति मात्र से वे चर और अचर, सभी जीवों के लिए अमंगलकारी वस्तुओं का नाश कर देते हैं। उनका आनंदमय मुस्कानयुक्त मुखारविंद सदा वृन्दावन की गोपियों की कामुक इच्छाओं को और अधिक प्रगाढ़ करता है। वे सर्वदा गौरवशाली और प्रसन्न रहें!"
-            },
-            "gujarati": {
-                "language_id": 3,
-                "lang": "gujarati",
-                "description": "ભગવાન શ્રીકૃષ્ણ જ તે છે જેમને 'જન-નિવાસ' એટલે કે તમામ જીવોનો અંતિમ આશ્રય કહેવામાં આવે છે. તેઓ દેવકીનંદન અથવા યશોદા-નંદન તરીકે પણ ઓળખાય છે, કારણ કે તેઓ માતા દેવકી અને માતા યશોદાના પુત્ર છે. તેઓ યદુ વંશના માર્ગદર્શક છે અને પોતાની શક્તિશાળી ભુજાઓ વડે તેઓ દરેક અશુભ વસ્તુનો તેમજ દરેક અધર્મી મનુષ્યનો વિનાશ કરે છે. પોતાની હાજરી માત્રથી તેઓ સ્થાવર અને જંગમ, તમામ જીવો માટે અશુભ એવી બધી જ વસ્તુઓનો નાશ કરે છે. તેમનો આનંદી મુખારવિંદ અને સ્મિત સદાય વૃંદાવનની ગોપીઓની કામનાઓને વધુ પ્રબળ કરે છે. તેઓ સર્વદા ગૌરવશાળી અને પ્રસન્ન રહે!"
+                "description": "તે દ્વારકાપુરીમાં અત્યંત પુણ્યશાળી રાજાઓના અનેક પુત્રોનો જન્મ થયો હતો, તે સર્વવિદિત છે. ભગવાન શ્રીકૃષ્ણ ત્યાં નિવાસ કરીને એવી જ રીતે વિહાર કરતા હતા, જેવી રીતે તેઓ નિત્ય યદુવંશના શ્રેષ્ઠ વીરોની વચ્ચે વિહાર કરતા હતા."
             }
         }
     },
     {
         "id": 109050,
-        "sloka": "10.90.050",
+        "sloka": "10.90.50",
         "verse_id": 109050,
         "verseNumber": 50,
         "languages": {
             "english": {
                 "language_id": 1,
                 "lang": "english",
-                "description": "By regularly hearing, chanting and meditating on the beautiful topics of Lord Mukunda with ever-increasing sincerity, a mortal being will attain the divine kingdom of the Lord, where the inviolable power of death holds no sway. For this purpose, many persons, including great kings, abandoned their mundane homes and took to the forest."
+                "description": "Any mortal who chants this account of the supremely fortunate Lord Krishna, whose actions are wonderful, attains the supreme destination."
             },
             "hindi": {
                 "language_id": 2,
                 "lang": "hindi",
-                "description": "भगवान मुकुंद की लीलाओं का निरंतर बढ़ती श्रद्धा के साथ श्रवण, कीर्तन और ध्यान करने से, कोई भी नश्वर प्राणी भगवान के उस दिव्य धाम को प्राप्त कर सकता है, जहाँ मृत्यु की अजेय शक्ति का कोई प्रभाव नहीं है। इसी उद्देश्य की प्राप्ति हेतु, महान राजाओं सहित अनेक व्यक्तियों ने अपने सांसारिक गृहस्थ जीवन का त्याग कर वन का आश्रय लिया था।"
+                "description": "जो भी मनुष्य भगवान श्रीकृष्ण के, जो परम सौभाग्यशाली हैं और जिनके कार्य अद्भुत हैं, इस चरित्र का गान करता है, वह परम पद को प्राप्त करता है।"
             },
             "gujarati": {
                 "language_id": 3,
                 "lang": "gujarati",
-                "description": "ભગવાન મુકુંદની લીલાઓનું નિરંતર વધતી જતી શ્રદ્ધા સાથે શ્રવણ, કીર્તન અને મનન કરવાથી, કોઈ પણ નશ્વર પ્રાણી ભગવાનના તે દિવ્ય ધામને પ્રાપ્ત કરી શકે છે, જ્યાં મૃત્યુની અજેય શક્તિનો કોઈ પ્રભાવ નથી. આ ઉદ્દેશ્યની પ્રાપ્તિ માટે, મહાન રાજાઓ સહિત અનેક વ્યક્તિઓએ પોતાના સાંસારિક ગૃહસ્થ જીવનનો ત્યાગ કરીને વનનો આશ્રય લીધો હતો."
-            }
-        }
-    },
-    {
-        "id": 109050,
-        "sloka": "10.90.050",
-        "verse_id": 109050,
-        "verseNumber": 50,
-        "languages": {
-            "english": {
-                "language_id": 1,
-                "lang": "english",
-                "description": "By regularly hearing, chanting and meditating on the beautiful topics of Lord Mukunda with ever-increasing sincerity, a mortal being will attain the divine kingdom of the Lord, where the inviolable power of death holds no sway. For this purpose, many persons, including great kings, abandoned their mundane homes and took to the forest."
-            },
-            "hindi": {
-                "language_id": 2,
-                "lang": "hindi",
-                "description": "भगवान मुकुंद की लीलाओं का निरंतर बढ़ती श्रद्धा के साथ श्रवण, कीर्तन और ध्यान करने से, कोई भी नश्वर प्राणी भगवान के उस दिव्य धाम को प्राप्त कर सकता है, जहाँ मृत्यु की अजेय शक्ति का कोई प्रभाव नहीं है। इसी उद्देश्य की प्राप्ति हेतु, महान राजाओं सहित अनेक व्यक्तियों ने अपने सांसारिक गृहस्थ जीवन का त्याग कर वन का आश्रय लिया था।"
-            },
-            "gujarati": {
-                "language_id": 3,
-                "lang": "gujarati",
-                "description": "ભગવાન મુકુંદની લીલાઓનું નિરંતર વધતી જતી શ્રદ્ધા સાથે શ્રવણ, કીર્તન અને મનન કરવાથી, કોઈ પણ નશ્વર પ્રાણી ભગવાનના તે દિવ્ય ધામને પ્રાપ્ત કરી શકે છે, જ્યાં મૃત્યુની અજેય શક્તિનો કોઈ પ્રભાવ નથી. આ ઉદ્દેશ્યની પ્રાપ્તિ માટે, મહાન રાજાઓ સહિત અનેક વ્યક્તિઓએ પોતાના સાંસારિક ગૃહસ્થ જીવનનો ત્યાગ કરીને વનનો આશ્રય લીધો હતો."
-            }
-        }
-    },
-    {
-        "id": 109050,
-        "sloka": "10.90.050",
-        "verse_id": 109050,
-        "verseNumber": 50,
-        "languages": {
-            "english": {
-                "language_id": 1,
-                "lang": "english",
-                "description": "By regularly hearing, chanting and meditating on the beautiful topics of Lord Mukunda with ever-increasing sincerity, a mortal being will attain the divine kingdom of the Lord, where the inviolable power of death holds no sway. For this purpose, many persons, including great kings, abandoned their mundane homes and took to the forest."
-            },
-            "hindi": {
-                "language_id": 2,
-                "lang": "hindi",
-                "description": "भगवान मुकुंद की लीलाओं का निरंतर बढ़ती श्रद्धा के साथ श्रवण, कीर्तन और ध्यान करने से, कोई भी नश्वर प्राणी भगवान के उस दिव्य धाम को प्राप्त कर सकता है, जहाँ मृत्यु की अजेय शक्ति का कोई प्रभाव नहीं है। इसी उद्देश्य की प्राप्ति हेतु, महान राजाओं सहित अनेक व्यक्तियों ने अपने सांसारिक गृहस्थ जीवन का त्याग कर वन का आश्रय लिया था।"
-            },
-            "gujarati": {
-                "language_id": 3,
-                "lang": "gujarati",
-                "description": "ભગવાન મુકુંદની લીલાઓનું નિરંતર વધતી જતી શ્રદ્ધા સાથે શ્રવણ, કીર્તન અને મનન કરવાથી, કોઈ પણ નશ્વર પ્રાણી ભગવાનના તે દિવ્ય ધામને પ્રાપ્ત કરી શકે છે, જ્યાં મૃત્યુની અજેય શક્તિનો કોઈ પ્રભાવ નથી. આ ઉદ્દેશ્યની પ્રાપ્તિ માટે, મહાન રાજાઓ સહિત અનેક વ્યક્તિઓએ પોતાના સાંસારિક ગૃહસ્થ જીવનનો ત્યાગ કરીને વનનો આશ્રય લીધો હતો."
-            }
-        }
-    },
-    {
-        "id": 109050,
-        "sloka": "10.90.050",
-        "verse_id": 109050,
-        "verseNumber": 50,
-        "languages": {
-            "english": {
-                "language_id": 1,
-                "lang": "english",
-                "description": "By regularly hearing, chanting and meditating on the beautiful topics of Lord Mukunda with ever-increasing sincerity, a mortal being will attain the divine kingdom of the Lord, where the inviolable power of death holds no sway. For this purpose, many persons, including great kings, abandoned their mundane homes and took to the forest."
-            },
-            "hindi": {
-                "language_id": 2,
-                "lang": "hindi",
-                "description": "भगवान मुकुंद की लीलाओं का निरंतर बढ़ती श्रद्धा के साथ श्रवण, कीर्तन और ध्यान करने से, कोई भी नश्वर प्राणी भगवान के उस दिव्य धाम को प्राप्त कर सकता है, जहाँ मृत्यु की अजेय शक्ति का कोई प्रभाव नहीं है। इसी उद्देश्य की प्राप्ति हेतु, महान राजाओं सहित अनेक व्यक्तियों ने अपने सांसारिक गृहस्थ जीवन का त्याग कर वन का आश्रय लिया था।"
-            },
-            "gujarati": {
-                "language_id": 3,
-                "lang": "gujarati",
-                "description": "ભગવાન મુકુંદની લીલાઓનું નિરંતર વધતી જતી શ્રદ્ધા સાથે શ્રવણ, કીર્તન અને મનન કરવાથી, કોઈ પણ નશ્વર પ્રાણી ભગવાનના તે દિવ્ય ધામને પ્રાપ્ત કરી શકે છે, જ્યાં મૃત્યુની અજેય શક્તિનો કોઈ પ્રભાવ નથી. આ ઉદ્દેશ્યની પ્રાપ્તિ માટે, મહાન રાજાઓ સહિત અનેક વ્યક્તિઓએ પોતાના સાંસારિક ગૃહસ્થ જીવનનો ત્યાગ કરીને વનનો આશ્રય લીધો હતો."
+                "description": "જે કોઈ મનુષ્ય ભગવાન શ્રીકૃષ્ણના, જે પરમ સૌભાગ્યશાળી છે અને જેના કાર્યો અદ્ભુત છે, તેવા આ ચરિત્રનું ગાન કરે છે, તે પરમ પદને પ્રાપ્ત કરે છે."
             }
         }
     }
