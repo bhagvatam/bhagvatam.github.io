@@ -68,16 +68,29 @@ def call_gemini(api_key, model, system_instruction, prompt):
         method='POST'
     )
     
-    try:
-        with urllib.request.urlopen(req, context=context) as response:
-            res_data = response.read().decode('utf-8')
-            return json.loads(res_data)
-    except urllib.error.HTTPError as e:
-        print(f"HTTP Error: {e.code} - {e.read().decode('utf-8')}")
-        raise
-    except Exception as e:
-        print(f"Error calling API: {e}")
-        raise
+    max_retries = 5
+    backoff_factor = 2
+    for attempt in range(max_retries):
+        try:
+            with urllib.request.urlopen(req, context=context, timeout=60) as response:
+                res_data = response.read().decode('utf-8')
+                return json.loads(res_data)
+        except urllib.error.HTTPError as e:
+            err_msg = e.read().decode('utf-8')
+            print(f"HTTP Error {e.code} on attempt {attempt + 1}: {err_msg}")
+            if e.code in [429, 500, 503, 504]:
+                sleep_time = (backoff_factor ** attempt) * 5
+                print(f"Retrying in {sleep_time} seconds...")
+                time.sleep(sleep_time)
+            else:
+                raise
+        except Exception as e:
+            print(f"Error calling API on attempt {attempt + 1}: {e}")
+            sleep_time = (backoff_factor ** attempt) * 5
+            print(f"Retrying in {sleep_time} seconds...")
+            time.sleep(sleep_time)
+            if attempt == max_retries - 1:
+                raise
 
 def sanitize_prompt_text(text):
     if not text:

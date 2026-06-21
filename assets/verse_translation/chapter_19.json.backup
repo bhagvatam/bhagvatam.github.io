@@ -1,0 +1,370 @@
+[
+    {
+        "id": 101901,
+        "sloka": "10.19.1",
+        "verse_id": 101901,
+        "verseNumber": 1,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Śukadeva Gosvāmī said: While the cowherd boys were completely absorbed in playing, their cows wandered far away. They hungered for more grass, and with no one to watch them they entered a dense forest."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "शुकदेव गोस्वामी ने कहा: जब चरवाहे लड़के पूरी तरह से खेलने में मग्न थे, उनकी गायें दूर तक भटक गईं। उन्हें अधिक घास की भूख थी, और उन्हें देखने वाला कोई नहीं होने के कारण वे घने जंगल में चले गये।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "શુકદેવ ગોસ્વામીએ કહ્યું: જ્યારે ગોવાળના છોકરાઓ સંપૂર્ણપણે રમવામાં મગ્ન હતા, ત્યારે તેમની ગાયો દૂર દૂર ભટકતી હતી. તેઓ વધુ ઘાસ માટે ભૂખ્યા હતા, અને તેમને જોનાર કોઈ ન હોવાથી તેઓ ગાઢ જંગલમાં પ્રવેશ્યા."
+            }
+        }
+    },
+    {
+        "id": 101902,
+        "sloka": "10.19.2",
+        "verse_id": 101902,
+        "verseNumber": 2,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Passing from one part of the great forest to another, the goats, cows and buffalo eventually entered an area overgrown with sharp canes. The heat of a nearby forest fire made them thirsty, and they cried out in distress."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "बड़े जंगल के एक हिस्से से दूसरे हिस्से तक गुजरते हुए, बकरियां, गाय और भैंस अंततः तेज बेंतों से भरे क्षेत्र में प्रवेश कर गईं। पास के जंगल की आग की गर्मी से उन्हें प्यास लगी और वे संकट में चिल्लाने लगे।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "મહાન જંગલના એક ભાગમાંથી બીજા ભાગમાં પસાર થતાં, બકરીઓ, ગાયો અને ભેંસ આખરે તીક્ષ્ણ શેરડીઓથી ઉગી ગયેલા વિસ્તારમાં પ્રવેશ્યા. નજીકના જંગલની આગના તાપથી તેઓ તરસ્યા હતા, અને તેઓ દુઃખમાં બૂમો પાડતા હતા."
+            }
+        }
+    },
+    {
+        "id": 101903,
+        "sloka": "10.19.3",
+        "verse_id": 101903,
+        "verseNumber": 3,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Not seeing the cows before them, Kṛṣṇa, Rāma and Their cowherd friends suddenly felt repentant for having neglected them. The boys searched all around, but could not discover where they had gone."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "अपने सामने गायों को न देखकर, कृष्ण, राम और उनके चरवाहे मित्रों को अचानक उनकी उपेक्षा करने के लिए पश्चाताप हुआ। लड़कों ने चारों ओर खोजा, परन्तु पता नहीं चल सका कि वे कहाँ गये थे।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "તેમની સામે ગાયો ન જોઈને, કૃષ્ણ, રામ અને તેમના ગોવાળિયા મિત્રોએ તેમની ઉપેક્ષા કરવા બદલ અચાનક પસ્તાવો કર્યો. છોકરાઓએ ચારેબાજુ શોધખોળ કરી, પરંતુ તેઓ ક્યાં ગયા તે શોધી શક્યા નહીં."
+            }
+        }
+    },
+    {
+        "id": 101904,
+        "sloka": "10.19.4",
+        "verse_id": 101904,
+        "verseNumber": 4,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Then the boys began tracing out the cows’ path by noting their hoofprints and the blades of grass the cows had broken with their hooves and teeth. All the cowherd boys were in great anxiety because they had lost their source of livelihood."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "फिर लड़कों ने गायों के खुरों के निशान और घास के पत्तों को देखकर उनका रास्ता पता लगाना शुरू कर दिया, जिन्हें गायों ने अपने खुरों और दांतों से तोड़ दिया था। सभी चरवाहे लड़के बहुत चिंता में थे क्योंकि उन्होंने अपनी आजीविका का स्रोत खो दिया था।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "પછી છોકરાઓએ ગાયોના ખૂંખાર અને દાંતથી તૂટી ગયેલા ઘાસના બ્લેડને નોંધીને ગાયોનો રસ્તો શોધવાનું શરૂ કર્યું. બધા ગોવાળિયા છોકરાઓ ખૂબ ચિંતામાં હતા કારણ કે તેઓએ તેમની આજીવિકાનું સાધન ગુમાવ્યું હતું."
+            }
+        }
+    },
+    {
+        "id": 101905,
+        "sloka": "10.19.5",
+        "verse_id": 101905,
+        "verseNumber": 5,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Within the Muñjā forest the cowherd boys finally found their valuable cows, who had lost their way and were crying. Then the boys, thirsty and tired, herded the cows onto the path back home."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "मुंजा जंगल के भीतर चरवाहे लड़कों को अंततः उनकी मूल्यवान गायें मिल गईं, जो रास्ता भटक गई थीं और रो रही थीं। फिर लड़के, प्यासे और थके हुए, गायों को घर वापस जाने के रास्ते पर ले गए।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "મુંજા જંગલની અંદર ગોવાળના છોકરાઓને આખરે તેમની કિંમતી ગાયો મળી, જેઓ તેમનો રસ્તો ગુમાવી બેઠી હતી અને રડતી હતી. પછી છોકરાઓ, તરસ્યા અને થાકેલા, ગાયોને ઘરે પાછા ફરવાના માર્ગ પર લઈ ગયા."
+            }
+        }
+    },
+    {
+        "id": 101906,
+        "sloka": "10.19.6",
+        "verse_id": 101906,
+        "verseNumber": 6,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "The Supreme Personality of Godhead called out to the animals in a voice that resounded like a rumbling cloud. Hearing the sound of their own names, the cows were overjoyed and called out to the Lord in reply."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "भगवान के परम व्यक्तित्व ने जानवरों को ऐसी आवाज़ में बुलाया जो गड़गड़ाते बादल की तरह गूँजती थी। अपने-अपने नाम की ध्वनि सुनकर गायें बहुत प्रसन्न हुईं और उत्तर में भगवान को पुकारने लगीं।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "પરમાત્માના પરમ પરમેશ્વરે વાદળોની જેમ ગૂંજતા અવાજમાં પ્રાણીઓને બોલાવ્યા. પોતાના નામનો અવાજ સાંભળીને ગાયો પ્રસન્ન થઈ ગઈ અને જવાબમાં ભગવાનને પોકાર્યા."
+            }
+        }
+    },
+    {
+        "id": 101907,
+        "sloka": "10.19.7",
+        "verse_id": 101907,
+        "verseNumber": 7,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Suddenly a great forest fire appeared on all sides, threatening to destroy all the forest creatures. Like a chariot driver, the wind swept the fire onward, and terrible sparks shot in all directions. Indeed, the great fire extended its tongues of flame toward all moving and nonmoving creatures."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "अचानक जंगल में चारों तरफ भीषण आग प्रकट हो गई, जिससे सभी वन प्राणियों के नष्ट होने का खतरा पैदा हो गया। एक रथ चालक की तरह, हवा ने आग को आगे बढ़ाया, और सभी दिशाओं में भयानक चिंगारियाँ निकलने लगीं। वास्तव में, महान अग्नि ने सभी गतिशील और अगतिशील प्राणियों की ओर अपनी ज्वाला की जीभ फैला दी।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "અચાનક એક મહાન જંગલ આગ ચારે બાજુઓ પર દેખાઈ, જે જંગલના તમામ જીવોને નાશ કરવાની ધમકી આપી. રથના ચાલકની જેમ, પવન આગને આગળ વહાવી ગયો, અને ભયંકર તણખા ચારેય દિશામાં ફંગોળાયા. ખરેખર, મહાન અગ્નિએ તેની જ્વાળાની જીભને તમામ હલનચલન અને બિન-ચલિત જીવો તરફ લંબાવી હતી."
+            }
+        }
+    },
+    {
+        "id": 101908,
+        "sloka": "10.19.8",
+        "verse_id": 101908,
+        "verseNumber": 8,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "As the cows and cowherd boys stared at the forest fire attacking them on all sides, they became fearful. The boys then approached Kṛṣṇa and Balarāma for shelter, just as those who are disturbed by fear of death approach the Supreme Personality of Godhead. The boys addressed Them as follows."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "जब गायें और ग्वाले जंगल की आग को चारों ओर से उन पर हमला करते हुए देख रहे थे, तो वे भयभीत हो गए। तब लड़के आश्रय के लिए कृष्ण और बलराम के पास गए, जैसे कि जो लोग मृत्यु के भय से परेशान होते हैं वे भगवान के पास जाते हैं। लड़कों ने उन्हें इस प्रकार संबोधित किया।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "ગાયો અને ગોવાળના છોકરાઓ ચારે બાજુથી તેમના પર હુમલો કરતા જંગલની આગ તરફ જોતા હતા, તેઓ ભયભીત થઈ ગયા. પછી છોકરાઓ આશ્રય માટે કૃષ્ણ અને બલરામ પાસે ગયા, જેમ કે જેઓ મૃત્યુના ભયથી પરેશાન છે તેઓ પરમપુરુષ ભગવાનનો સંપર્ક કરે છે. છોકરાઓએ તેમને નીચે પ્રમાણે સંબોધ્યા."
+            }
+        }
+    },
+    {
+        "id": 101909,
+        "sloka": "10.19.9",
+        "verse_id": 101909,
+        "verseNumber": 9,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "[The cowherd boys said:] O Kṛṣṇa! Kṛṣṇa! Most powerful one! O Rāma! You whose prowess never fails! Please save Your devotees, who are about to be burned by this forest fire and have come to take shelter of You!"
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "[ग्वालों ने कहा:] हे कृष्ण! कृष्ण! सबसे शक्तिशाली! हे राम! आप जिसका पराक्रम कभी विफल नहीं होता! कृपया अपने भक्तों की रक्षा करें, जो इस जंगल की आग से जलने वाले हैं और आपकी शरण में आए हैं!"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "[ગોવાળો છોકરાઓએ કહ્યું:] હે કૃષ્ણ! કૃષ્ણ! સૌથી શક્તિશાળી! હે રામ! તમે જેની પરાક્રમ ક્યારેય નિષ્ફળ જતી નથી! કૃપા કરીને તમારા ભક્તોને બચાવો, જેઓ આ જંગલની આગમાં બળી જવાના છે અને તમારો આશ્રય લેવા આવ્યા છે!"
+            }
+        }
+    },
+    {
+        "id": 101910,
+        "sloka": "10.19.10",
+        "verse_id": 101910,
+        "verseNumber": 10,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Kṛṣṇa! Certainly Your own friends shouldn’t be destroyed. O knower of the nature of all things, we have accepted You as our Lord, and we are souls surrendered unto You!"
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "कृष्ण! निःसंदेह आपके अपने मित्रों को नष्ट नहीं करना चाहिए। हे सभी चीजों की प्रकृति के ज्ञाता, हमने आपको अपने भगवान के रूप में स्वीकार किया है, और हम आपके प्रति समर्पित आत्माएं हैं!"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "કૃષ્ણ! ચોક્કસપણે તમારા પોતાના મિત્રોનો નાશ ન થવો જોઈએ. હે સર્વસ્વરૂપના જાણકાર, અમે તમને અમારા પ્રભુ તરીકે સ્વીકાર્યા છે, અને અમે તમને શરણે થયેલા આત્માઓ છીએ!"
+            }
+        }
+    },
+    {
+        "id": 101911,
+        "sloka": "10.19.11",
+        "verse_id": 101911,
+        "verseNumber": 11,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Śukadeva Gosvāmī said: Hearing these pitiful words from His friends, the Supreme Lord Kṛṣṇa told them, “Just close your eyes and do not be afraid.”"
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "शुकदेव गोस्वामी ने कहा: अपने मित्रों के इन दयनीय शब्दों को सुनकर, परम भगवान कृष्ण ने उनसे कहा, \"बस अपनी आँखें बंद करो और डरो मत।\""
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "શુકદેવ ગોસ્વામીએ કહ્યું: તેમના મિત્રોના આ કરુણ શબ્દો સાંભળીને, પરમ ભગવાન કૃષ્ણે તેમને કહ્યું, \"તમારી આંખો બંધ કરો અને ગભરાશો નહીં.\""
+            }
+        }
+    },
+    {
+        "id": 101912,
+        "sloka": "10.19.12",
+        "verse_id": 101912,
+        "verseNumber": 12,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "“All right,” the boys replied, and immediately closed their eyes. Then the Supreme Lord, the master of all mystic power, opened His mouth and swallowed the terrible fire, saving His friends from danger."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "\"ठीक है,\" लड़कों ने उत्तर दिया और तुरंत अपनी आँखें बंद कर लीं। तब समस्त रहस्यमय शक्ति के स्वामी, परम भगवान ने अपना मुंह खोला और भयानक आग को निगल लिया, और अपने दोस्तों को खतरे से बचाया।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "\"બરાબર,\" છોકરાઓએ જવાબ આપ્યો, અને તરત જ તેમની આંખો બંધ કરી દીધી. પછી સર્વોપરી ભગવાન, સર્વ રહસ્યમય શક્તિના સ્વામી, તેમનું મોં ખોલ્યું અને ભયંકર અગ્નિને ગળી ગયા, તેમના મિત્રોને જોખમમાંથી બચાવ્યા."
+            }
+        }
+    },
+    {
+        "id": 101913,
+        "sloka": "10.19.13",
+        "verse_id": 101913,
+        "verseNumber": 13,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "The cowherd boys opened their eyes and were amazed to find not only that they and the cows had been saved from the terrible fire but that they had all been brought back to the Bhāṇḍīra tree."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "चरवाहे लड़कों ने अपनी आँखें खोलीं और यह देखकर आश्चर्यचकित रह गए कि न केवल उन्हें और गायों को भयानक आग से बचा लिया गया था, बल्कि उन सभी को भांडिर वृक्ष पर वापस लाया गया था।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "ગોવાળના છોકરાઓએ તેમની આંખો ખોલી અને તે જોઈને આશ્ચર્યચકિત થઈ ગયા કે તેઓ અને ગાયો ભયંકર આગમાંથી બચી ગયા હતા પરંતુ તેઓ બધાને ભાંડીના ઝાડ પર પાછા લાવવામાં આવ્યા હતા."
+            }
+        }
+    },
+    {
+        "id": 101914,
+        "sloka": "10.19.14",
+        "verse_id": 101914,
+        "verseNumber": 14,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "When the cowherd boys saw that they had been saved from the forest fire by the Lord’s mystic power, which is manifested by His internal potency, they began to think that Kṛṣṇa must be a demigod."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "जब चरवाहे लड़कों ने देखा कि उन्हें भगवान की रहस्यमय शक्ति द्वारा जंगल की आग से बचाया गया है, जो उनकी आंतरिक शक्ति से प्रकट होती है, तो वे सोचने लगे कि कृष्ण अवश्य ही कोई देवता होंगे।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "જ્યારે ગોવાળના છોકરાઓએ જોયું કે તેઓ ભગવાનની રહસ્યમય શક્તિ દ્વારા જંગલની આગમાંથી બચી ગયા છે, જે તેમની આંતરિક શક્તિ દ્વારા પ્રગટ થાય છે, ત્યારે તેઓ વિચારવા લાગ્યા કે કૃષ્ણ દેવતા હોવા જોઈએ."
+            }
+        }
+    },
+    {
+        "id": 101915,
+        "sloka": "10.19.15",
+        "verse_id": 101915,
+        "verseNumber": 15,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "It was now late in the afternoon, and Lord Kṛṣṇa, accompanied by Balarāma, turned the cows back toward home. Playing His flute in a special way, Kṛṣṇa returned to the cowherd village in the company of His cowherd friends, who chanted His glories."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "अब दोपहर हो चुकी थी, और भगवान कृष्ण, बलराम के साथ, गायों को वापस घर की ओर ले गए। एक विशेष तरीके से अपनी बांसुरी बजाते हुए, कृष्ण अपने चरवाहे दोस्तों की संगति में चरवाहे गाँव में लौट आए, जिन्होंने उनकी महिमा का जाप किया।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "હવે બપોર થઈ ચૂકી હતી, અને ભગવાન કૃષ્ણ, બલરામની સાથે, ગાયોને ઘર તરફ પાછી ફેરવી. ખાસ રીતે તેમની વાંસળી વગાડતા, કૃષ્ણ તેમના ગોવાળ મિત્રોની સંગતમાં ગોવાળ ગામમાં પાછા ફર્યા, જેમણે તેમના મહિમાનો ઉચ્ચાર કર્યો."
+            }
+        }
+    },
+    {
+        "id": 101916,
+        "sloka": "10.19.16",
+        "verse_id": 101916,
+        "verseNumber": 16,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "The young gopīs took the greatest pleasure in seeing Govinda come home, since for them even a moment without His association seemed like a hundred ages."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "युवा गोपियों को गोविंदा को घर आते देखकर सबसे अधिक खुशी हुई, क्योंकि उनके लिए उनके साथ के बिना एक पल भी सैकड़ों युगों के समान लगता था।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "યુવાન ગોપીઓએ ગોવિંદાને ઘરે આવતા જોઈને સૌથી વધુ આનંદ લીધો, કારણ કે તેમના માટે તેમના સંગ વિનાની એક ક્ષણ પણ સો યુગ જેવી લાગતી હતી."
+            }
+        }
+    }
+]

@@ -1,0 +1,761 @@
+[
+    {
+        "id": 102501,
+        "sloka": "10.25.1",
+        "verse_id": 102501,
+        "verseNumber": 1,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Śukadeva Gosvāmī said: My dear King Parīkṣit, when Indra understood that his sacrifice had been put aside, he became furious with Nanda Mahārāja and the other cowherd men, who were accepting Kṛṣṇa as their Lord."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "शुकदेव गोस्वामी ने कहा: मेरे प्रिय राजा परीक्षित, जब इंद्र को पता चला कि उनका बलिदान रद्द कर दिया गया है, तो वह नंद महाराज और अन्य ग्वालों पर क्रोधित हो गए, जो कृष्ण को अपने भगवान के रूप में स्वीकार कर रहे थे।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "શુકદેવ ગોસ્વામીએ કહ્યું: મારા વ્હાલા રાજા પરીક્ષિત, જ્યારે ઈન્દ્રને સમજાયું કે તેમનું બલિદાન એક બાજુએ મૂકવામાં આવ્યું છે, ત્યારે તેઓ નંદ મહારાજ અને અન્ય ગોવાળિયાઓ પર ગુસ્સે થયા, જેઓ કૃષ્ણને તેમના ભગવાન તરીકે સ્વીકારી રહ્યા હતા."
+            }
+        }
+    },
+    {
+        "id": 102502,
+        "sloka": "10.25.2",
+        "verse_id": 102502,
+        "verseNumber": 2,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Angry Indra sent forth the clouds of universal destruction, known as Sāṁvartaka. Imagining himself the supreme controller, he spoke as follows."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "क्रोधित इंद्र ने सार्वभौमिक विनाश के बादल भेजे, जिन्हें संवर्तक के नाम से जाना जाता है। उन्होंने स्वयं को सर्वोच्च नियंता मानकर इस प्रकार कहा."
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "ક્રોધિત ઇન્દ્રએ સાર્વત્રિક વિનાશના વાદળો મોકલ્યા, જેને સાંવર્તક તરીકે ઓળખવામાં આવે છે. પોતાને સર્વોચ્ચ નિયંત્રકની કલ્પના કરીને, તેણે નીચે પ્રમાણે વાત કરી."
+            }
+        }
+    },
+    {
+        "id": 102503,
+        "sloka": "10.25.3",
+        "verse_id": 102503,
+        "verseNumber": 3,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "[Indra said:] Just see how these cowherd men living in the forest have become so greatly intoxicated by their prosperity! They have surrendered to an ordinary human being, Kṛṣṇa, and thus they have offended the gods."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "[इंद्र ने कहा:] जरा देखो तो जंगल में रहने वाले ये चरवाहे कैसे अपनी समृद्धि के नशे में इतने मदमस्त हो गए हैं! उन्होंने एक साधारण मनुष्य, कृष्ण के प्रति समर्पण कर दिया है, और इस प्रकार उन्होंने देवताओं को नाराज कर दिया है।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "[ઇન્દ્રએ કહ્યું:] જરા જુઓ કે જંગલમાં રહેતા આ ગોવાળિયાઓ તેમની સમૃદ્ધિથી આટલા નશામાં કેવી રીતે મદહોશ થઈ ગયા છે! તેઓ એક સામાન્ય મનુષ્ય, કૃષ્ણને શરણે ગયા છે, અને આ રીતે તેઓએ દેવતાઓને નારાજ કર્યા છે."
+            }
+        }
+    },
+    {
+        "id": 102504,
+        "sloka": "10.25.4",
+        "verse_id": 102504,
+        "verseNumber": 4,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Their taking shelter of Kṛṣṇa is just like the foolish attempt of men who abandon transcendental knowledge of the self and instead try to cross over the great ocean of material existence in the false boats of fruitive, ritual sacrifices."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "उनका कृष्ण की शरण लेना उन मनुष्यों के मूर्खतापूर्ण प्रयास के समान है जो स्वयं के पारलौकिक ज्ञान को त्याग देते हैं और इसके बजाय सकाम, अनुष्ठान बलिदानों की झूठी नावों में भौतिक अस्तित्व के महान महासागर को पार करने का प्रयास करते हैं।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "તેમનો કૃષ્ણનો આશ્રય લેવો એ એવા માણસોના મૂર્ખ પ્રયાસની જેમ છે જેઓ સ્વયંના દિવ્ય જ્ઞાનનો ત્યાગ કરે છે અને તેના બદલે ફળદાયી, ધાર્મિક બલિદાનની ખોટી હોડીઓમાં ભૌતિક અસ્તિત્વના મહાન સમુદ્રને પાર કરવાનો પ્રયાસ કરે છે."
+            }
+        }
+    },
+    {
+        "id": 102505,
+        "sloka": "10.25.5",
+        "verse_id": 102505,
+        "verseNumber": 5,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "These cowherd men have acted inimically toward me by taking shelter of this ordinary human being, Kṛṣṇa, who thinks Himself very wise but who is simply a foolish, arrogant, overtalkative child."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "इन चरवाहों ने इस साधारण मनुष्य, कृष्ण, जो स्वयं को बहुत बुद्धिमान समझता है, लेकिन जो केवल एक मूर्ख, अहंकारी, अत्यधिक बात करने वाला बच्चा है, की शरण लेकर मेरे प्रति शत्रुतापूर्ण कार्य किया है।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "આ ગોવાળો માણસોએ આ સામાન્ય માનવી, કૃષ્ણનો આશ્રય લઈને મારી સાથે દુશ્મનાવટભર્યું વર્તન કર્યું છે, જે પોતાને ખૂબ જ જ્ઞાની માને છે પણ જે ફક્ત એક મૂર્ખ, અહંકારી, અતિશય બાળક છે."
+            }
+        }
+    },
+    {
+        "id": 102506,
+        "sloka": "10.25.6",
+        "verse_id": 102506,
+        "verseNumber": 6,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "[To the clouds of destruction King Indra said:] The prosperity of these people has made them mad with pride, and their arrogance is backed up by Kṛṣṇa. Now go and remove their pride and bring their animals to destruction."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "[विनाश के बादलों से राजा इंद्र ने कहा:] इन लोगों की समृद्धि ने उन्हें गर्व से पागल बना दिया है, और उनके अहंकार को कृष्ण का समर्थन प्राप्त है। अब जाओ और उनका अभिमान दूर करो और उनके पशुओं को नष्ट कर दो।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "[વિનાશના વાદળો તરફ રાજા ઇન્દ્રએ કહ્યું:] આ લોકોની સમૃદ્ધિએ તેમને ગર્વથી ગાંડા બનાવી દીધા છે, અને તેમના ઘમંડને કૃષ્ણએ સમર્થન આપ્યું છે. હવે જાઓ અને તેમનું અભિમાન દૂર કરો અને તેમના પ્રાણીઓનો નાશ કરો."
+            }
+        }
+    },
+    {
+        "id": 102507,
+        "sloka": "10.25.7",
+        "verse_id": 102507,
+        "verseNumber": 7,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "I will follow you to Vraja, riding on my elephant Airāvata and taking with me the swift and powerful wind-gods to decimate the cowherd village of Nanda Mahārāja."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "मैं अपने हाथी ऐरावत पर सवार होकर और अपने साथ तेज और शक्तिशाली पवन-देवताओं को लेकर नंद महाराज के चरवाहे गांव को नष्ट करने के लिए व्रज तक आपका पीछा करूंगा।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "હું મારા હાથી ઐરાવત પર સવાર થઈને અને નંદ મહારાજના ગોવાળિયા ગામનો નાશ કરવા માટે ઝડપી અને શક્તિશાળી પવન-દેવતાઓને લઈને તમારી પાછળ વ્રજ સુધી જઈશ."
+            }
+        }
+    },
+    {
+        "id": 102508,
+        "sloka": "10.25.8",
+        "verse_id": 102508,
+        "verseNumber": 8,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Śukadeva Gosvāmī said: On Indra’s order the clouds of universal destruction, released untimely from their bonds, went to the cowherd pastures of Nanda Mahārāja. There they began to torment the inhabitants by powerfully pouring down torrents of rain upon them."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "शुकदेव गोस्वामी ने कहा: इंद्र के आदेश पर सार्वभौमिक विनाश के बादल, अपने बंधनों से असामयिक रूप से मुक्त होकर, नंद महाराज के चरवाहे चरागाहों में चले गए। वहाँ उन्होंने निवासियों पर ज़ोर-ज़ोर से मूसलाधार वर्षा करके उन्हें सताना शुरू कर दिया।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "શુકદેવ ગોસ્વામીએ કહ્યું: ઈન્દ્રની આજ્ઞા પર સાર્વત્રિક વિનાશના વાદળો, તેમના બંધનોમાંથી અકાળે મુક્ત થઈને, નંદ મહારાજના ગોચર ગોચરમાં ગયા. ત્યાં તેઓએ રહેવાસીઓને તેમના પર ભારે વરસાદ વરસાવીને ત્રાસ આપવાનું શરૂ કર્યું."
+            }
+        }
+    },
+    {
+        "id": 102509,
+        "sloka": "10.25.9",
+        "verse_id": 102509,
+        "verseNumber": 9,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Propelled by the fearsome wind-gods, the clouds blazed with lightning bolts and roared with thunder as they hurled down hailstones."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "भयानक वायु-देवताओं से प्रेरित होकर, बादल बिजली की चमक के साथ चमकने लगे और गरज के साथ गरजने लगे और ओले गिरने लगे।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "ભયાનક પવન-દેવતાઓ દ્વારા પ્રેરિત, વાદળો વીજળીના બોલ્ટ્સ સાથે ઝળહળતા હતા અને ગર્જના સાથે ગર્જના કરતા હતા કારણ કે તેઓ કરા પડ્યા હતા."
+            }
+        }
+    },
+    {
+        "id": 102510,
+        "sloka": "10.25.10",
+        "verse_id": 102510,
+        "verseNumber": 10,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "As the clouds released torrents of rain as thick as massive columns, the earth was submerged in the flood, and high ground could no longer be distinguished from low."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "जैसे ही बादलों ने विशाल खंभों जितनी मोटी बारिश की मूसलाधार बारिश छोड़ी, पृथ्वी बाढ़ में डूब गई, और ऊंची जमीन को निचली जमीन से अलग नहीं किया जा सका।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "જેમ જેમ વાદળો મોટા સ્તંભો જેટલા જાડા વરસાદના પ્રવાહો છોડે છે, તેમ તેમ પૃથ્વી પૂરમાં ડૂબી ગઈ હતી, અને ઊંચી જમીન હવે નીચાથી અલગ કરી શકાતી નથી."
+            }
+        }
+    },
+    {
+        "id": 102511,
+        "sloka": "10.25.11",
+        "verse_id": 102511,
+        "verseNumber": 11,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "The cows and other animals, shivering from the excessive rain and wind, and the cowherd men and ladies, pained by the cold, all approached Lord Govinda for shelter."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "अत्यधिक बारिश और हवा से कांपती हुई गायें और अन्य जानवर, और ठंड से पीड़ित चरवाहे पुरुष और महिलाएं, सभी आश्रय के लिए भगवान गोविंद के पास पहुंचे।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "અતિશય વરસાદ અને પવનથી ધ્રૂજતી ગાયો અને અન્ય પ્રાણીઓ, અને ગોવાળિયાઓ અને સ્ત્રીઓ, ઠંડીથી પીડાતા, બધા ભગવાન ગોવિંદા પાસે આશ્રય માટે પહોંચ્યા."
+            }
+        }
+    },
+    {
+        "id": 102512,
+        "sloka": "10.25.12",
+        "verse_id": 102512,
+        "verseNumber": 12,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Trembling from the distress brought about by the severe rainfall, and trying to cover their heads and calves with their own bodies, the cows approached the lotus feet of the Supreme Personality of Godhead."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "भीषण वर्षा से उत्पन्न संकट से कांपते हुए, और अपने सिर और बछड़ों को अपने शरीर से ढकने की कोशिश करते हुए, गायें भगवान के परम व्यक्तित्व के कमल चरणों के पास पहुंचीं।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "અતિવૃષ્ટિના કારણે સર્જાયેલી તકલીફોથી ધ્રૂજતી, અને પોતાનાં માથાં અને વાછરડાંને પોતાના શરીરથી ઢાંકવાનો પ્રયાસ કરતી ગાયો પરમપુરુષના કમળનાં ચરણોમાં પહોંચી."
+            }
+        }
+    },
+    {
+        "id": 102513,
+        "sloka": "10.25.13",
+        "verse_id": 102513,
+        "verseNumber": 13,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "[The cowherd men and women addressed the Lord:] Kṛṣṇa, Kṛṣṇa, O most fortunate one, please deliver the cows from the wrath of Indra! O Lord, You are so affectionate to Your devotees. Please save us also."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "[ग्वालों और महिलाओं ने भगवान को संबोधित किया:] कृष्ण, कृष्ण, हे परम भाग्यशाली, कृपया गायों को इंद्र के प्रकोप से बचाएं! हे भगवान, आप अपने भक्तों के प्रति बहुत स्नेही हैं। कृपया हमें भी बचा लीजिए."
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "[ગોવાળ પુરુષો અને સ્ત્રીઓએ ભગવાનને સંબોધ્યા:] કૃષ્ણ, કૃષ્ણ, હે સૌથી ભાગ્યશાળી, કૃપા કરીને ઇન્દ્રના ક્રોધમાંથી ગાયોને બચાવો! હે ભગવાન, તમે તમારા ભક્તો પર ખૂબ જ પ્રેમાળ છો. કૃપા કરીને અમને પણ બચાવો."
+            }
+        }
+    },
+    {
+        "id": 102514,
+        "sloka": "10.25.14",
+        "verse_id": 102514,
+        "verseNumber": 14,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Seeing the inhabitants of His Gokula rendered practically unconscious by the onslaught of hail and blasting wind, the Supreme Lord Hari understood that this was the work of angry Indra."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "अपने गोकुल के निवासियों को ओलों और प्रचंड वायु के प्रहार से लगभग मूर्च्छित देखकर भगवान श्रीहरि समझ गये कि यह क्रोधित इन्द्र का कार्य है।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "તેમના ગોકુળના રહેવાસીઓને કરા અને ધડાકાભેર પવનના આક્રમણથી વ્યવહારીક રીતે બેભાન થઈ ગયેલા જોઈને પરમ ભગવાન હરિ સમજી ગયા કે આ ક્રોધિત ઈન્દ્રનું કામ છે."
+            }
+        }
+    },
+    {
+        "id": 102515,
+        "sloka": "10.25.15",
+        "verse_id": 102515,
+        "verseNumber": 15,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "[Śrī Kṛṣṇa said to Himself:] Because We have stopped his sacrifice, Indra has caused this unusually fierce, unseasonable rain, together with terrible winds and hail."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "[श्रीकृष्ण ने स्वयं से कहा:] क्योंकि हमने उनके यज्ञ को रोक दिया है, इंद्र ने भयानक हवाओं और ओलों के साथ इस असामान्य रूप से भयंकर, बेमौसम बारिश का कारण बना दिया है।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "[શ્રી કૃષ્ણએ પોતાની જાતને કહ્યું:] કારણ કે અમે તેમનું બલિદાન બંધ કરી દીધું છે, ઇન્દ્રએ આ અસામાન્ય રીતે ભયંકર, અકાળ વરસાદ, ભયંકર પવન અને કરા સાથે કર્યા છે."
+            }
+        }
+    },
+    {
+        "id": 102516,
+        "sloka": "10.25.16",
+        "verse_id": 102516,
+        "verseNumber": 16,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "By My mystic power I will completely counteract this disturbance caused by Indra. Demigods like Indra are proud of their opulence, and out of foolishness they falsely consider themselves the Lord of the universe. I will now destroy such ignorance."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "मैं अपनी योगशक्ति से इंद्र द्वारा उत्पन्न इस उपद्रव का पूर्णतः प्रतिकार करूंगा। इंद्र जैसे देवताओं को अपने ऐश्वर्य पर गर्व है, और मूर्खता के कारण वे मिथ्या रूप से स्वयं को ब्रह्मांड का भगवान मानते हैं। अब मैं ऐसे अज्ञान का नाश करूँगा।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "મારી રહસ્યમય શક્તિથી હું ઈન્દ્ર દ્વારા થતા આ વિક્ષેપનો સંપૂર્ણ રીતે સામનો કરીશ. ઇન્દ્ર જેવા દેવતાઓને તેમની ઐશ્વર્ય પર ગર્વ છે, અને મૂર્ખતાથી તેઓ પોતાને બ્રહ્માંડના ભગવાન માને છે. હું હવે આવા અજ્ઞાનનો નાશ કરીશ."
+            }
+        }
+    },
+    {
+        "id": 102517,
+        "sloka": "10.25.17",
+        "verse_id": 102517,
+        "verseNumber": 17,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Since the demigods are endowed with the mode of goodness, the false pride of considering oneself the Lord should certainly not affect them. When I break the false prestige of those bereft of goodness, My purpose is to bring them relief."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "चूँकि देवता सतोगुण से संपन्न हैं, इसलिए स्वयं को भगवान मानने का झूठा अभिमान निश्चित रूप से उन पर प्रभाव नहीं डालना चाहिए। जब मैं अच्छाई से वंचित लोगों की झूठी प्रतिष्ठा को तोड़ता हूं, तो मेरा उद्देश्य उन्हें राहत पहुंचाना है।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "દેવતાઓ ભલાઈની રીતથી સંપન્ન હોવાથી, પોતાને ભગવાન માનવાનો ખોટો અભિમાન તેમને ચોક્કસપણે અસર કરતું નથી. જ્યારે હું ભલાઈથી વંચિત લોકોની ખોટી પ્રતિષ્ઠા તોડીશ, ત્યારે મારો હેતુ તેમને રાહત આપવાનો છે."
+            }
+        }
+    },
+    {
+        "id": 102518,
+        "sloka": "10.25.18",
+        "verse_id": 102518,
+        "verseNumber": 18,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "I must therefore protect the cowherd community by My transcendental potency, for I am their shelter, I am their master, and indeed they are My own family. After all, I have taken a vow to protect My devotees."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "इसलिए मुझे अपनी दिव्य शक्ति से ग्वाला समुदाय की रक्षा करनी चाहिए, क्योंकि मैं उनका आश्रय हूं, मैं उनका स्वामी हूं, और वास्तव में वे मेरा अपना परिवार हैं। आख़िर मैंने अपने भक्तों की रक्षा का व्रत ले रखा है।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "તેથી મારે મારી દિવ્ય શક્તિ દ્વારા ગોવાળો સમુદાયનું રક્ષણ કરવું જોઈએ, કારણ કે હું તેમનો આશ્રય છું, હું તેમનો માલિક છું અને ખરેખર તેઓ મારો પોતાનો પરિવાર છે. છેવટે, મેં મારા ભક્તોની રક્ષા કરવાની પ્રતિજ્ઞા લીધી છે."
+            }
+        }
+    },
+    {
+        "id": 102519,
+        "sloka": "10.25.19",
+        "verse_id": 102519,
+        "verseNumber": 19,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Having said this, Lord Kṛṣṇa, who is Viṣṇu Himself, picked up Govardhana Hill with one hand and held it aloft just as easily as a child holds up a mushroom."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "यह कहने के बाद, भगवान कृष्ण, जो स्वयं विष्णु हैं, ने एक हाथ से गोवर्धन पर्वत को उठाया और उसे उतनी ही आसानी से ऊपर उठाया, जैसे एक बच्चा मशरूम को पकड़ता है।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "આ કહીને, ભગવાન કૃષ્ણ, જેઓ પોતે વિષ્ણુ છે, એક હાથથી ગોવર્ધન પર્વત ઉપાડ્યો અને તેને ઊંચો પકડી રાખ્યો, જેમ કે બાળક મશરૂમ પકડે છે."
+            }
+        }
+    },
+    {
+        "id": 102520,
+        "sloka": "10.25.20",
+        "verse_id": 102520,
+        "verseNumber": 20,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "The Lord then addressed the cowherd community: O Mother, O Father, O residents of Vraja, if you wish you may now come under this hill with your cows."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "तब भगवान ने चरवाहे समुदाय को संबोधित किया: हे माता, हे पिता, हे व्रजवासियों, यदि आप चाहें तो अब आप अपनी गायों के साथ इस पहाड़ी के नीचे आ सकते हैं।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "પછી ભગવાને ગોવાળ સમુદાયને સંબોધન કર્યું: હે માતા, હે પિતા, હે વ્રજના રહેવાસીઓ, જો તમે ઈચ્છો તો હવે તમે તમારી ગાયો સાથે આ ટેકરીની નીચે આવી શકો છો."
+            }
+        }
+    },
+    {
+        "id": 102521,
+        "sloka": "10.25.21",
+        "verse_id": 102521,
+        "verseNumber": 21,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "You should have no fear that this mountain will fall from My hand. And don’t be afraid of the wind and rain, for your deliverance from these afflictions has already been arranged."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "तुम्हें इस बात का भय नहीं होना चाहिए कि यह पर्वत मेरे हाथ से गिर जायेगा। और तू आँधी और वर्षा से न डरना, क्योंकि इन कष्टों से तेरे छुटकारे का प्रबंध हो चुका है।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "આ પહાડ મારા હાથમાંથી પડી જશે એવો ડર તમારે ન રાખવો જોઈએ. અને પવન અને વરસાદથી ડરશો નહીં, કારણ કે આ મુશ્કેલીઓમાંથી તમારી મુક્તિ પહેલેથી જ ગોઠવવામાં આવી છે."
+            }
+        }
+    },
+    {
+        "id": 102522,
+        "sloka": "10.25.22",
+        "verse_id": 102522,
+        "verseNumber": 22,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Their minds thus pacified by Lord Kṛṣṇa, they all entered beneath the hill, where they found ample room for themselves and all their cows, wagons, servants and priests, and for all other members of the community as well."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "इस प्रकार भगवान कृष्ण द्वारा उनके मन को शांत किया गया, वे सभी पहाड़ी के नीचे चले गए, जहां उन्हें अपने लिए और अपनी सभी गायों, गाड़ियों, नौकरों और पुजारियों और समुदाय के अन्य सभी सदस्यों के लिए पर्याप्त जगह मिली।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "આ રીતે ભગવાન કૃષ્ણ દ્વારા તેમનું મન શાંત થયું, તેઓ બધા ટેકરીની નીચે પ્રવેશ્યા, જ્યાં તેમને પોતાને અને તેમની બધી ગાયો, ગાડાં, નોકરો અને પુરોહિતો અને સમુદાયના અન્ય સભ્યો માટે પણ પૂરતી જગ્યા મળી."
+            }
+        }
+    },
+    {
+        "id": 102523,
+        "sloka": "10.25.23",
+        "verse_id": 102523,
+        "verseNumber": 23,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Lord Kṛṣṇa, forgetting hunger and thirst and putting aside all considerations of personal pleasure, stood there holding up the hill for seven days as the people of Vraja gazed upon Him."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "भगवान कृष्ण, भूख-प्यास भूलकर और व्यक्तिगत सुख के सभी विचारों को एक तरफ रख कर, सात दिनों तक पहाड़ी को पकड़कर खड़े रहे, जब व्रज के लोग उन्हें देखते रहे।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "ભગવાન કૃષ્ણ, ભૂખ અને તરસને ભૂલીને અને અંગત આનંદની બધી બાબતોને બાજુ પર મૂકીને, વ્રજના લોકો તેમના તરફ જોતા હતા ત્યારે સાત દિવસ સુધી પહાડને પકડીને ઊભા રહ્યા."
+            }
+        }
+    },
+    {
+        "id": 102524,
+        "sloka": "10.25.24",
+        "verse_id": 102524,
+        "verseNumber": 24,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "When Indra observed this exhibition of Lord Kṛṣṇa’s mystic power, he became most astonished. Pulled down from his platform of false pride, and his intentions thwarted, he ordered his clouds to desist."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "जब इंद्र ने भगवान कृष्ण की रहस्यमय शक्ति का यह प्रदर्शन देखा, तो वह बहुत आश्चर्यचकित हो गया। झूठे अभिमान के अपने मंच से नीचे खींच लिया गया, और उसके इरादे विफल हो गए, उसने अपने बादलों को रुकने का आदेश दिया।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "જ્યારે ઇન્દ્રએ ભગવાન કૃષ્ણની રહસ્યમય શક્તિના આ પ્રદર્શનને નિહાળ્યું, ત્યારે તે ખૂબ જ આશ્ચર્યચકિત થઈ ગયો. ખોટા અભિમાનના તેના પ્લેટફોર્મ પરથી નીચે ખેંચાઈ ગયો, અને તેના ઇરાદા નિષ્ફળ ગયા, તેણે તેના વાદળોને નિરાશ થવાનો આદેશ આપ્યો."
+            }
+        }
+    },
+    {
+        "id": 102525,
+        "sloka": "10.25.25",
+        "verse_id": 102525,
+        "verseNumber": 25,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Seeing that the fierce wind and rain had now ceased, the sky had become clear of rainclouds, and the sun had risen, Lord Kṛṣṇa, the lifter of Govardhana Hill, spoke to the cowherd community as follows."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "यह देखकर कि भयंकर हवा और बारिश अब बंद हो गई है, आसमान बारिश के बादलों से मुक्त हो गया है, और सूरज उग आया है, गोवर्धन पर्वत उठाने वाले भगवान कृष्ण ने चरवाहे समुदाय से इस प्रकार बात की।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "તે જોઈને કે જોરદાર પવન અને વરસાદ હવે બંધ થઈ ગયો હતો, આકાશ વરસાદી વાદળોથી સ્વચ્છ થઈ ગયું હતું, અને સૂર્ય ઉગ્યો હતો, ભગવાન કૃષ્ણ, ગોવર્ધન ટેકરીના ઉપાડક, નીચે પ્રમાણે ગોવાળો સમુદાય સાથે વાત કરી."
+            }
+        }
+    },
+    {
+        "id": 102526,
+        "sloka": "10.25.26",
+        "verse_id": 102526,
+        "verseNumber": 26,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "[Lord Kṛṣṇa said:] My dear cowherd men, please go out with your wives, children and possessions. Give up your fear. The wind and rain have stopped, and the rivers’ high waters have subsided."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "[भगवान कृष्ण ने कहा:] मेरे प्रिय ग्वालों, कृपया अपनी पत्नियों, बच्चों और संपत्ति के साथ बाहर जाओ। अपना डर ​​छोड़ो. हवा और बारिश रुक गई है और नदियों का पानी कम हो गया है।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "[ભગવાન કૃષ્ણએ કહ્યું:] મારા પ્રિય ગોવાળો, કૃપા કરીને તમારી પત્નીઓ, બાળકો અને સંપત્તિ સાથે બહાર જાઓ. તમારો ડર છોડી દો. પવન અને વરસાદ બંધ થઈ ગયો છે, અને નદીઓના ઊંચા પાણી ઓછા થઈ ગયા છે."
+            }
+        }
+    },
+    {
+        "id": 102527,
+        "sloka": "10.25.27",
+        "verse_id": 102527,
+        "verseNumber": 27,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "After collecting their respective cows and loading their paraphernalia into their wagons, the cowherd men went out. The women, children and elderly persons gradually followed them."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "अपनी-अपनी गायें इकट्ठी करके और उनका सामान बग्घियों में लादकर चरवाहे बाहर चले गए। महिलाएं, बच्चे और बुजुर्ग धीरे-धीरे उनके पीछे हो लिए।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "પોતપોતાની ગાયોને ભેગી કરીને અને તેમના વેગનમાં સામાન ભરીને, ગોવાળિયાઓ બહાર ગયા. સ્ત્રીઓ, બાળકો અને વૃદ્ધો ધીમે ધીમે તેમની પાછળ ગયા."
+            }
+        }
+    },
+    {
+        "id": 102528,
+        "sloka": "10.25.28",
+        "verse_id": 102528,
+        "verseNumber": 28,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "While all living creatures looked on, the Supreme Personality of Godhead put down the hill in its original place, just as it had stood before."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "जब सभी जीवित प्राणी देख रहे थे, भगवान के परम व्यक्तित्व ने पहाड़ी को उसके मूल स्थान पर रख दिया, जैसा कि वह पहले खड़ा था।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "જ્યારે તમામ જીવંત જીવો તેની તરફ જોતા હતા, ત્યારે ભગવાનના પરમ પુરૂષે ટેકરીને તેના મૂળ સ્થાને નીચે મૂકી દીધી, જેમ તે પહેલા ઊભી હતી."
+            }
+        }
+    },
+    {
+        "id": 102529,
+        "sloka": "10.25.29",
+        "verse_id": 102529,
+        "verseNumber": 29,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "All the residents of Vṛndāvana were overwhelmed with ecstatic love, and they came forward and greeted Śrī Kṛṣṇa according to their individual relationships with Him — some embracing Him, others bowing down to Him, and so forth. The cowherd women presented water mixed with yogurt and unbroken barleycorns as a token of honor, and they showered auspicious benedictions upon Him."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "वृन्दावन के सभी निवासी परम प्रेम से अभिभूत थे, और वे आगे आए और श्रीकृष्ण के साथ अपने व्यक्तिगत संबंधों के अनुसार उनका स्वागत किया - कुछ ने उन्हें गले लगाया, कुछ ने उन्हें प्रणाम किया, इत्यादि। चरवाहे महिलाओं ने सम्मान के प्रतीक के रूप में दही और अखंड जौ के साथ मिश्रित पानी पेश किया, और उन्होंने उन पर शुभ आशीर्वाद की वर्षा की।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "વૃંદાવનના તમામ રહેવાસીઓ ઉત્સાહી પ્રેમથી અભિભૂત થયા હતા, અને તેઓએ આગળ આવીને શ્રી કૃષ્ણને તેમની સાથેના તેમના વ્યક્તિગત સંબંધો અનુસાર અભિવાદન કર્યું - કેટલાક તેમને આલિંગન આપે છે, અન્ય તેમને પ્રણામ કરે છે, વગેરે. ગૌવંશની સ્ત્રીઓએ સન્માનના પ્રતીક તરીકે દહીં અને અખંડ જવના દાણા સાથે મિશ્રિત પાણી રજૂ કર્યું, અને તેઓએ તેમના પર શુભ આશીર્વાદ વરસાવ્યા."
+            }
+        }
+    },
+    {
+        "id": 102530,
+        "sloka": "10.25.30",
+        "verse_id": 102530,
+        "verseNumber": 30,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Mother Yaśodā, mother Rohiṇī, Nanda Mahārāja and Balarāma, the greatest of the strong, all embraced Kṛṣṇa. Overwhelmed with affection, they offered Him their blessings."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "माता यशोदा, माता रोहिणी, नंद महाराज और बलराम, सबसे बड़े बलराम, सभी ने कृष्ण को गले लगा लिया। स्नेह से अभिभूत होकर, उन्होंने उन्हें अपना आशीर्वाद दिया।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "માતા યશોદા, માતા રોહિણી, નંદ મહારાજ અને બલરામ, સૌથી મહાન બળવાન, બધાએ કૃષ્ણને આલિંગન કર્યું. સ્નેહથી અભિભૂત થઈને, તેઓએ તેમને તેમના આશીર્વાદ આપ્યા."
+            }
+        }
+    },
+    {
+        "id": 102531,
+        "sloka": "10.25.31",
+        "verse_id": 102531,
+        "verseNumber": 31,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "In the heavens, O King, all the demigods, including the Siddhas, Sādhyas, Gandharvas and Cāraṇas, sang the praises of Lord Kṛṣṇa and showered down flowers in great satisfaction."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "हे राजन, स्वर्ग में सिद्धों, साध्यों, गंधर्वों और चारणों सहित सभी देवताओं ने भगवान कृष्ण की स्तुति गाई और बड़ी संतुष्टि से फूलों की वर्षा की।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "સ્વર્ગમાં, હે રાજા, સિદ્ધો, સાધ્યો, ગંધર્વો અને કરણો સહિત તમામ દેવતાઓએ ભગવાન કૃષ્ણની સ્તુતિ ગાયી અને ખૂબ જ સંતોષમાં પુષ્પોની વર્ષા કરી."
+            }
+        }
+    },
+    {
+        "id": 102532,
+        "sloka": "10.25.32",
+        "verse_id": 102532,
+        "verseNumber": 32,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "My dear Parīkṣit, the demigods in heaven resoundingly played their conchshells and kettledrums, and the best of the Gandharvas, led by Tumburu, began to sing."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "मेरे प्रिय परीक्षित, स्वर्ग में देवताओं ने अपने शंख और नगाड़े जोर-जोर से बजाए और तुम्बुरु के नेतृत्व में सर्वश्रेष्ठ गंधर्वों ने गाना शुरू कर दिया।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "મારા પ્રિય પરીક્ષિત, સ્વર્ગમાં દેવતાઓએ તેમના શંખ અને કેટલડ્રમને જોરથી વગાડ્યા, અને તુમ્બુરુની આગેવાની હેઠળના શ્રેષ્ઠ ગાંધર્વોએ ગાવાનું શરૂ કર્યું."
+            }
+        }
+    },
+    {
+        "id": 102533,
+        "sloka": "10.25.33",
+        "verse_id": 102533,
+        "verseNumber": 33,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Surrounded by His loving cowherd boyfriends and Lord Balarāma, Kṛṣṇa then went off to the place where He had been tending His cows. The cowherd girls returned to their homes, singing joyfully about the lifting of Govardhana Hill and other glorious deeds performed by Lord Kṛṣṇa, who had so deeply touched their hearts."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "अपने प्यारे चरवाहे मित्रों और भगवान बलराम से घिरे हुए, कृष्ण फिर उस स्थान पर चले गए जहाँ वह अपनी गायों को चरा रहे थे। चरवाहे लड़कियाँ गोवर्धन पर्वत को उठाने और भगवान कृष्ण द्वारा किए गए अन्य गौरवशाली कार्यों के बारे में खुशी से गाते हुए अपने घरों को लौट गईं, जिन्होंने उनके दिलों को गहराई से छू लिया था।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "તેમના પ્રેમાળ ગોવાળો બોયફ્રેન્ડ્સ અને ભગવાન બલરામથી ઘેરાયેલા, કૃષ્ણ પછી તે જગ્યાએ ગયા જ્યાં તેઓ તેમની ગાયોની સંભાળ રાખતા હતા. ગોવાળિયાઓ ગોવર્ધન પર્વતને ઉપાડવા અને ભગવાન કૃષ્ણ દ્વારા કરવામાં આવેલા અન્ય ગૌરવપૂર્ણ કાર્યો વિશે આનંદપૂર્વક ગાતી, તેમના ઘરે પરત ફર્યા, જેમણે તેમના હૃદયને ખૂબ જ ઊંડે સ્પર્શ કર્યો હતો."
+            }
+        }
+    }
+]

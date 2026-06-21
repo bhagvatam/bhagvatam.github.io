@@ -1,0 +1,853 @@
+[
+    {
+        "id": 102401,
+        "sloka": "10.24.1",
+        "verse_id": 102401,
+        "verseNumber": 1,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Śukadeva Gosvāmī said: While staying in that very place with His brother Baladeva, Lord Kṛṣṇa happened to see the cowherd men busily arranging for a sacrifice to Indra."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "शुकदेव गोस्वामी ने कहा: अपने भाई बलदेव के साथ उसी स्थान पर रहते हुए, भगवान कृष्ण ने ग्वालों को इंद्र के लिए यज्ञ की तैयारी में व्यस्त देखा।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "શુકદેવ ગોસ્વામીએ કહ્યું: તે જ જગ્યાએ તેમના ભાઈ બલદેવ સાથે રહ્યા હતા, ત્યારે ભગવાન કૃષ્ણએ ગોવાળિયાઓને ઈન્દ્રને બલિદાન આપવા માટે વ્યસ્ત રહેતા જોયા."
+            }
+        }
+    },
+    {
+        "id": 102402,
+        "sloka": "10.24.2",
+        "verse_id": 102402,
+        "verseNumber": 2,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Being the omniscient Supersoul, the Supreme Lord Kṛṣṇa already understood the situation, yet He still humbly inquired from the elders, headed by His father, Nanda Mahārāja."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "सर्वज्ञ परमात्मा होने के नाते, परम भगवान कृष्ण पहले ही स्थिति को समझ गए थे, फिर भी उन्होंने विनम्रतापूर्वक अपने पिता नंद महाराज सहित बड़ों से पूछताछ की।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "સર્વજ્ઞ પરમાત્મા હોવાના કારણે, પરમ ભગવાન કૃષ્ણ પહેલાથી જ પરિસ્થિતિને સમજી ગયા હતા, તેમ છતાં તેમણે તેમના પિતા, નંદ મહારાજના નેતૃત્વમાં વડીલો પાસેથી નમ્રતાપૂર્વક પૂછપરછ કરી હતી."
+            }
+        }
+    },
+    {
+        "id": 102403,
+        "sloka": "10.24.3",
+        "verse_id": 102403,
+        "verseNumber": 3,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "[Lord Kṛṣṇa said:] My dear father, kindly explain to Me what this great endeavor of yours is all about. What is it meant to accomplish? If this is a ritual sacrifice, then for whose satisfaction is it intended and by what means is it going to be executed?"
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "[भगवान कृष्ण ने कहा:] मेरे प्यारे पिता, कृपया मुझे समझाएं कि आपके इस महान प्रयास का उद्देश्य क्या है। इसे पूरा करने का क्या मतलब है? यदि यह एक अनुष्ठानिक बलिदान है, तो यह किसकी संतुष्टि के लिए है और इसे किस माध्यम से क्रियान्वित किया जाएगा?"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "[ભગવાન કૃષ્ણએ કહ્યું:] મારા પ્રિય પિતા, કૃપા કરીને મને સમજાવો કે તમારો આ મહાન પ્રયાસ શું છે. તે પરિપૂર્ણ કરવાનો અર્થ શું છે? જો આ એક ધાર્મિક યજ્ઞ છે, તો તે કોના સંતોષ માટે છે અને તે કયા માધ્યમથી ચલાવવામાં આવશે?"
+            }
+        }
+    },
+    {
+        "id": 102404,
+        "sloka": "10.24.4",
+        "verse_id": 102404,
+        "verseNumber": 4,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Please tell Me about it, O father. I have a great desire to know and am ready to hear in good faith. Certainly, no secrets are to be kept by saintly personalities, who see all others as equal to themselves, who have no conception of “mine” or “another’s” and who do not consider who is a friend, who is an enemy and who is neutral."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "हे पिता, कृपया मुझे इसके बारे में बताएं। मुझे जानने की बहुत इच्छा है और मैं सद्भावपूर्वक सुनने के लिए तैयार हूं। निश्चित रूप से, संत व्यक्तित्वों को कोई रहस्य नहीं रखना चाहिए, जो दूसरों को अपने समान देखते हैं, जिनके पास \"मेरे\" या \"दूसरे के\" की कोई अवधारणा नहीं है और जो यह नहीं मानते हैं कि कौन मित्र है, कौन शत्रु है और कौन तटस्थ है।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "કૃપા કરીને મને તેના વિશે જણાવો, હે પિતા. મને જાણવાની ખૂબ ઈચ્છા છે અને હું સદ્ભાવનાથી સાંભળવા તૈયાર છું. નિશ્ચિતપણે, સંત વ્યક્તિત્વો દ્વારા કોઈ રહસ્યો રાખવાના નથી, જેઓ બીજા બધાને પોતાના સમાન માને છે, જેમને \"મારું\" અથવા \"બીજાનું\" કોઈ ખ્યાલ નથી અને જેઓ મિત્ર કોણ છે, કોણ દુશ્મન છે અને કોણ તટસ્થ છે તે ધ્યાનમાં લેતા નથી."
+            }
+        }
+    },
+    {
+        "id": 102405,
+        "sloka": "10.24.5",
+        "verse_id": 102405,
+        "verseNumber": 5,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "One who is neutral may be avoided like an enemy, but a friend should be considered like one’s own self."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "जो तटस्थ है उसे शत्रु की तरह टाला जा सकता है, लेकिन मित्र को अपने समान समझना चाहिए।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "જે તટસ્થ છે તેને શત્રુની જેમ ટાળી શકાય, પણ મિત્રને પોતાના જેવા માનવા જોઈએ."
+            }
+        }
+    },
+    {
+        "id": 102406,
+        "sloka": "10.24.6",
+        "verse_id": 102406,
+        "verseNumber": 6,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "When people in this world perform activities, sometimes they understand what they are doing and sometimes they don’t. Those who know what they are doing achieve success in their work, whereas ignorant people do not."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "जब इस दुनिया में लोग गतिविधियाँ करते हैं, तो कभी-कभी उन्हें समझ में आता है कि वे क्या कर रहे हैं और कभी-कभी नहीं। जो लोग जानते हैं कि वे क्या कर रहे हैं उन्हें अपने काम में सफलता मिलती है, जबकि अज्ञानी लोगों को नहीं मिलता।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "જ્યારે આ દુનિયામાં લોકો પ્રવૃત્તિઓ કરે છે, ત્યારે ક્યારેક તેઓ સમજે છે કે તેઓ શું કરી રહ્યા છે અને ક્યારેક તેઓ નથી કરતા. જેઓ જાણે છે કે તેઓ શું કરી રહ્યા છે તેઓ તેમના કાર્યમાં સફળતા પ્રાપ્ત કરે છે, જ્યારે અજ્ઞાન લોકો નથી કરતા."
+            }
+        }
+    },
+    {
+        "id": 102407,
+        "sloka": "10.24.7",
+        "verse_id": 102407,
+        "verseNumber": 7,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Such being the case, this ritualistic endeavor of yours should be clearly explained to Me. Is it a ceremony based on scriptural injunction, or simply a custom of ordinary society?"
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "ऐसी स्थिति में, आपके इस अनुष्ठानिक प्रयास को मुझे स्पष्ट रूप से समझाया जाना चाहिए। क्या यह शास्त्रीय आदेश पर आधारित एक समारोह है, या बस सामान्य समाज की एक प्रथा है?"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "આવો કિસ્સો હોવાથી, તમારા આ ધાર્મિક પ્રયાસ મને સ્પષ્ટપણે સમજાવવો જોઈએ. શું તે શાસ્ત્રોક્ત આદેશ પર આધારિત સમારોહ છે, અથવા ફક્ત સામાન્ય સમાજનો રિવાજ છે?"
+            }
+        }
+    },
+    {
+        "id": 102408,
+        "sloka": "10.24.8",
+        "verse_id": 102408,
+        "verseNumber": 8,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Nanda Mahārāja replied: The great Lord Indra is the controller of the rain. The clouds are his personal representatives, and they directly provide rainwater, which gives happiness and sustenance to all creatures."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "नंद महाराज ने उत्तर दिया: महान भगवान इंद्र वर्षा के नियंत्रक हैं। बादल उनके निजी प्रतिनिधि हैं, और वे सीधे वर्षा जल प्रदान करते हैं, जो सभी प्राणियों को खुशी और जीविका देता है।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "નંદ મહારાજે જવાબ આપ્યો: મહાન ભગવાન ઇન્દ્ર વરસાદના નિયંત્રક છે. વાદળો તેમના અંગત પ્રતિનિધિઓ છે, અને તેઓ સીધા વરસાદી પાણી પ્રદાન કરે છે, જે તમામ જીવોને સુખ અને ભરણપોષણ આપે છે."
+            }
+        }
+    },
+    {
+        "id": 102409,
+        "sloka": "10.24.9",
+        "verse_id": 102409,
+        "verseNumber": 9,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Not only we, my dear son, but also many other men worship him, the lord and master of the rain-giving clouds. We offer him grain and other paraphernalia of worship produced through his own discharge in the form of rain."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "न केवल हम, मेरे प्यारे बेटे, बल्कि कई अन्य लोग भी उसकी पूजा करते हैं, जो बारिश देने वाले बादलों के स्वामी और मालिक हैं। हम उन्हें वर्षा के रूप में उनके स्वयं के स्राव से उत्पन्न अनाज और पूजा की अन्य सामग्री प्रदान करते हैं।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "માત્ર અમે જ નહીં, મારા વહાલા પુત્ર, પણ અન્ય ઘણા માણસો પણ તેમની પૂજા કરીએ છીએ, જે વરસાદ આપનારા વાદળોના સ્વામી અને માસ્ટર છે. અમે તેમને અનાજ અને પૂજાના અન્ય સામાન વરસાદના સ્વરૂપમાં તેમના પોતાના વિસર્જન દ્વારા ઉત્પન્ન કરીએ છીએ."
+            }
+        }
+    },
+    {
+        "id": 102410,
+        "sloka": "10.24.10",
+        "verse_id": 102410,
+        "verseNumber": 10,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "By accepting the remnants of sacrifices performed to Indra, people sustain their lives and accomplish the threefold aims of religiosity, economic development and sense gratification. Thus Lord Indra is the agent responsible for the fruitive success of industrious people."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "इंद्र को किए गए बलिदानों के अवशेषों को स्वीकार करके, लोग अपने जीवन का निर्वाह करते हैं और धार्मिकता, आर्थिक विकास और इंद्रिय संतुष्टि के तीन गुना लक्ष्यों को पूरा करते हैं। इस प्रकार भगवान इंद्र मेहनती लोगों की सफल सफलता के लिए जिम्मेदार एजेंट हैं।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "ઇન્દ્રને આપેલા બલિદાનના અવશેષોને સ્વીકારીને, લોકો તેમના જીવનને ટકાવી રાખે છે અને ધાર્મિકતા, આર્થિક વિકાસ અને ઇન્દ્રિય તૃપ્તિના ત્રિવિધ ઉદ્દેશ્યોને પૂર્ણ કરે છે. આમ ભગવાન ઇન્દ્ર મહેનતુ લોકોની ફળદાયી સફળતા માટે જવાબદાર એજન્ટ છે."
+            }
+        }
+    },
+    {
+        "id": 102411,
+        "sloka": "10.24.11",
+        "verse_id": 102411,
+        "verseNumber": 11,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "This religious principle is based on sound tradition. Anyone who rejects it out of lust, enmity, fear or greed will certainly fail to achieve good fortune."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "यह धार्मिक सिद्धांत ध्वनि परंपरा पर आधारित है। जो कोई भी वासना, शत्रुता, भय या लालच से इसे अस्वीकार करता है वह निश्चित रूप से सौभाग्य प्राप्त करने में विफल रहेगा।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "આ ધાર્મિક સિદ્ધાંત ધ્વનિ પરંપરા પર આધારિત છે. જે કોઈ તેને વાસના, દુશ્મની, ભય કે લોભથી નકારે છે તે ચોક્કસપણે સારા નસીબ પ્રાપ્ત કરવામાં નિષ્ફળ જશે."
+            }
+        }
+    },
+    {
+        "id": 102412,
+        "sloka": "10.24.12",
+        "verse_id": 102412,
+        "verseNumber": 12,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Śukadeva Gosvāmī said: When Lord Keśava [Kṛṣṇa] heard the statements of His father, Nanda, and other senior residents of Vraja, He addressed His father as follows, to arouse anger in Lord Indra."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "शुकदेव गोस्वामी ने कहा: जब भगवान केशव (कृष्ण) ने अपने पिता, नंद और व्रज के अन्य वरिष्ठ निवासियों के बयान सुने, तो उन्होंने भगवान इंद्र को क्रोधित करने के लिए अपने पिता को इस प्रकार संबोधित किया।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "શુકદેવ ગોસ્વામીએ કહ્યું: જ્યારે ભગવાન કેશવ [કૃષ્ણ] એ તેમના પિતા, નંદ અને વ્રજના અન્ય વરિષ્ઠ રહેવાસીઓના નિવેદનો સાંભળ્યા, ત્યારે તેમણે ભગવાન ઇન્દ્રમાં ક્રોધ જગાડવા માટે તેમના પિતાને આ રીતે સંબોધ્યા."
+            }
+        }
+    },
+    {
+        "id": 102413,
+        "sloka": "10.24.13",
+        "verse_id": 102413,
+        "verseNumber": 13,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Lord Kṛṣṇa said: It is by the force of karma that a living entity takes birth, and it is by karma alone that he meets his destruction. His happiness, distress, fear and sense of security all arise as the effects of karma."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "भगवान कृष्ण ने कहा: कर्म के बल से ही जीव जन्म लेता है और कर्म के द्वारा ही उसका विनाश होता है। उसकी ख़ुशी, परेशानी, भय और सुरक्षा की भावना सभी कर्म के प्रभाव के रूप में उत्पन्न होती हैं।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "ભગવાન કૃષ્ણએ કહ્યું: કર્મના બળથી જ જીવ જન્મ લે છે, અને માત્ર કર્મ દ્વારા જ તેનો વિનાશ થાય છે. તેનું સુખ, દુઃખ, ડર અને સલામતીની ભાવના આ બધું કર્મની અસર તરીકે ઉત્પન્ન થાય છે."
+            }
+        }
+    },
+    {
+        "id": 102414,
+        "sloka": "10.24.14",
+        "verse_id": 102414,
+        "verseNumber": 14,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Even if there is some supreme controller who awards all others the results of their activities, He must also depend upon a performer’s engaging in activity. After all, there is no question of being the bestower of fruitive results unless fruitive activities have actually been performed."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "भले ही कोई सर्वोच्च नियंत्रक हो जो दूसरों को उनकी गतिविधियों का फल देता हो, उसे भी कलाकार की गतिविधि पर निर्भर रहना चाहिए। आख़िरकार, जब तक सकाम गतिविधियाँ वास्तव में नहीं की जातीं, तब तक सकाम परिणाम देने वाला होने का कोई प्रश्न ही नहीं उठता।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "જો ત્યાં કોઈ સર્વોચ્ચ નિયંત્રક હોય કે જે અન્ય તમામને તેમની પ્રવૃત્તિઓના પરિણામોનો પુરસ્કાર આપે છે, તો પણ તેણે એક કલાકારની પ્રવૃત્તિમાં સામેલ થવા પર આધાર રાખવો જોઈએ. છેવટે, જ્યાં સુધી ફળદાયી પ્રવૃત્તિઓ વાસ્તવમાં કરવામાં ન આવી હોય ત્યાં સુધી ફળદાયી પરિણામો આપનાર બનવાનો કોઈ પ્રશ્ન જ નથી."
+            }
+        }
+    },
+    {
+        "id": 102415,
+        "sloka": "10.24.15",
+        "verse_id": 102415,
+        "verseNumber": 15,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Living beings in this world are forced to experience the consequences of their own particular previous work. Since Lord Indra cannot in any way change the destiny of human beings, which is born of their own nature, why should people worship him?"
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "इस संसार में जीवित प्राणियों को अपने विशेष पिछले कार्यों के परिणामों का अनुभव करने के लिए मजबूर किया जाता है। चूँकि भगवान इंद्र किसी भी तरह से मनुष्यों के भाग्य को नहीं बदल सकते, जो उनके अपने स्वभाव से पैदा हुआ है, तो लोगों को उनकी पूजा क्यों करनी चाहिए?"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "આ જગતમાં જીવો તેમના પોતાના ચોક્કસ અગાઉના કામના પરિણામો અનુભવવા માટે મજબૂર છે. ભગવાન ઈન્દ્ર કોઈપણ રીતે મનુષ્યના ભાગ્યને બદલી શકતા નથી, જે તેમના પોતાના સ્વભાવથી જન્મે છે, લોકોએ તેમની પૂજા શા માટે કરવી જોઈએ?"
+            }
+        }
+    },
+    {
+        "id": 102416,
+        "sloka": "10.24.16",
+        "verse_id": 102416,
+        "verseNumber": 16,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Every individual is under the control of his own conditioned nature, and thus he must follow that nature. This entire universe, with all its demigods, demons and human beings, is based on the conditioned nature of the living entities."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "प्रत्येक व्यक्ति अपनी बद्ध प्रकृति के नियंत्रण में है, और इस प्रकार उसे उस प्रकृति का पालन करना चाहिए। यह संपूर्ण ब्रह्मांड, अपने सभी देवताओं, राक्षसों और मनुष्यों सहित, जीवों की बद्ध प्रकृति पर आधारित है।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "દરેક વ્યક્તિ તેના પોતાના કન્ડિશન્ડ સ્વભાવના નિયંત્રણ હેઠળ છે, અને તેથી તેણે તે પ્રકૃતિનું પાલન કરવું જોઈએ. આ સમગ્ર બ્રહ્માંડ, તેના તમામ દેવતાઓ, દાનવો અને મનુષ્યો સાથે, જીવોની કન્ડિશન્ડ પ્રકૃતિ પર આધારિત છે."
+            }
+        }
+    },
+    {
+        "id": 102417,
+        "sloka": "10.24.17",
+        "verse_id": 102417,
+        "verseNumber": 17,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Because it is karma that causes the conditioned living entity to accept and then give up different high- and low-grade material bodies, this karma is his enemy, friend and neutral witness, his spiritual master and controlling lord."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "क्योंकि यह कर्म ही है जो बद्ध जीव को विभिन्न उच्च और निम्न श्रेणी के भौतिक शरीरों को स्वीकार करने और फिर त्यागने के लिए प्रेरित करता है, यह कर्म उसका शत्रु, मित्र और तटस्थ गवाह, उसका आध्यात्मिक गुरु और नियंत्रक स्वामी है।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "કારણ કે તે કર્મ છે જે કન્ડિશન્ડ જીવને સ્વીકારવાનું કારણ બને છે અને પછી વિવિધ ઉચ્ચ અને નિમ્ન-ગ્રેડ ભૌતિક શરીરોને છોડી દે છે, આ કર્મ તેનો દુશ્મન, મિત્ર અને તટસ્થ સાક્ષી, તેનો આધ્યાત્મિક ગુરુ અને નિયંત્રણ કરનાર સ્વામી છે."
+            }
+        }
+    },
+    {
+        "id": 102418,
+        "sloka": "10.24.18",
+        "verse_id": 102418,
+        "verseNumber": 18,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Therefore one should seriously worship work itself. A person should remain in the position corresponding to his nature and should perform his own duty. Indeed, that by which we may live nicely is really our worshipable deity."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "इसलिए व्यक्ति को गंभीरतापूर्वक कर्म की ही आराधना करनी चाहिए। व्यक्ति को अपने स्वभाव के अनुरूप पद पर रहकर अपने कर्तव्य का पालन करना चाहिए। वास्तव में, जिसके द्वारा हम सुखपूर्वक रह सकते हैं वही वास्तव में हमारा पूजनीय देवता है।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "તેથી વ્યક્તિએ ગંભીરતાથી કામની પૂજા કરવી જોઈએ. વ્યક્તિએ તેના સ્વભાવને અનુરૂપ પદ પર રહેવું જોઈએ અને પોતાની ફરજ બજાવવી જોઈએ. ખરેખર, જેના દ્વારા આપણે સરસ રીતે જીવી શકીએ તે ખરેખર આપણા પૂજનીય દેવતા છે."
+            }
+        }
+    },
+    {
+        "id": 102419,
+        "sloka": "10.24.19",
+        "verse_id": 102419,
+        "verseNumber": 19,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "If one thing is actually sustaining our life but we take shelter of something else, how can we achieve any real benefit? We would be like an unfaithful woman, who can never achieve any actual benefit by consorting with her paramour."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "यदि एक चीज़ वास्तव में हमारे जीवन को बनाए रख रही है और हम किसी और चीज़ का आश्रय लेते हैं, तो हम कोई वास्तविक लाभ कैसे प्राप्त कर सकते हैं? हम एक बेवफा औरत की तरह होंगे, जो अपने प्रेमी के साथ मिलकर कभी कोई वास्तविक लाभ हासिल नहीं कर सकती।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "જો એક વસ્તુ ખરેખર આપણું જીવન ટકાવી રહી છે પરંતુ આપણે બીજી વસ્તુનો આશ્રય લઈએ છીએ, તો આપણે કોઈ વાસ્તવિક લાભ કેવી રીતે મેળવી શકીએ? આપણે એક અવિશ્વાસુ સ્ત્રી જેવા હોઈશું, જે તેના પ્રેમી સાથે મળીને ક્યારેય કોઈ વાસ્તવિક લાભ પ્રાપ્ત કરી શકશે નહીં."
+            }
+        }
+    },
+    {
+        "id": 102420,
+        "sloka": "10.24.20",
+        "verse_id": 102420,
+        "verseNumber": 20,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "The brāhmaṇa maintains his life by studying and teaching the Vedas, the member of the royal order by protecting the earth, the vaiśya by trade, and the śūdra by serving the higher, twice-born classes."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "ब्राह्मण वेदों का अध्ययन और अध्यापन करके, शाही व्यवस्था का सदस्य पृथ्वी की रक्षा करके, वैश्य व्यापार करके, और शूद्र उच्च, द्विज वर्गों की सेवा करके अपना जीवन चलाता है।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "બ્રાહ્મણ વેદોનો અભ્યાસ કરીને અને શીખવીને પોતાનું જીવન જાળવે છે, પૃથ્વીનું રક્ષણ કરીને રાજતંત્રના સભ્ય, વેપાર દ્વારા વૈશ્ય અને ઉચ્ચ, બે વખત જન્મેલા વર્ગની સેવા કરીને શૂદ્ર."
+            }
+        }
+    },
+    {
+        "id": 102421,
+        "sloka": "10.24.21",
+        "verse_id": 102421,
+        "verseNumber": 21,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "The occupational duties of the vaiśya are conceived in four divisions: farming, commerce, cow protection and moneylending. Out of these, we as a community are always engaged in cow protection."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "वैश्य के व्यावसायिक कर्तव्यों को चार भागों में विभाजित किया गया है: खेती, वाणिज्य, गाय की रक्षा और साहूकारी। इनमें से हम एक समुदाय के रूप में सदैव गौ रक्षा में लगे रहते हैं।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "વૈશ્યની વ્યવસાયિક ફરજો ચાર વિભાગોમાં કલ્પવામાં આવી છે: ખેતી, વાણિજ્ય, ગાય સંરક્ષણ અને ધિરાણ. તેમાંથી, અમે એક સમુદાય તરીકે હંમેશા ગાય સંરક્ષણમાં રોકાયેલા છીએ."
+            }
+        }
+    },
+    {
+        "id": 102422,
+        "sloka": "10.24.22",
+        "verse_id": 102422,
+        "verseNumber": 22,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "The causes of creation, maintenance and destruction are the three modes of nature — namely goodness, passion and ignorance. In particular, the mode of passion creates this universe and through sexual combination causes it to become full of variety."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "सृष्टि, पालन और विनाश के कारण प्रकृति के तीन गुण हैं - अच्छाई, रजोगुण और तमोगुण। विशेष रूप से, रजोगुण इस ब्रह्मांड का निर्माण करता है और यौन संयोजन के माध्यम से इसे विविधता से परिपूर्ण बनाता है।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "સૃષ્ટિ, જાળવણી અને વિનાશના કારણો પ્રકૃતિના ત્રણ પ્રકાર છે - એટલે કે ભલાઈ, જુસ્સો અને અજ્ઞાન. ખાસ કરીને, જુસ્સાની રીત આ બ્રહ્માંડને બનાવે છે અને જાતીય સંયોજન દ્વારા તે વિવિધતાથી ભરપૂર બને છે."
+            }
+        }
+    },
+    {
+        "id": 102423,
+        "sloka": "10.24.23",
+        "verse_id": 102423,
+        "verseNumber": 23,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Impelled by the material mode of passion, the clouds pour down their rain everywhere, and by this rain all creatures gain their sustenance. What has the great Indra to do with this arrangement?"
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "रजोगुण की भौतिक प्रकृति से प्रेरित होकर, बादल हर जगह अपनी वर्षा करते हैं, और इस वर्षा से सभी प्राणी अपना भरण-पोषण प्राप्त करते हैं। महान इंद्र का इस व्यवस्था से क्या लेना-देना है?"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "ઉત્કટતાના ભૌતિક મોડ દ્વારા પ્રેરિત, વાદળો સર્વત્ર તેમનો વરસાદ વરસાવે છે, અને આ વરસાદ દ્વારા તમામ જીવો પોતપોતાની ભરણપોષણ મેળવે છે. મહાન ઈન્દ્રને આ વ્યવસ્થા સાથે શું લેવાદેવા છે?"
+            }
+        }
+    },
+    {
+        "id": 102424,
+        "sloka": "10.24.24",
+        "verse_id": 102424,
+        "verseNumber": 24,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "My dear father, our home is not in the cities or towns or villages. Being forest dwellers, we always live in the forest and on the hills."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "मेरे प्यारे पिताजी, हमारा घर शहरों या कस्बों या गांवों में नहीं है। वनवासी होने के कारण हम सदैव जंगल और पहाड़ों पर रहते हैं।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "મારા વ્હાલા પિતાજી, અમારું ઘર શહેરો કે નગરો કે ગામડાઓમાં નથી. વનવાસી હોવાને કારણે આપણે હંમેશા જંગલમાં અને ટેકરીઓ પર રહીએ છીએ."
+            }
+        }
+    },
+    {
+        "id": 102425,
+        "sloka": "10.24.25",
+        "verse_id": 102425,
+        "verseNumber": 25,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Therefore may a sacrifice for the pleasure of the cows, the brāhmaṇas and Govardhana Hill begin! With all the paraphernalia collected for worshiping Indra, let this sacrifice be performed instead."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "इसलिए गायों, ब्राह्मणों और गोवर्धन पर्वत की खुशी के लिए एक यज्ञ शुरू हो सकता है! इन्द्र की पूजा के लिए जो भी सामग्री एकत्र की गई है, उसके स्थान पर यह यज्ञ किया जाए।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "તેથી ગાયો, બ્રાહ્મણો અને ગોવર્ધન ટેકરીના આનંદ માટે યજ્ઞ શરૂ થાય! ઇન્દ્રની ઉપાસના માટે એકત્ર કરેલ તમામ સામગ્રી સાથે, તેના બદલે આ બલિદાન કરવામાં આવે."
+            }
+        }
+    },
+    {
+        "id": 102426,
+        "sloka": "10.24.26",
+        "verse_id": 102426,
+        "verseNumber": 26,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Let many different kinds of food be cooked, from sweet rice to vegetable soups! Many kinds of fancy cakes, both baked and fried, should be prepared. And all the available milk products should be taken for this sacrifice."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "मीठे चावल से लेकर सब्जी सूप तक, कई अलग-अलग प्रकार के भोजन पकाने दें! कई प्रकार के फैंसी केक, बेक किए हुए और तले हुए, दोनों तैयार किए जाने चाहिए। और इस यज्ञ के लिए सभी उपलब्ध दुग्ध उत्पाद लेने चाहिए।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "મીઠી ભાતથી માંડીને શાકભાજીના સૂપ સુધી વિવિધ પ્રકારના ખોરાકને રાંધવા દો! ઘણી પ્રકારની ફેન્સી કેક, બેક કરેલી અને તળેલી બંને, તૈયાર કરવી જોઈએ. અને આ યજ્ઞ માટે ઉપલબ્ધ તમામ દૂધની બનાવટો લેવી જોઈએ."
+            }
+        }
+    },
+    {
+        "id": 102427,
+        "sloka": "10.24.27",
+        "verse_id": 102427,
+        "verseNumber": 27,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "The brāhmaṇas who are learned in the Vedic mantras must properly invoke the sacrificial fires. Then you should feed the priests with nicely prepared food and reward them with cows and other gifts."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "वैदिक मंत्रों के विद्वान ब्राह्मणों को यज्ञ अग्नि का उचित प्रकार से आह्वान करना चाहिए। तब तुम्हें याजकों को अच्छी तरह से तैयार भोजन खिलाना चाहिए और उन्हें गायों और अन्य उपहारों से पुरस्कृत करना चाहिए।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "બ્રાહ્મણો કે જેઓ વૈદિક મંત્રોમાં શીખ્યા છે તેઓએ યજ્ઞના અગ્નિને યોગ્ય રીતે આહ્વાન કરવું જોઈએ. પછી તમારે પુરોહિતોને સરસ રીતે તૈયાર ખોરાક ખવડાવવો જોઈએ અને તેમને ગાય અને અન્ય ભેટોથી પુરસ્કાર આપવો જોઈએ."
+            }
+        }
+    },
+    {
+        "id": 102428,
+        "sloka": "10.24.28",
+        "verse_id": 102428,
+        "verseNumber": 28,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "After giving the appropriate food to everyone else, including such fallen souls as dogs and dog-eaters, you should give grass to the cows and then present your respectful offerings to Govardhana Hill."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "कुत्तों और कुत्ते खाने वालों सहित अन्य सभी को उचित भोजन देने के बाद, आपको गायों को घास देनी चाहिए और फिर गोवर्धन पर्वत पर अपना सम्मानजनक प्रसाद चढ़ाना चाहिए।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "કૂતરા અને કૂતરા ખાનારાઓ સહિત અન્ય દરેકને યોગ્ય ખોરાક આપ્યા પછી, તમારે ગાયોને ઘાસ આપવું જોઈએ અને પછી ગોવર્ધન પર્વત પર તમારો આદરપૂર્વકનો પ્રસાદ ચઢાવવો જોઈએ."
+            }
+        }
+    },
+    {
+        "id": 102429,
+        "sloka": "10.24.29",
+        "verse_id": 102429,
+        "verseNumber": 29,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "After everyone has eaten to his satisfaction, you should all dress and decorate yourselves handsomely, smear your bodies with sandalwood paste and then circumambulate the cows, the brāhmaṇas, the sacrificial fires and Govardhana Hill."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "जब हर कोई अपनी तृप्ति के लिए भोजन कर ले, तो आप सभी को सुंदर ढंग से कपड़े पहनना और सजाना चाहिए, अपने शरीर पर चंदन का लेप लगाना चाहिए और फिर गायों, ब्राह्मणों, यज्ञस्थलों और गोवर्धन पर्वत की परिक्रमा करनी चाहिए।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "દરેક વ્યક્તિએ તેની સંતોષ માટે ભોજન કર્યા પછી, તમારે બધાએ સુંદર પોશાક પહેરવો જોઈએ અને તમારી જાતને સુંદર રીતે સજાવવી જોઈએ, તમારા શરીરને ચંદનનો લેપ લગાવવો જોઈએ અને પછી ગાયો, બ્રાહ્મણો, યજ્ઞોપવિત અગ્નિ અને ગોવર્ધન પર્વતની પરિક્રમા કરવી જોઈએ."
+            }
+        }
+    },
+    {
+        "id": 102430,
+        "sloka": "10.24.30",
+        "verse_id": 102430,
+        "verseNumber": 30,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "This is My idea, O father, and you may carry it out if it appeals to you. Such a sacrifice will be very dear to the cows, the brāhmaṇas and Govardhana Hill, and also to Me."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "हे पिता, यह मेरा विचार है, और यदि यह आपको अच्छा लगे तो आप इसे क्रियान्वित कर सकते हैं। ऐसा यज्ञ गौओं, ब्राह्मणों और गोवर्धन पर्वत तथा मुझे भी बहुत प्रिय होगा।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "આ મારો વિચાર છે, હે પિતા, અને જો તે તમને પસંદ આવે તો તમે તેને અમલમાં મૂકી શકો છો. આવો બલિદાન ગાયો, બ્રાહ્મણો અને ગોવર્ધન પર્વતને અને મને પણ ખૂબ પ્રિય હશે."
+            }
+        }
+    },
+    {
+        "id": 102431,
+        "sloka": "10.24.31",
+        "verse_id": 102431,
+        "verseNumber": 31,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Śukadeva Gosvāmī said: Lord Kṛṣṇa, who is Himself powerful time, desired to destroy the false pride of Lord Indra. When Nanda and the other senior men of Vṛndāvana heard Śrī Kṛṣṇa’s statement, they accepted His words as proper."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "शुकदेव गोस्वामी ने कहा: भगवान कृष्ण, जो स्वयं शक्तिशाली काल हैं, भगवान इंद्र के झूठे गर्व को नष्ट करना चाहते थे। जब नंद और वृन्दावन के अन्य वरिष्ठ लोगों ने श्रीकृष्ण के कथन को सुना, तो उन्होंने उनके शब्दों को उचित माना।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "શુકદેવ ગોસ્વામીએ કહ્યું: ભગવાન કૃષ્ણ, જેઓ સ્વયં શક્તિશાળી સમય છે, ભગવાન ઇન્દ્રના ખોટા અભિમાનનો નાશ કરવા ઇચ્છતા હતા. જ્યારે નંદ અને વૃંદાવનના અન્ય વરિષ્ઠ પુરુષોએ શ્રી કૃષ્ણનું નિવેદન સાંભળ્યું, ત્યારે તેઓએ તેમના શબ્દોને યોગ્ય માન્યા."
+            }
+        }
+    },
+    {
+        "id": 102432,
+        "sloka": "10.24.32-33",
+        "verse_id": 102432,
+        "verseNumber": 32,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "The cowherd community then did all that Madhusūdana had suggested. They arranged for the brāhmaṇas to recite the auspicious Vedic mantras, and using the paraphernalia that had been intended for Indra’s sacrifice, they presented offerings to Govardhana Hill and the brāhmaṇas with reverential respect. They also gave grass to the cows. Then, placing the cows, bulls and calves in front of them, they circumambulated Govardhana."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "चरवाहे समुदाय ने तब वह सब किया जो मधुसूदन ने सुझाया था। उन्होंने ब्राह्मणों के लिए शुभ वैदिक मंत्रों का उच्चारण करने की व्यवस्था की, और इंद्र के बलिदान के लिए इच्छित सामग्री का उपयोग करते हुए, उन्होंने गोवर्धन पर्वत और ब्राह्मणों को श्रद्धापूर्वक प्रसाद अर्पित किया। उन्होंने गायों को घास भी खिलाई। फिर गाय, बैल और बछड़े को सामने रखकर उन्होंने गोवर्धन की परिक्रमा की।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "ગોવાળો સમુદાયે પછી મધુસૂદને સૂચવ્યું તે બધું કર્યું. તેઓએ બ્રાહ્મણો માટે શુભ વૈદિક મંત્રોના પાઠ કરવાની વ્યવસ્થા કરી, અને ઇન્દ્રના બલિદાન માટે બનાવાયેલ સાધનસામગ્રીનો ઉપયોગ કરીને, તેઓએ ગોવર્ધન પર્વત અને બ્રાહ્મણોને આદરપૂર્વક આદર સાથે અર્પણો આપ્યા. તેઓએ ગાયોને ઘાસ પણ આપ્યું. પછી, ગાય, બળદ અને વાછરડાને તેમની સામે મૂકીને, તેઓએ ગોવર્ધનની પરિક્રમા કરી."
+            }
+        }
+    },
+    {
+        "id": 102434,
+        "sloka": "10.24.34",
+        "verse_id": 102434,
+        "verseNumber": 34,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "As the beautifully ornamented cowherd ladies followed along, riding on wagons drawn by oxen, they sang the glories of Lord Kṛṣṇa, and their songs mingled with the brāhmaṇas’ chanting of benedictions."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "बैलों से खींची जाने वाली गाड़ियों पर सवार होकर सुंदर अलंकृत ग्वाल-बालियाँ उनके पीछे चल रही थीं, उन्होंने भगवान कृष्ण की महिमा गाई और उनके गीत ब्राह्मणों के आशीर्वाद के मंत्रोच्चार के साथ मिल गए।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "જેમ જેમ સુંદર શણગારેલી ગોવાળ સ્ત્રીઓ બળદ દ્વારા દોરવામાં આવેલી ગાડીઓ પર સવાર થઈને તેની પાછળ આવી, તેઓએ ભગવાન કૃષ્ણનો મહિમા ગાયો, અને તેમના ગીતો બ્રાહ્મણોના મંત્રોચ્ચાર સાથે ભળી ગયા."
+            }
+        }
+    },
+    {
+        "id": 102435,
+        "sloka": "10.24.35",
+        "verse_id": 102435,
+        "verseNumber": 35,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Kṛṣṇa then assumed an unprecedented, huge form to instill faith in the cowherd men. Declaring “I am Govardhana Mountain!” He ate the abundant offerings."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "तब कृष्ण ने ग्वालों में विश्वास जगाने के लिए एक अभूतपूर्व, विशाल रूप धारण किया। यह घोषणा करते हुए कि \"मैं गोवर्धन पर्वत हूँ!\" उसने प्रचुर प्रसाद खाया।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "કૃષ્ણએ પછી ગોવાળ પુરુષોમાં વિશ્વાસ જગાડવા માટે એક અભૂતપૂર્વ, વિશાળ સ્વરૂપ ધારણ કર્યું. \"હું ગોવર્ધન પર્વત છું!\" તેણે પુષ્કળ પ્રસાદ ખાધો."
+            }
+        }
+    },
+    {
+        "id": 102436,
+        "sloka": "10.24.36",
+        "verse_id": 102436,
+        "verseNumber": 36,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "Together with the people of Vraja, the Lord bowed down to this form of Govardhana Hill, thus in effect offering obeisances to Himself. Then He said, “Just see how this hill has appeared in person and bestowed mercy upon us!"
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "व्रजवासियों के साथ, भगवान ने गोवर्धन पर्वत के इस रूप को प्रणाम किया, इस प्रकार वास्तव में उन्होंने स्वयं को प्रणाम किया। फिर उन्होंने कहा, “देखो यह पहाड़ी किस प्रकार साक्षात प्रकट हुई है और हम पर दया की है!”"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "વ્રજના લોકો સાથે મળીને, ભગવાન ગોવર્ધન પર્વતના આ સ્વરૂપને પ્રણામ કરે છે, આ રીતે તેઓ પોતાને પ્રણામ કરે છે. પછી તેણે કહ્યું, “જરા જુઓ કે કેવી રીતે આ ટેકરી રૂબરૂ દેખાઈ અને આપણા પર દયા કરી!"
+            }
+        }
+    },
+    {
+        "id": 102437,
+        "sloka": "10.24.37",
+        "verse_id": 102437,
+        "verseNumber": 37,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "“This Govardhana Hill, assuming any form he wishes, will kill any residents of the forest who neglect him. Therefore let us pay our obeisances to him for the safety of ourselves and our cows.”"
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "\"यह गोवर्धन पर्वत, इच्छानुसार रूप धारण करके, उसकी उपेक्षा करने वाले जंगल के किसी भी निवासी को मार डालेगा। इसलिए आइए हम अपनी और अपनी गायों की सुरक्षा के लिए उन्हें प्रणाम करें।\""
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "\"આ ગોવર્ધન ટેકરી, તે ઇચ્છે તે કોઈપણ સ્વરૂપ ધારણ કરીને, જંગલના કોઈપણ રહેવાસીઓને મારી નાખશે જે તેની અવગણના કરે છે. તેથી ચાલો આપણે આપણી અને આપણી ગાયોની સલામતી માટે તેને પ્રણામ કરીએ.\""
+            }
+        }
+    },
+    {
+        "id": 102438,
+        "sloka": "10.24.38",
+        "verse_id": 102438,
+        "verseNumber": 38,
+        "languages": {
+            "english": {
+                "language_id": 1,
+                "lang": "english",
+                "description": "The members of the cowherd community, having thus been inspired by Lord Vāsudeva to properly execute the sacrifice to Govardhana Hill, the cows and the brāhmaṇas, returned with Lord Kṛṣṇa to their village, Vraja."
+            },
+            "hindi": {
+                "language_id": 2,
+                "lang": "hindi",
+                "description": "इस प्रकार भगवान वासुदेव द्वारा गोवर्धन पर्वत, गायों और ब्राह्मणों के लिए यज्ञ को उचित रूप से निष्पादित करने के लिए प्रेरित किए जाने पर चरवाहा समुदाय के सदस्य, भगवान कृष्ण के साथ अपने गांव, व्रज में लौट आए।"
+            },
+            "gujarati": {
+                "language_id": 3,
+                "lang": "gujarati",
+                "description": "ગોવાળ સમુદાયના સભ્યો, આ રીતે ભગવાન વાસુદેવ દ્વારા ગોવર્ધન પર્વત, ગાયો અને બ્રાહ્મણોને બલિદાનને યોગ્ય રીતે ચલાવવાની પ્રેરણા મળી, તેઓ ભગવાન કૃષ્ણ સાથે તેમના ગામ વ્રજ પાછા ફર્યા."
+            }
+        }
+    }
+]
