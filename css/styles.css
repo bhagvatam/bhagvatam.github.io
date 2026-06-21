@@ -1839,40 +1839,61 @@ footer p {
     position: relative; /* Normal non-sticky flow */
     display: flex;
     flex-direction: column;
-    align-items: flex-start;
-    gap: 6px;
-    padding: 18px 22px;
-    margin: 0 12px 16px;
-    background: rgba(255, 255, 255, 0.85); /* Highly readable */
-    border: none;
+    align-items: stretch;
+    justify-content: flex-start;
+    height: 280px; /* Taller card height to showcase illustration nicely */
+    margin: 0 12px 20px;
+    background: color-mix(in srgb, var(--phase-tint) 8%, var(--glass-bg)); /* Tinted natural glass card background */
+    border: 1px solid var(--glass-border);
     border-left: 5px solid var(--phase-tint, var(--color-royal-blue));
-    border-radius: 12px;
-    box-shadow: 0 3px 12px rgba(0, 0, 0, 0.05);
+    border-radius: 16px;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.05);
     overflow: hidden;
-    transition: background-color 0.25s ease, border-color 0.25s ease, box-shadow 0.25s ease, border-radius 0.25s ease;
+    padding: 0;
+    transition: var(--transition-smooth);
+}
+
+.tl-phase-header:hover {
+    box-shadow: 0 10px 25px rgba(165, 37, 44, 0.12); /* Accent glow on hover */
+}
+
+.tl-phase-header:hover .tl-phase-header-bg-image {
+    transform: scale(1.05); /* Parallax hover zoom */
 }
 
 .tl-phase-header-bg-image {
     position: absolute;
-    right: -25px;
-    top: 50%;
-    transform: translateY(-50%);
-    width: 180px;
-    height: 180px;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    width: 100%;
+    height: 100%;
     background-size: cover;
-    background-position: center;
+    background-position: center; /* Center the illustration as requested */
     background-repeat: no-repeat;
-    opacity: 0.38;
+    opacity: 0.95; /* Highly visible illustration */
     pointer-events: none;
     z-index: 0;
     user-select: none;
-    -webkit-mask-image: radial-gradient(circle at right center, #000 25%, transparent 72%);
-            mask-image: radial-gradient(circle at right center, #000 25%, transparent 72%);
+    /* Soft gradient top finish for natural blend with glass background */
+    -webkit-mask-image: linear-gradient(to bottom, transparent 0%, rgba(0,0,0,0.15) 15%, #000 50%);
+    mask-image: linear-gradient(to bottom, transparent 0%, rgba(0,0,0,0.15) 15%, #000 50%);
+    transition: transform 0.4s ease;
 }
 
 .tl-phase-text {
     position: relative;
     z-index: 1;
+    padding: 16px 20px 32px 20px; /* More bottom padding for natural gradient transition */
+    background: linear-gradient(to bottom, 
+        color-mix(in srgb, var(--phase-tint) 15%, rgba(255, 255, 255, 0.55)) 0%, 
+        color-mix(in srgb, var(--phase-tint) 8%, rgba(255, 255, 255, 0.25)) 55%, 
+        transparent 100%
+    ); /* Soft tinted natural glass gradient, avoiding solid white */
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
 }
 
 /* Phase image inside chapter summary card on the reading screen */
@@ -1904,18 +1925,35 @@ footer p {
 }
 
 .tl-phase-text h3 {
-    color: var(--phase-tint, var(--color-royal-blue));
-    font-size: 1.05rem;
+    color: var(--color-royal-blue); /* Rich deep red matching theme */
+    font-size: 1.15rem;
     font-weight: 700;
     margin: 0;
     line-height: 1.25;
 }
 .tl-phase-range {
-    font-size: 0.72rem;
-    color: var(--color-text-muted);
+    font-size: 0.76rem;
+    color: var(--color-text-muted); /* Purple-grey matching theme */
     text-transform: uppercase;
     letter-spacing: 0.6px;
-    font-weight: 600;
+    font-weight: 700;
+}
+
+/* Mobile responsive adjustments for taller phase header cards */
+@media (max-width: 600px) {
+    .tl-phase-header {
+        height: 210px; /* Taller on mobile as well */
+        margin: 0 8px 16px;
+    }
+    .tl-phase-text {
+        padding: 12px 16px 24px 16px;
+    }
+    .tl-phase-text h3 {
+        font-size: 1.05rem;
+    }
+    .tl-phase-range {
+        font-size: 0.72rem;
+    }
 }
 
 .tl-nodes {
