@@ -306,6 +306,36 @@ main {
     overflow: hidden;
 }
 
+.chapter-card-bg-image {
+    position: absolute;
+    right: -30px;
+    top: 50%;
+    transform: translateY(-50%);
+    width: 220px;
+    height: 220px;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    opacity: 0.32;
+    pointer-events: none;
+    z-index: 0;
+    user-select: none;
+    -webkit-mask-image: radial-gradient(circle at right center, #000 25%, transparent 70%);
+            mask-image: radial-gradient(circle at right center, #000 25%, transparent 70%);
+    transition: var(--transition-smooth);
+}
+
+.chapter-card:hover .chapter-card-bg-image {
+    transform: translateY(-50%) scale(1.08);
+    opacity: 0.5;
+}
+
+.chapter-card .chapter-header,
+.chapter-card p {
+    position: relative;
+    z-index: 1;
+}
+
 .chapter-card::after {
     content: '';
     position: absolute;
@@ -1810,15 +1840,67 @@ footer p {
     display: flex;
     flex-direction: column;
     align-items: flex-start;
-    gap: 4px;
-    padding: 10px 16px;
-    margin: 0 12px 14px;
+    gap: 6px;
+    padding: 18px 22px;
+    margin: 0 12px 16px;
     background: rgba(255, 255, 255, 0.85); /* Highly readable */
     border: none;
     border-left: 5px solid var(--phase-tint, var(--color-royal-blue));
-    border-radius: 10px;
+    border-radius: 12px;
     box-shadow: 0 3px 12px rgba(0, 0, 0, 0.05);
+    overflow: hidden;
     transition: background-color 0.25s ease, border-color 0.25s ease, box-shadow 0.25s ease, border-radius 0.25s ease;
+}
+
+.tl-phase-header-bg-image {
+    position: absolute;
+    right: -25px;
+    top: 50%;
+    transform: translateY(-50%);
+    width: 180px;
+    height: 180px;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    opacity: 0.38;
+    pointer-events: none;
+    z-index: 0;
+    user-select: none;
+    -webkit-mask-image: radial-gradient(circle at right center, #000 25%, transparent 72%);
+            mask-image: radial-gradient(circle at right center, #000 25%, transparent 72%);
+}
+
+.tl-phase-text {
+    position: relative;
+    z-index: 1;
+}
+
+/* Phase image inside chapter summary card on the reading screen */
+#chapter-summary-card {
+    position: relative;
+    overflow: hidden;
+}
+.chapter-summary-bg-image {
+    position: absolute;
+    right: -30px;
+    top: 50%;
+    transform: translateY(-50%);
+    width: 240px;
+    height: 240px;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    opacity: 0.28;
+    pointer-events: none;
+    z-index: 0;
+    user-select: none;
+    -webkit-mask-image: radial-gradient(circle at right center, #000 25%, transparent 72%);
+            mask-image: radial-gradient(circle at right center, #000 25%, transparent 72%);
+}
+.chapter-summary-header,
+#chapter-summary-text {
+    position: relative;
+    z-index: 1;
 }
 
 .tl-phase-text h3 {
@@ -1878,12 +1960,12 @@ footer p {
     overflow: hidden; /* clip the background emoji */
     width: 47%;
     padding: 14px 16px;
-    border-left: 4px solid var(--phase-tint);
     cursor: default; /* no longer expandable */
     background: var(--glass-bg);
     border-top: 1px solid rgba(255, 255, 255, 0.4);
     border-right: 1px solid rgba(255, 255, 255, 0.2);
     border-bottom: 1px solid rgba(255, 255, 255, 0.2);
+    border-left: 1px solid rgba(255, 255, 255, 0.2);
     border-radius: 16px;
     box-shadow: 0 4px 15px rgba(0, 0, 0, 0.03);
     backdrop-filter: blur(10px);
@@ -1895,21 +1977,26 @@ footer p {
     box-shadow: 0 10px 25px var(--phase-tint-shadow);
     background: rgba(255, 255, 255, 0.58);
 }
-.tl-card-bg-emoji {
+.tl-card-bg-image {
     position: absolute;
-    right: -10px;
-    bottom: -15px;
-    font-size: 8rem;
-    opacity: 0.16;
+    right: -20px;
+    bottom: -20px;
+    width: 260px;
+    height: 260px;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    opacity: 0.4;
     pointer-events: none;
     z-index: 1;
-    line-height: 1;
     user-select: none;
+    -webkit-mask-image: radial-gradient(circle at bottom right, #000 30%, transparent 75%);
+            mask-image: radial-gradient(circle at bottom right, #000 30%, transparent 75%);
     transition: transform 0.4s ease, opacity 0.4s ease;
 }
-.tl-card:hover .tl-card-bg-emoji {
-    transform: scale(1.15) rotate(-8deg);
-    opacity: 0.24;
+.tl-card:hover .tl-card-bg-image {
+    transform: scale(1.12) rotate(-4deg);
+    opacity: 0.55;
 }
 .tl-card-head,
 .tl-sanskrit,

@@ -1,4 +1,4 @@
-const CACHE_NAME = '2.25.0';
+const CACHE_NAME = '2.28.0';
 const urlsToCache = [
     './',
     './index.html',
@@ -17,6 +17,11 @@ const urlsToCache = [
 for (let i = 1; i <= 90; i++) {
     urlsToCache.push(`./assets/verse_translation/chapter_${i}.json`);
 }
+
+// Timeline phase background images
+['advent','gokula','vrindavana','govardhana','rasa','mathura','dwarka','world','closing'].forEach(phase => {
+    urlsToCache.push(`./images/timeline/${phase}.webp`);
+});
 
 // Install Service Worker
 self.addEventListener('install', event => {

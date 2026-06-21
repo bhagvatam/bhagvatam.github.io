@@ -71,10 +71,19 @@ async function init() {
     }
 }
 
+// Find the timeline phase that contains a given chapter number
+function getPhaseForChapter(chapterNumber) {
+    if (!timelineData || !timelineData.phases) return null;
+    return timelineData.phases.find(p =>
+        Array.isArray(p.range) && chapterNumber >= p.range[0] && chapterNumber <= p.range[1]
+    ) || null;
+}
+
 // Render chapters list
 function renderChapters() {
     chaptersList.innerHTML = '';
     chapters.forEach(chapter => {
+        const phase = getPhaseForChapter(chapter.chapter_number);
         let meaningText = chapter.name_meaning;
         if (currentLang === 'hindi' && chapter.name_meaning_hindi) {
             meaningText = chapter.name_meaning_hindi;
@@ -100,7 +109,12 @@ function renderChapters() {
 
         const card = document.createElement('div');
         card.className = 'chapter-card';
+        if (phase) {
+            card.style.setProperty('--phase-tint', phase.tint);
+        }
+        const bgImage = phase ? `<div class="chapter-card-bg-image" style="background-image:url('./images/timeline/${phase.id}.webp');"></div>` : '';
         card.innerHTML = `
+            ${bgImage}
             <div class="chapter-header">
                 <span class="chapter-number">${chapter.chapter_number}</span>
                 <div class="chapter-info">
@@ -202,6 +216,19 @@ function updateChapterSummaryCard(chapter) {
     const summaryCard = document.getElementById('chapter-summary-card');
     const summaryText = document.getElementById('chapter-summary-text');
     if (!summaryCard || !summaryText || !chapter) return;
+
+    const phase = getPhaseForChapter(chapter.chapter_number);
+    let bgImage = summaryCard.querySelector('.chapter-summary-bg-image');
+    if (phase) {
+        if (!bgImage) {
+            bgImage = document.createElement('div');
+            bgImage.className = 'chapter-summary-bg-image';
+            summaryCard.insertBefore(bgImage, summaryCard.firstChild);
+        }
+        bgImage.style.backgroundImage = `url('./images/timeline/${phase.id}.webp')`;
+    } else if (bgImage) {
+        bgImage.remove();
+    }
 
     let activeSummary = chapter.chapter_summary;
     if (currentLang === 'hindi' && chapter.chapter_summary_hindi) {
@@ -768,7 +795,7 @@ function renderTimeline() {
                 <div class="tl-node tl-node-${side}" data-chapter="${node.chapter}">
                     <div class="tl-dot" style="background:${phase.tint};"></div>
                     <div class="tl-card" style="border-left-color:${phase.tint}; --phase-tint:${phase.tint}; --phase-tint-shadow:${hexToRgba(phase.tint, 0.12)};">
-                        <div class="tl-card-bg-emoji">${phase.icon}</div>
+                        <div class="tl-card-bg-image" style="background-image:url('./images/timeline/${phase.id}.webp');"></div>
                         <div class="tl-card-head">
                             <div class="tl-card-title-area">
                                 <span class="tl-chapter-pill" style="background:${phase.tint};">${pillText}</span>
@@ -803,6 +830,7 @@ function renderTimeline() {
                 <div class="tl-phase-sentinel" style="height: 0; margin: 0; padding: 0; pointer-events: none; visibility: hidden;"></div>
 
                 <div class="tl-phase-header" style="--phase-tint:${phase.tint};">
+                    <div class="tl-phase-header-bg-image" style="background-image:url('./images/timeline/${phase.id}.webp');"></div>
                     <div class="tl-phase-text">
                         <h3>${phaseTitle}</h3>
                         <span class="tl-phase-range">${rangeText}</span>
