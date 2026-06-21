@@ -43,6 +43,9 @@ async function init() {
         // Initialize settings
         initSettings();
 
+        // Setup chapter controls (view mode and language selector)
+        setupChapterControls();
+
         // Initialize floating menu
         initFloatingMenu();
 
@@ -73,7 +76,7 @@ function renderChapters() {
                     <div class="chapter-meaning">(${chapter.name_meaning})</div>
                 </div>
                 <div class="chapter-stats">
-                    <span class="verse-count">${chapter.verses_count} श्लोक</span>
+                    <span class="verse-count">${chapter.verses_count} Verses</span>
                 </div>
             </div>
             <p>${chapter.chapter_summary.substring(0, 160)}...</p>
@@ -84,12 +87,15 @@ function renderChapters() {
 }
 
 // Show chapter verses
-function showChapter(chapter) {
+function showChapter(chapter, viewModeOverride = null) {
     currentChapter = chapter;
     chapterTitle.innerHTML = `
         <div class="chapter-title-name">${chapter.name}</div>
         <div class="chapter-title-meaning">(${chapter.name_meaning})</div>
     `;
+
+    const viewMode = viewModeOverride || localStorage.getItem('defaultChapterView') || 'list';
+    updateChapterToggles(viewMode);
 
     const chapterVerses = verses.filter(v => v.chapter_number === chapter.chapter_number).sort((a, b) => a.verse_number - b.verse_number);
     versesList.innerHTML = '';
@@ -130,7 +136,7 @@ function showChapter(chapter) {
                         if (lessToggle) {
                             lessToggle.onclick = (ev) => {
                                 ev.stopPropagation();
-                                showChapter(chapter); // Reset
+                                showChapter(chapter, viewMode); // Reset
                             };
                         }
                     };
@@ -143,17 +149,21 @@ function showChapter(chapter) {
             summaryCard.style.display = 'none';
         }
 
-        chapterVerses.forEach(verse => {
-            const item = document.createElement('div');
-            item.className = 'verse-item';
-            const cleanedText = verse.text.replace(/\n\s*([०-९0-9\s\-–]+)॥/g, ' $1॥').replace(/\n/g, '<br>');
-            item.innerHTML = `
-                <span class="verse-number">${verse.verse_number}</span>
-                <div class="verse-text">${cleanedText}</div>
-            `;
-            item.addEventListener('click', () => showVerse(verse));
-            versesList.appendChild(item);
-        });
+        if (viewMode === 'scroll') {
+            renderScrollMode(chapter, chapterVerses);
+        } else {
+            chapterVerses.forEach(verse => {
+                const item = document.createElement('div');
+                item.className = 'verse-item';
+                const cleanedText = verse.text.replace(/\n\s*([०-९0-9\s\-–]+)॥/g, ' $1॥').replace(/\n/g, '<br>');
+                item.innerHTML = `
+                    <span class="verse-number">${verse.verse_number}</span>
+                    <div class="verse-text">${cleanedText}</div>
+                `;
+                item.addEventListener('click', () => showVerse(verse));
+                versesList.appendChild(item);
+            });
+        }
     }
 
     switchScreen(versesScreen);
@@ -205,7 +215,7 @@ async function showVerse(verse) {
     const cleanedText = verse.text.replace(/\n\s*([०-९0-9\s\-–]+)॥/g, ' $1॥').replace(/\n/g, '<br>');
 
     // Update Sanskrit card elements statically
-    document.getElementById('verse-pill').textContent = `श्लोक 10.${verse.chapter_number}.${verse.verse_number}`;
+    document.getElementById('verse-pill').textContent = `Verse 10.${verse.chapter_number}.${verse.verse_number}`;
     document.getElementById('verse-text').innerHTML = cleanedText;
     document.getElementById('verse-transliteration').innerHTML = verse.transliteration.replace(/\n/g, '<br>');
 
@@ -334,18 +344,18 @@ async function handleShareClick() {
     const translation = chapterTranslations.find(t => t.verse_id === currentVerse.id);
     const transText = translation ? translation.languages[currentLang]?.description || '' : '';
 
-    const shareText = `श्रीमद्भागवत पुराण १०.${currentVerse.chapter_number}.${currentVerse.verse_number}\n\n${currentVerse.text}\n\nअनुवाद (${currentLang}):\n${transText}\n\nपढ़ें: ${window.location.origin}${window.location.pathname}`;
+    const shareText = `Shrimad Bhagavatam 10.${currentVerse.chapter_number}.${currentVerse.verse_number}\n\n${currentVerse.text}\n\nTranslation (${currentLang}):\n${transText}\n\nRead: ${window.location.origin}${window.location.pathname}`;
 
     try {
         if (navigator.share) {
             await navigator.share({
-                title: `श्लोक १०.${currentVerse.chapter_number}.${currentVerse.verse_number}`,
+                title: `Verse 10.${currentVerse.chapter_number}.${currentVerse.verse_number}`,
                 text: shareText,
                 url: window.location.href
             });
         } else {
             await navigator.clipboard.writeText(shareText);
-            showToast('श्लोक कॉपी कर लिया गया है!');
+            showToast('Verse copied to clipboard!');
         }
     } catch (err) {
         console.warn('Error sharing:', err);
@@ -507,7 +517,7 @@ function switchScreen(screen) {
     } else if (screen === versesScreen) {
         document.body.classList.add('verses-active');
         document.getElementById('verse-navigation').style.display = 'none';
-        document.getElementById('floating-settings-btn').style.display = 'block';
+        document.getElementById('floating-settings-btn').style.display = 'none';
         if (headerTitle) headerTitle.innerHTML = '<img src="images/app-navbar-logo-yellow-transparent.png" alt="श्रीमद्भागवत पुराण" id="header-logo">';
     } else if (screen === verseDetailScreen) {
         document.body.classList.add('verse-detail-active');
@@ -601,10 +611,10 @@ function initFloatingMenu() {
                 if (chapterObj) currentChapter = chapterObj;
                 showVerse(verseObj);
             } else {
-                showToast("बुकमार्क श्लोक नहीं मिला।");
+                showToast("Bookmarked verse not found.");
             }
         } else {
-            showToast("कोई बुकमार्क सेट नहीं है। श्लोक स्क्रीन के ऊपर बुकमार्क आइकन दबाएं।");
+            showToast("No bookmark set. Press the bookmark icon at the top of the verse screen.");
         }
     });
 }
@@ -650,7 +660,7 @@ function addFavorite(verse) {
     favorites.push(fav);
     saveFavorites(favorites);
     updateFavoriteButton();
-    showToast('श्लोक पसंदीदा में जोड़ दिया गया है!');
+    showToast('Verse added to favorites!');
 }
 
 function removeFavorite(verseId) {
@@ -658,7 +668,7 @@ function removeFavorite(verseId) {
     const filtered = favorites.filter(fav => fav.verseId !== verseId);
     saveFavorites(filtered);
     updateFavoriteButton();
-    showToast('पसंदीदा से हटा दिया गया है!');
+    showToast('Removed from favorites!');
 }
 
 function updateFavoriteButton() {
@@ -712,14 +722,14 @@ function addBookmark(verse) {
     localStorage.setItem('bhagavatam_active_bookmark', JSON.stringify(activeB));
     updateBookmarkButton();
     checkAndShowBookmarkResume();
-    showToast('श्लोक बुकमार्क कर लिया गया है!');
+    showToast('Verse bookmarked!');
 }
 
 function removeBookmark() {
     localStorage.removeItem('bhagavatam_active_bookmark');
     updateBookmarkButton();
     checkAndShowBookmarkResume();
-    showToast('बुकमार्क हटा दिया गया है!');
+    showToast('Bookmark removed!');
 }
 
 function handleBookmarkClick() {
@@ -756,7 +766,7 @@ function checkAndShowBookmarkResume() {
 
     const activeB = getActiveBookmark();
     if (activeB) {
-        resumeVerseText.textContent = `श्लोक 10.${activeB.chapterNumber}.${activeB.verseNumber}`;
+        resumeVerseText.textContent = `Verse 10.${activeB.chapterNumber}.${activeB.verseNumber}`;
         resumeBanner.style.display = 'flex';
         
         resumeBanner.onclick = () => {
@@ -795,7 +805,7 @@ function renderBookmarks() {
         const cleanedText = bookmark.text.replace(/\n\s*([०-९0-9\s\-–]+)॥/g, ' $1॥').replace(/\n/g, '<br>');
         bookmarkItem.innerHTML = `
             <div class="bookmark-header">
-                <span class="bookmark-sloka-number">श्लोक 10.${bookmark.chapterNumber}.${bookmark.verseNumber}</span>
+                <span class="bookmark-sloka-number">Verse 10.${bookmark.chapterNumber}.${bookmark.verseNumber}</span>
                 <button class="remove-bookmark-btn" data-verse-id="${bookmark.verseId}" title="Remove from Favorites">
                     <i class="fas fa-times"></i>
                 </button>
@@ -833,9 +843,244 @@ function navigateToBookmarkedVerse(bookmark) {
     }
 }
 
+// Render all verses in full reader scroll mode
+async function renderScrollMode(chapter, chapterVerses) {
+    const chNum = chapter.chapter_number;
+    if (!translations[chNum]) {
+        versesList.innerHTML = '<div class="glass-card" style="text-align:center; padding:30px;"><p><i class="fas fa-spinner fa-spin"></i> Loading translations... / अनुवाद लोड हो रहे हैं...</p></div>';
+        try {
+            translations[chNum] = await fetch(`./assets/verse_translation/chapter_${chNum}.json`).then(r => r.json());
+        } catch (error) {
+            console.warn(`Failed to load translations for chapter ${chNum}:`, error);
+            translations[chNum] = [];
+        }
+    }
+    
+    versesList.innerHTML = '';
+    const chapterTranslations = translations[chNum] || [];
+
+    chapterVerses.forEach(verse => {
+        const item = document.createElement('div');
+        item.className = 'reader-verse-card glass-card';
+        item.setAttribute('data-verse-id', verse.id);
+        
+        const cleanedText = verse.text.replace(/\n\s*([०-९0-9\s\-–]+)॥/g, ' $1॥').replace(/\n/g, '<br>');
+        const trans = chapterTranslations.find(t => t.verse_id === verse.id);
+        const translationText = trans && trans.languages && trans.languages[currentLang] 
+            ? trans.languages[currentLang].description 
+            : 'Translation not available locally.';
+
+        const isFav = isFavorite(verse.id);
+        const isBmk = isBookmarked(verse.id);
+
+        item.innerHTML = `
+            <div class="reader-card-header">
+                <span class="sloka-number-pill">Verse 10.${verse.chapter_number}.${verse.verse_number}</span>
+                <div class="reader-card-actions">
+                    <button class="reader-action-btn favorite-btn ${isFav ? 'bookmarked' : ''}" title="Favorite">
+                        <i class="${isFav ? 'fas' : 'far'} fa-heart"></i>
+                    </button>
+                    <button class="reader-action-btn bookmark-btn ${isBmk ? 'bookmarked' : ''}" title="Bookmark">
+                        <i class="${isBmk ? 'fas' : 'far'} fa-bookmark"></i>
+                    </button>
+                    <button class="reader-action-btn share-btn" title="Share">
+                        <i class="fas fa-share-alt"></i>
+                    </button>
+                </div>
+            </div>
+            <div class="reader-sanskrit">${cleanedText}</div>
+            <div class="reader-transliteration">${verse.transliteration.replace(/\n/g, '<br>')}</div>
+            <div class="reader-translation">${translationText}</div>
+        `;
+
+        // Add event listeners for buttons
+        const favBtn = item.querySelector('.favorite-btn');
+        favBtn.addEventListener('click', (e) => {
+            e.stopPropagation();
+            if (isFavorite(verse.id)) {
+                removeFavorite(verse.id);
+                favBtn.classList.remove('bookmarked');
+                favBtn.innerHTML = '<i class="far fa-heart"></i>';
+            } else {
+                addFavorite(verse);
+                favBtn.classList.add('bookmarked');
+                favBtn.innerHTML = '<i class="fas fa-heart"></i>';
+            }
+        });
+
+        const bmkBtn = item.querySelector('.bookmark-btn');
+        bmkBtn.addEventListener('click', (e) => {
+            e.stopPropagation();
+            const allBmkBtns = versesList.querySelectorAll('.bookmark-btn');
+            if (isBookmarked(verse.id)) {
+                removeBookmark();
+                bmkBtn.classList.remove('bookmarked');
+                bmkBtn.innerHTML = '<i class="far fa-bookmark"></i>';
+            } else {
+                allBmkBtns.forEach(btn => {
+                    btn.classList.remove('bookmarked');
+                    btn.innerHTML = '<i class="far fa-bookmark"></i>';
+                });
+                addBookmark(verse);
+                bmkBtn.classList.add('bookmarked');
+                bmkBtn.innerHTML = '<i class="fas fa-bookmark"></i>';
+            }
+        });
+
+        const shareBtn = item.querySelector('.share-btn');
+        shareBtn.addEventListener('click', (e) => {
+            e.stopPropagation();
+            shareVerseDirectly(verse, translationText);
+        });
+
+        versesList.appendChild(item);
+    });
+}
+
+// Update translations in-place for scroll mode (no re-render)
+function updateScrollModeTranslations(chapterNumber) {
+    const chapterTranslations = translations[chapterNumber] || [];
+    const verseCards = document.querySelectorAll('.reader-verse-card');
+
+    verseCards.forEach(card => {
+        const verseId = card.getAttribute('data-verse-id');
+        if (!verseId) return;
+
+        const verseIdNum = parseInt(verseId, 10);
+        const trans = chapterTranslations.find(t => t.verse_id === verseIdNum);
+        const translationText = trans && trans.languages && trans.languages[currentLang]
+            ? trans.languages[currentLang].description
+            : 'Translation not available locally.';
+
+        const translationEl = card.querySelector('.reader-translation');
+        if (translationEl) {
+            translationEl.textContent = translationText;
+        }
+    });
+}
+
 // Settings initialization
 function initSettings() {
     displayCacheVersion();
+
+    // Default view setting
+    const defaultScrollToggle = document.getElementById('default-scroll-toggle');
+    if (defaultScrollToggle) {
+        const isScrollDefault = localStorage.getItem('defaultChapterView') === 'scroll';
+        defaultScrollToggle.checked = isScrollDefault;
+        
+        defaultScrollToggle.addEventListener('change', (e) => {
+            const mode = e.target.checked ? 'scroll' : 'list';
+            localStorage.setItem('defaultChapterView', mode);
+            showToast(mode === 'scroll' ? 'Default View: Reader Mode' : 'Default View: List Mode');
+        });
+    }
+
+    // Translation language setting
+    const settingsLangDropdown = document.getElementById('settings-language-dropdown');
+    if (settingsLangDropdown) {
+        settingsLangDropdown.value = currentLang;
+        settingsLangDropdown.addEventListener('change', (e) => {
+            const newLang = e.target.value;
+            if (currentLang !== newLang) {
+                currentLang = newLang;
+                localStorage.setItem('translationLanguage', newLang);
+                
+                // Sync settings dropdown with chapter-level dropdown if active
+                const chapterLangDropdown = document.getElementById('chapter-language-dropdown');
+                if (chapterLangDropdown) {
+                    chapterLangDropdown.value = newLang;
+                }
+
+                showToast(`Translation Language: ${newLang === 'english' ? 'English' : newLang === 'hindi' ? 'Hindi' : 'Gujarati'}`);
+            }
+        });
+    }
+}
+
+// Setup chapter level control handlers (View Mode toggles & Language dropdown)
+function setupChapterControls() {
+    const btnList = document.getElementById('view-mode-list');
+    const btnScroll = document.getElementById('view-mode-scroll');
+    const chapterLangDropdown = document.getElementById('chapter-language-dropdown');
+
+    if (btnList) {
+        btnList.addEventListener('click', () => {
+            if (currentChapter) {
+                showChapter(currentChapter, 'list');
+            }
+        });
+    }
+
+    if (btnScroll) {
+        btnScroll.addEventListener('click', () => {
+            if (currentChapter) {
+                showChapter(currentChapter, 'scroll');
+            }
+        });
+    }
+
+    if (chapterLangDropdown) {
+        chapterLangDropdown.addEventListener('change', (e) => {
+            const newLang = e.target.value;
+            if (currentLang !== newLang) {
+                currentLang = newLang;
+                localStorage.setItem('translationLanguage', newLang);
+                
+                // Keep settings language dropdown in sync
+                const settingsLangDropdown = document.getElementById('settings-language-dropdown');
+                if (settingsLangDropdown) {
+                    settingsLangDropdown.value = newLang;
+                }
+
+                // Update translations in-place without re-rendering
+                if (currentChapter) {
+                    updateScrollModeTranslations(currentChapter.chapter_number);
+                }
+            }
+        });
+    }
+}
+
+// Update state of view mode controls at the chapter level
+function updateChapterToggles(viewMode) {
+    const btnList = document.getElementById('view-mode-list');
+    const btnScroll = document.getElementById('view-mode-scroll');
+    const stickyControls = document.getElementById('reader-sticky-controls');
+    const chapterLangDropdown = document.getElementById('chapter-language-dropdown');
+
+    if (!btnList || !btnScroll || !stickyControls || !chapterLangDropdown) return;
+
+    if (viewMode === 'scroll') {
+        btnList.classList.remove('active');
+        btnScroll.classList.add('active');
+        stickyControls.style.display = 'flex';
+        chapterLangDropdown.value = currentLang;
+    } else {
+        btnList.classList.add('active');
+        btnScroll.classList.remove('active');
+        stickyControls.style.display = 'none';
+    }
+}
+
+// Directly share a verse from scroll view
+async function shareVerseDirectly(verse, translationText) {
+    const shareText = `Shrimad Bhagavatam 10.${verse.chapter_number}.${verse.verse_number}\n\n${verse.text}\n\nTranslation (${currentLang}):\n${translationText}\n\nRead: ${window.location.origin}${window.location.pathname}`;
+
+    try {
+        if (navigator.share) {
+            await navigator.share({
+                title: `Verse 10.${verse.chapter_number}.${verse.verse_number}`,
+                text: shareText,
+                url: window.location.href
+            });
+        } else {
+            await navigator.clipboard.writeText(shareText);
+            showToast('Verse copied to clipboard!');
+        }
+    } catch (err) {
+        console.warn('Error sharing:', err);
+    }
 }
 
 // Display cache version from sw.js
