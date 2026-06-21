@@ -5,7 +5,7 @@ let timelineData = null;
 let translations = {}; // {chapterNumber: [translations]}
 let currentChapter = null;
 let currentVerse = null;
-let currentLang = 'english'; // 'english', 'hindi', or 'gujarati' - for verse translations
+let currentLang = 'gujarati'; // 'english', 'hindi', or 'gujarati' - for verse translations
 let startX = 0;
 let endX = 0;
 let previousScreen = null; // Track where user came from
@@ -75,6 +75,29 @@ async function init() {
 function renderChapters() {
     chaptersList.innerHTML = '';
     chapters.forEach(chapter => {
+        let meaningText = chapter.name_meaning;
+        if (currentLang === 'hindi' && chapter.name_meaning_hindi) {
+            meaningText = chapter.name_meaning_hindi;
+        } else if (currentLang === 'gujarati' && chapter.name_meaning_gujarati) {
+            meaningText = chapter.name_meaning_gujarati;
+        }
+
+        let summaryText = chapter.chapter_summary || '';
+        if (currentLang === 'hindi' && chapter.chapter_summary_hindi) {
+            summaryText = chapter.chapter_summary_hindi;
+        } else if (currentLang === 'gujarati' && chapter.chapter_summary_gujarati) {
+            summaryText = chapter.chapter_summary_gujarati;
+        }
+
+        let snippet = summaryText;
+        if (snippet.length > 160) {
+            snippet = snippet.substring(0, 157) + '...';
+        }
+
+        let versesText = `${chapter.verses_count} Verses`;
+        if (currentLang === 'hindi') versesText = `${chapter.verses_count} श्लोक`;
+        else if (currentLang === 'gujarati') versesText = `${chapter.verses_count} શ્લોક`;
+
         const card = document.createElement('div');
         card.className = 'chapter-card';
         card.innerHTML = `
@@ -82,13 +105,13 @@ function renderChapters() {
                 <span class="chapter-number">${chapter.chapter_number}</span>
                 <div class="chapter-info">
                     <h3>${chapter.name}</h3>
-                    <div class="chapter-meaning">(${chapter.name_meaning})</div>
+                    <div class="chapter-meaning">(${meaningText})</div>
                 </div>
                 <div class="chapter-stats">
-                    <span class="verse-count">${chapter.verses_count} Verses</span>
+                    <span class="verse-count">${versesText}</span>
                 </div>
             </div>
-            <p>${chapter.chapter_summary.substring(0, 160)}...</p>
+            <p>${snippet}</p>
         `;
         card.addEventListener('click', () => showChapter(chapter));
         chaptersList.appendChild(card);
@@ -256,6 +279,9 @@ function changeAppLanguage(newLang) {
             updateScrollModeTranslations(currentChapter.chapter_number);
         }
     }
+
+    // Re-render chapters list on home screen to update language summaries
+    renderChapters();
 
     // Reset timeline rendering flag so it redraws localized on next visit
     const timelineContainer = document.getElementById('timeline-content');
@@ -1478,18 +1504,7 @@ function updateScrollModeTranslations(chapterNumber) {
 function initSettings() {
     displayCacheVersion();
 
-    // Default view setting
-    const defaultScrollToggle = document.getElementById('default-scroll-toggle');
-    if (defaultScrollToggle) {
-        const isScrollDefault = localStorage.getItem('defaultChapterView') !== 'list';
-        defaultScrollToggle.checked = isScrollDefault;
-        
-        defaultScrollToggle.addEventListener('change', (e) => {
-            const mode = e.target.checked ? 'scroll' : 'list';
-            localStorage.setItem('defaultChapterView', mode);
-            showToast(mode === 'scroll' ? 'Default View: Reader Mode' : 'Default View: List Mode');
-        });
-    }
+
 
     // Translation language setting
     const settingsLangDropdown = document.getElementById('settings-language-dropdown');
