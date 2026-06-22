@@ -5,7 +5,7 @@
     "start_url": "./index.html",
     "display": "standalone",
     "background_color": "#0f0203",
-    "theme_color": "#0f0203",
+    "theme_color": "#E6A623",
     "version": "1.0.0",
     "categories": ["lifestyle", "books"],
     "keywords": ["bhagavatam", "shrimad bhagavatam", "krishna", "lila", "pastimes", "spiritual", "hindu", "scripture", "श्रीमद्भागवतम्"],
