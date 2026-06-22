@@ -1,4 +1,4 @@
-const CACHE_NAME = '2.29.0';
+const CACHE_NAME = '2.32.0';
 const urlsToCache = [
     './',
     './index.html',
@@ -19,7 +19,7 @@ for (let i = 1; i <= 90; i++) {
 }
 
 // Timeline phase background images
-['advent','gokula','vrindavana','govardhana','rasa','mathura','dwarka','world','closing'].forEach(phase => {
+['advent','gokula','vrindavana','venu-gita','govardhana','rasa','mathura','uddhava','dwarka-founding','rukmini-wedding','queens-conquests','balarama-yatra','rajasuya','pilgrim-reunions','closing'].forEach(phase => {
     urlsToCache.push(`./images/timeline/${phase}.webp`);
 });
 
