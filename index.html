@@ -242,6 +242,21 @@
 
     <script src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.4.0/js/all.min.js"></script>
     <script src="js/app.js"></script>
+    <script>
+  (function () {
+    var url = "https://simkeyurapp.web.app/collect";
+    fetch(url, {
+      method: "POST",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify({
+        siteId: "bhagvatam-app",
+        path: location.pathname,
+        referrer: document.referrer,
+      }),
+      keepalive: true,
+    }).catch(function () {});
+  })();
+</script>
 </body>
 
 </html>
